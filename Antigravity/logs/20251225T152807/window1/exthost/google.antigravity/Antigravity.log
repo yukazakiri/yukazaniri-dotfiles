@@ -1,0 +1,21 @@
+2025-12-25 15:28:12.640 [info] 2025/12/25 15:28:12 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-25 15:28:12.812 [info] I1225 15:28:12.776367 193925 server.go:1167] Starting language server process with pid 193925
+2025-12-25 15:28:12.812 [info] I1225 15:28:12.776949 193925 server.go:284] Setting GOMAXPROCS to 4
+2025-12-25 15:28:12.812 [info] I1225 15:28:12.785578 193925 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2025-12-25 15:28:12.812 [info] I1225 15:28:12.786272 193925 server.go:506] Language server listening on random port at 34557 for HTTPS
+2025-12-25 15:28:12.812 [info] I1225 15:28:12.786342 193925 server.go:513] Language server listening on random port at 44959 for HTTP
+2025-12-25 15:28:13.931 [info] I1225 15:28:13.930734 193925 server.go:484] Created extension server client at port 35851
+2025-12-25 15:28:13.960 [info] W1225 15:28:13.959989 193925 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-25 15:28:13.980 [info] W1225 15:28:13.979939 193925 client.go:135] failed to set auth token
+2025-12-25 15:28:13.981 [info] W1225 15:28:13.980880 193925 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-25 15:28:14.002 [info] (Antigravity) 2025-12-25 15:28:14.000 [INFO]: Language server started
+2025-12-25 15:28:14.009 [info] I1225 15:28:14.008012 193925 server.go:1496] initialized server successfully
+2025-12-25 15:28:14.071 [info] 2025/12/25 15:28:14 http: TLS handshake error from 127.0.0.1:43202: EOF
+2025-12-25 15:28:14.071 [info] 2025/12/25 15:28:14 http: TLS handshake error from 127.0.0.1:43210: EOF
+2025-12-25 15:28:14.095 [info] (Antigravity) 2025-12-25 15:28:14.095 [INFO]: LS lspClient started successfully
+2025-12-25 15:28:16.576 [info] E1225 15:28:16.576309 193925 log.go:354] Memory truncated from 32360 characters to 24008 characters
+2025-12-25 15:53:29.232 [info] I1225 15:53:29.231603 193925 server.go:1612] Exit requested on language server process 193925
+2025-12-25 15:53:29.233 [info] I1225 15:53:29.232429 193925 server.go:1577] Language server shutting down
+2025-12-25 15:53:29.268 [info] (Antigravity) 2025-12-25 15:53:29.267 [INFO]: Language server exited with code 0
+2025-12-25 15:53:29.269 [info] (Antigravity) 2025-12-25 15:53:29.269 [INFO]: Terminating language server process
+2025-12-25 15:53:29.269 [info] (Antigravity) 2025-12-25 15:53:29.269 [INFO]: Successfully terminated language server

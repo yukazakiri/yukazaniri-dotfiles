@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Lisää suosikkeihin"
+   },
+   "basic_font": {
+      "message": "Tämä fontti on jo asennettu Windows- ja Mac-tietokoneisiin. Ei tarvitse ladata sivustollesi."
+   },
+   "chrome_limitations": {
+      "message": "Tietyt tekniset rajoitukset estävät laajennuksen toiminnan Chrome Web Store -sivuilla tai Chromen asetussivuilla."
+   },
+   "clear": {
+      "message": "Tyhjennä lista"
+   },
+   "contact_us": {
+      "message": "Ota yhteyttä"
+   },
+   "copy": {
+      "message": "Kopioi"
+   },
+   "download": {
+      "message": "Lataa"
+   },
+   "extDescription": {
+      "message": "Font finder on kevyt laajennus, jonka avulla voit löytää tekstin fontin näytöltä."
+   },
+   "extName": {
+      "message": "Font finder - Etsi tekstin fontti"
+   },
+   "favorites": {
+      "message": "Suosikit"
+   },
+   "link": {
+      "message": "Linkki"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Lisää.."
+   },
+   "pick_color_button": {
+      "message": "Etsi fontti sivulta"
+   },
+   "rating": {
+      "message": "Arvostele laajennus"
+   },
+   "recent": {
+      "message": "Viimeisimmät"
+   },
+   "remove_from_favorites": {
+      "message": "Poista suosikeista"
+   },
+   "report_bug": {
+      "message": "Ilmoita virheestä"
+   },
+   "settings": {
+      "message": "Asetukset"
+   },
+   "settings_auto_copy": {
+      "message": "Kopioi fontin nimi automaattisesti"
+   },
+   "settings_keep_history": {
+      "message": "Tallenna viimeisimmät fontit"
+   },
+   "settings_shortcut": {
+      "message": "Määritä pikanäppäin"
+   }
+}

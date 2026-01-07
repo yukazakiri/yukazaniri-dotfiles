@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Pievienot favorītiem"
+   },
+   "basic_font": {
+      "message": "Šis fonts jau ir instalēts Windows un Mac datoros. Nav nepieciešams to lejupielādēt jūsu vietnei."
+   },
+   "chrome_limitations": {
+      "message": "Daži tehniski ierobežojumi neļauj paplašinājumam darboties Chrome Web Store lapās vai Chrome iestatījumu lapās."
+   },
+   "clear": {
+      "message": "Notīrīt sarakstu"
+   },
+   "contact_us": {
+      "message": "Sazinieties ar mums"
+   },
+   "copy": {
+      "message": "Kopēt"
+   },
+   "download": {
+      "message": "Lejupielādēt"
+   },
+   "extDescription": {
+      "message": "Font finder ir viegla paplašinājums, kas ļauj atrast teksta fontu ekrānā."
+   },
+   "extName": {
+      "message": "Font finder - Atrast teksta fontu"
+   },
+   "favorites": {
+      "message": "Favorīti"
+   },
+   "link": {
+      "message": "Saite"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Vairāk.."
+   },
+   "pick_color_button": {
+      "message": "Atrast fontu lapā"
+   },
+   "rating": {
+      "message": "Novērtējiet paplašinājumu"
+   },
+   "recent": {
+      "message": "Nesenie"
+   },
+   "remove_from_favorites": {
+      "message": "Noņemt no favorītiem"
+   },
+   "report_bug": {
+      "message": "Ziņot par kļūdu"
+   },
+   "settings": {
+      "message": "Iestatījumi"
+   },
+   "settings_auto_copy": {
+      "message": "Automātiski kopēt fonta nosaukumu"
+   },
+   "settings_keep_history": {
+      "message": "Saglabāt nesenos fontus"
+   },
+   "settings_shortcut": {
+      "message": "Iestatīt tastatūras īsceļu"
+   }
+}

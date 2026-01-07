@@ -1,0 +1,701 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Android telefonai"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Apple telefonai"
+   },
+   "button_feedback": {
+      "message": "Pridėti įvertinimą"
+   },
+   "button_message": {
+      "message": "Atsiųskite mums žinutę"
+   },
+   "close": {
+      "message": "Uždaryti"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Įrenginio pavadinimas"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, ir kt."
+   },
+   "contact_title": {
+      "message": "Įrenginio, kurio ieškote, nėra sąraše? Praneškite mums!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Aktyvuoti mobilųjį vaizdą šiame skirtuke"
+   },
+   "copied": {
+      "message": "Nukopijuota"
+   },
+   "dimensions": {
+      "message": "Matmenys"
+   },
+   "error": {
+      "message": "Klaida"
+   },
+   "error_contact": {
+      "message": "{Prašome susisiekti su mumis}, jei problema išlieka."
+   },
+   "extDescription": {
+      "message": "Išmaniojo telefono ir planšetės simuliatorius kompiuteryje su keliais modeliais, kad galėtumėte testuoti savo mobilųjį ir prisitaikantį svetainės dizainą."
+   },
+   "extName": {
+      "message": "Mobilio telefono simuliatorius - testuokite prisitaikantį svetainės dizainą"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "Neatsakyti"
+   },
+   "feedback_company_type": {
+      "message": "Koks yra jūsų įmonės tipas?"
+   },
+   "feedback_company_type_agency": {
+      "message": "Maža įmonė (10-49 darbuotojai)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Laisvai samdomas"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Labai didelė įmonė / grupė (5000+ darbuotojai)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Mikro įmonė (1-9 darbuotojai)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Didelė įmonė (250-4999 darbuotojai)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Vidutinė įmonė (50-249 darbuotojai)"
+   },
+   "feedback_error_required": {
+      "message": "Visi laukai yra tušti 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Kaip dažnai naudojate šį plėtinį?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Retkarčiais"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Keletą kartų per savaitę"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Kasdien"
+   },
+   "feedback_frequency_rare": {
+      "message": "Retai"
+   },
+   "feedback_improvements": {
+      "message": "Kokius patobulinimus norėtumėte matyti?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Idėja, trintis, trūkumas..."
+   },
+   "feedback_profession": {
+      "message": "Koks yra jūsų profesinis skyrius?"
+   },
+   "feedback_profession_designer": {
+      "message": "Dizainas"
+   },
+   "feedback_profession_developer": {
+      "message": "Kūrimas"
+   },
+   "feedback_profession_marketing": {
+      "message": "Rinkodara"
+   },
+   "feedback_profession_other": {
+      "message": "Kita"
+   },
+   "feedback_profession_product": {
+      "message": "Produktų valdymas"
+   },
+   "feedback_profession_qa": {
+      "message": "Testavimas / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Pardavimai"
+   },
+   "feedback_submit": {
+      "message": "Siųsti"
+   },
+   "feedback_submitted": {
+      "message": "Labai ačiū už jūsų atsiliepimą 🤗"
+   },
+   "feedback_title": {
+      "message": "Padėkite mums padaryti Mobile FIRST dar naudingesnį jums 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Testuoti savo svetainę, rengti klientų demonstracijas..."
+   },
+   "feedback_use_cases": {
+      "message": "Kodėl naudojate Mobile FIRST?"
+   },
+   "get_pro": {
+      "message": "Gauti PRO versiją"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "global_cancel": {
+      "message": "Atšaukti"
+   },
+   "link": {
+      "message": "Nuoroda"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_add_window": {
+      "message": "Pridėti simuliacijos modelį"
+   },
+   "menu_change_device": {
+      "message": "Keisti modelį"
+   },
+   "menu_close_alone": {
+      "message": "Išjungti simuliatorių"
+   },
+   "menu_close_multi": {
+      "message": "Uždaryti šį langą"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> Įrenginio, kurio ieškote, nėra sąraše? Praneškite mums!"
+   },
+   "menu_extensions": {
+      "message": "Atraskite mūsų kitas Chrome plėtinius"
+   },
+   "menu_faq_all": {
+      "message": "Peržiūrėti visus dažniausiai užduodamus klausimus"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Kaip aktyvuoti simuliatorių privačioje naršymo sesijoje?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Mano media queries neveikia"
+   },
+   "menu_faq_scroll": {
+      "message": "Negalima slinkti simuliatoriuje"
+   },
+   "menu_faq_shortcut": {
+      "message": "Kaip nustatyti klaviatūros nuorodas?"
+   },
+   "menu_faq_subscription": {
+      "message": "Kodėl mano prenumerata neveikia?"
+   },
+   "menu_faq_title": {
+      "message": "Dažniausiai užduodami klausimai"
+   },
+   "menu_help_center": {
+      "message": "Pagalbos centras"
+   },
+   "menu_info_device": {
+      "message": "Šio įrenginio charakteristikos ir maketas"
+   },
+   "menu_info_device_features": {
+      "message": "Charakteristikos (vaizdo srities raiška ir kt.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Nemokamas PNG maketas su permatomu fonu"
+   },
+   "menu_report": {
+      "message": "Pranešti apie klaidą"
+   },
+   "menu_rotate": {
+      "message": "Keisti orientaciją"
+   },
+   "menu_screencast": {
+      "message": "📹 Įrašyti ekrano vaizdo įrašą"
+   },
+   "menu_screenshot": {
+      "message": "📷 Padaryti ekrano kopiją"
+   },
+   "menu_send_improvement": {
+      "message": "Pasiūlyti patobulinimą"
+   },
+   "menu_send_message": {
+      "message": "Pagalbos centras"
+   },
+   "menu_settings": {
+      "message": "Konfigūracija"
+   },
+   "menu_share": {
+      "message": "Dalintis su kolega, draugu,..."
+   },
+   "menu_vote_feature": {
+      "message": "Balsuokite už norimas funkcijas"
+   },
+   "menu_zoom": {
+      "message": "Priartinti įrenginį"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Daugiau nustatymų"
+   },
+   "new_ios26_h1": {
+      "message": "Atraskite dabar naują \"Liquid Glass\" Safari iOS 26 sąsają dar realistiškesniems testams!"
+   },
+   "new_ios26_h2": {
+      "message": "Prieinama visose iPhone&nbsp;15 ir iPhone&nbsp;16 versijose"
+   },
+   "new_iphone_14_h1": {
+      "message": "Būkite pirmas, kuris (virtualiai) naudos iPhone 14 PRO"
+   },
+   "new_iphone_17_h1": {
+      "message": "Nauja!\u003Cbr>Išbandykite savo svetaines su iPhone&nbsp;17."
+   },
+   "new_iphone_17_h2": {
+      "message": "iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX yra prieinami simuliatoriuje."
+   },
+   "new_video_feature_h1": {
+      "message": "Atraskite naują vaizdo įrašymo funkciją jau dabar!"
+   },
+   "new_video_feature_h2": {
+      "message": "Įrašykite geresne kokybe, su naujomis parinktimis ir skaidriu fonu"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Informacija\u003C/strong>Touch scroll nėra prieinamas, bet galite \u003Cstrong>rodyti slinkties juostą\u003C/strong>, jei neturite pelės ratuko ar trackpad'o slinkimui.\u003Cbr>\u003Cbr>Tai yra parinktis nustatymuose apačioje dešinėje \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_10_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atnaujinimas v4.10.0\u003C/strong>iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX yra prieinami simuliatoriuje \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_12_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atnaujinimas v4.12.0\u003C/strong>Nauja funkcija PRO versijoje, \u003Cstrong>ekrano kopijų redagavimas\u003C/strong>. Mygtukai formų piešimui, teksto pridėjimui ir kt. \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_14_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atnaujinimas v4.14.0\u003C/strong>Atraskite naują \u003Cstrong>vaizdo įrašymo\u003C/strong> funkciją jau dabar! \u003Ci class='mdi'>&#xe90e;\u003C/i>"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atnaujinimas v4.14.5\u003C/strong>Žymiai padidinta ekrano kopijų \u003Cstrong>raiška ir kokybė\u003C/strong> \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_6_9": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atnaujinimas v4.6.9\u003C/strong>\u003Cstrong>Tema\u003C/strong> Dabar galima keisti temą nustatymuose \u003Ci class='mdi'>&#xe905;\u003C/i> apačioje dešinėje"
+   },
+   "notification_update_title_v4_7_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atnaujinimas v4.7.0\u003C/strong>Pataisymas dėl \u003Cstrong>viso puslapio ekrano kopijų\u003C/strong> ir pridėtas \u003Cstrong>naujas įrenginys\u003C/strong>."
+   },
+   "notification_update_title_v4_8_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atnaujinimas v4.8.0\u003C/strong>Galimybė \u003Cstrong>nutraukti viso puslapio fiksavimą prieš pasiekiant puslapio pabaigą\u003C/strong>.\u003Cbr/>Taip pat pridėtas teksto laukas nustatymuose, skirtas \u003Cstrong>keisti URL, rodomą terminale.\u003C/strong>"
+   },
+   "notification_update_title_v4_9_1": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atnaujinimas v4.9.0\u003C/strong>Atraskite dabar \u003Cstrong>naują Safari iOS 26 sąsają\u003C/strong> iPhone 15 ir 16 \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_9_3": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atnaujinimas v4.9.3\u003C/strong>Pataisymas dėl iOS 26 sąsajos esant fiksuotiems elementams puslapio apačioje. Adreso juosta persidengdavo su elementais.\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Sveiki atvykę į Mobile FIRST 👋\u003C/strong>Vienu spustelėjimu simuliuokite telefonus, planšetinius kompiuterius ir kompiuterius, kad paprastai išbandytumėte ir peržiūrėtumėte savo svetaines.\u003Cbr>\u003Cbr>\u003Cstrong>Meniu yra dešinėje ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "Neprivaloma"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "Įdiegti"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "Šis plėtinys leidžia užfiksuoti bet kokią spalvą ekrane."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Spalvų rinkiklis"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Nustatykite vienu paspaudimu, koks šriftas naudojamas bet kokiame tinklalapio tekste."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Šrifto ieškiklis"
+   },
+   "other_extensions_h1": {
+      "message": "Atraskite mūsų naujausius nemokamus plėtinius"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Specialūs"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Aktyvuoti parinktį"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Šis simuliatorius negali būti aktyvuotas pagal nutylėjimą vietiniuose failuose (file:///), bet galite rankiniu būdu įjungti parinktį Chrome nustatymuose."
+   },
+   "popup_site_incompatible": {
+      "message": "Simuliatoriaus šioje naršyklės natyvinėje puslapyje įjungti negalima. Pabandykite kitame skirtuke arba naršykite svetainėje ir bandykite dar kartą."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Visi vaizdo nustatymai"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Reklamų pašalinimas"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Apmokestinama kasmet"
+   },
+   "pro_modale_button": {
+      "message": "Prenumeruoti"
+   },
+   "pro_modale_from": {
+      "message": "Nuo"
+   },
+   "pro_modale_h1": {
+      "message": "Tapkite PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Pašalinkite reklamas"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Konvertuokite savo vaizdo įrašus į GIF ir MP4 formatus"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simuliuokite visus įrenginius"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "Redaguokite savo ekrano kopijas"
+   },
+   "pro_modale_h1_limit": {
+      "message": "Pasiekėte 5 vaizdo įrašų per dieną limitą"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "Atrakinti visus vaizdo įrašymo nustatymus"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Atrakinti visus nustatymus"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Darykite ekrano kopijas be apribojimų"
+   },
+   "pro_modale_h2": {
+      "message": "Tapkite PRO ir aktyviai prisidėkite prie šios plėtinio kūrimo, remdami jo kūrėją."
+   },
+   "pro_modale_link_1": {
+      "message": "Arba"
+   },
+   "pro_modale_link_2": {
+      "message": "prisijungti"
+   },
+   "pro_modale_link_3": {
+      "message": "prie savo abonento paskyros"
+   },
+   "pro_modale_recurring_month": {
+      "message": "mėnuo"
+   },
+   "pro_modale_savings": {
+      "message": "Sutaupykite"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Kaip vertintumėte šį plėtinį?"
+   },
+   "review_note_feedback": {
+      "message": "Ačiū už jūsų atsiliepimą, nedvejodami atsiųskite mums žinutę, kad galėtume patobulinti šį plėtinį."
+   },
+   "review_note_store": {
+      "message": "Ačiū už jūsų atsiliepimą, nedvejodami pridėkite įvertinimą Google Store. Būčiau labai dėkingas 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Prieiga prie kameros uždrausta."
+   },
+   "screencast_error": {
+      "message": "Įvyko klaida įrašant. {Spauskite čia} norėdami rasti sprendimą."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "Jūsų Chrome versija yra per sena šiai funkcijai. Prašome atnaujinti Chrome į versiją aukštesnę nei 94.0"
+   },
+   "screencast_generation": {
+      "message": "GIF kūrimas vyksta"
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Prieiga prie mikrofono uždrausta."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Vaizdo įrašai nemokamoje versijoje yra apriboti iki 5 minučių."
+   },
+   "screencast_modale_contact": {
+      "message": "Pranešti apie klaidą, pasiūlyti patobulinimą"
+   },
+   "screencast_modale_copy": {
+      "message": "Kopijuoti"
+   },
+   "screencast_modale_download": {
+      "message": "Atsisiųsti"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Suderinama visur, bet prastesnė kokybė (su skaidrumu, jei parinktis įjungta)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Geriausias suderinamumas su „PowerPoint“, bet nėra skaidrumo"
+   },
+   "screencast_modale_download_webm": {
+      "message": "Atsisiųsti numatytuoju WEBM formatu (su skaidrumu, jei parinktis įjungta)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "Maksimali GIF trukmė yra 60 sekundžių. Viršijus šį laiką, failas būtų per didelis."
+   },
+   "screencast_modale_texte": {
+      "message": "Galite atsisiųsti šį vaizdo įrašą įvairiais formatais arba gauti dalinimosi nuorodą."
+   },
+   "screencast_modale_title": {
+      "message": "Vaizdo įrašymas"
+   },
+   "screencast_modale_upload": {
+      "message": "Gauti dalinimosi nuorodą"
+   },
+   "screencast_onboarding_close": {
+      "message": "Uždaryti"
+   },
+   "screencast_onboarding_texte": {
+      "message": "Sukurkite mobiliojo vaizdo įrašą GIF formatu vienu paspaudimu (maks. 20 sekundžių)"
+   },
+   "screencast_onboarding_title": {
+      "message": "Vaizdo įrašymas"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "Vaizdo kokybė įtakoja bitrate, fps ir įrašo rezoliuciją. Kuo aukštesnė kokybė, tuo didesnis failas."
+   },
+   "screencast_start_recording": {
+      "message": "Pradėti įrašymą"
+   },
+   "screencast_tooltip_device": {
+      "message": "Tik įrenginio vaizdo įrašymas"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Skirtuko vaizdo įrašymas su įrenginiu"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Gauti ekrano kopiją"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Piešti rodyklę"
+   },
+   "screenshot_editor_close": {
+      "message": "Uždaryti redaktorių"
+   },
+   "screenshot_editor_color": {
+      "message": "Linijos spalva"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Piešti apskritimą"
+   },
+   "screenshot_editor_line": {
+      "message": "Piešti liniją"
+   },
+   "screenshot_editor_pen": {
+      "message": "Laisvas piešimas"
+   },
+   "screenshot_editor_rect": {
+      "message": "Piešti stačiakampį"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Linijos storis"
+   },
+   "screenshot_editor_undo": {
+      "message": "Atšaukti paskutinį veiksmą"
+   },
+   "screenshot_menu_1": {
+      "message": "Ekrano kopija su įrenginiu"
+   },
+   "screenshot_menu_2": {
+      "message": "Tik svetainės ekrano kopija"
+   },
+   "screenshot_menu_3": {
+      "message": "Viso puslapio ekrano kopija"
+   },
+   "screenshot_menu_4": {
+      "message": "Užfiksuoti visą skirtuką"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Sustabdyti prieš puslapio pabaigą"
+   },
+   "screenshot_modale_copy": {
+      "message": "Kopijuoti vaizdą į iškarpinę"
+   },
+   "screenshot_modale_download_png": {
+      "message": "Atsisiųsti PNG formatu (be suspaudimo)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "Atsisiųsti WEBP formatu, suderinamas beveik visur ir optimizuotas suspaudimas (rekomenduojama)"
+   },
+   "screenshot_modale_edit": {
+      "message": "Redaguoti ekrano kopiją"
+   },
+   "screenshot_modale_help": {
+      "message": "Norėdami išsaugoti vaizdą dideliu formatu, tiesiog spustelėkite dešinį pelės mygtuką ant jo ir pasirinkite \"Kopijuoti vaizdą\" arba \"Išsaugoti\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Ekrano kopija"
+   },
+   "screenshot_workaround_context": {
+      "message": "Kontekstas"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "Dėl tam tikrų techninių apribojimų, gali būti, kad kuriant ekrano kopiją gausite šią klaidos žinutę."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Sprendimo būdas"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "Tokiu atveju, norėdami pradėti fiksavimą, tiesiog spustelėkite dešinįjį pelės mygtuką bet kurioje puslapio vietoje, pasirinkite įrašą „Mobilusis simuliatorius“, tada „📷 Padaryti ekrano kopiją“"
+   },
+   "screenshot_workaround_title": {
+      "message": "Ekrano kopijos sprendimas"
+   },
+   "select": {
+      "message": "Pasirinkti..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_batterie_level": {
+      "message": "Baterijos lygis įrenginio antraštėje (%)"
+   },
+   "settings_camera": {
+      "message": "Kamera"
+   },
+   "settings_change_analytics": {
+      "message": "Aš padedu šios plėtinio kūrėjui tobulinti produktą per Posthog. Visi duomenys yra anonimizuoti."
+   },
+   "settings_change_background": {
+      "message": "Keisti fono spalvą"
+   },
+   "settings_change_cursor": {
+      "message": "Nepakeisti žymeklio stiliaus webview"
+   },
+   "settings_countdown": {
+      "message": "Atgalinis skaičiavimas (sekundėmis)"
+   },
+   "settings_default_device": {
+      "message": "Numatytasis įrenginys kiekvieną kartą aktyvuojant"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Pasirinkti įrenginį"
+   },
+   "settings_device_default_url": {
+      "message": "Keisti URL, rodomą terminale"
+   },
+   "settings_device_hide": {
+      "message": "Nerodyti įrenginio"
+   },
+   "settings_fullscreen": {
+      "message": "Svetainė pilno ekrano režimu įrenginyje"
+   },
+   "settings_h2_device": {
+      "message": "Įrenginys"
+   },
+   "settings_h2_global": {
+      "message": "Bendrieji"
+   },
+   "settings_hide_header_footer": {
+      "message": "Slėpti naršyklės viršutinius ir apatinius elementus webview (PWA)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Nerodyti netikro klaviatūros, kai sutelkiamas dėmesys į įvesties lauką"
+   },
+   "settings_microphone": {
+      "message": "Mikrofonas"
+   },
+   "settings_presenter_mode": {
+      "message": "Pristatymo režimas (dešinysis meniu matomas tik užvedus pelę)"
+   },
+   "settings_pro_account": {
+      "message": "Tvarkyti mano prenumeratą"
+   },
+   "settings_scrollbar_show": {
+      "message": "Rodyti natūralų slinkties juostą įrenginyje"
+   },
+   "settings_shortcuts": {
+      "message": "Nustatyti klaviatūros spartieji klavišai"
+   },
+   "settings_theme": {
+      "message": "Tema"
+   },
+   "settings_theme_auto": {
+      "message": "Automatinė"
+   },
+   "settings_theme_dark": {
+      "message": "Tamsi"
+   },
+   "settings_theme_light": {
+      "message": "Šviesi"
+   },
+   "settings_transparent_background": {
+      "message": "Permatomas fonas"
+   },
+   "settings_transparent_background_info": {
+      "message": "Ši parinktis reiškia daugiau skaičiavimų ir todėl gali sulėtinti rodymą, priklausomai nuo jūsų kompiuterio (suderinama tik su WEBM ir GIF formatais)"
+   },
+   "settings_video_quality": {
+      "message": "Vaizdo kokybė"
+   },
+   "settings_video_quality_high": {
+      "message": "Puiki"
+   },
+   "settings_video_quality_low": {
+      "message": "Vidutinė"
+   },
+   "settings_video_quality_medium": {
+      "message": "Gera"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Ar šis mobilusis simuliatorius jums naudingas?"
+   },
+   "sharing_h2": {
+      "message": "Tada pasidalinkite juo su savo kolegomis ar draugais"
+   },
+   "sharing_review_1": {
+      "message": "Ir jei turite minutę"
+   },
+   "sharing_review_2": {
+      "message": "pridėti atsiliepimą"
+   },
+   "sharing_review_3": {
+      "message": "tai būtų puiku! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Pridėti atsiliepimą"
+   },
+   "sharing_txt": {
+      "message": "Simuliatorius, skirtas testuoti svetainę mobiliuosiuose įrenginiuose ir planšetėse"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "Tai tik vaizdas. Naudokite savo klaviatūrą."
+   },
+   "simulator_header_info": {
+      "message": "Tai tik vaizdas. Norėdami pakeisti URL, naudokite aukščiau esantį Chrome lauką."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Planšetės"
+   }
+}

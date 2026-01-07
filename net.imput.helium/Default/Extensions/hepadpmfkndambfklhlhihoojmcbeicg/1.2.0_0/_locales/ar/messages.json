@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "إضافة إلى المفضلة"
+   },
+   "basic_font": {
+      "message": "هذا الخط مثبت بالفعل على أجهزة Windows وMac. لا حاجة لتنزيله لموقعك."
+   },
+   "chrome_limitations": {
+      "message": "بعض القيود التقنية تمنع الإضافة من العمل على صفحات Chrome Web Store أو صفحات إعدادات Chrome."
+   },
+   "clear": {
+      "message": "إفراغ القائمة"
+   },
+   "contact_us": {
+      "message": "اتصل بنا"
+   },
+   "copy": {
+      "message": "نسخ"
+   },
+   "download": {
+      "message": "تنزيل"
+   },
+   "extDescription": {
+      "message": "Font finder هي إضافة خفيفة تتيح لك العثور على خط النص على الشاشة."
+   },
+   "extName": {
+      "message": "Font finder - العثور على خط النص"
+   },
+   "favorites": {
+      "message": "المفضلة"
+   },
+   "link": {
+      "message": "رابط"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "المزيد.."
+   },
+   "pick_color_button": {
+      "message": "العثور على خط في الصفحة"
+   },
+   "rating": {
+      "message": "قيّم الإضافة"
+   },
+   "recent": {
+      "message": "الأخيرة"
+   },
+   "remove_from_favorites": {
+      "message": "إزالة من المفضلة"
+   },
+   "report_bug": {
+      "message": "الإبلاغ عن خطأ"
+   },
+   "settings": {
+      "message": "الإعدادات"
+   },
+   "settings_auto_copy": {
+      "message": "نسخ اسم الخط تلقائيًا"
+   },
+   "settings_keep_history": {
+      "message": "حفظ الخطوط الأخيرة"
+   },
+   "settings_shortcut": {
+      "message": "تعيين اختصار لوحة المفاتيح"
+   }
+}

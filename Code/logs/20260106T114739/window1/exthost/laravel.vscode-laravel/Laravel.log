@@ -1,0 +1,15 @@
+2026-01-06 11:48:21.829 [info] Activating Laravel Extension...
+2026-01-06 11:48:21.829 [info] Started
+2026-01-06 11:48:21.829 [info] Checking herd PHP installation: herd which-php
+2026-01-06 11:48:21.829 [info] Checking valet PHP installation: valet which-php
+2026-01-06 11:48:21.829 [info] Checking sail PHP installation: ./vendor/bin/sail ps
+2026-01-06 11:48:21.829 [info] Using sail PHP installation: NAME                         IMAGE                    COMMAND                  SERVICE        CREATED        STATUS                 PORTS
+dccpadminv3-horizon-1        sail-8.5/app             "start-container php…"   horizon        27 hours ago   Up 3 hours             80/tcp
+dccpadminv3-laravel.test-1   sail-8.5/app             "start-container"        laravel.test   20 hours ago   Up 3 hours             80/tcp, 0.0.0.0:5173->5173/tcp, [::]:5173->5173/tcp
+dccpadminv3-mailpit-1        axllent/mailpit:latest   "/mailpit"               mailpit        2 weeks ago    Up 3 hours (healthy)   0.0.0.0:1025->1025/tcp, [::]:1025->1025/tcp, 0.0.0.0:8025->8025/tcp, [::]:8025->8025/tcp, 1110/tcp
+dccpadminv3-minio-1          minio/minio:latest       "/usr/bin/docker-ent…"   minio          2 weeks ago    Up 3 hours             0.0.0.0:8900->8900/tcp, [::]:8900->8900/tcp, 0.0.0.0:9000->9000/tcp, [::]:9000->9000/tcp
+dccpadminv3-pgsql-1          postgres:17-alpine       "docker-entrypoint.s…"   pgsql          20 hours ago   Up 3 hours             0.0.0.0:5432->5432/tcp, [::]:5432->5432/tcp
+dccpadminv3-pulse-1          sail-8.5/app             "start-container php…"   pulse          27 hours ago   Up 3 hours             80/tcp
+dccpadminv3-redis-1          redis:alpine             "docker-entrypoint.s…"   redis          2 weeks ago    Up 3 hours             0.0.0.0:6379->6379/tcp, [::]:6379->6379/tcp
+dccpadminv3-traefik-1        traefik:v3.3             "/entrypoint.sh --ap…"   traefik        2 weeks ago    Up 3 hours             0.0.0.0:80->80/tcp, [::]:80->80/tcp, 0.0.0.0:443->443/tcp, [::]:443->443/tcp, 0.0.0.0:8080->8080/tcp, [::]:8080->8080/tcp
+2026-01-06 11:48:22.404 [info] Stopped

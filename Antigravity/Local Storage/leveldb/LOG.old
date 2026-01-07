@@ -1,0 +1,144 @@
+2025/12/25-15:28:07.075 2f35c Reusing MANIFEST /home/admin/.config/Antigravity/Local Storage/leveldb/MANIFEST-000001
+2025/12/25-15:28:07.096 2f35c Recovering log #31
+2025/12/25-15:28:07.097 2f35c Reusing old log /home/admin/.config/Antigravity/Local Storage/leveldb/000031.log 
+2025/12/25-15:29:07.114 2f339 Level-0 table #35: started
+2025/12/25-15:29:07.119 2f339 Level-0 table #35: 47487 bytes OK
+2025/12/25-15:29:07.124 2f339 Delete type=0 #31
+2025/12/25-15:29:07.125 2f339 Compacting 4@0 + 1@1 files
+2025/12/25-15:29:07.131 2f339 Generated table #36@0: 4 keys, 32584 bytes
+2025/12/25-15:29:07.131 2f339 Compacted 4@0 + 1@1 files => 32584 bytes
+2025/12/25-15:29:07.134 2f339 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/25-15:29:07.135 2f339 Delete type=2 #25
+2025/12/25-15:29:07.135 2f339 Delete type=2 #27
+2025/12/25-15:29:07.135 2f339 Delete type=2 #35
+2025/12/25-15:29:07.135 2f339 Delete type=2 #32
+2025/12/25-15:29:07.135 2f339 Delete type=2 #30
+2025/12/25-15:30:08.569 2f33a Level-0 table #38: started
+2025/12/25-15:30:08.574 2f33a Level-0 table #38: 31970 bytes OK
+2025/12/25-15:30:08.578 2f33a Delete type=0 #34
+2025/12/25-15:31:08.570 2f33a Level-0 table #40: started
+2025/12/25-15:31:08.577 2f33a Level-0 table #40: 32681 bytes OK
+2025/12/25-15:31:08.581 2f33a Delete type=0 #37
+2025/12/25-15:32:08.572 2f33a Level-0 table #42: started
+2025/12/25-15:32:08.577 2f33a Level-0 table #42: 32545 bytes OK
+2025/12/25-15:32:08.581 2f33a Delete type=0 #39
+2025/12/25-15:33:08.569 2f33a Level-0 table #44: started
+2025/12/25-15:33:08.574 2f33a Level-0 table #44: 33311 bytes OK
+2025/12/25-15:33:08.577 2f33a Delete type=0 #41
+2025/12/25-15:33:08.579 2f33a Compacting 4@0 + 1@1 files
+2025/12/25-15:33:08.584 2f33a Generated table #45@0: 4 keys, 33381 bytes
+2025/12/25-15:33:08.584 2f33a Compacted 4@0 + 1@1 files => 33381 bytes
+2025/12/25-15:33:08.587 2f33a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/25-15:33:08.588 2f33a Delete type=2 #44
+2025/12/25-15:33:08.588 2f33a Delete type=2 #38
+2025/12/25-15:33:08.588 2f33a Delete type=2 #40
+2025/12/25-15:33:08.588 2f33a Delete type=2 #36
+2025/12/25-15:33:08.588 2f33a Delete type=2 #42
+2025/12/25-15:34:08.570 2f33a Level-0 table #47: started
+2025/12/25-15:34:08.574 2f33a Level-0 table #47: 32626 bytes OK
+2025/12/25-15:34:08.578 2f33a Delete type=0 #43
+2025/12/25-15:35:08.570 2f33a Level-0 table #49: started
+2025/12/25-15:35:08.577 2f33a Level-0 table #49: 32797 bytes OK
+2025/12/25-15:35:08.582 2f33a Delete type=0 #46
+2025/12/25-15:36:08.568 2f33a Level-0 table #51: started
+2025/12/25-15:36:08.575 2f33a Level-0 table #51: 32940 bytes OK
+2025/12/25-15:36:08.579 2f33a Delete type=0 #48
+2025/12/25-15:37:08.570 2f33a Level-0 table #53: started
+2025/12/25-15:37:08.576 2f33a Level-0 table #53: 32351 bytes OK
+2025/12/25-15:37:08.580 2f33a Delete type=0 #50
+2025/12/25-15:37:08.580 2f33a Compacting 4@0 + 1@1 files
+2025/12/25-15:37:08.585 2f33a Generated table #54@0: 4 keys, 32414 bytes
+2025/12/25-15:37:08.585 2f33a Compacted 4@0 + 1@1 files => 32414 bytes
+2025/12/25-15:37:08.589 2f33a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/25-15:37:08.589 2f33a Delete type=2 #53
+2025/12/25-15:37:08.589 2f33a Delete type=2 #47
+2025/12/25-15:37:08.590 2f33a Delete type=2 #45
+2025/12/25-15:37:08.590 2f33a Delete type=2 #51
+2025/12/25-15:37:08.590 2f33a Delete type=2 #49
+2025/12/25-15:38:08.569 2f33a Level-0 table #56: started
+2025/12/25-15:38:08.575 2f33a Level-0 table #56: 32613 bytes OK
+2025/12/25-15:38:08.579 2f33a Delete type=0 #52
+2025/12/25-15:39:08.570 2f33a Level-0 table #58: started
+2025/12/25-15:39:08.577 2f33a Level-0 table #58: 32547 bytes OK
+2025/12/25-15:39:08.582 2f33a Delete type=0 #55
+2025/12/25-15:40:08.570 2f33a Level-0 table #60: started
+2025/12/25-15:40:08.576 2f33a Level-0 table #60: 32881 bytes OK
+2025/12/25-15:40:08.580 2f33a Delete type=0 #57
+2025/12/25-15:41:08.569 2f33a Level-0 table #62: started
+2025/12/25-15:41:08.574 2f33a Level-0 table #62: 33043 bytes OK
+2025/12/25-15:41:08.579 2f33a Delete type=0 #59
+2025/12/25-15:41:08.579 2f33a Compacting 4@0 + 1@1 files
+2025/12/25-15:41:08.586 2f33a Generated table #63@0: 4 keys, 33023 bytes
+2025/12/25-15:41:08.586 2f33a Compacted 4@0 + 1@1 files => 33023 bytes
+2025/12/25-15:41:08.591 2f33a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/25-15:41:08.592 2f33a Delete type=2 #60
+2025/12/25-15:41:08.592 2f33a Delete type=2 #58
+2025/12/25-15:41:08.592 2f33a Delete type=2 #54
+2025/12/25-15:41:08.592 2f33a Delete type=2 #56
+2025/12/25-15:41:08.592 2f33a Delete type=2 #62
+2025/12/25-15:42:08.570 2f33a Level-0 table #65: started
+2025/12/25-15:42:08.578 2f33a Level-0 table #65: 32922 bytes OK
+2025/12/25-15:42:08.582 2f33a Delete type=0 #61
+2025/12/25-15:43:08.570 2f33a Level-0 table #67: started
+2025/12/25-15:43:08.574 2f33a Level-0 table #67: 32634 bytes OK
+2025/12/25-15:43:08.578 2f33a Delete type=0 #64
+2025/12/25-15:44:08.570 2f33a Level-0 table #69: started
+2025/12/25-15:44:08.575 2f33a Level-0 table #69: 33011 bytes OK
+2025/12/25-15:44:08.579 2f33a Delete type=0 #66
+2025/12/25-15:45:08.567 2f33a Level-0 table #71: started
+2025/12/25-15:45:08.574 2f33a Level-0 table #71: 32845 bytes OK
+2025/12/25-15:45:08.578 2f33a Delete type=0 #68
+2025/12/25-15:45:08.579 2f33a Compacting 4@0 + 1@1 files
+2025/12/25-15:45:08.586 2f33a Generated table #72@0: 4 keys, 32894 bytes
+2025/12/25-15:45:08.587 2f33a Compacted 4@0 + 1@1 files => 32894 bytes
+2025/12/25-15:45:08.591 2f33a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/25-15:45:08.591 2f33a Delete type=2 #63
+2025/12/25-15:45:08.592 2f33a Delete type=2 #69
+2025/12/25-15:45:08.592 2f33a Delete type=2 #67
+2025/12/25-15:45:08.592 2f33a Delete type=2 #65
+2025/12/25-15:45:08.592 2f33a Delete type=2 #71
+2025/12/25-15:46:08.570 2f33a Level-0 table #74: started
+2025/12/25-15:46:08.576 2f33a Level-0 table #74: 32900 bytes OK
+2025/12/25-15:46:08.580 2f33a Delete type=0 #70
+2025/12/25-15:47:08.570 2f33a Level-0 table #76: started
+2025/12/25-15:47:08.576 2f33a Level-0 table #76: 32271 bytes OK
+2025/12/25-15:47:08.580 2f33a Delete type=0 #73
+2025/12/25-15:48:08.569 2f33a Level-0 table #78: started
+2025/12/25-15:48:08.576 2f33a Level-0 table #78: 32887 bytes OK
+2025/12/25-15:48:08.580 2f33a Delete type=0 #75
+2025/12/25-15:49:08.567 2f33a Level-0 table #80: started
+2025/12/25-15:49:08.574 2f33a Level-0 table #80: 32848 bytes OK
+2025/12/25-15:49:08.578 2f33a Delete type=0 #77
+2025/12/25-15:49:08.579 2f33a Compacting 4@0 + 1@1 files
+2025/12/25-15:49:08.585 2f33a Generated table #81@0: 4 keys, 32931 bytes
+2025/12/25-15:49:08.586 2f33a Compacted 4@0 + 1@1 files => 32931 bytes
+2025/12/25-15:49:08.589 2f33a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/25-15:49:08.590 2f33a Delete type=2 #72
+2025/12/25-15:49:08.590 2f33a Delete type=2 #76
+2025/12/25-15:49:08.591 2f33a Delete type=2 #74
+2025/12/25-15:49:08.591 2f33a Delete type=2 #78
+2025/12/25-15:49:08.591 2f33a Delete type=2 #80
+2025/12/25-15:50:08.570 2f33a Level-0 table #83: started
+2025/12/25-15:50:08.578 2f33a Level-0 table #83: 32942 bytes OK
+2025/12/25-15:50:08.582 2f33a Delete type=0 #79
+2025/12/25-15:51:08.569 2f33a Level-0 table #85: started
+2025/12/25-15:51:08.575 2f33a Level-0 table #85: 32874 bytes OK
+2025/12/25-15:51:08.579 2f33a Delete type=0 #82
+2025/12/25-15:52:08.570 2f33a Level-0 table #87: started
+2025/12/25-15:52:08.577 2f33a Level-0 table #87: 32856 bytes OK
+2025/12/25-15:52:08.581 2f33a Delete type=0 #84
+2025/12/25-15:53:08.569 2f33a Level-0 table #89: started
+2025/12/25-15:53:08.588 2f33a Level-0 table #89: 32537 bytes OK
+2025/12/25-15:53:08.630 2f33a Delete type=0 #86
+2025/12/25-15:53:08.630 2f33a Compacting 4@0 + 1@1 files
+2025/12/25-15:53:08.657 2f33a Generated table #90@0: 4 keys, 32594 bytes
+2025/12/25-15:53:08.657 2f33a Compacted 4@0 + 1@1 files => 32594 bytes
+2025/12/25-15:53:08.708 2f33a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/25-15:53:08.708 2f33a Delete type=2 #89
+2025/12/25-15:53:08.708 2f33a Delete type=2 #85
+2025/12/25-15:53:08.708 2f33a Delete type=2 #81
+2025/12/25-15:53:08.709 2f33a Delete type=2 #83
+2025/12/25-15:53:08.709 2f33a Delete type=2 #87
+2025/12/25-15:53:29.335 2f33a Level-0 table #92: started
+2025/12/25-15:53:29.340 2f33a Level-0 table #92: 32762 bytes OK
+2025/12/25-15:53:29.343 2f33a Delete type=0 #88

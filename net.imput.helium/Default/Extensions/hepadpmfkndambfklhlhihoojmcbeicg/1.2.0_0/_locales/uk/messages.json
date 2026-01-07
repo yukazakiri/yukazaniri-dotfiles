@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Додати до улюблених"
+   },
+   "basic_font": {
+      "message": "Цей шрифт вже встановлений на комп'ютерах Windows та Mac. Немає потреби завантажувати його для вашого сайту."
+   },
+   "chrome_limitations": {
+      "message": "Деякі технічні обмеження заважають розширенню працювати на сторінках Chrome Web Store або сторінках налаштувань Chrome."
+   },
+   "clear": {
+      "message": "Очистити список"
+   },
+   "contact_us": {
+      "message": "Зв'яжіться з нами"
+   },
+   "copy": {
+      "message": "Копіювати"
+   },
+   "download": {
+      "message": "Завантажити"
+   },
+   "extDescription": {
+      "message": "Font finder - це легке розширення, яке дозволяє знайти шрифт тексту на екрані."
+   },
+   "extName": {
+      "message": "Font finder - Знайти шрифт тексту"
+   },
+   "favorites": {
+      "message": "Улюблені"
+   },
+   "link": {
+      "message": "Посилання"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Більше.."
+   },
+   "pick_color_button": {
+      "message": "Знайти шрифт на сторінці"
+   },
+   "rating": {
+      "message": "Оцініть розширення"
+   },
+   "recent": {
+      "message": "Недавні"
+   },
+   "remove_from_favorites": {
+      "message": "Видалити з улюблених"
+   },
+   "report_bug": {
+      "message": "Повідомити про помилку"
+   },
+   "settings": {
+      "message": "Налаштування"
+   },
+   "settings_auto_copy": {
+      "message": "Автоматично копіювати назву шрифту"
+   },
+   "settings_keep_history": {
+      "message": "Зберігати недавні шрифти"
+   },
+   "settings_shortcut": {
+      "message": "Встановити клавіатурне скорочення"
+   }
+}

@@ -1,0 +1,108 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "c1987e06cf45722fffbbfd6c26af1e7a8ba74ddf29cfe286306c94c3fab995da",
+    "telemetry.devDeviceId": "d3275ee9-f522-4ef2-82de-5b5779cb32f9",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/admin/Documents/GitHub/DccpAdminV3"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 30,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/admin/.config/niri": "__default__profile__",
+            "file:///home/admin/.config/foot": "__default__profile__",
+            "file:///home/admin/.config/fish": "__default__profile__",
+            "file:///home/admin/.config/fastfetch": "__default__profile__",
+            "file:///home/admin/coamifee-shop": "__default__profile__",
+            "file:///home/admin/Documents/GitHub/DccpAdminV3": "__default__profile__",
+            "file:///home/admin/Documents/GitHub/PhilexScholarV2": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs",
+    "themeBackground": "#eff1f5",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs",
+        "colorInfo": {
+            "foreground": "#4c4f69",
+            "background": "#eff1f5",
+            "editorBackground": "#eff1f5",
+            "titleBarBackground": "#dce0e8",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#dce0e8",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#e6e9ef",
+            "sideBarBorder": "#e6e9ef",
+            "statusBarBackground": "#e6e9ef",
+            "statusBarBorder": "rgba(230, 233, 239, 0)",
+            "statusBarNoFolderBackground": "#e6e9ef",
+            "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 48,
+            "sideBarWidth": 439,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/admin/Documents/GitHub/DccpAdminV3",
+            "backupPath": "/home/admin/.config/Code/Backups/1a490caf8d7a1ee8ca971fc66e4ac05c",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 0,
+                "width": 1656,
+                "height": 869
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 439,
+            "auxiliaryBarWidth": 433,
+            "workspaces": {
+                "b50d9481df891cfb56ca0b617f7f0a35": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "ba105422ff2c9a9e4b85982ec244d62c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "817fb4d10aee57b64e52cc42d2c6fb4e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "e67fdad089ee2b79ee7e419e37586ceb": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "fe702c684833291f6e72fa64206f2b64": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "2c39dfd38ffe2b5cd849525e6e2706ef": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "5c3578b4c731b6f002f65856a1599d14": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

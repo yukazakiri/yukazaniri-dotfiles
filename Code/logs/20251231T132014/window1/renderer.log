@@ -1,0 +1,80 @@
+2025-12-31 13:20:16.556 [info] Started local extension host with pid 18955.
+2025-12-31 13:20:16.712 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-31 13:20:16.713 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-31 13:20:16.714 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-31 13:20:16.715 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-31 13:20:16.716 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-31 13:20:16.716 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-31 13:20:16.717 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-31 13:20:18.435 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-31 13:20:18.507 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-31 13:20:19.173 [error] [Extension Host] (node:18955) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-31 13:20:19.185 [error] [Extension Host] (node:18955) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2025-12-31 13:20:19.232 [error] [Extension Host] /bin/sh: line 1: herd: command not found
+2025-12-31 13:20:19.255 [error] [Extension Host] /bin/sh: line 1: valet: command not found
+2025-12-31 13:20:21.787 [info] Auto updating outdated extensions. laravel.vscode-laravel, n2ns.antigravity-panel
+2025-12-31 13:20:22.183 [error] [Extension Host] [ProcessDetector] Attempt 1 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2025-12-31 13:20:22.197 [error] Failed to fetch token entitlements Failed to fetch
+2025-12-31 13:20:22.199 [error] [chat entitlement] request: error TypeError: Failed to fetch
+2025-12-31 13:20:22.257 [error] Failed to fetch entitlements Failed to fetch
+2025-12-31 13:20:22.759 [error] [Extension Host] [ProcessDetector] Attempt 2 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2025-12-31 13:20:22.812 [error] net::ERR_NAME_NOT_RESOLVED: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10715)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2025-12-31 13:20:23.304 [error] [Extension Host] [ProcessDetector] Attempt 3 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+2025-12-31 13:20:24.672 [error] chatParticipant must be declared in package.json: claude-code
+2025-12-31 13:20:27.811 [info] [perf] Render performance baseline is 40ms
+2025-12-31 16:05:35.140 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-31 16:20:22.917 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 16:25:22.932 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 16:30:24.964 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 16:35:24.980 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 16:40:24.993 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 16:45:25.004 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 16:50:25.018 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 16:55:25.034 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 17:00:25.050 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 17:05:25.065 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 17:10:25.078 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 17:15:25.089 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 17:20:25.103 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 17:25:25.127 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 17:30:25.137 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 17:35:25.148 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 17:40:24.594 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 17:45:24.605 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 17:50:24.617 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 17:55:24.633 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 18:00:24.646 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 18:05:23.986 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 18:10:24.000 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 18:15:24.012 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 18:20:24.034 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 18:25:24.049 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-12-31 18:30:23.242 [warning] Failed to fetch chat participant registry Failed to fetch

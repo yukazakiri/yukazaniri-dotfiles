@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Додај у омиљене"
+   },
+   "basic_font": {
+      "message": "Овај фонт је већ инсталиран на Windows и Mac рачунарима. Нема потребе да га преузимате за ваш сајт."
+   },
+   "chrome_limitations": {
+      "message": "Одређена техничка ограничења спречавају проширење да ради на страницама Chrome Web Store или страницама за подешавање Chrome-а."
+   },
+   "clear": {
+      "message": "Испразни листу"
+   },
+   "contact_us": {
+      "message": "Контактирајте нас"
+   },
+   "copy": {
+      "message": "Копирај"
+   },
+   "download": {
+      "message": "Преузми"
+   },
+   "extDescription": {
+      "message": "Font finder је лагано проширење које вам омогућава да пронађете фонт текста на екрану."
+   },
+   "extName": {
+      "message": "Font finder - Пронађи фонт текста"
+   },
+   "favorites": {
+      "message": "Омиљени"
+   },
+   "link": {
+      "message": "Линк"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Више.."
+   },
+   "pick_color_button": {
+      "message": "Пронађи фонт на страници"
+   },
+   "rating": {
+      "message": "Оцените проширење"
+   },
+   "recent": {
+      "message": "Недавни"
+   },
+   "remove_from_favorites": {
+      "message": "Уклони из омиљених"
+   },
+   "report_bug": {
+      "message": "Пријави баг"
+   },
+   "settings": {
+      "message": "Подешавања"
+   },
+   "settings_auto_copy": {
+      "message": "Аутоматски копирај назив фонта"
+   },
+   "settings_keep_history": {
+      "message": "Сачувај недавне фонтове"
+   },
+   "settings_shortcut": {
+      "message": "Подесите пречицу на тастатури"
+   }
+}

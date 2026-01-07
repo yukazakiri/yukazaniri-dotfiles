@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Tambahkan ke favorit"
+   },
+   "basic_font": {
+      "message": "Font ini sudah terpasang di komputer Windows dan Mac. Tidak perlu mengunduhnya untuk situs Anda."
+   },
+   "chrome_limitations": {
+      "message": "Beberapa batasan teknis mencegah ekstensi ini berfungsi di halaman Chrome Web Store atau halaman pengaturan Chrome."
+   },
+   "clear": {
+      "message": "Bersihkan daftar"
+   },
+   "contact_us": {
+      "message": "Hubungi kami"
+   },
+   "copy": {
+      "message": "Salin"
+   },
+   "download": {
+      "message": "Unduh"
+   },
+   "extDescription": {
+      "message": "Font finder adalah ekstensi ringan yang memungkinkan Anda menemukan font dari teks di layar."
+   },
+   "extName": {
+      "message": "Font finder - Temukan Font Teks"
+   },
+   "favorites": {
+      "message": "Favorit"
+   },
+   "link": {
+      "message": "Tautan"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Lebih.."
+   },
+   "pick_color_button": {
+      "message": "Temukan font di halaman"
+   },
+   "rating": {
+      "message": "Beri peringkat ekstensi"
+   },
+   "recent": {
+      "message": "Terbaru"
+   },
+   "remove_from_favorites": {
+      "message": "Hapus dari favorit"
+   },
+   "report_bug": {
+      "message": "Laporkan bug"
+   },
+   "settings": {
+      "message": "Pengaturan"
+   },
+   "settings_auto_copy": {
+      "message": "Salin otomatis nama font"
+   },
+   "settings_keep_history": {
+      "message": "Simpan font terbaru"
+   },
+   "settings_shortcut": {
+      "message": "Tetapkan pintasan keyboard"
+   }
+}

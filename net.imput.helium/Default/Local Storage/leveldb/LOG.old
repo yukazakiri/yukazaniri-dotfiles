@@ -1,0 +1,42 @@
+2026/01/06-16:01:58.263 5 Reusing MANIFEST /home/admin/.config/net.imput.helium/Default/Local Storage/leveldb/MANIFEST-000001
+2026/01/06-16:01:58.271 5 Recovering log #487
+2026/01/06-16:01:58.272 5 Reusing old log /home/admin/.config/net.imput.helium/Default/Local Storage/leveldb/000487.log 
+2026/01/06-16:02:21.402 5 Level-0 table #491: started
+2026/01/06-16:02:21.407 5 Level-0 table #491: 42320 bytes OK
+2026/01/06-16:02:21.411 5 Delete type=0 #487
+2026/01/06-16:02:58.283 5 Level-0 table #493: started
+2026/01/06-16:02:58.289 5 Level-0 table #493: 31904 bytes OK
+2026/01/06-16:02:58.294 5 Delete type=0 #490
+2026/01/06-16:08:07.674 7 Level-0 table #495: started
+2026/01/06-16:08:07.680 7 Level-0 table #495: 32484 bytes OK
+2026/01/06-16:08:07.687 7 Delete type=0 #492
+2026/01/06-16:08:07.688 7 Compacting 4@0 + 1@1 files
+2026/01/06-16:08:07.709 7 Generated table #496@0: 1421 keys, 818560 bytes
+2026/01/06-16:08:07.709 7 Compacted 4@0 + 1@1 files => 818560 bytes
+2026/01/06-16:08:07.713 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/06-16:08:07.714 7 Delete type=2 #486
+2026/01/06-16:08:07.714 7 Delete type=2 #491
+2026/01/06-16:08:07.714 7 Delete type=2 #495
+2026/01/06-16:08:07.714 7 Delete type=2 #493
+2026/01/06-16:08:07.714 7 Delete type=2 #488
+2026/01/06-16:08:16.882 7 Level-0 table #498: started
+2026/01/06-16:08:16.955 7 Level-0 table #498: 30014 bytes OK
+2026/01/06-16:08:16.959 7 Delete type=0 #494
+2026/01/06-16:09:07.674 7 Level-0 table #500: started
+2026/01/06-16:09:07.682 7 Level-0 table #500: 31329 bytes OK
+2026/01/06-16:09:07.688 7 Delete type=0 #497
+2026/01/06-16:10:07.674 5 Level-0 table #502: started
+2026/01/06-16:10:07.682 5 Level-0 table #502: 30142 bytes OK
+2026/01/06-16:10:07.688 5 Delete type=0 #499
+2026/01/06-16:30:38.400 5 Level-0 table #504: started
+2026/01/06-16:30:38.408 5 Level-0 table #504: 32726 bytes OK
+2026/01/06-16:30:38.415 5 Delete type=0 #501
+2026/01/06-16:30:38.415 5 Compacting 4@0 + 1@1 files
+2026/01/06-16:30:38.439 5 Generated table #505@0: 1423 keys, 818649 bytes
+2026/01/06-16:30:38.439 5 Compacted 4@0 + 1@1 files => 818649 bytes
+2026/01/06-16:30:38.443 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/06-16:30:38.444 5 Delete type=2 #504
+2026/01/06-16:30:38.444 5 Delete type=2 #496
+2026/01/06-16:30:38.444 5 Delete type=2 #502
+2026/01/06-16:30:38.444 5 Delete type=2 #500
+2026/01/06-16:30:38.444 5 Delete type=2 #498

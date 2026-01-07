@@ -1,0 +1,178 @@
+2025-12-31T05:19:02.151Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-12-31T05:19:02.159Z - info: [ui] [AppStore] found account: yukazakiri (Yuka)
+2025-12-31T05:19:02.198Z - info: [ui] [BranchPruner] Last prune took place 17 hours ago - skipping
+2025-12-31T05:19:02.886Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.18.2-arch2-1)
+2025-12-31T05:19:02.887Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-12-31T05:19:05.958Z - warn: [ui] Alive web socket request failed: TypeError: Failed to fetch
+2025-12-31T05:19:06.748Z - error: [ui] Could not get Alive web socket URL for 'yukazakiri'
+TypeError: Failed to fetch
+    at Ot (/home/admin/webpack:/app/src/lib/http.ts:152:10)
+    at Yn.request (/home/admin/webpack:/app/src/lib/api.ts:1749:28)
+    at Yn.getAliveWebSocketURL (/home/admin/webpack:/app/src/lib/api.ts:838:30)
+    at Object.createSessionForAccount (/home/admin/webpack:/app/src/lib/stores/alive-store.ts:170:32)
+    at Object.subscribeToAccount (/home/admin/webpack:/app/src/lib/stores/alive-store.ts:227:40)
+    at Object._subscribeToAccounts (/home/admin/webpack:/app/src/lib/stores/alive-store.ts:147:20)
+    at subscribeToAccounts (/home/admin/webpack:/app/src/lib/stores/alive-store.ts:126:44)
+2025-12-31T05:19:06.758Z - warn: [ui] failed fetching open PRs for repository dccp-developers/DccpAdminV3
+TypeError: Failed to fetch
+    at Ot (/home/admin/webpack:/app/src/lib/http.ts:152:10)
+    at Yn.request (/home/admin/webpack:/app/src/lib/api.ts:1749:28)
+    at Yn.fetchAll (/home/admin/webpack:/app/src/lib/api.ts:1719:45)
+    at Yn.fetchAllOpenPullRequests (/home/admin/webpack:/app/src/lib/api.ts:1142:25)
+    at sZ.constructor.fetchAndStoreOpenPullRequests (/home/admin/webpack:/app/src/lib/stores/pull-request-store.ts:110:28)
+    at sZ.constructor.fetchAndStorePullRequests (/home/admin/webpack:/app/src/lib/stores/pull-request-store.ts:99:19)
+    at Object.refreshPullRequests (/home/admin/webpack:/app/src/lib/stores/pull-request-coordinator.ts:158:45)
+2025-12-31T05:19:06.760Z - error: [ui] Error refreshing pull requests for 'dccp-developers/DccpAdminV3'
+TypeError: Failed to fetch
+    at Ot (/home/admin/webpack:/app/src/lib/http.ts:152:10)
+    at Yn.request (/home/admin/webpack:/app/src/lib/api.ts:1749:28)
+    at Yn.fetchAll (/home/admin/webpack:/app/src/lib/api.ts:1719:45)
+    at Yn.fetchAllOpenPullRequests (/home/admin/webpack:/app/src/lib/api.ts:1142:25)
+    at sZ.constructor.fetchAndStoreOpenPullRequests (/home/admin/webpack:/app/src/lib/stores/pull-request-store.ts:110:28)
+    at sZ.constructor.fetchAndStorePullRequests (/home/admin/webpack:/app/src/lib/stores/pull-request-store.ts:99:19)
+    at Object.refreshPullRequests (/home/admin/webpack:/app/src/lib/stores/pull-request-coordinator.ts:158:45)
+2025-12-31T05:19:06.761Z - warn: [ui] fetchAccount: failed with endpoint https://api.github.com
+TypeError: Failed to fetch
+    at Ot (/home/admin/webpack:/app/src/lib/http.ts:152:10)
+    at Yn.request (/home/admin/webpack:/app/src/lib/api.ts:1749:28)
+    at Yn.fetchAccount (/home/admin/webpack:/app/src/lib/api.ts:1022:35)
+    at Xn (/home/admin/webpack:/app/src/lib/api.ts:1889:28)
+    at /home/admin/webpack:/app/src/lib/stores/accounts-store.ts:253:10
+    at Op.tryUpdateAccount (/home/admin/webpack:/app/src/lib/stores/accounts-store.ts:136:20)
+    at /home/admin/webpack:/app/src/lib/stores/accounts-store.ts:116:37
+    at Array.map (<anonymous>)
+    at Op.refresh (/home/admin/webpack:/app/src/lib/stores/accounts-store.ts:116:21)
+    at Op.loadInitialState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:2309:24)
+2025-12-31T05:19:06.763Z - warn: [ui] fetchUser: failed with endpoint https://api.github.com
+TypeError: Failed to fetch
+    at Ot (/home/admin/webpack:/app/src/lib/http.ts:152:10)
+    at Yn.request (/home/admin/webpack:/app/src/lib/api.ts:1749:28)
+    at Yn.fetchAccount (/home/admin/webpack:/app/src/lib/api.ts:1022:35)
+    at Xn (/home/admin/webpack:/app/src/lib/api.ts:1889:28)
+    at /home/admin/webpack:/app/src/lib/stores/accounts-store.ts:253:10
+    at Op.tryUpdateAccount (/home/admin/webpack:/app/src/lib/stores/accounts-store.ts:136:20)
+    at /home/admin/webpack:/app/src/lib/stores/accounts-store.ts:116:37
+    at Array.map (<anonymous>)
+    at Op.refresh (/home/admin/webpack:/app/src/lib/stores/accounts-store.ts:116:21)
+    at Op.loadInitialState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:2309:24)
+2025-12-31T05:19:06.763Z - warn: [ui] Error refreshing account 'yukazakiri'
+TypeError: Failed to fetch
+    at Ot (/home/admin/webpack:/app/src/lib/http.ts:152:10)
+    at Yn.request (/home/admin/webpack:/app/src/lib/api.ts:1749:28)
+    at Yn.fetchAccount (/home/admin/webpack:/app/src/lib/api.ts:1022:35)
+    at Xn (/home/admin/webpack:/app/src/lib/api.ts:1889:28)
+    at /home/admin/webpack:/app/src/lib/stores/accounts-store.ts:253:10
+    at Op.tryUpdateAccount (/home/admin/webpack:/app/src/lib/stores/accounts-store.ts:136:20)
+    at /home/admin/webpack:/app/src/lib/stores/accounts-store.ts:116:37
+    at Array.map (<anonymous>)
+    at Op.refresh (/home/admin/webpack:/app/src/lib/stores/accounts-store.ts:116:21)
+    at Op.loadInitialState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:2309:24)
+2025-12-31T05:19:06.763Z - warn: [ui] fetchMentionables: failed for dccp-developers/DccpAdminV3
+TypeError: Failed to fetch
+    at Ot (/home/admin/webpack:/app/src/lib/http.ts:152:10)
+    at Yn.request (/home/admin/webpack:/app/src/lib/api.ts:1749:28)
+    at Yn.fetchMentionables (/home/admin/webpack:/app/src/lib/api.ts:1817:35)
+    at XU.constructor.updateMentionables (/home/admin/webpack:/app/src/lib/stores/github-user-store.ts:90:32)
+2025-12-31T05:19:06.763Z - warn: [ui] fetchIssues: failed for repository dccp-developers/DccpAdminV3
+TypeError: Failed to fetch
+    at Ot (/home/admin/webpack:/app/src/lib/http.ts:152:10)
+    at Yn.request (/home/admin/webpack:/app/src/lib/api.ts:1749:28)
+    at Yn.fetchAll (/home/admin/webpack:/app/src/lib/api.ts:1719:45)
+    at Yn.fetchIssues (/home/admin/webpack:/app/src/lib/api.ts:1126:33)
+    at JU.constructor.refreshIssues (/home/admin/webpack:/app/src/lib/stores/issues-store.ts:81:30)
+    at Op._refreshIssues (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1999:5)
+2025-12-31T05:19:06.764Z - warn: [ui] Unable to fetch issues for dccp-developers/DccpAdminV3
+TypeError: Failed to fetch
+    at Ot (/home/admin/webpack:/app/src/lib/http.ts:152:10)
+    at Yn.request (/home/admin/webpack:/app/src/lib/api.ts:1749:28)
+    at Yn.fetchAll (/home/admin/webpack:/app/src/lib/api.ts:1719:45)
+    at Yn.fetchIssues (/home/admin/webpack:/app/src/lib/api.ts:1126:33)
+    at JU.constructor.refreshIssues (/home/admin/webpack:/app/src/lib/stores/issues-store.ts:81:30)
+    at Op._refreshIssues (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1999:5)
+2025-12-31T05:19:06.765Z - warn: [ui] fetchRepository: an error occurred for 'dccp-developers/DccpAdminV3'
+TypeError: Failed to fetch
+    at Ot (/home/admin/webpack:/app/src/lib/http.ts:152:10)
+    at Yn.request (/home/admin/webpack:/app/src/lib/api.ts:1749:28)
+    at Yn.fetchRepository (/home/admin/webpack:/app/src/lib/api.ts:929:35)
+    at Op.repositoryWithRefreshedGitHubRepository (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4224:31)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-12-31T05:19:06.765Z - info: [ui] [fetchProtectedBranches] unable to list protected branches
+TypeError: Failed to fetch
+    at Ot (/home/admin/webpack:/app/src/lib/http.ts:152:10)
+    at Yn.request (/home/admin/webpack:/app/src/lib/api.ts:1749:28)
+    at Yn.fetchProtectedBranches (/home/admin/webpack:/app/src/lib/api.ts:1627:35)
+    at Op.updateBranchProtectionsFromAPI (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4268:32)
+    at Op._selectRepository (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1884:10)
+2025-12-31T05:19:06.767Z - error: [ui] Error reporting stats:
+TypeError: Failed to fetch
+    at eZ.constructor.sA [as post] (/home/admin/webpack:/app/src/lib/stats/stats-store.ts:426:3)
+    at eZ.constructor.reportStats (/home/admin/webpack:/app/src/lib/stats/stats-store.ts:503:35)
+2025-12-31T05:19:09.130Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-31T05:19:09.536Z - info: [ui] Subscribed 'yukazakiri' to Alive channel
+2025-12-31T05:19:09.537Z - info: [ui] Subscribed 'yukazakiri' to Alive channel
+2025-12-31T05:19:09.539Z - info: [ui] Subscribed 'yukazakiri' to Alive channel
+2025-12-31T05:19:17.738Z - info: [ui] Executing pull: git -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 11.929s)
+2025-12-31T05:19:17.740Z - error: [ui] `git -c rebase.backend=merge pull --ff --recurse-submodules --progress origin` exited with an unexpected code: 1.
+remote: Enumerating objects: 54, done.        
+remote: Counting objects: 100% (54/54), done.        
+remote: Compressing objects: 100% (19/19), done.        
+remote: Total 54 (delta 35), reused 53 (delta 34), pack-reused 0 (from 0)        
+From https://github.com/dccp-developers/DccpAdminV3
+   d4f9e9d..d349a8a  main       -> origin/main
+ * [new tag]         v1.47.0-dev.1 -> v1.47.0-dev.1
+ * [new tag]         v1.48.0-dev.1 -> v1.48.0-dev.1
+error: Your local changes to the following files would be overwritten by merge:
+	public/build/manifest.json
+Please commit your changes or stash them before you merge.
+Aborting
+Updating a04942d..d349a8a
+
+(The error was parsed as 54: null)
+2025-12-31T05:19:19.687Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:4845:45
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+2025-12-31T05:19:20.419Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:4845:45
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+2025-12-31T05:19:21.704Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-31T05:19:22.359Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 2.5s of which 0.0s paused, total 2.5s
+2025-12-31T05:19:23.221Z - info: [ui] Executing pull: git -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 2.205s)
+2025-12-31T05:19:23.475Z - info: [ui] [BranchPruner] Last prune took place 17 hours ago - skipping
+2025-12-31T05:19:24.914Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at Op.repositoryWithRefreshedGitHubRepository (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4247:5)
+2025-12-31T05:19:24.918Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-31T05:19:25.893Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at Op.repositoryWithRefreshedGitHubRepository (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4247:5)
+2025-12-31T05:19:26.377Z - info: [ui] Executing updateRemoteHEAD: git remote set-head -a origin (took 3.152s)
+2025-12-31T05:19:27.477Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:4845:45
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+    at Object.onSubmit (/home/admin/webpack:/app/src/ui/local-changes-overwritten/local-changes-overwritten-dialog.tsx:153:9)
+2025-12-31T05:19:28.376Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:4845:45
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+    at Object.onSubmit (/home/admin/webpack:/app/src/ui/local-changes-overwritten/local-changes-overwritten-dialog.tsx:153:9)

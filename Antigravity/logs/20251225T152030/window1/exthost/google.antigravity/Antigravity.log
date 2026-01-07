@@ -1,0 +1,13 @@
+2025-12-25 15:20:36.942 [info] 2025/12/25 15:20:36 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-25 15:20:37.088 [info] I1225 15:20:37.083741 179904 server.go:1167] Starting language server process with pid 179904
+2025-12-25 15:20:37.088 [info] I1225 15:20:37.084402 179904 server.go:284] Setting GOMAXPROCS to 4
+2025-12-25 15:20:37.106 [info] I1225 15:20:37.099606 179904 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2025-12-25 15:20:37.106 [info] I1225 15:20:37.102094 179904 server.go:506] Language server listening on random port at 37079 for HTTPS
+2025-12-25 15:20:37.106 [info] I1225 15:20:37.102188 179904 server.go:513] Language server listening on random port at 45329 for HTTP
+2025-12-25 15:20:38.286 [info] I1225 15:20:38.286036 179904 server.go:484] Created extension server client at port 35563
+2025-12-25 15:20:38.347 [info] W1225 15:20:38.347484 179904 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-25 15:20:38.372 [info] W1225 15:20:38.371729 179904 client.go:135] failed to set auth token
+2025-12-25 15:20:38.414 [info] (Antigravity) 2025-12-25 15:20:38.413 [INFO]: Language server started
+2025-12-25 15:20:38.427 [info] W1225 15:20:38.373478 179904 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-25 15:20:38.427 [info] I1225 15:20:38.426065 179904 server.go:1496] initialized server successfully
+2025-12-25 15:20:38.518 [info] (Antigravity) 2025-12-25 15:20:38.518 [INFO]: LS lspClient started successfully

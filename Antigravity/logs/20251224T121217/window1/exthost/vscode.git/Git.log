@@ -1,0 +1,103 @@
+2025-12-24 12:12:19.762 [info] [main] Log level: Info
+2025-12-24 12:12:19.762 [info] [main] Validating found git in: "git"
+2025-12-24 12:12:19.762 [info] [main] Using git "2.52.0" from "git"
+2025-12-24 12:12:19.762 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-24 12:12:19.762 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-12-24 12:18:57.485 [info] [main] Log level: Info
+2025-12-24 12:18:57.485 [info] [main] Validating found git in: "git"
+2025-12-24 12:18:57.485 [info] [main] Using git "2.52.0" from "git"
+2025-12-24 12:18:57.485 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-24 12:18:57.491 [info] > git rev-parse --show-toplevel [488ms]
+2025-12-24 12:18:57.582 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [48ms]
+2025-12-24 12:18:57.599 [info] [Model][openRepository] Opened repository (path): /home/admin/Documents/GitHub/DccpAdminV3
+2025-12-24 12:18:57.599 [info] [Model][openRepository] Opened repository (real path): /home/admin/Documents/GitHub/DccpAdminV3
+2025-12-24 12:18:57.599 [info] [Model][openRepository] Opened repository (kind): repository
+2025-12-24 12:18:57.708 [info] > git config --get commit.template [98ms]
+2025-12-24 12:18:57.792 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2025-12-24 12:18:57.812 [info] > git rev-parse --show-toplevel [3ms]
+2025-12-24 12:18:57.818 [info] > git status -z -uall [21ms]
+2025-12-24 12:18:57.818 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [16ms]
+2025-12-24 12:18:57.841 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-12-24 12:18:57.845 [info] > git rev-parse --show-toplevel [28ms]
+2025-12-24 12:18:57.850 [info] > git config --get --local branch.main.vscode-merge-base [5ms]
+2025-12-24 12:18:57.860 [info] > git config --get commit.template [19ms]
+2025-12-24 12:18:57.862 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [3ms]
+2025-12-24 12:18:57.867 [info] > git rev-parse --show-toplevel [17ms]
+2025-12-24 12:18:57.933 [info] > git merge-base refs/heads/main refs/remotes/origin/main [66ms]
+2025-12-24 12:18:57.962 [info] > git diff --name-status -z --diff-filter=ADMR 26383af7d230cc5e2fceaa3b1584019b4b91d23b...refs/remotes/origin/main [23ms]
+2025-12-24 12:18:57.963 [info] > git rev-parse --show-toplevel [29ms]
+2025-12-24 12:18:57.963 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [36ms]
+2025-12-24 12:18:57.969 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-24 12:18:58.186 [info] > git status -z -uall [212ms]
+2025-12-24 12:18:58.187 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [210ms]
+2025-12-24 12:18:58.208 [info] > git rev-parse --show-toplevel [27ms]
+2025-12-24 12:18:58.213 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-24 12:18:58.219 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-24 12:18:58.231 [info] > git rev-parse --show-toplevel [6ms]
+2025-12-24 12:18:58.269 [info] > git check-ignore -v -z --stdin [39ms]
+2025-12-24 12:18:58.295 [info] > git rev-parse --show-toplevel [44ms]
+2025-12-24 12:18:58.305 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-24 12:18:58.312 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-24 12:18:58.318 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-24 12:18:58.324 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-24 12:18:58.329 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-24 12:18:58.336 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-24 12:18:58.343 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-24 12:18:58.353 [info] > git rev-parse --show-toplevel [3ms]
+2025-12-24 12:18:58.360 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-24 12:18:58.365 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-24 12:18:58.371 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-24 12:18:58.377 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-24 12:18:58.384 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-24 12:18:58.391 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-24 12:18:58.406 [info] > git rev-parse --show-toplevel [9ms]
+2025-12-24 12:18:58.409 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-12-24 12:19:01.847 [info] [main] Log level: Info
+2025-12-24 12:19:01.848 [info] [main] Validating found git in: "git"
+2025-12-24 12:19:01.848 [info] [main] Using git "2.52.0" from "git"
+2025-12-24 12:19:01.848 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-24 12:19:01.848 [info] > git rev-parse --show-toplevel [13ms]
+2025-12-24 12:19:01.848 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [5ms]
+2025-12-24 12:19:01.848 [info] [Model][openRepository] Opened repository (path): /home/admin/Documents/GitHub/DccpAdminV3
+2025-12-24 12:19:01.848 [info] [Model][openRepository] Opened repository (real path): /home/admin/Documents/GitHub/DccpAdminV3
+2025-12-24 12:19:01.848 [info] [Model][openRepository] Opened repository (kind): repository
+2025-12-24 12:19:01.848 [info] > git config --get commit.template [6ms]
+2025-12-24 12:19:01.848 [info] > git rev-parse --show-toplevel [6ms]
+2025-12-24 12:19:01.848 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [196ms]
+2025-12-24 12:19:01.848 [info] > git rev-parse --show-toplevel [613ms]
+2025-12-24 12:19:01.850 [info] > git rev-parse --show-toplevel [132ms]
+2025-12-24 12:19:01.917 [info] > git status -z -uall [54ms]
+2025-12-24 12:19:01.917 [info] > git rev-parse --show-toplevel [38ms]
+2025-12-24 12:19:01.918 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [47ms]
+2025-12-24 12:19:02.015 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [66ms]
+2025-12-24 12:19:02.042 [info] > git config --get --local branch.main.vscode-merge-base [15ms]
+2025-12-24 12:19:02.057 [info] > git config --get commit.template [42ms]
+2025-12-24 12:19:02.057 [info] > git rev-parse --show-toplevel [51ms]
+2025-12-24 12:19:02.080 [info] > git rev-parse --show-toplevel [13ms]
+2025-12-24 12:19:02.081 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [25ms]
+2025-12-24 12:19:02.098 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2025-12-24 12:19:02.100 [info] > git merge-base refs/heads/main refs/remotes/origin/main [12ms]
+2025-12-24 12:19:02.107 [info] > git rev-parse --show-toplevel [10ms]
+2025-12-24 12:19:02.160 [info] > git check-ignore -v -z --stdin [37ms]
+2025-12-24 12:19:02.166 [info] > git status -z -uall [25ms]
+2025-12-24 12:19:02.166 [info] > git rev-parse --show-toplevel [52ms]
+2025-12-24 12:19:02.167 [info] > git diff --name-status -z --diff-filter=ADMR 26383af7d230cc5e2fceaa3b1584019b4b91d23b...refs/remotes/origin/main [60ms]
+2025-12-24 12:19:02.178 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [19ms]
+2025-12-24 12:19:02.191 [info] > git rev-parse --show-toplevel [14ms]
+2025-12-24 12:19:02.204 [info] > git rev-parse --show-toplevel [5ms]
+2025-12-24 12:19:02.212 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-24 12:19:02.221 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-24 12:19:02.230 [info] > git rev-parse --show-toplevel [3ms]
+2025-12-24 12:19:02.241 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-24 12:19:02.253 [info] > git rev-parse --show-toplevel [3ms]
+2025-12-24 12:19:02.271 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-24 12:19:02.277 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-24 12:19:02.284 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-24 12:19:02.295 [info] > git rev-parse --show-toplevel [3ms]
+2025-12-24 12:19:02.305 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-24 12:19:02.331 [info] > git rev-parse --show-toplevel [12ms]
+2025-12-24 12:19:02.341 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-24 12:19:02.365 [info] > git rev-parse --show-toplevel [12ms]
+2025-12-24 12:19:02.381 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-24 12:19:02.485 [info] > git rev-parse --show-toplevel [35ms]
+2025-12-24 12:19:02.490 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)

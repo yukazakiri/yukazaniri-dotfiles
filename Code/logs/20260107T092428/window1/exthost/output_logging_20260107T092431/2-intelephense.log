@@ -1,0 +1,79 @@
+[Info  - 9:24:37 AM] Initialising intelephense 1.16.3
+[Info  - 9:24:37 AM] Reading state from /home/admin/.config/Code/User/workspaceStorage/2c39dfd38ffe2b5cd849525e6e2706ef/bmewburn.vscode-intelephense-client/3293e334.
+[Info  - 9:24:39 AM] Initialised in 2589 ms
+[Info  - 9:24:39 AM] Searching file:///home/admin/.vscode/extensions/bmewburn.vscode-intelephense-client-1.16.3/node_modules/intelephense/lib/stub for files to index.
+[Info  - 9:24:39 AM] Searching file:///home/admin/Documents/GitHub/DccpAdminV3 for files to index.
+[Warn  - 9:24:40 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/.phpstorm.meta.php is over the maximum file size of 1000000 bytes.
+[Warn  - 9:24:40 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/_ide_helper.php is over the maximum file size of 1000000 bytes.
+[Warn  - 9:24:40 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/_laravel_ide/_model_helpers.php is over the maximum file size of 1000000 bytes.
+[Warn  - 9:24:40 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/composer/autoload_classmap.php is over the maximum file size of 1000000 bytes.
+[Warn  - 9:24:40 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/composer/autoload_static.php is over the maximum file size of 1000000 bytes.
+[Warn  - 9:24:40 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/aws/aws-sdk-php/src/data/ec2/2016-11-15/api-2.json.php is over the maximum file size of 1000000 bytes.
+[Warn  - 9:24:40 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 9:24:40 AM] Indexing started.
+[Info  - 9:24:40 AM] Indexing ended. 21 files indexed in 0s.
+[Info  - 9:24:40 AM] Writing state to /home/admin/.config/Code/User/workspaceStorage/2c39dfd38ffe2b5cd849525e6e2706ef/bmewburn.vscode-intelephense-client/3293e334.
+[Info  - 9:24:42 AM] Wrote state in 1.4s.
+[Info  - 9:43:28 AM] Searching file:///home/admin/Documents/GitHub/DccpAdminV3/public/build/assets for files to index.
+[Info  - 9:43:34 AM] Searching file:///home/admin/Documents/GitHub/DccpAdminV3/bootstrap/ssr/assets for files to index.
+[Warn  - 9:48:51 AM] Error: ENOENT: no such file or directory, stat '/home/admin/Documents/GitHub/DccpAdminV3/node_modules/.vite-temp/vite.config.js.timestamp-1767750531388-1a52af3643f8c8.mjs'
+[Info  - 9:49:51 AM] Searching file:///home/admin/Documents/GitHub/DccpAdminV3/public/build/assets for files to index.
+[Warn  - 9:49:55 AM] Error: ENOENT: no such file or directory, stat '/home/admin/Documents/GitHub/DccpAdminV3/node_modules/.vite-temp/vite.config.js.timestamp-1767750595307-09ed40eb51ac2.mjs'
+[Info  - 9:49:58 AM] Searching file:///home/admin/Documents/GitHub/DccpAdminV3/bootstrap/ssr/assets for files to index.
+[Info  - 10:11:48 AM] Indexing started.
+[Info  - 10:11:48 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:11:54 AM] Indexing started.
+[Info  - 10:11:54 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:12:10 AM] Indexing started.
+[Info  - 10:12:10 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:12:11 AM] Indexing started.
+[Info  - 10:12:11 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:12:18 AM] Indexing started.
+[Info  - 10:12:19 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:14:12 AM] Indexing started.
+[Info  - 10:14:12 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:17:21 AM] Indexing started.
+[Info  - 10:17:21 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:19:07 AM] Indexing started.
+[Info  - 10:19:07 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:19:07 AM] Indexing started.
+[Info  - 10:19:07 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:23:13 AM] Indexing started.
+[Info  - 10:23:13 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:23:25 AM] Indexing started.
+[Info  - 10:23:25 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:24:15 AM] Indexing started.
+[Info  - 10:24:15 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:24:15 AM] Indexing started.
+[Info  - 10:24:16 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:26:28 AM] Indexing started.
+[Info  - 10:26:28 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:26:29 AM] Indexing started.
+[Info  - 10:26:29 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:26:29 AM] Indexing started.
+[Info  - 10:26:29 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:26:32 AM] Indexing started.
+[Info  - 10:26:33 AM] Indexing ended. 1 files indexed in 1s.
+[Info  - 10:26:33 AM] Indexing started.
+[Info  - 10:26:34 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:27:46 AM] Indexing started.
+[Info  - 10:27:46 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:29:07 AM] Indexing started.
+[Info  - 10:29:07 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:29:33 AM] Indexing started.
+[Info  - 10:29:33 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:30:01 AM] Indexing started.
+[Info  - 10:30:01 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:41:16 AM] Indexing started.
+[Info  - 10:41:16 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:43:47 AM] Indexing started.
+[Info  - 10:43:47 AM] Indexing ended. 14 files indexed in 0s.
+[Info  - 10:43:51 AM] Indexing started.
+[Info  - 10:43:52 AM] Indexing ended. 1 files indexed in 1s.
+[Info  - 10:43:52 AM] Indexing started.
+[Info  - 10:43:53 AM] Indexing ended. 2 files indexed in 1s.
+[Warn  - 11:02:27 AM] Error: ENOENT: no such file or directory, stat '/home/admin/Documents/GitHub/DccpAdminV3/node_modules/.vite-temp/vite.config.js.timestamp-1767754947284-026f76da7aaa58.mjs'
+[Info  - 11:03:22 AM] Searching file:///home/admin/Documents/GitHub/DccpAdminV3/public/build/assets for files to index.
+[Warn  - 11:03:30 AM] Error: ENOENT: no such file or directory, stat '/home/admin/Documents/GitHub/DccpAdminV3/node_modules/.vite-temp/vite.config.js.timestamp-1767755010033-1c215e11ed8c3.mjs'
+[Info  - 11:03:32 AM] Searching file:///home/admin/Documents/GitHub/DccpAdminV3/bootstrap/ssr/assets for files to index.
+[Warn  - 11:26:01 AM] Error: ENOENT: no such file or directory, stat '/home/admin/Documents/GitHub/DccpAdminV3/node_modules/.vite-temp/vite.config.js.timestamp-1767756360933-43d5b2c97c064.mjs'

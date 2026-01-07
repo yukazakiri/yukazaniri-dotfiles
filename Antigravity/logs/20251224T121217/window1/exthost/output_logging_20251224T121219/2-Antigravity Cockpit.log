@@ -1,0 +1,102 @@
+[2025-12-24 04:14:39] [INFO] Antigravity Cockpit v1.5.34 - Systems Online
+[2025-12-24 04:14:39] [INFO] Scanning environment, max attempts: 3
+[2025-12-24 04:14:39] [INFO] Found 1 candidate process(es)
+[2025-12-24 04:14:39] [INFO] 🔍 Checking Process: PID=2803, ExtPort=33401
+[2025-12-24 04:14:39] [INFO] [UnixStrategy] Port command available: lsof
+[2025-12-24 04:14:39] [INFO] ✅ Connection Logic Verified: 45251
+[2025-12-24 04:14:39] [INFO] Reactor Engaged: :45251
+[2025-12-24 04:14:39] [INFO] Reactor Pulse: 120000ms
+[2025-12-24 04:14:39] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-24 04:14:39] [INFO] System boot successful
+[2025-12-24 04:14:39] [INFO] Antigravity Cockpit Fully Operational
+[2025-12-24 04:14:39] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6944
+}
+[2025-12-24 04:14:39] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 91.25%
+    Gemini 3 Pro (Low)           : 91.25%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 100.00%
+    Claude Sonnet 4.5 (Thinking) : 100.00%
+    Claude Opus 4.5 (Thinking)   : 100.00%
+    GPT-OSS 120B (Medium)        : 100.00%
+[2025-12-24 04:14:39] [INFO] Updating config 'agCockpit.groupMappings': {"MODEL_PLACEHOLDER_M7":"MODEL_PLACEHOLDER_M7_MODEL_PLACEHOLDER_M8","MODEL_PLACEHOLDER_M8":"MODEL_PLACEHOLDER_M7_MODEL_PLACEHOLDER_M8","MODEL_CLAUDE_4_5_SONNET":"MODEL_CLAUDE_4_5_SONNET_MODEL_CLAUDE_4_5_SONNET_THINKING_MODEL_OPENAI_GPT_OSS_120B_MEDIUM_MODEL_PLACEHOLDER_M12_MODEL_PLACEHOLDER_M18","MODEL_CLAUDE_4_5_SONNET_THINKING":"MODEL_CLAUDE_4_5_SONNET_MODEL_CLAUDE_4_5_SONNET_THINKING_MODEL_OPENAI_GPT_OSS_120B_MEDIUM_MODEL_PLACEHOLDER_M12_MODEL_PLACEHOLDER_M18","MODEL_OPENAI_GPT_OSS_120B_MEDIUM":"MODEL_CLAUDE_4_5_SONNET_MODEL_CLAUDE_4_5_SONNET_THINKING_MODEL_OPENAI_GPT_OSS_120B_MEDIUM_MODEL_PLACEHOLDER_M12_MODEL_PLACEHOLDER_M18","MODEL_PLACEHOLDER_M12":"MODEL_CLAUDE_4_5_SONNET_MODEL_CLAUDE_4_5_SONNET_THINKING_MODEL_OPENAI_GPT_OSS_120B_MEDIUM_MODEL_PLACEHOLDER_M12_MODEL_PLACEHOLDER_M18","MODEL_PLACEHOLDER_M18":"MODEL_CLAUDE_4_5_SONNET_MODEL_CLAUDE_4_5_SONNET_THINKING_MODEL_OPENAI_GPT_OSS_120B_MEDIUM_MODEL_PLACEHOLDER_M12_MODEL_PLACEHOLDER_M18"}
+[2025-12-24 04:14:39] [INFO] Reprocessing cached telemetry data with latest config
+[2025-12-24 04:14:39] [INFO] Auto-pinning all 2 groups to status bar
+[2025-12-24 04:14:39] [INFO] Updating config 'agCockpit.pinnedGroups': ["MODEL_PLACEHOLDER_M7_MODEL_PLACEHOLDER_M8","MODEL_CLAUDE_4_5_SONNET_MODEL_CLAUDE_4_5_SONNET_THINKING_MODEL_OPENAI_GPT_OSS_120B_MEDIUM_MODEL_PLACEHOLDER_M12_MODEL_PLACEHOLDER_M18"]
+[2025-12-24 04:14:39] [INFO] Auto-grouped on first run: 7 models
+[2025-12-24 04:14:39] [INFO] Reprocessing cached telemetry data with latest config
+[2025-12-24 04:14:39] [INFO] Auto-pinning all 2 groups to status bar
+[2025-12-24 04:14:39] [INFO] Updating config 'agCockpit.pinnedGroups': ["MODEL_PLACEHOLDER_M7_MODEL_PLACEHOLDER_M8","MODEL_CLAUDE_4_5_SONNET_MODEL_CLAUDE_4_5_SONNET_THINKING_MODEL_OPENAI_GPT_OSS_120B_MEDIUM_MODEL_PLACEHOLDER_M12_MODEL_PLACEHOLDER_M18"]
+[2025-12-24 04:14:39] [INFO] Reprocessing cached telemetry data with latest config
+[2025-12-24 04:15:01] [INFO] Dashboard initialized (reprocessing cached data)
+[2025-12-24 04:15:01] [INFO] Reprocessing cached telemetry data with latest config
+[2025-12-24 04:15:15] [INFO] User triggered manual refresh
+[2025-12-24 04:15:15] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-24 04:15:15] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6944
+}
+[2025-12-24 04:15:15] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 91.25%
+    Gemini 3 Pro (Low)           : 91.25%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 100.00%
+    Claude Sonnet 4.5 (Thinking) : 100.00%
+    Claude Opus 4.5 (Thinking)   : 100.00%
+    GPT-OSS 120B (Medium)        : 100.00%
+[2025-12-24 04:15:22] [INFO] User toggled grouping display
+[2025-12-24 04:15:22] [INFO] Updating config 'agCockpit.groupingEnabled': false
+[2025-12-24 04:15:22] [INFO] Reprocessing cached telemetry data with latest config
+[2025-12-24 04:15:22] [INFO] Reprocessing cached telemetry data with latest config
+[2025-12-24 04:16:39] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-24 04:16:39] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6944
+}
+[2025-12-24 04:16:39] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 91.25%
+    Gemini 3 Pro (Low)           : 91.25%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 100.00%
+    Claude Sonnet 4.5 (Thinking) : 100.00%
+    Claude Opus 4.5 (Thinking)   : 100.00%
+    GPT-OSS 120B (Medium)        : 100.00%
+[2025-12-24 04:18:39] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-24 04:18:39] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6944
+}
+[2025-12-24 04:18:39] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 91.25%
+    Gemini 3 Pro (Low)           : 91.25%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 100.00%
+    Claude Sonnet 4.5 (Thinking) : 100.00%
+    Claude Opus 4.5 (Thinking)   : 100.00%
+    GPT-OSS 120B (Medium)        : 100.00%

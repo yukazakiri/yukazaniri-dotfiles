@@ -1,0 +1,701 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Android-puhelimet"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Apple-puhelimet"
+   },
+   "button_feedback": {
+      "message": "Lisää arvio"
+   },
+   "button_message": {
+      "message": "Lähetä meille viesti"
+   },
+   "close": {
+      "message": "Sulje"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Laitteen nimi"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, jne."
+   },
+   "contact_title": {
+      "message": "Eikö etsimäsi laite ole luettelossa? Kerro meille!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Aktivoi mobiilinäkymä tässä välilehdessä"
+   },
+   "copied": {
+      "message": "Kopioitu"
+   },
+   "dimensions": {
+      "message": "Mitat"
+   },
+   "error": {
+      "message": "Virhe"
+   },
+   "error_contact": {
+      "message": "{Ota meihin yhteyttä} jos ongelma jatkuu."
+   },
+   "extDescription": {
+      "message": "Simuloi älypuhelinta ja tablettia tietokoneella useilla malleilla testataksesi mobiilisivustoasi ja responsiivista sivustoasi."
+   },
+   "extName": {
+      "message": "Mobiililaitteen simulaattori - testaa responsiivinen sivusto"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "Älä vastaa"
+   },
+   "feedback_company_type": {
+      "message": "Mikä on yrityksesi tyyppi?"
+   },
+   "feedback_company_type_agency": {
+      "message": "Pienyritys (10-49 työntekijää)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Freelancer"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Erittäin suuri yritys / konserni (5000+ työntekijää)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Mikroyritys (1-9 työntekijää)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Suuri yritys (250-4999 työntekijää)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Keskisuuri yritys (50-249 työntekijää)"
+   },
+   "feedback_error_required": {
+      "message": "Kaikki kentät ovat tyhjiä 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Kuinka usein käytät tätä laajennusta?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Satunnaisesti"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Useita kertoja viikossa"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Päivittäin"
+   },
+   "feedback_frequency_rare": {
+      "message": "Harvoin"
+   },
+   "feedback_improvements": {
+      "message": "Mitä parannuksia haluaisit nähdä?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Idea, kitka, puute..."
+   },
+   "feedback_profession": {
+      "message": "Mikä on ammattiosastosi?"
+   },
+   "feedback_profession_designer": {
+      "message": "Suunnittelu"
+   },
+   "feedback_profession_developer": {
+      "message": "Kehitys"
+   },
+   "feedback_profession_marketing": {
+      "message": "Markkinointi"
+   },
+   "feedback_profession_other": {
+      "message": "Muu"
+   },
+   "feedback_profession_product": {
+      "message": "Tuotehallinta"
+   },
+   "feedback_profession_qa": {
+      "message": "Testaus / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Myynti"
+   },
+   "feedback_submit": {
+      "message": "Lähetä"
+   },
+   "feedback_submitted": {
+      "message": "Kiitos paljon palautteestasi 🤗"
+   },
+   "feedback_title": {
+      "message": "Auta meitä tekemään Mobile FIRSTistä vielä hyödyllisempi sinulle 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Testaa sivustoni, tee asiakasdemoja..."
+   },
+   "feedback_use_cases": {
+      "message": "Miksi käytät Mobile FIRSTiä?"
+   },
+   "get_pro": {
+      "message": "Hanki PRO-versio"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "global_cancel": {
+      "message": "Peruuta"
+   },
+   "link": {
+      "message": "Linkki"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_add_window": {
+      "message": "Lisää simulaatiomalli"
+   },
+   "menu_change_device": {
+      "message": "Vaihda mallia"
+   },
+   "menu_close_alone": {
+      "message": "Poista simulaattori käytöstä"
+   },
+   "menu_close_multi": {
+      "message": "Sulje tämä ikkuna"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> Eikö etsimääsi laitetta ole luettelossa? Kerro meille!"
+   },
+   "menu_extensions": {
+      "message": "Tutustu muihin Chrome-laajennuksiimme"
+   },
+   "menu_faq_all": {
+      "message": "Katso kaikki usein kysytyt kysymykset"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Kuinka aktivoida simulaattori yksityisessä selauksessa?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Media kyselyni eivät toimi"
+   },
+   "menu_faq_scroll": {
+      "message": "Simulaattorissa ei voi vierittää"
+   },
+   "menu_faq_shortcut": {
+      "message": "Kuinka määrittää pikanäppäimet?"
+   },
+   "menu_faq_subscription": {
+      "message": "Miksi tilaukseni ei toimi?"
+   },
+   "menu_faq_title": {
+      "message": "Usein kysytyt kysymykset"
+   },
+   "menu_help_center": {
+      "message": "Ohjekeskus"
+   },
+   "menu_info_device": {
+      "message": "Tämän laitteen ominaisuudet ja mockup"
+   },
+   "menu_info_device_features": {
+      "message": "Ominaisuudet (näkymän resoluutio, jne.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Ilmainen mockup läpinäkyvänä PNG:nä"
+   },
+   "menu_report": {
+      "message": "Ilmoita virheestä"
+   },
+   "menu_rotate": {
+      "message": "Vaihda suuntaa"
+   },
+   "menu_screencast": {
+      "message": "📹 Tallenna näytön video"
+   },
+   "menu_screenshot": {
+      "message": "📷 Ota kuvakaappaus"
+   },
+   "menu_send_improvement": {
+      "message": "Ehdota parannusta"
+   },
+   "menu_send_message": {
+      "message": "Ohjekeskus"
+   },
+   "menu_settings": {
+      "message": "Asetukset"
+   },
+   "menu_share": {
+      "message": "Jaa kollegalle, ystävälle,..."
+   },
+   "menu_vote_feature": {
+      "message": "Äänestä haluamistasi ominaisuuksista"
+   },
+   "menu_zoom": {
+      "message": "Zoomaa laitteessa"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Lisää asetuksia"
+   },
+   "new_ios26_h1": {
+      "message": "Tutustu nyt Safari iOS 26:n uuteen \"Liquid Glass\" -käyttöliittymään entistä realistisempia testejä varten!"
+   },
+   "new_ios26_h2": {
+      "message": "Saatavilla kaikissa iPhone&nbsp;15- ja iPhone&nbsp;16-malleissa"
+   },
+   "new_iphone_14_h1": {
+      "message": "Ole ensimmäinen, joka käyttää (virtuaalisesti) iPhone 14 PRO:ta"
+   },
+   "new_iphone_17_h1": {
+      "message": "Uusi!\u003Cbr>Kokeile nyt sivustojasi iPhone&nbsp;17:llä."
+   },
+   "new_iphone_17_h2": {
+      "message": "iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX ovat saatavilla simulaattorissa."
+   },
+   "new_video_feature_h1": {
+      "message": "Tutustu nyt uuteen videon tallennusominaisuuteen!"
+   },
+   "new_video_feature_h2": {
+      "message": "Tallenna paremmalla laadulla, uusilla vaihtoehdoilla ja läpinäkyvällä taustalla"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Tietoa\u003C/strong>Kosketusvieritys ei ole käytettävissä, mutta voit \u003Cstrong>näyttää vierityspalkin\u003C/strong> jos sinulla ei ole hiiren rullaa tai kosketuslevyä vieritykseen.\u003Cbr>\u003Cbr>Se on asetus oikeassa alakulmassa \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_10_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Päivitys v4.10.0\u003C/strong>iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX ovat saatavilla simulaattorissa \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_12_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Päivitys v4.12.0\u003C/strong>Uusi ominaisuus PRO-versiossa, \u003Cstrong>kuvakaappausten muokkaus\u003C/strong>. Painikkeet muotojen piirtämiseen, tekstin lisäämiseen jne. \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_14_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Päivitys v4.14.0\u003C/strong>Tutustu nyt uuteen \u003Cstrong>videon tallennus\u003C/strong> ominaisuuteen! \u003Ci class='mdi'>&#xe90e;\u003C/i>"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Päivitys v4.14.5\u003C/strong>Merkittävä lisäys kuvakaappausten \u003Cstrong>resoluutioon ja laatuun\u003C/strong> \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_6_9": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Päivitys v4.6.9\u003C/strong>\u003Cstrong>Teema\u003C/strong> Teeman vaihtaminen on nyt mahdollista asetuksissa \u003Ci class='mdi'>&#xe905;\u003C/i> oikeassa alakulmassa"
+   },
+   "notification_update_title_v4_7_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Päivitys v4.7.0\u003C/strong>Korjaus koskien \u003Cstrong>koko sivun kuvakaappauksia\u003C/strong> ja uuden \u003Cstrong>laitteen lisäys\u003C/strong>."
+   },
+   "notification_update_title_v4_8_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Päivitys v4.8.0\u003C/strong>Mahdollisuus \u003Cstrong>pysäyttää koko sivun kaappaus ennen sivun loppua\u003C/strong>.\u003Cbr/>Lisäksi asetuksiin lisätty tekstikenttä \u003Cstrong>näytettävän URL-osoitteen muokkaamiseen terminaalissa.\u003C/strong>"
+   },
+   "notification_update_title_v4_9_1": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Päivitys v4.9.0\u003C/strong>Tutustu nyt \u003Cstrong>uuteen Safari iOS 26 -käyttöliittymään\u003C/strong> iPhone 15:ssä ja 16:ssa \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_9_3": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Päivitys v4.9.3\u003C/strong>Korjaus iOS 26 -käyttöliittymään kiinteiden elementtien ollessa sivun alareunassa. Osoitepalkki meni elementtien päälle.\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Tervetuloa Mobile FIRSTiin 👋\u003C/strong>Simuloi yhdellä napsautuksella puhelimia, tabletteja ja tietokoneita testataksesi ja nähdäksesi sivustosi helposti.\u003Cbr>\u003Cbr>\u003Cstrong>Valikko löytyy oikealta ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "Valinnainen"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "Asenna"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "Tämä laajennus mahdollistaa minkä tahansa näytöllä olevan värin kaappaamisen."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Värinvalitsin"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Tunnista yhdellä klikkauksella mikä fontti on käytössä millä tahansa verkkosivun tekstillä."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Fontin löytäjä"
+   },
+   "other_extensions_h1": {
+      "message": "Tutustu täysin uusiin ilmaislaajennuksiimme"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Erikoismallit"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Aktivoi asetus"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Tätä simulaattoria ei voi oletuksena aktivoida paikallisille tiedostoille (file:///), mutta voit aktivoida asetuksen manuaalisesti Chromen asetuksista."
+   },
+   "popup_site_incompatible": {
+      "message": "Simulaattoria ei voi aktivoida selaimesi tällä alkuperäisellä sivulla. Kokeile toisessa välilehdessä tai selaa sivustoa ja käynnistä uudelleen."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Kaikki videoasetukset"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Mainosten poistaminen"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Laskutetaan vuosittain"
+   },
+   "pro_modale_button": {
+      "message": "Tilaa"
+   },
+   "pro_modale_from": {
+      "message": "Alkaen"
+   },
+   "pro_modale_h1": {
+      "message": "Tule PRO-käyttäjäksi"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Poista mainokset"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Muunna videokaappauksesi GIF- ja MP4-muotoon"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simuloi kaikkia laitteita"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "Muokkaa kuvakaappauksiasi"
+   },
+   "pro_modale_h1_limit": {
+      "message": "Olet saavuttanut 5 videokaappauksen päivittäisen rajan"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "Avaa kaikki videotallennusasetukset"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Avaa kaikki asetukset"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Ota rajattomasti kuvakaappauksia"
+   },
+   "pro_modale_h2": {
+      "message": "Tule PRO-käyttäjäksi ja tue aktiivisesti tämän laajennuksen kehitystä tukemalla sen kehittäjää."
+   },
+   "pro_modale_link_1": {
+      "message": "Tai"
+   },
+   "pro_modale_link_2": {
+      "message": "kirjaudu"
+   },
+   "pro_modale_link_3": {
+      "message": "tilaajatiliini"
+   },
+   "pro_modale_recurring_month": {
+      "message": "kuukausi"
+   },
+   "pro_modale_savings": {
+      "message": "Säästä"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Miten arvioisit tämän laajennuksen?"
+   },
+   "review_note_feedback": {
+      "message": "Kiitos palautteestasi, älä epäröi lähettää meille viestiä, jotta voimme parantaa tätä laajennusta."
+   },
+   "review_note_store": {
+      "message": "Kiitos palautteestasi, älä epäröi lisätä arviota Google Storeen. Olisin siitä erittäin kiitollinen 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Kameran käyttöoikeus evätty."
+   },
+   "screencast_error": {
+      "message": "Tallennuksessa tapahtui virhe. {Klikkaa tästä} saadaksesi kiertotien."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "Chrome-versiosi on liian vanha tätä ominaisuutta varten. Päivitä Chrome versioon 94.0 tai uudempi."
+   },
+   "screencast_generation": {
+      "message": "GIF:n luonti käynnissä"
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Mikrofonin käyttöoikeus evätty."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Videotallennukset ovat rajoitettu 5 minuuttiin ilmaisversiossa."
+   },
+   "screencast_modale_contact": {
+      "message": "Ilmoita virheestä, ehdota parannusta"
+   },
+   "screencast_modale_copy": {
+      "message": "Kopioi"
+   },
+   "screencast_modale_download": {
+      "message": "Lataa"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Yhteensopiva kaikkialla, mutta heikompi laatu (läpinäkyvyys, jos asetus on käytössä)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Paras yhteensopivuus PowerPointin kanssa, mutta ei läpinäkyvyyttä"
+   },
+   "screencast_modale_download_webm": {
+      "message": "Lataa oletusmuodossa WEBM (läpinäkyvyys, jos asetus on käytössä)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "GIF-tiedoston enimmäiskesto on 60 sekuntia. Sen jälkeen tiedostosta tulisi liian suuri."
+   },
+   "screencast_modale_texte": {
+      "message": "Voit ladata tämän videon eri muodoissa tai saada jakolinkin."
+   },
+   "screencast_modale_title": {
+      "message": "Videokaappaus"
+   },
+   "screencast_modale_upload": {
+      "message": "Hanki jakolinkki"
+   },
+   "screencast_onboarding_close": {
+      "message": "Sulje"
+   },
+   "screencast_onboarding_texte": {
+      "message": "Luo mobiilivideo GIF-muodossa yhdellä klikkauksella (max 20 sekuntia)"
+   },
+   "screencast_onboarding_title": {
+      "message": "Videokaappaus"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "Videon laatu vaikuttaa bittinopeuteen, fps:ään ja tallennuksen resoluutioon. Mitä korkeampi laatu, sitä suurempi tiedosto."
+   },
+   "screencast_start_recording": {
+      "message": "Aloita tallennus"
+   },
+   "screencast_tooltip_device": {
+      "message": "Tallenna vain laitteen video"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Tallenna välilehti laitteen kanssa"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Luo kuvakaappaus"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Piirrä nuoli"
+   },
+   "screenshot_editor_close": {
+      "message": "Sulje editori"
+   },
+   "screenshot_editor_color": {
+      "message": "Viivan väri"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Piirrä ympyrä"
+   },
+   "screenshot_editor_line": {
+      "message": "Piirrä viiva"
+   },
+   "screenshot_editor_pen": {
+      "message": "Vapaa piirustus"
+   },
+   "screenshot_editor_rect": {
+      "message": "Piirrä suorakulmio"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Viivan paksuus"
+   },
+   "screenshot_editor_undo": {
+      "message": "Kumoa viimeinen toiminto"
+   },
+   "screenshot_menu_1": {
+      "message": "Kuvakaappaus laitteella"
+   },
+   "screenshot_menu_2": {
+      "message": "Kuvakaappaus vain sivustosta"
+   },
+   "screenshot_menu_3": {
+      "message": "Kuvakaappaus koko sivusta"
+   },
+   "screenshot_menu_4": {
+      "message": "Kaappaa koko välilehti"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Pysäytä ennen sivun loppua"
+   },
+   "screenshot_modale_copy": {
+      "message": "Kopioi kuva leikepöydälle"
+   },
+   "screenshot_modale_download_png": {
+      "message": "Lataa PNG-muodossa (ei pakkausta)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "Lataa WEBP-muodossa, yhteensopiva lähes kaikkialla ja optimoitu pakkaus (suositeltu)"
+   },
+   "screenshot_modale_edit": {
+      "message": "Muokkaa kuvaa"
+   },
+   "screenshot_modale_help": {
+      "message": "Tallentaaksesi kuvan suuressa koossa, klikkaa sitä oikealla ja valitse \"Kopioi kuva\" tai \"Tallenna\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Kuvakaappaus"
+   },
+   "screenshot_workaround_context": {
+      "message": "Konteksti"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "Joidenkin teknisten rajoitusten vuoksi saatat saada tämän virheilmoituksen, kun otat näyttökuvaa."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Kiertotapa"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "Tässä tapauksessa kuvakaappauksen ottaminen onnistuu napsauttamalla hiiren oikealla painikkeella missä tahansa sivulla, valitsemalla \"Mobiilisimulaattori\" ja sitten \"📷 Ota kuvakaappaus\""
+   },
+   "screenshot_workaround_title": {
+      "message": "Näyttökuvan kiertotapa"
+   },
+   "select": {
+      "message": "Valitse..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_batterie_level": {
+      "message": "Akun taso laitteen yläosassa (%)"
+   },
+   "settings_camera": {
+      "message": "Kamera"
+   },
+   "settings_change_analytics": {
+      "message": "Autan tämän laajennuksen kehittäjää parantamaan tuotetta Posthogin avulla. Kaikki tiedot anonymisoidaan."
+   },
+   "settings_change_background": {
+      "message": "Muuta taustaväriä"
+   },
+   "settings_change_cursor": {
+      "message": "Älä muuta kursorin tyyliä webviewissä"
+   },
+   "settings_countdown": {
+      "message": "Laskenta-aika (sekunteina)"
+   },
+   "settings_default_device": {
+      "message": "Oletuslaite jokaisessa aktivoinnissa"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Valitse laite"
+   },
+   "settings_device_default_url": {
+      "message": "Muokkaa terminaalissa näytettävää URL-osoitetta"
+   },
+   "settings_device_hide": {
+      "message": "Älä näytä laitetta"
+   },
+   "settings_fullscreen": {
+      "message": "Sivusto koko näytöllä laitteessa"
+   },
+   "settings_h2_device": {
+      "message": "Laite"
+   },
+   "settings_h2_global": {
+      "message": "Yleiset"
+   },
+   "settings_hide_header_footer": {
+      "message": "Piilota selaimen ylä- ja alaosat webviewissä (PWA)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Älä näytä virtuaalista näppäimistöä, kun syöttökenttä on aktiivinen"
+   },
+   "settings_microphone": {
+      "message": "Mikrofoni"
+   },
+   "settings_presenter_mode": {
+      "message": "Esitystila (oikeanpuoleinen valikko näkyy vain hiiren ollessa sen päällä)"
+   },
+   "settings_pro_account": {
+      "message": "Hallitse tilaustani"
+   },
+   "settings_scrollbar_show": {
+      "message": "Näytä natiivi vierityspalkki laitteessa"
+   },
+   "settings_shortcuts": {
+      "message": "Määritä pikanäppäimet"
+   },
+   "settings_theme": {
+      "message": "Teema"
+   },
+   "settings_theme_auto": {
+      "message": "Auto"
+   },
+   "settings_theme_dark": {
+      "message": "Tumma"
+   },
+   "settings_theme_light": {
+      "message": "Vaalea"
+   },
+   "settings_transparent_background": {
+      "message": "Läpinäkyvä tausta"
+   },
+   "settings_transparent_background_info": {
+      "message": "Tämä vaihtoehto vaatii enemmän laskentaa ja voi siten hidastaa näyttöä tietokoneesi suorituskyvystä riippuen (yhteensopiva vain WEBM- ja GIF-muotojen kanssa)"
+   },
+   "settings_video_quality": {
+      "message": "Videon laatu"
+   },
+   "settings_video_quality_high": {
+      "message": "Erinomainen"
+   },
+   "settings_video_quality_low": {
+      "message": "Keskitaso"
+   },
+   "settings_video_quality_medium": {
+      "message": "Hyvä"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Onko tämä mobiilisimulaattori hyödyllinen sinulle?"
+   },
+   "sharing_h2": {
+      "message": "Jaa se sitten kollegoillesi tai ystävillesi"
+   },
+   "sharing_review_1": {
+      "message": "Ja jos sinulla on minuutti aikaa"
+   },
+   "sharing_review_2": {
+      "message": "lisätä arvostelu"
+   },
+   "sharing_review_3": {
+      "message": "se on kirsikka kakun päällä! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Lisää arvostelu"
+   },
+   "sharing_txt": {
+      "message": "Simulaattori mobiili- ja tablettisivustojen testaamiseen"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "Tämä on vain kuva. Käytä omaa näppäimistöäsi."
+   },
+   "simulator_header_info": {
+      "message": "Tämä on vain kuva. Vaihtaaksesi URL-osoitetta käytä yllä olevaa Chromen kenttää."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Tabletit"
+   }
+}

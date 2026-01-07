@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Pridėti prie mėgstamiausių"
+   },
+   "basic_font": {
+      "message": "Šis šriftas jau yra įdiegtas Windows ir Mac kompiuteriuose. Nereikia jo atsisiųsti jūsų svetainei."
+   },
+   "chrome_limitations": {
+      "message": "Dėl tam tikrų techninių apribojimų plėtinys neveikia Chrome Web Store ar Chrome nustatymų puslapiuose."
+   },
+   "clear": {
+      "message": "Išvalyti sąrašą"
+   },
+   "contact_us": {
+      "message": "Susisiekite su mumis"
+   },
+   "copy": {
+      "message": "Kopijuoti"
+   },
+   "download": {
+      "message": "Atsisiųsti"
+   },
+   "extDescription": {
+      "message": "Font finder yra lengvas plėtinys, leidžiantis rasti teksto šriftą ekrane."
+   },
+   "extName": {
+      "message": "Font finder - Rasti teksto šriftą"
+   },
+   "favorites": {
+      "message": "Mėgstamiausi"
+   },
+   "link": {
+      "message": "Nuoroda"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Daugiau.."
+   },
+   "pick_color_button": {
+      "message": "Rasti šriftą puslapyje"
+   },
+   "rating": {
+      "message": "Įvertinkite plėtinį"
+   },
+   "recent": {
+      "message": "Naujausi"
+   },
+   "remove_from_favorites": {
+      "message": "Pašalinti iš mėgstamiausių"
+   },
+   "report_bug": {
+      "message": "Pranešti apie klaidą"
+   },
+   "settings": {
+      "message": "Nustatymai"
+   },
+   "settings_auto_copy": {
+      "message": "Automatiškai kopijuoti šrifto pavadinimą"
+   },
+   "settings_keep_history": {
+      "message": "Išsaugoti naujausius šriftus"
+   },
+   "settings_shortcut": {
+      "message": "Nustatyti klaviatūros spartųjį klavišą"
+   }
+}

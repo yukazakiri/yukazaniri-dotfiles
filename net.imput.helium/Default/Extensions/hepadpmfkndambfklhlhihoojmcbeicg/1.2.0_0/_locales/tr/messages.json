@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Favorilere ekle"
+   },
+   "basic_font": {
+      "message": "Bu yazı tipi Windows ve Mac bilgisayarlarda zaten yüklü. Siteniz için indirmenize gerek yok."
+   },
+   "chrome_limitations": {
+      "message": "Bazı teknik sınırlamalar, uzantının Chrome Web Store veya Chrome ayar sayfalarında çalışmasını engeller."
+   },
+   "clear": {
+      "message": "Listeyi temizle"
+   },
+   "contact_us": {
+      "message": "Bize ulaşın"
+   },
+   "copy": {
+      "message": "Kopyala"
+   },
+   "download": {
+      "message": "İndir"
+   },
+   "extDescription": {
+      "message": "Font finder, ekrandaki bir metnin yazı tipini bulmanızı sağlayan hafif bir uzantıdır."
+   },
+   "extName": {
+      "message": "Font finder - Bir metnin yazı tipini bul"
+   },
+   "favorites": {
+      "message": "Favoriler"
+   },
+   "link": {
+      "message": "Bağlantı"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Daha fazla.."
+   },
+   "pick_color_button": {
+      "message": "Sayfadaki yazı tipini bul"
+   },
+   "rating": {
+      "message": "Uzantıyı değerlendirin"
+   },
+   "recent": {
+      "message": "Son"
+   },
+   "remove_from_favorites": {
+      "message": "Favorilerden çıkar"
+   },
+   "report_bug": {
+      "message": "Hata bildir"
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "settings_auto_copy": {
+      "message": "Yazı tipi adını otomatik kopyala"
+   },
+   "settings_keep_history": {
+      "message": "Son yazı tiplerini kaydet"
+   },
+   "settings_shortcut": {
+      "message": "Klavye kısayolu belirle"
+   }
+}

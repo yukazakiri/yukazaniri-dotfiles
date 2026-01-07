@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Dodaj do ulubionych"
+   },
+   "basic_font": {
+      "message": "Ta czcionka jest już zainstalowana na komputerach Windows i Mac. Nie trzeba jej pobierać na swoją stronę."
+   },
+   "chrome_limitations": {
+      "message": "Pewne ograniczenia techniczne uniemożliwiają działanie rozszerzenia na stronach Chrome Web Store lub stronach ustawień Chrome."
+   },
+   "clear": {
+      "message": "Wyczyść listę"
+   },
+   "contact_us": {
+      "message": "Skontaktuj się z nami"
+   },
+   "copy": {
+      "message": "Kopiuj"
+   },
+   "download": {
+      "message": "Pobierz"
+   },
+   "extDescription": {
+      "message": "Font finder to lekka rozszerzenie, które pozwala znaleźć czcionkę tekstu na ekranie."
+   },
+   "extName": {
+      "message": "Font finder - Znajdź czcionkę tekstu"
+   },
+   "favorites": {
+      "message": "Ulubione"
+   },
+   "link": {
+      "message": "Link"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Więcej.."
+   },
+   "pick_color_button": {
+      "message": "Znajdź czcionkę na stronie"
+   },
+   "rating": {
+      "message": "Oceń rozszerzenie"
+   },
+   "recent": {
+      "message": "Ostatnie"
+   },
+   "remove_from_favorites": {
+      "message": "Usuń z ulubionych"
+   },
+   "report_bug": {
+      "message": "Zgłoś błąd"
+   },
+   "settings": {
+      "message": "Ustawienia"
+   },
+   "settings_auto_copy": {
+      "message": "Automatycznie kopiuj nazwę czcionki"
+   },
+   "settings_keep_history": {
+      "message": "Zachowaj ostatnie czcionki"
+   },
+   "settings_shortcut": {
+      "message": "Ustaw skrót klawiaturowy"
+   }
+}

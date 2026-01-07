@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Lägg till i favoriter"
+   },
+   "basic_font": {
+      "message": "Detta teckensnitt är redan installerat på Windows- och Mac-datorer. Ingen nedladdning behövs för din webbplats."
+   },
+   "chrome_limitations": {
+      "message": "Vissa tekniska begränsningar hindrar tillägget från att fungera på Chrome Web Store-sidor eller Chrome-inställningssidor."
+   },
+   "clear": {
+      "message": "Rensa listan"
+   },
+   "contact_us": {
+      "message": "Kontakta oss"
+   },
+   "copy": {
+      "message": "Kopiera"
+   },
+   "download": {
+      "message": "Ladda ner"
+   },
+   "extDescription": {
+      "message": "Font finder är en lättviktig tillägg som låter dig hitta teckensnitt för text på skärmen."
+   },
+   "extName": {
+      "message": "Font finder - Hitta teckensnitt för en text"
+   },
+   "favorites": {
+      "message": "Favoriter"
+   },
+   "link": {
+      "message": "Länk"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Mer.."
+   },
+   "pick_color_button": {
+      "message": "Hitta ett teckensnitt på sidan"
+   },
+   "rating": {
+      "message": "Betygsätt tillägget"
+   },
+   "recent": {
+      "message": "Senaste"
+   },
+   "remove_from_favorites": {
+      "message": "Ta bort från favoriter"
+   },
+   "report_bug": {
+      "message": "Rapportera en bugg"
+   },
+   "settings": {
+      "message": "Inställningar"
+   },
+   "settings_auto_copy": {
+      "message": "Kopiera teckensnittsnamnet automatiskt"
+   },
+   "settings_keep_history": {
+      "message": "Spara senaste teckensnitt"
+   },
+   "settings_shortcut": {
+      "message": "Ange ett kortkommando"
+   }
+}

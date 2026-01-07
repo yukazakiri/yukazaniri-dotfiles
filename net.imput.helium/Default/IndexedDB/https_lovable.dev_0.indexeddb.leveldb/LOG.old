@@ -1,0 +1,13 @@
+2026/01/06-13:34:50.547 f2c Reusing MANIFEST /home/admin/.config/net.imput.helium/Default/IndexedDB/https_lovable.dev_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/06-13:34:50.548 f2c Recovering log #32
+2026/01/06-13:34:50.548 f2c Reusing old log /home/admin/.config/net.imput.helium/Default/IndexedDB/https_lovable.dev_0.indexeddb.leveldb/000032.log 
+2026/01/06-13:34:51.083 f3b Level-0 table #37: started
+2026/01/06-13:34:51.086 f3b Level-0 table #37: 10196 bytes OK
+2026/01/06-13:34:51.090 f3b Delete type=0 #32
+2026/01/06-13:34:51.091 f2c Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/06-13:36:02.526 f2e Compacting 1@1 + 1@2 files
+2026/01/06-13:36:02.530 f2e Generated table #38@1: 42 keys, 3315 bytes
+2026/01/06-13:36:02.531 f2e Compacted 1@1 + 1@2 files => 3315 bytes
+2026/01/06-13:36:02.534 f2e compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/06-13:36:02.534 f2e Delete type=2 #34
+2026/01/06-13:36:02.534 f2e Delete type=2 #37

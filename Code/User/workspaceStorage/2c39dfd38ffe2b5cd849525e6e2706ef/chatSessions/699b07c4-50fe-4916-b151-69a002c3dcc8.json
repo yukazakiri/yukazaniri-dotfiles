@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "panel",
+  "requests": [],
+  "sessionId": "699b07c4-50fe-4916-b151-69a002c3dcc8",
+  "creationDate": 1766390960192,
+  "lastMessageDate": 1766390960192,
+  "hasPendingEdits": false,
+  "contrib": {
+    "chatDynamicVariableModel": []
+  },
+  "attachments": [],
+  "mode": {
+    "id": "agent",
+    "kind": "agent"
+  },
+  "selectedModel": {
+    "identifier": "copilot/claude-haiku-4.5",
+    "metadata": {
+      "extension": {
+        "value": "GitHub.copilot-chat",
+        "_lower": "github.copilot-chat"
+      },
+      "id": "claude-haiku-4.5",
+      "vendor": "copilot",
+      "name": "Claude Haiku 4.5",
+      "family": "claude-haiku-4.5",
+      "detail": "1x",
+      "tooltip": "Claude Haiku 4.5 (claude-haiku-4.5) is counted at a 1x rate.",
+      "version": "claude-haiku-4.5",
+      "maxInputTokens": 127805,
+      "maxOutputTokens": 16000,
+      "auth": {
+        "providerLabel": "GitHub Copilot Chat",
+        "accountLabel": "yukazakiri"
+      },
+      "isDefault": false,
+      "isUserSelectable": true,
+      "modelPickerCategory": {
+        "label": "Copilot Models",
+        "order": 0
+      },
+      "capabilities": {
+        "vision": true,
+        "toolCalling": true,
+        "agentMode": true
+      }
+    }
+  },
+  "inputText": "",
+  "selections": [
+    {
+      "startLineNumber": 1,
+      "startColumn": 1,
+      "endLineNumber": 1,
+      "endColumn": 1,
+      "selectionStartLineNumber": 1,
+      "selectionStartColumn": 1,
+      "positionLineNumber": 1,
+      "positionColumn": 1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+2025-12-24 12:12:20.200 [info] 2025/12/24 12:12:20 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-24 12:12:20.274 [info] I1224 12:12:20.274387  2803 server.go:1167] Starting language server process with pid 2803
+2025-12-24 12:12:20.274 [info] I1224 12:12:20.274617  2803 server.go:284] Setting GOMAXPROCS to 4
+2025-12-24 12:12:20.277 [info] I1224 12:12:20.276900  2803 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2025-12-24 12:12:20.277 [info] I1224 12:12:20.277226  2803 server.go:506] Language server listening on random port at 45251 for HTTPS
+2025-12-24 12:12:20.277 [info] I1224 12:12:20.277252  2803 server.go:513] Language server listening on random port at 42817 for HTTP
+2025-12-24 12:12:21.561 [info] I1224 12:12:21.560376  2803 server.go:484] Created extension server client at port 33401
+2025-12-24 12:12:21.588 [info] W1224 12:12:21.588743  2803 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-24 12:12:21.604 [info] W1224 12:12:21.604725  2803 client.go:135] failed to set auth token
+2025-12-24 12:12:21.605 [info] W1224 12:12:21.605106  2803 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-24 12:12:21.614 [info] (Antigravity) 2025-12-24 12:12:21.614 [INFO]: Language server started
+2025-12-24 12:12:21.618 [info] I1224 12:12:21.617827  2803 server.go:1496] initialized server successfully
+2025-12-24 12:12:21.626 [info] I1224 12:12:21.626165  2803 log_context.go:106] Removing OAuth token info
+2025-12-24 12:12:21.649 [info] (Antigravity) 2025-12-24 12:12:21.649 [INFO]: LS lspClient started successfully
+2025-12-24 12:12:22.240 [info] W1224 12:12:22.239764  2803 log_context.go:106] Cache(loadCodeAssistResponse): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-24 12:12:22.240 [info] W1224 12:12:22.239804  2803 log_context.go:106] Cache(availableModels): Singleflight refresh failed: failed to get load code assist response: You are not logged into Antigravity.
+2025-12-24 12:12:22.240 [info] E1224 12:12:22.240393  2803 interceptor.go:74] /exa.language_server_pb.LanguageServerService/GetCommandModelConfigs (unknown): failed to get load code assist response: You are not logged into Antigravity.
+2025-12-24 12:12:22.240 [info] E1224 12:12:22.240670  2803 client.go:214] State sync stream error for topic uss-enterprisePreferences: canceled: context canceled.
+2025-12-24 12:12:22.243 [info] I1224 12:12:22.241439  2803 log_context.go:106] Removing OAuth token info
+2025-12-24 12:12:22.292 [info] W1224 12:12:22.283073  2803 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-24 12:12:22.292 [info] E1224 12:12:22.283126  2803 interceptor.go:74] /exa.language_server_pb.LanguageServerService/GetUserStatus (unknown): You are not logged into Antigravity.
+2025-12-24 12:13:55.797 [info] E1224 12:13:55.797255  2803 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-24 12:13:55.859 [info] (Antigravity) 2025-12-24 12:13:55.859 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-24 12:19:02.600 [info] 2025/12/24 12:19:02 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-24 12:19:02.814 [info] I1224 12:19:02.813801 12242 server.go:1167] Starting language server process with pid 12242
+2025-12-24 12:19:02.815 [info] I1224 12:19:02.814261 12242 server.go:284] Setting GOMAXPROCS to 4
+2025-12-24 12:19:02.821 [info] I1224 12:19:02.820415 12242 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2025-12-24 12:19:02.823 [info] I1224 12:19:02.821719 12242 server.go:506] Language server listening on random port at 36261 for HTTPS
+2025-12-24 12:19:02.823 [info] I1224 12:19:02.821780 12242 server.go:513] Language server listening on random port at 38175 for HTTP
+2025-12-24 12:19:03.183 [info] I1224 12:19:03.183071 12242 server.go:484] Created extension server client at port 38541
+2025-12-24 12:19:03.223 [info] W1224 12:19:03.222441 12242 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-24 12:19:03.245 [info] W1224 12:19:03.244748 12242 client.go:135] failed to set auth token
+2025-12-24 12:19:03.245 [info] W1224 12:19:03.245418 12242 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-24 12:19:03.261 [info] (Antigravity) 2025-12-24 12:19:03.260 [INFO]: Language server started
+2025-12-24 12:19:03.266 [info] I1224 12:19:03.265848 12242 server.go:1496] initialized server successfully
+2025-12-24 12:19:03.482 [info] 2025/12/24 12:19:03 http: TLS handshake error from 127.0.0.1:34764: EOF
+2025-12-24 12:19:03.482 [info] 2025/12/24 12:19:03 http: TLS handshake error from 127.0.0.1:34756: EOF
+2025-12-24 12:19:03.539 [info] (Antigravity) 2025-12-24 12:19:03.538 [INFO]: LS lspClient started successfully
+2025-12-24 12:19:06.082 [info] E1224 12:19:06.075437 12242 log.go:354] Memory truncated from 32360 characters to 24008 characters
+2025-12-24 12:20:38.883 [info] (Antigravity) 2025-12-24 12:20:38.883 [INFO]: [Terminal] Command completed: opencode --port 41578 exit code 0
+2025-12-24 12:21:27.726 [info] (Antigravity) 2025-12-24 12:21:27.726 [INFO]: [Terminal] Command completed: opencode --port 34111 exit code 0
+2025-12-24 12:21:34.162 [info] (Antigravity) 2025-12-24 12:21:34.162 [INFO]: [Terminal] Command completed: sail up -d exit code 0
+2025-12-24 12:21:37.566 [info] I1224 12:21:37.566281 12242 server.go:1612] Exit requested on language server process 12242
+2025-12-24 12:21:37.567 [info] I1224 12:21:37.567577 12242 server.go:1577] Language server shutting down

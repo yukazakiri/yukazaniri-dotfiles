@@ -1,0 +1,63 @@
+2026-01-06 11:48:28.271 [info] Started local extension host with pid 298877.
+2026-01-06 11:48:28.599 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:48:28.600 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:48:28.600 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:48:28.600 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:48:28.600 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:48:28.601 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:48:28.601 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:48:30.139 [error] [Extension Host] (node:298877) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-01-06 11:48:30.148 [error] [Extension Host] (node:298877) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-01-06 11:48:30.172 [error] [Extension Host] /bin/sh: line 1: herd: command not found
+2026-01-06 11:48:30.197 [error] [Extension Host] /bin/sh: line 1: valet: command not found
+2026-01-06 11:48:30.300 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-06 11:48:30.397 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-06 11:48:32.589 [error] chatParticipant must be declared in package.json: claude-code
+2026-01-06 11:48:32.604 [error] [Extension Host] [ProcessDetector] Attempt 1 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-06 11:48:33.581 [error] [Extension Host] [ProcessDetector] Attempt 2 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-06 11:48:34.143 [error] [Extension Host] [ProcessDetector] Attempt 3 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-06 11:48:34.847 [info] [perf] Render performance baseline is 17ms
+2026-01-06 11:48:43.157 [error] Failed to fetch MCP registry providers Server returned 404
+2026-01-06 11:49:05.896 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/.devcontainer/devcontainer.json 
+2026-01-06 11:49:05.896 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/app/Http/Controllers/ProfileController.php 
+2026-01-06 11:49:05.896 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/resources/js/pages/administrators/classes/show.tsx 
+2026-01-06 11:49:05.896 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/tests/Feature/FacultyProfileUpdateTest.php 
+2026-01-06 11:49:05.896 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/Modules/LibrarySystem/package.json 
+2026-01-06 11:49:05.897 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/Modules/StudentMedicalRecords/package.json 
+2026-01-06 11:49:05.897 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/spatie/laravel-data/package.json 
+2026-01-06 11:49:05.897 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/tightenco/ziggy/package.json 
+2026-01-06 11:49:05.897 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/guava/filament-icon-select-column/package.json 
+2026-01-06 11:49:05.898 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/blade-ui-kit/blade-heroicons/package.json 
+2026-01-06 11:49:05.898 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/ysfkaya/filament-phone-input/package.json 
+2026-01-06 11:49:05.898 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/laravel/horizon/package.json 
+2026-01-06 11:49:05.898 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/laravel/framework/src/Illuminate/Foundation/resources/exceptions/renderer/package.json 
+2026-01-06 11:49:05.898 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/laravel/wayfinder/package.json 
+2026-01-06 11:49:05.899 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/bezhansalleh/filament-shield/package.json 

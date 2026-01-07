@@ -1,0 +1,19 @@
+[Info  - 2:31:21 PM] Initialising intelephense 1.16.3
+[Info  - 2:31:21 PM] Reading state from /home/admin/.config/Code/User/workspaceStorage/2c39dfd38ffe2b5cd849525e6e2706ef/bmewburn.vscode-intelephense-client/3293e334.
+[Info  - 2:31:22 PM] Initialised in 830 ms
+[Info  - 2:31:22 PM] Searching file:///home/admin/.vscode/extensions/bmewburn.vscode-intelephense-client-1.16.3/node_modules/intelephense/lib/stub for files to index.
+[Info  - 2:31:22 PM] Searching file:///home/admin/Documents/GitHub/DccpAdminV3 for files to index.
+[Warn  - 2:31:22 PM] file:///home/admin/Documents/GitHub/DccpAdminV3/.phpstorm.meta.php is over the maximum file size of 1000000 bytes.
+[Warn  - 2:31:22 PM] file:///home/admin/Documents/GitHub/DccpAdminV3/_ide_helper.php is over the maximum file size of 1000000 bytes.
+[Warn  - 2:31:22 PM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/_laravel_ide/_model_helpers.php is over the maximum file size of 1000000 bytes.
+[Warn  - 2:31:22 PM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/composer/autoload_classmap.php is over the maximum file size of 1000000 bytes.
+[Warn  - 2:31:22 PM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/composer/autoload_static.php is over the maximum file size of 1000000 bytes.
+[Warn  - 2:31:22 PM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/aws/aws-sdk-php/src/data/ec2/2016-11-15/api-2.json.php is over the maximum file size of 1000000 bytes.
+[Warn  - 2:31:22 PM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 2:31:23 PM] Indexing started.
+[Info  - 2:31:23 PM] Indexing ended. 38 files indexed in 0s.
+[Info  - 2:31:23 PM] Writing state to /home/admin/.config/Code/User/workspaceStorage/2c39dfd38ffe2b5cd849525e6e2706ef/bmewburn.vscode-intelephense-client/3293e334.
+[Info  - 2:31:24 PM] Wrote state in 0.9s.
+[Warn  - 2:32:11 PM] Error: ENOENT: no such file or directory, stat '/home/admin/Documents/GitHub/DccpAdminV3/node_modules/.vite-temp/vite.config.js.timestamp-1767594731007-0627b205dba5c8.mjs'
+[Info  - 2:34:17 PM] Indexing started.
+[Info  - 2:34:17 PM] Indexing ended. 2 files indexed in 0s.

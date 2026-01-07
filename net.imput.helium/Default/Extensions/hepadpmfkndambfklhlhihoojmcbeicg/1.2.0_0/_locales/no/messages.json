@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Legg til i favoritter"
+   },
+   "basic_font": {
+      "message": "Denne skriften er allerede installert på Windows- og Mac-maskiner. Ikke nødvendig å laste den ned for nettstedet ditt."
+   },
+   "chrome_limitations": {
+      "message": "Visse tekniske begrensninger hindrer utvidelsen i å fungere på Chrome Web Store-sider eller Chrome-innstillingssider."
+   },
+   "clear": {
+      "message": "Tøm listen"
+   },
+   "contact_us": {
+      "message": "Kontakt oss"
+   },
+   "copy": {
+      "message": "Kopier"
+   },
+   "download": {
+      "message": "Last ned"
+   },
+   "extDescription": {
+      "message": "Font finder er en lettvektsutvidelse som lar deg finne skriften til en tekst på skjermen."
+   },
+   "extName": {
+      "message": "Font finder - Finn skrift av en tekst"
+   },
+   "favorites": {
+      "message": "Favoritter"
+   },
+   "link": {
+      "message": "Lenke"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Mer.."
+   },
+   "pick_color_button": {
+      "message": "Finn en skrift på siden"
+   },
+   "rating": {
+      "message": "Vurder utvidelsen"
+   },
+   "recent": {
+      "message": "Nylige"
+   },
+   "remove_from_favorites": {
+      "message": "Fjern fra favoritter"
+   },
+   "report_bug": {
+      "message": "Rapporter en feil"
+   },
+   "settings": {
+      "message": "Innstillinger"
+   },
+   "settings_auto_copy": {
+      "message": "Kopier automatisk skriftens navn"
+   },
+   "settings_keep_history": {
+      "message": "Lagre nylige skrifter"
+   },
+   "settings_shortcut": {
+      "message": "Definer en hurtigtast"
+   }
+}

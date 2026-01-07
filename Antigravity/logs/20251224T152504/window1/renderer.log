@@ -1,0 +1,69 @@
+2025-12-24 15:25:06.156 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.200 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.200 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.200 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'fileComments' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.203 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.204 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.204 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.209 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.210 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.211 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.211 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.212 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.212 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.213 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:06.213 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:07.124 [info] Started local extension host with pid 131213.
+2025-12-24 15:25:07.611 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-12-24 15:25:07.612 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-12-24 15:25:07.616 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravitySettings` which is not defined in the 'commands' section.
+2025-12-24 15:25:07.617 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravityExtensions` which is not defined in the 'commands' section.
+2025-12-24 15:25:08.957 [error] [Extension Host] Failed to update user status Error: LanguageServerClient must be initialized first!
+	at B.getInstance (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:213760)
+	at a.updateUserStatus (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1254734)
+	at a.restartUpdateLoop (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1255225)
+	at t.activate (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:164409)
+	at async Hy.n (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14106)
+	at async Hy.m (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14069)
+	at async Hy.l (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:13525)
+2025-12-24 15:25:12.445 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-24 15:25:18.213 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.214 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.217 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.219 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'fileComments' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.223 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.227 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.228 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.228 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.229 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.230 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.231 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.231 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.232 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.233 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:18.234 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-24 15:25:19.903 [info] Started local extension host with pid 131864.
+2025-12-24 15:25:20.026 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-12-24 15:25:20.027 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-12-24 15:25:20.030 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravitySettings` which is not defined in the 'commands' section.
+2025-12-24 15:25:20.031 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravityExtensions` which is not defined in the 'commands' section.
+2025-12-24 15:25:22.901 [error] [Extension Host] Failed to update user status Error: LanguageServerClient must be initialized first!
+	at B.getInstance (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:213760)
+	at a.updateUserStatus (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1254734)
+	at a.restartUpdateLoop (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1255225)
+	at t.activate (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:164409)
+	at async Hy.n (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14106)
+	at async Hy.m (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14069)
+	at async Hy.l (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:13525)
+2025-12-24 15:25:26.813 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-24 15:25:52.410 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/package.json 
+2025-12-24 15:25:52.414 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/Modules/Cashier/package.json 
+2025-12-24 15:25:52.415 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/shuvroroy/filament-spatie-laravel-backup/package.json 
+2025-12-24 15:25:52.415 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/tightenco/ziggy/package.json 
+2025-12-24 15:25:52.416 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/spatie/shiki-php/package.json 
+2025-12-24 15:25:52.416 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/guava/filament-icon-select-column/package.json 
+2025-12-24 15:25:52.417 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/blade-ui-kit/blade-heroicons/package.json 
+2025-12-24 15:25:52.434 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/ysfkaya/filament-phone-input/package.json 
+2025-12-24 15:25:52.435 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/laravel/pulse/package.json 
+2025-12-24 15:25:52.436 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/laravel/telescope/package.json 
+2025-12-24 15:25:52.437 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/laravel/horizon/package.json 

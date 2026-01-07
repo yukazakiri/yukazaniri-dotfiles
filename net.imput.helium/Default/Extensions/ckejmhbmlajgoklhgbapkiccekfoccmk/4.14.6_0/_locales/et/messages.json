@@ -1,0 +1,701 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Android telefonid"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Apple telefonid"
+   },
+   "button_feedback": {
+      "message": "Lisa hinnang"
+   },
+   "button_message": {
+      "message": "Saatke meile sõnum"
+   },
+   "close": {
+      "message": "Sulge"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Seadme nimi"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max jne."
+   },
+   "contact_title": {
+      "message": "Seadet, mida otsite, pole nimekirjas? Andke meile teada!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Aktiveeri mobiilivaade sellel vahekaardil"
+   },
+   "copied": {
+      "message": "Kopeeritud"
+   },
+   "dimensions": {
+      "message": "Mõõtmed"
+   },
+   "error": {
+      "message": "Viga"
+   },
+   "error_contact": {
+      "message": "{Võtke meiega ühendust}, kui probleem püsib."
+   },
+   "extDescription": {
+      "message": "Nutitelefoni ja tahvelarvuti simulaator arvutis mitme mudeliga, et testida oma mobiilset ja reageerivat saiti."
+   },
+   "extName": {
+      "message": "Mobiiltelefoni simulaator - testige reageerivat saiti"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "Älä vastaa"
+   },
+   "feedback_company_type": {
+      "message": "Minkä tyyppinen yritys sinulla on?"
+   },
+   "feedback_company_type_agency": {
+      "message": "Pieni yritys (10-49 työntekijää)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Itsenäinen"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Erittäin suuri yritys / konserni (5000+ työntekijää)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Mikroyritys (1-9 työntekijää)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Suuri yritys (250-4999 työntekijää)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Keskisuuri yritys (50-249 työntekijää)"
+   },
+   "feedback_error_required": {
+      "message": "Kaikki kentät ovat tyhjiä 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Kuinka usein käytät tätä laajennusta?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Satunnaisesti"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Useita kertoja viikossa"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Päivittäin"
+   },
+   "feedback_frequency_rare": {
+      "message": "Harvoin"
+   },
+   "feedback_improvements": {
+      "message": "Mitä parannuksia haluaisit nähdä?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Idea, kitka, puute..."
+   },
+   "feedback_profession": {
+      "message": "Mikä on ammattiosastosi?"
+   },
+   "feedback_profession_designer": {
+      "message": "Suunnittelu"
+   },
+   "feedback_profession_developer": {
+      "message": "Kehitys"
+   },
+   "feedback_profession_marketing": {
+      "message": "Markkinointi"
+   },
+   "feedback_profession_other": {
+      "message": "Muu"
+   },
+   "feedback_profession_product": {
+      "message": "Tuotehallinta"
+   },
+   "feedback_profession_qa": {
+      "message": "Testaus / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Myynti"
+   },
+   "feedback_submit": {
+      "message": "Lähetä"
+   },
+   "feedback_submitted": {
+      "message": "Kiitos paljon palautteestasi 🤗"
+   },
+   "feedback_title": {
+      "message": "Aidake meidät tekemään Mobile FIRST vieläkin hyödyllisemmäksi sinulle 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Testata sivustoani, tehdä asiakasesittelyjä..."
+   },
+   "feedback_use_cases": {
+      "message": "Miksi käytät Mobile FIRSTia?"
+   },
+   "get_pro": {
+      "message": "Hangi PRO versiooni"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "global_cancel": {
+      "message": "Tühista"
+   },
+   "link": {
+      "message": "Link"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_add_window": {
+      "message": "Lisa simulatsioonimudel"
+   },
+   "menu_change_device": {
+      "message": "Vaheta mudelit"
+   },
+   "menu_close_alone": {
+      "message": "Deaktiveeri simulaator"
+   },
+   "menu_close_multi": {
+      "message": "Sulge see aken"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> Kas otsitavat seadet pole nimekirjas? Anna meile teada!"
+   },
+   "menu_extensions": {
+      "message": "Avasta meie teised Chrome'i laiendused"
+   },
+   "menu_faq_all": {
+      "message": "Vaata kõiki korduma kippuvaid küsimusi"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Kuidas aktiveerida simulaator privaatse sirvimise režiimis?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Minu meediapäringuid ei arvestata"
+   },
+   "menu_faq_scroll": {
+      "message": "Simulaatoris ei saa kerida"
+   },
+   "menu_faq_shortcut": {
+      "message": "Kuidas seadistada kiirklahve?"
+   },
+   "menu_faq_subscription": {
+      "message": "Miks minu tellimus ei tööta?"
+   },
+   "menu_faq_title": {
+      "message": "Korduma kippuvad küsimused"
+   },
+   "menu_help_center": {
+      "message": "Abikeskus"
+   },
+   "menu_info_device": {
+      "message": "Selle seadme omadused ja makett"
+   },
+   "menu_info_device_features": {
+      "message": "Omadused (vaateakna resolutsioon jne.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Tasuta makett läbipaistvas PNG-s"
+   },
+   "menu_report": {
+      "message": "Teata veast"
+   },
+   "menu_rotate": {
+      "message": "Muuda orientatsiooni"
+   },
+   "menu_screencast": {
+      "message": "📹 Salvesta ekraanivideo"
+   },
+   "menu_screenshot": {
+      "message": "📷 Tee ekraanipilt"
+   },
+   "menu_send_improvement": {
+      "message": "Tee parandusettepanek"
+   },
+   "menu_send_message": {
+      "message": "Abikeskus"
+   },
+   "menu_settings": {
+      "message": "Seaded"
+   },
+   "menu_share": {
+      "message": "Jaga kolleegile, sõbrale,..."
+   },
+   "menu_vote_feature": {
+      "message": "Hääleta soovitud funktsioonide poolt"
+   },
+   "menu_zoom": {
+      "message": "Suumi seadmes"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Rohkem seadeid"
+   },
+   "new_ios26_h1": {
+      "message": "Avasta kohe Safari iOS 26 uus \"Liquid Glass\" liides veelgi realistlikumateks testideks!"
+   },
+   "new_ios26_h2": {
+      "message": "Saadaval kõigil iPhone&nbsp;15 ja iPhone&nbsp;16 mudelitel"
+   },
+   "new_iphone_14_h1": {
+      "message": "Ole esimene, kes kasutab (virtuaalselt) iPhone 14 PRO-d"
+   },
+   "new_iphone_17_h1": {
+      "message": "Uus!\u003Cbr>Testige nüüd oma saite iPhone&nbsp;17-ga."
+   },
+   "new_iphone_17_h2": {
+      "message": "iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX on saadaval simulaatoris."
+   },
+   "new_video_feature_h1": {
+      "message": "Avastage kohe uut videopüüdmisfunktsiooni!"
+   },
+   "new_video_feature_h2": {
+      "message": "Salvestage parema kvaliteediga, uute valikutega ja läbipaistva taustaga"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Teave\u003C/strong>Puudutusega kerimine pole saadaval, kuid saate \u003Cstrong>näidata kerimisriba\u003C/strong>, kui teil pole hiirerulli või puuteplaati kerimiseks.\u003Cbr>\u003Cbr>See on valik seadetes paremas allnurgas \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_10_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Uuendus v4.10.0\u003C/strong>iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX on saadaval simulaatoris \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_12_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Päivitys v4.12.0\u003C/strong>Uusi ominaisuus PRO-versiossa, \u003Cstrong>kuvakaappausten muokkaus\u003C/strong>. Painikkeet muotojen piirtämiseen, tekstin lisäämiseen jne. \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_14_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Värskendus v4.14.0\u003C/strong>Avastage kohe uus \u003Cstrong>videopüüdmisfunktsioon\u003C/strong>! \u003Ci class='mdi'>&#xe90e;\u003C/i>"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Uuendus v4.14.5\u003C/strong>Tähtis \u003Cstrong>resolutsiooni ja kvaliteedi\u003C/strong> tõus ekraanipiltidel \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_6_9": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Uuendus v4.6.9\u003C/strong>\u003Cstrong>Teema\u003C/strong> Teema muutmine on nüüd võimalik seadetes \u003Ci class='mdi'>&#xe905;\u003C/i> paremas allnurgas"
+   },
+   "notification_update_title_v4_7_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Päivitys v4.7.0\u003C/strong>Korjaus koskien \u003Cstrong>koko sivun kuvakaappauksia\u003C/strong> ja uuden \u003Cstrong>laitteen lisäys\u003C/strong>."
+   },
+   "notification_update_title_v4_8_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Päivitys v4.8.0\u003C/strong>Mahdollisuus \u003Cstrong>pysäyttää koko sivun kaappaus ennen sivun loppua\u003C/strong>.\u003Cbr/>Lisäksi asetuksiin lisätty tekstikenttä \u003Cstrong>näytettävän URL-osoitteen muokkaamiseen terminaalissa.\u003C/strong>"
+   },
+   "notification_update_title_v4_9_1": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Uuendus v4.9.0\u003C/strong>Avasta kohe \u003Cstrong>uus Safari iOS 26 liides\u003C/strong> iPhone 15 ja 16 seadmetel \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_9_3": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Uuendus v4.9.3\u003C/strong>Parandus iOS 26 liideses, kui lehe allosas on fikseeritud elemendid. Aadressiriba kattis elemendid.\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Tere tulemast Mobile FIRST-i 👋\u003C/strong>Simuleeri ühe klõpsuga telefone, tahvelarvuteid ja arvuteid, et lihtsalt testida ja vaadata oma saite.\u003Cbr>\u003Cbr>\u003Cstrong>Menüü asub paremal ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "Vapaaehtoinen"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "Installi"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "See laiendus võimaldab teil ekraanilt mis tahes värvi haarata."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Värvivalija"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Tuvastage ühe klõpsuga mis tahes veebilehe teksti font."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Font finder"
+   },
+   "other_extensions_h1": {
+      "message": "Avasta meie täiesti uued tasuta laiendused"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Erilised"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Aktiveeri valik"
+   },
+   "popup_activate_local_files_info": {
+      "message": "See simulaator ei saa vaikimisi aktiveerida kohalikke faile (file:///), kuid saate selle valiku käsitsi aktiveerida Chrome'i seadetes."
+   },
+   "popup_site_incompatible": {
+      "message": "Simulaatorit ei saa sellel brauseri lehel aktiveerida. Proovige teisel vahekaardil või navigeerige mõnele veebisaidile ja proovige uuesti."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Kõik video seaded"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Reklaamide eemaldamine"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Arveldatakse aastas"
+   },
+   "pro_modale_button": {
+      "message": "Ma tellin"
+   },
+   "pro_modale_from": {
+      "message": "Alates"
+   },
+   "pro_modale_h1": {
+      "message": "Saage PRO-ks"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Eemaldage reklaamid"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Konverteerige oma videokaadrid GIF- ja MP4-formaatidesse"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simuleerige kõiki seadmeid"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "Redigeeri oma kaadreid"
+   },
+   "pro_modale_h1_limit": {
+      "message": "Olete jõudnud 5 videokaadri päevalimiidini"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "Kõigi video salvestamise seadete avamine"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Kõigi seadete avamine"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Tee piiramatult ekraanipilte"
+   },
+   "pro_modale_h2": {
+      "message": "Saage PRO-ks ja aidake aktiivselt kaasa selle laienduse arendamisele, toetades selle arendajat."
+   },
+   "pro_modale_link_1": {
+      "message": "Või"
+   },
+   "pro_modale_link_2": {
+      "message": "ma logi sisse"
+   },
+   "pro_modale_link_3": {
+      "message": "oma tellija kontole"
+   },
+   "pro_modale_recurring_month": {
+      "message": "kuu"
+   },
+   "pro_modale_savings": {
+      "message": "Säästke"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Kuidas hindaksite seda laiendust?"
+   },
+   "review_note_feedback": {
+      "message": "Tänan tagasiside eest, ärge kartke saata meile sõnumit, et saaksime seda laiendust parandada."
+   },
+   "review_note_store": {
+      "message": "Tänan tagasiside eest, ärge kartke lisada hinnangut Google Store'is. Oleksin väga tänulik 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Kaamera kasutamise luba keelatud."
+   },
+   "screencast_error": {
+      "message": "Salvestamisel tekkis viga. {Klikkige siia} lahenduse leidmiseks."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "Teie Chrome'i versioon on selle funktsiooni jaoks liiga vana. Palun uuendage Chrome versioonile, mis on uuem kui 94.0"
+   },
+   "screencast_generation": {
+      "message": "GIF-i loomine käib"
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Mikrofoni kasutamise luba keelatud."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Tasuta versioonis on videote salvestamine piiratud 5 minutiga."
+   },
+   "screencast_modale_contact": {
+      "message": "Teata veast, tee parandusettepanek"
+   },
+   "screencast_modale_copy": {
+      "message": "Kopeeri"
+   },
+   "screencast_modale_download": {
+      "message": "Laadi alla"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Ühilduv kõikjal, kuid madalama kvaliteediga (läbipaistvusega, kui valik on lubatud)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Parim ühilduvus PowerPointiga, kuid ilma läbipaistvuseta"
+   },
+   "screencast_modale_download_webm": {
+      "message": "Laadi alla vaikimisi vormingus WEBM (läbipaistvusega, kui valik on lubatud)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "GIF-i maksimaalne kestus on 60 sekundit. Pärast seda oleks fail liiga mahukas."
+   },
+   "screencast_modale_texte": {
+      "message": "Saate selle video alla laadida erinevates formaatides või hankida jagamislingi."
+   },
+   "screencast_modale_title": {
+      "message": "Videokaader"
+   },
+   "screencast_modale_upload": {
+      "message": "Hangi jagamislink"
+   },
+   "screencast_onboarding_close": {
+      "message": "Sulge"
+   },
+   "screencast_onboarding_texte": {
+      "message": "Looge mobiilseadme video GIF-formaadis ühe klõpsuga (max 20 sekundit)"
+   },
+   "screencast_onboarding_title": {
+      "message": "Videokaader"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "Videokvaliteet mõjutab bitikiirust, kaadrisagedust ja salvestuse resolutsiooni. Mida kõrgem on kvaliteet, seda suurem on fail."
+   },
+   "screencast_start_recording": {
+      "message": "Alusta salvestamist"
+   },
+   "screencast_tooltip_device": {
+      "message": "Ainult seadme video salvestamine"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Vahekaardi video salvestamine koos seadmega"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Loo ekraanipilt"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Joonista nool"
+   },
+   "screenshot_editor_close": {
+      "message": "Sulge redaktor"
+   },
+   "screenshot_editor_color": {
+      "message": "Joone värv"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Joonista ring"
+   },
+   "screenshot_editor_line": {
+      "message": "Joonista joon"
+   },
+   "screenshot_editor_pen": {
+      "message": "Vaba joonistamine"
+   },
+   "screenshot_editor_rect": {
+      "message": "Joonista ristkülik"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Joone paksus"
+   },
+   "screenshot_editor_undo": {
+      "message": "Tühista viimane toiming"
+   },
+   "screenshot_menu_1": {
+      "message": "Ekraanipilt seadmega"
+   },
+   "screenshot_menu_2": {
+      "message": "Ainult saidi ekraanipilt"
+   },
+   "screenshot_menu_3": {
+      "message": "Kogu lehe ekraanipilt"
+   },
+   "screenshot_menu_4": {
+      "message": "Tabi kogu jäädvustamine"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Lõpeta enne lehe lõppu"
+   },
+   "screenshot_modale_copy": {
+      "message": "Kopeeri pilt lõikelauale"
+   },
+   "screenshot_modale_download_png": {
+      "message": "Laadi alla PNG-vormingus (ei kompressiooni)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "Laadi alla WEBP-vormingus, peaaegu kõikjal ühilduv ja optimeeritud kompressioon (soovitatav)"
+   },
+   "screenshot_modale_edit": {
+      "message": "Muokkaa kuvaa"
+   },
+   "screenshot_modale_help": {
+      "message": "Selleks, et salvestada pilti suure formaadina, klõpsake parema nupuga ja valige \"Kopeeri pilt\" või \"Salvesta\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Ekraanipilt"
+   },
+   "screenshot_workaround_context": {
+      "message": "Kontekst"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "Teatud tehniliste piirangute tõttu võite ekraanipildi tegemisel saada selle veateate."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Lahendus"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "Sellisel juhul ekraanitõmmise tegemiseks klõpsake lihtsalt lehe suvalises kohas paremklõpsuga, valige kirje „Mobiilsimulaator“ ja seejärel „📷 Tee ekraanitõmmis“"
+   },
+   "screenshot_workaround_title": {
+      "message": "Ekraanipildi lahendus"
+   },
+   "select": {
+      "message": "Valitse..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_batterie_level": {
+      "message": "Aku tase seadme ülaosas (%)"
+   },
+   "settings_camera": {
+      "message": "Kaamera"
+   },
+   "settings_change_analytics": {
+      "message": "Aitan selle laienduse arendajal oma toodet Posthogi abil täiustada. Kõik andmed on anonüümsed."
+   },
+   "settings_change_background": {
+      "message": "Muuda taustavärvi"
+   },
+   "settings_change_cursor": {
+      "message": "Ära muuda kursoristiili veebivaates"
+   },
+   "settings_countdown": {
+      "message": "Tagasiloendus (sekundites)"
+   },
+   "settings_default_device": {
+      "message": "Vaikeseade iga aktiveerimise korral"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Valige seade"
+   },
+   "settings_device_default_url": {
+      "message": "Muuda terminalis kuvatavat URL-i"
+   },
+   "settings_device_hide": {
+      "message": "Ära kuva seadet"
+   },
+   "settings_fullscreen": {
+      "message": "Sait täisekraanil seadmes"
+   },
+   "settings_h2_device": {
+      "message": "Seade"
+   },
+   "settings_h2_global": {
+      "message": "Üldine"
+   },
+   "settings_hide_header_footer": {
+      "message": "Peida brauseri ülemised ja alumised elemendid veebivaates (PWA)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Ära kuva vale klaviatuuri, kui sisestusväljal on fookus"
+   },
+   "settings_microphone": {
+      "message": "Mikrofon"
+   },
+   "settings_presenter_mode": {
+      "message": "Esitlusrežiim (parempoolne menüü nähtav ainult hiire liigutamisel)"
+   },
+   "settings_pro_account": {
+      "message": "Halda minu tellimust"
+   },
+   "settings_scrollbar_show": {
+      "message": "Näita seadmes loomulikku kerimisriba"
+   },
+   "settings_shortcuts": {
+      "message": "Määra kiirklahvid"
+   },
+   "settings_theme": {
+      "message": "Teema"
+   },
+   "settings_theme_auto": {
+      "message": "Automaatne"
+   },
+   "settings_theme_dark": {
+      "message": "Tume"
+   },
+   "settings_theme_light": {
+      "message": "Hele"
+   },
+   "settings_transparent_background": {
+      "message": "Läbipaistev taust"
+   },
+   "settings_transparent_background_info": {
+      "message": "See valik tähendab rohkem arvutusi ja seega võimalikku kuvamise aeglustumist sõltuvalt teie arvutist (ühilduv ainult WEBM ja GIF vormingutega)"
+   },
+   "settings_video_quality": {
+      "message": "Videokvaliteet"
+   },
+   "settings_video_quality_high": {
+      "message": "Suurepärane"
+   },
+   "settings_video_quality_low": {
+      "message": "Keskmine"
+   },
+   "settings_video_quality_medium": {
+      "message": "Hea"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Kas see mobiilne simulaator on teile kasulik?"
+   },
+   "sharing_h2": {
+      "message": "Siis jagage seda oma kolleegide või sõpradega"
+   },
+   "sharing_review_1": {
+      "message": "Ja kui teil on minut aega"
+   },
+   "sharing_review_2": {
+      "message": "lisage arvustus"
+   },
+   "sharing_review_3": {
+      "message": "siis on see kirss tordil! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Lisan arvustuse"
+   },
+   "sharing_txt": {
+      "message": "Simulaator oma saidi testimiseks mobiilil ja tahvelarvutil"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "See on lihtsalt pilt. Kasutage oma klaviatuuri."
+   },
+   "simulator_header_info": {
+      "message": "See on lihtsalt pilt. URL-i muutmiseks kasutage ülaltoodud Chrome'i välja."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Tahvelarvutid"
+   }
+}

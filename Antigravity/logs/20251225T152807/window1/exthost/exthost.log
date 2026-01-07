@@ -1,0 +1,56 @@
+2025-12-25 15:28:10.558 [info] Extension host with pid 193617 started
+2025-12-25 15:28:10.558 [info] Skipping acquiring lock for /home/admin/.config/Antigravity/User/workspaceStorage/2c39dfd38ffe2b5cd849525e6e2706ef.
+2025-12-25 15:28:10.787 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-25 15:28:10.795 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-12-25 15:28:10.849 [info] ExtensionService#_doActivateExtension DEVSENSE.composer-php-vscode, startup: true, activationEvent: 'workspaceContains:composer.json'
+2025-12-25 15:28:10.965 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-25 15:28:11.039 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-25 15:28:11.046 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-25 15:28:11.210 [info] ExtensionService#_doActivateExtension DEVSENSE.phptools-vscode, startup: true, activationEvent: 'workspaceContains:phpunit.*'
+2025-12-25 15:28:11.580 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2025-12-25 15:28:12.345 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-25 15:28:12.596 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-25 15:28:15.868 [info] Eager extensions activated
+2025-12-25 15:28:15.876 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2025-12-25 15:28:15.884 [info] ExtensionService#_doActivateExtension Google LLC.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-12-25 15:28:15.894 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-25 15:28:15.898 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-25 15:28:15.935 [info] ExtensionService#_doActivateExtension asierdev.antigravity-quota-viewer, startup: false, activationEvent: 'onStartupFinished'
+2025-12-25 15:28:15.950 [info] ExtensionService#_doActivateExtension jlcodes.antigravity-cockpit, startup: false, activationEvent: 'onStartupFinished'
+2025-12-25 15:28:16.118 [error] Error: ENOENT: no such file or directory, rename '/home/admin/.gemini/antigravity/user_settings.pb.tmp.extHost' -> '/home/admin/.gemini/antigravity/user_settings.pb'
+	at async Object.rename (node:internal/original-fs/promises:784:10)
+	at async Jfe (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:5315)
+	at async Yfe.setAntigravitySettings (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6165)
+	at async m.updateUserSettings (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:767109)
+2025-12-25 15:28:17.097 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-12-25 15:28:17.111 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-12-25 15:28:17.129 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-12-25 15:53:29.149 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-25 15:53:29.224 [error] TypeError: Cannot read properties of undefined (reading 'trackEvent')
+	at _S (/home/admin/.antigravity/extensions/devsense.composer-php-vscode-1.63.18172-universal/out/src/extension.js:43:6195)
+	at Object.<anonymous> (/home/admin/.antigravity/extensions/devsense.composer-php-vscode-1.63.18172-universal/out/src/extension.js:43:6391)
+	at Generator.next (<anonymous>)
+	at /home/admin/.antigravity/extensions/devsense.composer-php-vscode-1.63.18172-universal/out/src/extension.js:1:832
+	at new Promise (<anonymous>)
+	at w (/home/admin/.antigravity/extensions/devsense.composer-php-vscode-1.63.18172-universal/out/src/extension.js:1:652)
+	at Object.fF (/home/admin/.antigravity/extensions/devsense.composer-php-vscode-1.63.18172-universal/out/src/extension.js:43:6367)
+	at Ode.eb (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:13070)
+	at file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11219
+	at Array.map (<anonymous>)
+	at Ode.$ (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11207)
+	at Ode.terminate (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11450)
+	at ZG.terminate (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:915)
+	at Hr (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:13881)
+	at MessagePortMain.<anonymous> (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10150)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-25 15:53:29.261 [error] Error: Channel has been closed
+	at s (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2818)
+	at Object.info (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3163)
+	at T.info (/opt/Antigravity/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)
+	at ChildProcess.<anonymous> (/opt/Antigravity/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600187)
+	at ChildProcess.emit (node:events:518:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-25 15:53:29.280 [info] Extension host with pid 193617 exiting with code 0

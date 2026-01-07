@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Προσθήκη στα αγαπημένα"
+   },
+   "basic_font": {
+      "message": "Αυτή η γραμματοσειρά είναι ήδη εγκατεστημένη σε υπολογιστές Windows και Mac. Δεν χρειάζεται να την κατεβάσετε για τον ιστότοπό σας."
+   },
+   "chrome_limitations": {
+      "message": "Ορισμένοι τεχνικοί περιορισμοί εμποδίζουν τη λειτουργία της επέκτασης στις σελίδες του Chrome Web Store ή στις σελίδες ρυθμίσεων του Chrome."
+   },
+   "clear": {
+      "message": "Καθαρισμός λίστας"
+   },
+   "contact_us": {
+      "message": "Επικοινωνήστε μαζί μας"
+   },
+   "copy": {
+      "message": "Αντιγραφή"
+   },
+   "download": {
+      "message": "Λήψη"
+   },
+   "extDescription": {
+      "message": "Το Font finder είναι μια ελαφριά επέκταση που σας επιτρέπει να βρείτε τη γραμματοσειρά ενός κειμένου στην οθόνη."
+   },
+   "extName": {
+      "message": "Font finder - Εύρεση γραμματοσειράς κειμένου"
+   },
+   "favorites": {
+      "message": "Αγαπημένα"
+   },
+   "link": {
+      "message": "Σύνδεσμος"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Περισσότερα.."
+   },
+   "pick_color_button": {
+      "message": "Βρείτε γραμματοσειρά στη σελίδα"
+   },
+   "rating": {
+      "message": "Βαθμολογήστε την επέκταση"
+   },
+   "recent": {
+      "message": "Πρόσφατα"
+   },
+   "remove_from_favorites": {
+      "message": "Αφαίρεση από τα αγαπημένα"
+   },
+   "report_bug": {
+      "message": "Αναφορά σφάλματος"
+   },
+   "settings": {
+      "message": "Ρυθμίσεις"
+   },
+   "settings_auto_copy": {
+      "message": "Αυτόματη αντιγραφή ονόματος γραμματοσειράς"
+   },
+   "settings_keep_history": {
+      "message": "Αποθήκευση πρόσφατων γραμματοσειρών"
+   },
+   "settings_shortcut": {
+      "message": "Ορισμός συντόμευσης πληκτρολογίου"
+   }
+}

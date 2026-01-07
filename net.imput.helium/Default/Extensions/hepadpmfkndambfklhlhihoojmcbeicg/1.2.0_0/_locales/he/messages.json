@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "הוסף למועדפים"
+   },
+   "basic_font": {
+      "message": "גופן זה כבר מותקן במחשבי Windows ו-Mac. אין צורך להוריד אותו לאתר שלך."
+   },
+   "chrome_limitations": {
+      "message": "מגבלות טכניות מסוימות מונעות מהתוסף לפעול בדפי Chrome Web Store או בדפי ההגדרות של Chrome."
+   },
+   "clear": {
+      "message": "נקה רשימה"
+   },
+   "contact_us": {
+      "message": "צור קשר"
+   },
+   "copy": {
+      "message": "העתק"
+   },
+   "download": {
+      "message": "הורד"
+   },
+   "extDescription": {
+      "message": "Font finder היא תוסף קל שמאפשר לך למצוא את הגופן של טקסט על המסך."
+   },
+   "extName": {
+      "message": "Font finder - מצא את הגופן של טקסט"
+   },
+   "favorites": {
+      "message": "מועדפים"
+   },
+   "link": {
+      "message": "קישור"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "עוד.."
+   },
+   "pick_color_button": {
+      "message": "מצא גופן בעמוד"
+   },
+   "rating": {
+      "message": "דרג את התוסף"
+   },
+   "recent": {
+      "message": "אחרונים"
+   },
+   "remove_from_favorites": {
+      "message": "הסר מהמועדפים"
+   },
+   "report_bug": {
+      "message": "דווח על באג"
+   },
+   "settings": {
+      "message": "הגדרות"
+   },
+   "settings_auto_copy": {
+      "message": "העתק אוטומטית את שם הגופן"
+   },
+   "settings_keep_history": {
+      "message": "שמור גופנים אחרונים"
+   },
+   "settings_shortcut": {
+      "message": "הגדר קיצור מקלדת"
+   }
+}

@@ -1,0 +1,62 @@
+[2025-12-24 04:19:05] [INFO] Antigravity Cockpit v1.5.34 - Systems Online
+[2025-12-24 04:19:05] [INFO] Scanning environment, max attempts: 3
+[2025-12-24 04:19:05] [INFO] Found 2 candidate process(es)
+[2025-12-24 04:19:05] [INFO] 🔍 Checking Process: PID=12242, ExtPort=38541
+[2025-12-24 04:19:05] [INFO] [UnixStrategy] Port command available: lsof
+[2025-12-24 04:19:05] [INFO] ✅ Connection Logic Verified: 36261
+[2025-12-24 04:19:05] [INFO] Reactor Engaged: :36261
+[2025-12-24 04:19:05] [INFO] Reactor Pulse: 120000ms
+[2025-12-24 04:19:05] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-24 04:19:05] [INFO] System boot successful
+[2025-12-24 04:19:05] [INFO] Antigravity Cockpit Fully Operational
+[2025-12-24 04:19:05] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6944
+}
+[2025-12-24 04:19:05] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 91.25%
+    Gemini 3 Pro (Low)           : 91.25%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 100.00%
+    Claude Sonnet 4.5 (Thinking) : 100.00%
+    Claude Opus 4.5 (Thinking)   : 100.00%
+    GPT-OSS 120B (Medium)        : 100.00%
+[2025-12-24 04:20:53] [INFO] Dashboard initialized (reprocessing cached data)
+[2025-12-24 04:20:53] [INFO] Reprocessing cached telemetry data with latest config
+[2025-12-24 04:21:05] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-24 04:21:05] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6944
+}
+[2025-12-24 04:21:05] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 91.25%
+    Gemini 3 Pro (Low)           : 91.25%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 100.00%
+    Claude Sonnet 4.5 (Thinking) : 100.00%
+    Claude Opus 4.5 (Thinking)   : 100.00%
+    GPT-OSS 120B (Medium)        : 100.00%
+[2025-12-24 04:21:06] [INFO] User changed view mode to: list
+[2025-12-24 04:21:06] [INFO] Updating config 'agCockpit.viewMode': "list"
+[2025-12-24 04:21:06] [INFO] Reprocessing cached telemetry data with latest config
+[2025-12-24 04:21:06] [INFO] Reprocessing cached telemetry data with latest config
+[2025-12-24 04:21:18] [INFO] User toggled profile visibility
+[2025-12-24 04:21:18] [INFO] Updating config 'agCockpit.profileHidden': true
+[2025-12-24 04:21:18] [INFO] Reprocessing cached telemetry data with latest config
+[2025-12-24 04:21:18] [INFO] Reprocessing cached telemetry data with latest config
+[2025-12-24 04:21:18] [INFO] User toggled profile visibility
+[2025-12-24 04:21:18] [INFO] Updating config 'agCockpit.profileHidden': false
+[2025-12-24 04:21:18] [INFO] Reprocessing cached telemetry data with latest config
+[2025-12-24 04:21:18] [INFO] Reprocessing cached telemetry data with latest config

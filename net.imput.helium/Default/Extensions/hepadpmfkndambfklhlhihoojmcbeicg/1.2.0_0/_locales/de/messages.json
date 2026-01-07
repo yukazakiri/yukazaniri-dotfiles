@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Zu Favoriten hinzufügen"
+   },
+   "basic_font": {
+      "message": "Diese Schriftart ist bereits auf Windows- und Mac-Computern installiert. Kein Download für Ihre Website erforderlich."
+   },
+   "chrome_limitations": {
+      "message": "Technische Einschränkungen verhindern, dass die Erweiterung auf Chrome Web Store-Seiten oder Chrome-Einstellungsseiten funktioniert."
+   },
+   "clear": {
+      "message": "Liste leeren"
+   },
+   "contact_us": {
+      "message": "Kontaktieren Sie uns"
+   },
+   "copy": {
+      "message": "Kopieren"
+   },
+   "download": {
+      "message": "Herunterladen"
+   },
+   "extDescription": {
+      "message": "Font finder ist eine leichte Erweiterung, die Ihnen ermöglicht, die Schriftart eines Textes auf dem Bildschirm zu finden."
+   },
+   "extName": {
+      "message": "Font finder - Schriftart eines Textes finden"
+   },
+   "favorites": {
+      "message": "Favoriten"
+   },
+   "link": {
+      "message": "Link"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Mehr.."
+   },
+   "pick_color_button": {
+      "message": "Schriftart auf der Seite finden"
+   },
+   "rating": {
+      "message": "Erweiterung bewerten"
+   },
+   "recent": {
+      "message": "Kürzlich"
+   },
+   "remove_from_favorites": {
+      "message": "Aus Favoriten entfernen"
+   },
+   "report_bug": {
+      "message": "Fehler melden"
+   },
+   "settings": {
+      "message": "Einstellungen"
+   },
+   "settings_auto_copy": {
+      "message": "Schriftartnamen automatisch kopieren"
+   },
+   "settings_keep_history": {
+      "message": "Kürzlich verwendete Schriftarten speichern"
+   },
+   "settings_shortcut": {
+      "message": "Tastenkombination festlegen"
+   }
+}

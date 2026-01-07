@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "ఇష్టాలలోకి చేర్చండి"
+   },
+   "basic_font": {
+      "message": "ఈ ఫాంట్ ఇప్పటికే Windows మరియు Mac కంప్యూటర్లలో ఇన్‌స్టాల్ చేయబడింది. మీ సైట్ కోసం దీన్ని డౌన్‌లోడ్ చేయాల్సిన అవసరం లేదు."
+   },
+   "chrome_limitations": {
+      "message": "కొన్ని సాంకేతిక పరిమితులు Chrome వెబ్ స్టోర్ పేజీలు లేదా Chrome సెట్టింగ్స్ పేజీలపై ఎక్స్‌టెన్షన్ పనిచేయకుండా చేస్తాయి."
+   },
+   "clear": {
+      "message": "జాబితాను ఖాళీ చేయండి"
+   },
+   "contact_us": {
+      "message": "మమ్మల్ని సంప్రదించండి"
+   },
+   "copy": {
+      "message": "కాపీ"
+   },
+   "download": {
+      "message": "డౌన్‌లోడ్"
+   },
+   "extDescription": {
+      "message": "ఫాంట్ ఫైండర్ అనేది స్క్రీన్‌పై టెక్స్ట్ యొక్క ఫాంట్‌ను కనుగొనడానికి మీకు సహాయపడే తేలికపాటి ఎక్స్‌టెన్షన్."
+   },
+   "extName": {
+      "message": "Font finder - టెక్స్ట్ ఫాంట్ కనుగొనండి"
+   },
+   "favorites": {
+      "message": "ఇష్టాలు"
+   },
+   "link": {
+      "message": "లింక్"
+   },
+   "logo": {
+      "message": "ఫాంట్ ఫైండర్"
+   },
+   "more": {
+      "message": "మరిన్ని.."
+   },
+   "pick_color_button": {
+      "message": "పేజీపై ఫాంట్ కనుగొనండి"
+   },
+   "rating": {
+      "message": "ఎక్స్‌టెన్షన్‌ను రేట్ చేయండి"
+   },
+   "recent": {
+      "message": "ఇటీవలి"
+   },
+   "remove_from_favorites": {
+      "message": "ఇష్టాల నుండి తీసివేయండి"
+   },
+   "report_bug": {
+      "message": "బగ్ నివేదించండి"
+   },
+   "settings": {
+      "message": "సెట్టింగ్స్"
+   },
+   "settings_auto_copy": {
+      "message": "ఫాంట్ పేరు ఆటోమేటిక్‌గా కాపీ చేయండి"
+   },
+   "settings_keep_history": {
+      "message": "ఇటీవలి ఫాంట్‌లను సేవ్ చేయండి"
+   },
+   "settings_shortcut": {
+      "message": "కీబోర్డ్ షార్ట్‌కట్‌ను సెట్ చేయండి"
+   }
+}

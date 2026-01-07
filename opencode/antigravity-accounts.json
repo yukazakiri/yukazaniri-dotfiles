@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "accounts": [
+    {
+      "email": "marianolouis18v2@gmail.com",
+      "refreshToken": "1//0e4skTlI81VP4CgYIARAAGA4SNwF-L9Ir_Af70bNOz8EqgXc9-t0cS4MYNLlYfoNGUwjONGbdbUX9F8pj52VUG6npPGwBOvaG7Go",
+      "projectId": "abstract-scion-pj4xk",
+      "managedProjectId": "abstract-scion-pj4xk",
+      "addedAt": 1767595481994,
+      "lastUsed": 1767771815991,
+      "rateLimitResetTimes": {
+        "gemini-cli:gemini-3-pro-preview": 1767771843065
+      }
+    }
+  ],
+  "activeIndex": 0,
+  "activeIndexByFamily": {
+    "claude": 0,
+    "gemini": 0
+  }
+}

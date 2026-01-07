@@ -1,0 +1,7 @@
+2026-01-07 09:24:37.469 [info] Getting Manifest... github.copilot-chat
+2026-01-07 09:24:37.786 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.vscode/extensions/extensions.json","path":"/home/admin/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-07 09:24:42.293 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 998ms.
+2026-01-07 09:24:42.927 [info] Extracted extension to file:///home/admin/.vscode/extensions/github.copilot-chat-0.35.3: github.copilot-chat
+2026-01-07 09:24:42.940 [info] Renamed to /home/admin/.vscode/extensions/github.copilot-chat-0.35.3
+2026-01-07 09:24:42.981 [info] Marked extension as removed github.copilot-chat-0.35.2
+2026-01-07 09:24:42.992 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/admin/.vscode/extensions/extensions.json

@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "প্রিয়তে যোগ করুন"
+   },
+   "basic_font": {
+      "message": "এই ফন্টটি উইন্ডোজ এবং ম্যাক কম্পিউটারে ইতিমধ্যে ইনস্টল করা আছে। আপনার সাইটের জন্য এটি ডাউনলোড করার প্রয়োজন নেই।"
+   },
+   "chrome_limitations": {
+      "message": "কিছু প্রযুক্তিগত সীমাবদ্ধতার কারণে এক্সটেনশনটি Chrome Web Store বা Chrome এর কনফিগারেশন পৃষ্ঠাগুলিতে কাজ করতে পারে না।"
+   },
+   "clear": {
+      "message": "তালিকা পরিষ্কার করুন"
+   },
+   "contact_us": {
+      "message": "আমাদের সাথে যোগাযোগ করুন"
+   },
+   "copy": {
+      "message": "কপি করুন"
+   },
+   "download": {
+      "message": "ডাউনলোড"
+   },
+   "extDescription": {
+      "message": "ফন্ট ফাইন্ডার একটি হালকা এক্সটেনশন যা আপনাকে স্ক্রিনে প্রদর্শিত টেক্সটের ফন্ট খুঁজে পেতে সাহায্য করে।"
+   },
+   "extName": {
+      "message": "Font finder - টেক্সটের ফন্ট খুঁজুন"
+   },
+   "favorites": {
+      "message": "প্রিয়"
+   },
+   "link": {
+      "message": "লিংক"
+   },
+   "logo": {
+      "message": "ফন্ট ফাইন্ডার"
+   },
+   "more": {
+      "message": "আরও.."
+   },
+   "pick_color_button": {
+      "message": "পৃষ্ঠায় ফন্ট খুঁজুন"
+   },
+   "rating": {
+      "message": "এক্সটেনশন রেট করুন"
+   },
+   "recent": {
+      "message": "সাম্প্রতিক"
+   },
+   "remove_from_favorites": {
+      "message": "প্রিয় থেকে সরান"
+   },
+   "report_bug": {
+      "message": "বাগ রিপোর্ট করুন"
+   },
+   "settings": {
+      "message": "সেটিংস"
+   },
+   "settings_auto_copy": {
+      "message": "ফন্টের নাম স্বয়ংক্রিয়ভাবে কপি করুন"
+   },
+   "settings_keep_history": {
+      "message": "সাম্প্রতিক ফন্ট সংরক্ষণ করুন"
+   },
+   "settings_shortcut": {
+      "message": "কীবোর্ড শর্টকাট নির্ধারণ করুন"
+   }
+}

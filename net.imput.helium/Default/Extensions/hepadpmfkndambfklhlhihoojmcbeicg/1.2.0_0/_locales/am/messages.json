@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "ወደ ተወዳጆች አክል"
+   },
+   "basic_font": {
+      "message": "ይህ ቅርፀ ቁምፊ በWindows እና Mac ላይ ነባሪ ነው። ለድር ጣቢያዎ ማውረድ አያስፈልግም።"
+   },
+   "chrome_limitations": {
+      "message": "አንዳንድ ቴክኒካል ገደቦች በChrome Web Store ወይም በChrome ቅንብሮች ገጾች ላይ እንዲሰራ ያከልክላሉ።"
+   },
+   "clear": {
+      "message": "ዝርዝሩን አጥፋ"
+   },
+   "contact_us": {
+      "message": "አግኙን"
+   },
+   "copy": {
+      "message": "ቅዳ"
+   },
+   "download": {
+      "message": "አውርድ"
+   },
+   "extDescription": {
+      "message": "Font finder ቀላል እንደሆነ ማንኛውም የጽሑፍ ቅርፀ ቁምፊ በማየት ይረዳል።"
+   },
+   "extName": {
+      "message": "Font finder - የጽሑፍ ቅርፀ ቁምፊ ፈልግ"
+   },
+   "favorites": {
+      "message": "ተወዳጆች"
+   },
+   "link": {
+      "message": "አገናኝ"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "ተጨማሪ.."
+   },
+   "pick_color_button": {
+      "message": "ቅርፀ ቁምፊ ፈልግ"
+   },
+   "rating": {
+      "message": "ተቋም ይስጡ"
+   },
+   "recent": {
+      "message": "ቅርብ ጊዜ"
+   },
+   "remove_from_favorites": {
+      "message": "ከተወዳጆች አስወግድ"
+   },
+   "report_bug": {
+      "message": "ስህተት እንወቅ"
+   },
+   "settings": {
+      "message": "ቅንብሮች"
+   },
+   "settings_auto_copy": {
+      "message": "የቅርፀ ቁምፊ ስም ራስ-ሰር አውርድ"
+   },
+   "settings_keep_history": {
+      "message": "የቅርብ ጊዜ ቅርፀ ቁምፊዎችን ያስቀምጡ"
+   },
+   "settings_shortcut": {
+      "message": "የቁልፍ ጥቅል ያዝ"
+   }
+}

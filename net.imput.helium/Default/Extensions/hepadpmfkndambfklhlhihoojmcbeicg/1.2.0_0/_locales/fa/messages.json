@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "افزودن به علاقه‌مندی‌ها"
+   },
+   "basic_font": {
+      "message": "این فونت قبلاً روی کامپیوترهای ویندوز و مک نصب شده است. نیازی به دانلود آن برای سایت شما نیست."
+   },
+   "chrome_limitations": {
+      "message": "برخی محدودیت‌های فنی مانع از عملکرد افزونه در صفحات Chrome Web Store یا صفحات تنظیمات Chrome می‌شوند."
+   },
+   "clear": {
+      "message": "پاک کردن لیست"
+   },
+   "contact_us": {
+      "message": "تماس با ما"
+   },
+   "copy": {
+      "message": "کپی"
+   },
+   "download": {
+      "message": "دانلود"
+   },
+   "extDescription": {
+      "message": "Font finder یک افزونه سبک است که به شما امکان می‌دهد فونت یک متن را روی صفحه پیدا کنید."
+   },
+   "extName": {
+      "message": "Font finder - یافتن فونت یک متن"
+   },
+   "favorites": {
+      "message": "علاقه‌مندی‌ها"
+   },
+   "link": {
+      "message": "لینک"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "بیشتر.."
+   },
+   "pick_color_button": {
+      "message": "یافتن فونت در صفحه"
+   },
+   "rating": {
+      "message": "امتیاز به افزونه"
+   },
+   "recent": {
+      "message": "اخیر"
+   },
+   "remove_from_favorites": {
+      "message": "حذف از علاقه‌مندی‌ها"
+   },
+   "report_bug": {
+      "message": "گزارش خطا"
+   },
+   "settings": {
+      "message": "تنظیمات"
+   },
+   "settings_auto_copy": {
+      "message": "کپی خودکار نام فونت"
+   },
+   "settings_keep_history": {
+      "message": "ذخیره فونت‌های اخیر"
+   },
+   "settings_shortcut": {
+      "message": "تعریف میانبر صفحه کلید"
+   }
+}

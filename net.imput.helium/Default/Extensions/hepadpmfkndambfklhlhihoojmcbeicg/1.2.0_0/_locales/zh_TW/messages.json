@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "加入收藏"
+   },
+   "basic_font": {
+      "message": "此字體已安裝於 Windows 和 Mac 電腦上。無需為您的網站下載。"
+   },
+   "chrome_limitations": {
+      "message": "某些技術限制使擴充功能無法在 Chrome Web Store 或 Chrome 設定頁面上運作。"
+   },
+   "clear": {
+      "message": "清空列表"
+   },
+   "contact_us": {
+      "message": "聯絡我們"
+   },
+   "copy": {
+      "message": "複製"
+   },
+   "download": {
+      "message": "下載"
+   },
+   "extDescription": {
+      "message": "Font finder 是一款輕量級擴充功能，讓您輕鬆找到螢幕上文字的字體。"
+   },
+   "extName": {
+      "message": "Font finder - 查找文字字體"
+   },
+   "favorites": {
+      "message": "收藏"
+   },
+   "link": {
+      "message": "連結"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "更多.."
+   },
+   "pick_color_button": {
+      "message": "在頁面上查找字體"
+   },
+   "rating": {
+      "message": "評分擴充功能"
+   },
+   "recent": {
+      "message": "最近"
+   },
+   "remove_from_favorites": {
+      "message": "從收藏中移除"
+   },
+   "report_bug": {
+      "message": "回報問題"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "settings_auto_copy": {
+      "message": "自動複製字體名稱"
+   },
+   "settings_keep_history": {
+      "message": "保存最近的字體"
+   },
+   "settings_shortcut": {
+      "message": "設定鍵盤快捷鍵"
+   }
+}

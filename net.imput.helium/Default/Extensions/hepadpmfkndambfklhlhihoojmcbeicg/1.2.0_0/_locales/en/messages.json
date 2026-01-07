@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Add to favorites"
+   },
+   "basic_font": {
+      "message": "This font is already installed on Windows and Mac computers. You don't need to download it for your website."
+   },
+   "chrome_limitations": {
+      "message": "Some technical limitations prevent the extension from working on Chrome Web Store pages or Chrome's settings pages."
+   },
+   "clear": {
+      "message": "Clear the list"
+   },
+   "contact_us": {
+      "message": "Contact us"
+   },
+   "copy": {
+      "message": "Copy"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "extDescription": {
+      "message": "Identify with one click the font used on any text on a web page."
+   },
+   "extName": {
+      "message": "Font finder"
+   },
+   "favorites": {
+      "message": "Favorites"
+   },
+   "link": {
+      "message": "Link"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "More.."
+   },
+   "pick_color_button": {
+      "message": "Find a font on the page"
+   },
+   "rating": {
+      "message": "Rate the extension"
+   },
+   "recent": {
+      "message": "Recent"
+   },
+   "remove_from_favorites": {
+      "message": "Remove from favorites"
+   },
+   "report_bug": {
+      "message": "Report a bug"
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "settings_auto_copy": {
+      "message": "Automatically copy font name"
+   },
+   "settings_keep_history": {
+      "message": "Save recent fonts"
+   },
+   "settings_shortcut": {
+      "message": "Set keyboard shortcut"
+   }
+}

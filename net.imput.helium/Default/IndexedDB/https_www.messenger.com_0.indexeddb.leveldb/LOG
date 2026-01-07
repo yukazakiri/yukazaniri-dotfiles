@@ -1,0 +1,91 @@
+2025/12/21-21:52:39.853 7dca Reusing MANIFEST /home/admin/.config/net.imput.helium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/21-21:52:39.854 7dca Recovering log #63
+2025/12/21-21:52:39.860 7dca Reusing old log /home/admin/.config/net.imput.helium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000063.log 
+2025/12/21-21:52:39.861 7dca Delete type=2 #60
+2025/12/21-21:52:39.861 7dca Delete type=2 #61
+2025/12/21-21:52:39.861 7dca Delete type=2 #58
+2025/12/21-21:52:39.861 7dca Delete type=2 #59
+2025/12/21-21:52:39.861 7dca Delete type=2 #64
+2025/12/21-21:52:39.861 7dca Delete type=2 #62
+2025/12/21-21:52:47.195 7dcb Level-0 table #73: started
+2025/12/21-21:52:47.208 7dcb Level-0 table #73: 1890124 bytes OK
+2025/12/21-21:52:47.213 7dcb Delete type=0 #63
+2025/12/21-21:52:47.240 7dcb Compacting 1@1 + 6@2 files
+2025/12/21-21:52:47.258 7dcb Generated table #74@1: 12601 keys, 2135928 bytes
+2025/12/21-21:52:47.291 7dcb Generated table #75@1: 77031 keys, 2220635 bytes
+2025/12/21-21:52:47.315 7dcb Generated table #76@1: 46812 keys, 2191096 bytes
+2025/12/21-21:52:47.324 7dcb Generated table #77@1: 4407 keys, 2162752 bytes
+2025/12/21-21:52:47.330 7dcb Generated table #78@1: 268 keys, 2112182 bytes
+2025/12/21-21:52:47.339 7dcb Generated table #79@1: 6414 keys, 1917739 bytes
+2025/12/21-21:52:47.339 7dcb Compacted 1@1 + 6@2 files => 12740332 bytes
+2025/12/21-21:52:47.342 7dcb compacted to: files[ 0 0 6 0 0 0 0 ]
+2025/12/21-21:52:51.427 7dcb Level-0 table #81: started
+2025/12/21-21:52:51.440 7dcb Level-0 table #81: 1429742 bytes OK
+2025/12/21-21:52:51.444 7dcb Delete type=2 #68
+2025/12/21-21:52:51.444 7dcb Delete type=2 #73
+2025/12/21-21:52:51.444 7dcb Delete type=2 #66
+2025/12/21-21:52:51.444 7dcb Delete type=2 #69
+2025/12/21-21:52:51.444 7dcb Delete type=0 #72
+2025/12/21-21:52:51.444 7dcb Delete type=2 #70
+2025/12/21-21:52:51.444 7dcb Delete type=2 #67
+2025/12/21-21:52:51.444 7dcb Delete type=2 #65
+2025/12/21-21:52:53.842 7dce Compacting 1@1 + 6@2 files
+2025/12/21-21:52:53.863 7dce Generated table #82@1: 12604 keys, 2136400 bytes
+2025/12/21-21:52:53.894 7dce Generated table #83@1: 70551 keys, 2213678 bytes
+2025/12/21-21:52:53.917 7dce Generated table #84@1: 62519 keys, 2222390 bytes
+2025/12/21-21:52:53.929 7dce Generated table #85@1: 4754 keys, 2141384 bytes
+2025/12/21-21:52:53.936 7dce Generated table #86@1: 185 keys, 2139210 bytes
+2025/12/21-21:52:53.944 7dce Generated table #87@1: 2567 keys, 2109719 bytes
+2025/12/21-21:52:53.948 7dce Generated table #88@1: 4174 keys, 348682 bytes
+2025/12/21-21:52:53.949 7dce Compacted 1@1 + 6@2 files => 13311463 bytes
+2025/12/21-21:52:53.952 7dce compacted to: files[ 0 0 7 0 0 0 0 ]
+2025/12/21-21:52:53.952 7dce Delete type=2 #76
+2025/12/21-21:52:53.952 7dce Delete type=2 #74
+2025/12/21-21:52:53.952 7dce Delete type=2 #77
+2025/12/21-21:52:53.952 7dce Delete type=2 #78
+2025/12/21-21:52:53.952 7dce Delete type=2 #81
+2025/12/21-21:52:53.952 7dce Delete type=2 #79
+2025/12/21-21:52:53.952 7dce Delete type=2 #75
+2025/12/21-21:55:09.747 7dca Level-0 table #90: started
+2025/12/21-21:55:09.765 7dca Level-0 table #90: 2086882 bytes OK
+2025/12/21-21:55:09.769 7dca Delete type=0 #80
+2025/12/21-21:55:10.669 7dcb Compacting 1@1 + 7@2 files
+2025/12/21-21:55:10.691 7dcb Generated table #91@1: 12643 keys, 2137408 bytes
+2025/12/21-21:55:10.710 7dcb Generated table #92@1: 43049 keys, 2179432 bytes
+2025/12/21-21:55:10.737 7dcb Generated table #93@1: 82608 keys, 2228389 bytes
+2025/12/21-21:55:10.747 7dcb Generated table #94@1: 14530 keys, 2147473 bytes
+2025/12/21-21:55:10.754 7dcb Generated table #95@1: 4323 keys, 2174810 bytes
+2025/12/21-21:55:10.759 7dcb Generated table #96@1: 294 keys, 2147275 bytes
+2025/12/21-21:55:10.767 7dcb Generated table #97@1: 7093 keys, 1652196 bytes
+2025/12/21-21:55:10.767 7dcb Compacted 1@1 + 7@2 files => 14666983 bytes
+2025/12/21-21:55:10.770 7dcb compacted to: files[ 0 0 7 0 0 0 0 ]
+2025/12/21-21:55:10.771 7dcb Delete type=2 #84
+2025/12/21-21:55:10.771 7dcb Delete type=2 #90
+2025/12/21-21:55:10.771 7dcb Delete type=2 #82
+2025/12/21-21:55:10.771 7dcb Delete type=2 #85
+2025/12/21-21:55:10.771 7dcb Delete type=2 #88
+2025/12/21-21:55:10.771 7dcb Delete type=2 #86
+2025/12/21-21:55:10.771 7dcb Delete type=2 #83
+2025/12/21-21:55:10.771 7dcb Delete type=2 #87
+2025/12/21-21:57:51.414 7dcb Level-0 table #99: started
+2025/12/21-21:57:51.426 7dcb Level-0 table #99: 1462655 bytes OK
+2025/12/21-21:57:51.429 7dcb Delete type=0 #89
+2025/12/21-21:57:53.133 7dce Compacting 1@1 + 7@2 files
+2025/12/21-21:57:53.149 7dce Generated table #100@1: 3310 keys, 2119631 bytes
+2025/12/21-21:57:53.169 7dce Generated table #101@1: 27054 keys, 2161101 bytes
+2025/12/21-21:57:53.208 7dce Generated table #102@1: 92078 keys, 2239664 bytes
+2025/12/21-21:57:53.228 7dce Generated table #103@1: 38433 keys, 2188695 bytes
+2025/12/21-21:57:53.236 7dce Generated table #104@1: 4706 keys, 2122953 bytes
+2025/12/21-21:57:53.242 7dce Generated table #105@1: 264 keys, 2164424 bytes
+2025/12/21-21:57:53.248 7dce Generated table #106@1: 1486 keys, 2106806 bytes
+2025/12/21-21:57:53.254 7dce Generated table #107@1: 6569 keys, 564601 bytes
+2025/12/21-21:57:53.254 7dce Compacted 1@1 + 7@2 files => 15667875 bytes
+2025/12/21-21:57:53.258 7dce compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/12/21-21:57:53.258 7dce Delete type=2 #94
+2025/12/21-21:57:53.258 7dce Delete type=2 #93
+2025/12/21-21:57:53.258 7dce Delete type=2 #97
+2025/12/21-21:57:53.258 7dce Delete type=2 #96
+2025/12/21-21:57:53.258 7dce Delete type=2 #95
+2025/12/21-21:57:53.258 7dce Delete type=2 #91
+2025/12/21-21:57:53.258 7dce Delete type=2 #92
+2025/12/21-21:57:53.258 7dce Delete type=2 #99

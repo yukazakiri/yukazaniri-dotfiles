@@ -1,0 +1,28 @@
+2025/12/23-14:24:36.285 6dde Reusing MANIFEST /home/admin/.config/net.imput.helium/Default/IndexedDB/https_kisskh.do_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/23-14:24:36.285 6dde Recovering log #4
+2025/12/23-14:24:36.286 6dde Reusing old log /home/admin/.config/net.imput.helium/Default/IndexedDB/https_kisskh.do_0.indexeddb.leveldb/000004.log 
+2025/12/23-14:24:36.309 6ddc Level-0 table #8: started
+2025/12/23-14:24:36.312 6ddc Level-0 table #8: 7640 bytes OK
+2025/12/23-14:24:36.315 6ddc Delete type=0 #4
+2025/12/23-14:24:36.316 6ddc Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/23-14:24:36.751 6dde Level-0 table #10: started
+2025/12/23-14:24:36.754 6dde Level-0 table #10: 920 bytes OK
+2025/12/23-14:24:36.757 6dde Delete type=0 #7
+2025/12/23-14:24:36.757 6dde Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 775 : 1
+2025/12/23-14:24:36.757 6dde Compacting 1@0 + 1@1 files
+2025/12/23-14:24:36.761 6dde Generated table #11@0: 76 keys, 2237 bytes
+2025/12/23-14:24:36.761 6dde Compacted 1@0 + 1@1 files => 2237 bytes
+2025/12/23-14:24:36.763 6dde compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/23-14:24:36.764 6dde Delete type=2 #10
+2025/12/23-14:24:36.764 6dde Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 775 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/23-14:24:36.919 6ddc Level-0 table #13: started
+2025/12/23-14:24:36.922 6ddc Level-0 table #13: 2045 bytes OK
+2025/12/23-14:24:36.926 6ddc Delete type=2 #8
+2025/12/23-14:24:36.926 6ddc Delete type=0 #9
+2025/12/23-14:24:36.926 6ddc Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 818 : 1
+2025/12/23-14:24:36.926 6ddc Compacting 1@0 + 1@1 files
+2025/12/23-14:24:36.930 6ddc Generated table #14@0: 88 keys, 2359 bytes
+2025/12/23-14:24:36.930 6ddc Compacted 1@0 + 1@1 files => 2359 bytes
+2025/12/23-14:24:36.933 6ddc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/23-14:24:36.933 6ddc Delete type=2 #13
+2025/12/23-14:24:36.933 6ddc Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 818 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

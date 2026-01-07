@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Hozzáadás a kedvencekhez"
+   },
+   "basic_font": {
+      "message": "Ez a betűtípus már telepítve van a Windows és Mac számítógépekre. Nem szükséges letölteni a webhelyéhez."
+   },
+   "chrome_limitations": {
+      "message": "Bizonyos technikai korlátozások miatt a kiterjesztés nem működik a Chrome Web Store vagy a Chrome beállítási oldalain."
+   },
+   "clear": {
+      "message": "Lista ürítése"
+   },
+   "contact_us": {
+      "message": "Lépjen kapcsolatba velünk"
+   },
+   "copy": {
+      "message": "Másolás"
+   },
+   "download": {
+      "message": "Letöltés"
+   },
+   "extDescription": {
+      "message": "A Font finder egy könnyű kiterjesztés, amely lehetővé teszi, hogy megtalálja a képernyőn lévő szöveg betűtípusát."
+   },
+   "extName": {
+      "message": "Font finder - Szöveg betűtípusának megkeresése"
+   },
+   "favorites": {
+      "message": "Kedvencek"
+   },
+   "link": {
+      "message": "Hivatkozás"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Tovább.."
+   },
+   "pick_color_button": {
+      "message": "Betűtípus keresése az oldalon"
+   },
+   "rating": {
+      "message": "Értékelje a kiterjesztést"
+   },
+   "recent": {
+      "message": "Legutóbbiak"
+   },
+   "remove_from_favorites": {
+      "message": "Eltávolítás a kedvencek közül"
+   },
+   "report_bug": {
+      "message": "Hiba jelentése"
+   },
+   "settings": {
+      "message": "Beállítások"
+   },
+   "settings_auto_copy": {
+      "message": "Betűtípus neve automatikusan másolása"
+   },
+   "settings_keep_history": {
+      "message": "Legutóbbi betűtípusok mentése"
+   },
+   "settings_shortcut": {
+      "message": "Billentyűparancs beállítása"
+   }
+}

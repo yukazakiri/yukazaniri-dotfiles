@@ -1,0 +1,13 @@
+2025-12-25 15:20:30.975 [info] Using Cloud Code URL: https://daily-cloudcode-pa.googleapis.com
+2025-12-25 15:20:30.975 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-12-25 15:20:30.975 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:41763
+2025-12-25 15:20:30.975 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9101/antigravity
+2025-12-25 15:20:30.975 [info] update#setState idle
+2025-12-25 15:20:33.063 [info] AntigravityAuthMainService initialized
+2025-12-25 15:20:46.963 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 15:20:46.989 [error] [UtilityProcess type: shared-process, pid: 179471]: crashed with code 15 and reason 'killed'
+2025-12-25 15:20:47.035 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-12-25 15:20:47.216 [error] ptyHost terminated unexpectedly with code 15
+2025-12-25 15:20:47.217 [warning] [UtilityProcess type: ptyHost, pid: 179491]: unable to kill the process
+2025-12-25 15:20:48.422 [info] Extension host with pid 179591 exited with code: 15, signal: unknown.
+2025-12-25 15:20:48.423 [error] [UtilityProcess id: 1, type: extensionHost, pid: 179591]: crashed with code 15 and reason 'killed'

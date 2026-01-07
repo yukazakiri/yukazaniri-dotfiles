@@ -1,0 +1,127 @@
+2026-01-05 14:31:21.288 [info] [main] Log level: Info
+2026-01-05 14:31:21.288 [info] [main] Validating found git in: "git"
+2026-01-05 14:31:21.288 [info] [main] Using git "2.52.0" from "git"
+2026-01-05 14:31:21.288 [info] [Model][doInitialScan] Initial repository scan started
+2026-01-05 14:31:21.288 [info] > git rev-parse --show-toplevel [8ms]
+2026-01-05 14:31:21.288 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [37ms]
+2026-01-05 14:31:21.288 [info] [Model][openRepository] Opened repository (path): /home/admin/Documents/GitHub/DccpAdminV3
+2026-01-05 14:31:21.288 [info] [Model][openRepository] Opened repository (real path): /home/admin/Documents/GitHub/DccpAdminV3
+2026-01-05 14:31:21.288 [info] [Model][openRepository] Opened repository (kind): repository
+2026-01-05 14:31:21.443 [info] > git rev-parse --show-toplevel [148ms]
+2026-01-05 14:31:21.444 [info] > git config --get commit.template [152ms]
+2026-01-05 14:31:21.564 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [36ms]
+2026-01-05 14:31:21.595 [info] > git status -z -uall [11ms]
+2026-01-05 14:31:21.606 [info] > git rev-parse --show-toplevel [3ms]
+2026-01-05 14:31:21.617 [info] > git rev-parse --show-toplevel [6ms]
+2026-01-05 14:31:21.617 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [27ms]
+2026-01-05 14:31:21.644 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2026-01-05 14:31:21.651 [info] > git config --get commit.template [7ms]
+2026-01-05 14:31:21.651 [info] > git rev-parse --show-toplevel [12ms]
+2026-01-05 14:31:21.655 [info] > git config --get --local branch.main.vscode-merge-base [6ms]
+2026-01-05 14:31:21.666 [info] > git rev-parse --show-toplevel [11ms]
+2026-01-05 14:31:21.673 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2026-01-05 14:31:21.673 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [13ms]
+2026-01-05 14:31:21.682 [info] > git rev-parse --show-toplevel [10ms]
+2026-01-05 14:31:21.842 [info] > git merge-base refs/heads/main refs/remotes/origin/main [164ms]
+2026-01-05 14:31:21.851 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 014d68d58ef32edccd257a15f5237e5f856cef71...refs/remotes/origin/main -- [5ms]
+2026-01-05 14:31:21.852 [info] > git rev-parse --show-toplevel [155ms]
+2026-01-05 14:31:22.249 [info] > git status -z -uall [380ms]
+2026-01-05 14:31:22.249 [info] > git check-ignore -v -z --stdin [111ms]
+2026-01-05 14:31:22.251 [info] > git rev-parse --show-toplevel [371ms]
+2026-01-05 14:31:22.251 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [376ms]
+2026-01-05 14:31:22.347 [info] > git rev-parse --show-toplevel [59ms]
+2026-01-05 14:31:22.382 [info] > git rev-parse --show-toplevel [28ms]
+2026-01-05 14:31:22.399 [info] > git rev-parse --show-toplevel [3ms]
+2026-01-05 14:31:22.409 [info] > git rev-parse --show-toplevel [4ms]
+2026-01-05 14:31:22.417 [info] > git rev-parse --show-toplevel [2ms]
+2026-01-05 14:31:22.424 [info] > git rev-parse --show-toplevel [1ms]
+2026-01-05 14:31:22.429 [info] > git rev-parse --show-toplevel [1ms]
+2026-01-05 14:31:22.436 [info] > git rev-parse --show-toplevel [1ms]
+2026-01-05 14:31:22.451 [info] > git rev-parse --show-toplevel [10ms]
+2026-01-05 14:31:22.457 [info] > git rev-parse --show-toplevel [1ms]
+2026-01-05 14:31:22.463 [info] > git rev-parse --show-toplevel [1ms]
+2026-01-05 14:31:22.470 [info] > git rev-parse --show-toplevel [2ms]
+2026-01-05 14:31:22.475 [info] > git rev-parse --show-toplevel [1ms]
+2026-01-05 14:31:22.482 [info] > git rev-parse --show-toplevel [2ms]
+2026-01-05 14:31:22.489 [info] > git rev-parse --show-toplevel [1ms]
+2026-01-05 14:31:22.494 [info] > git rev-parse --show-toplevel [1ms]
+2026-01-05 14:31:22.501 [info] > git rev-parse --show-toplevel [1ms]
+2026-01-05 14:31:22.507 [info] > git rev-parse --show-toplevel [1ms]
+2026-01-05 14:31:22.508 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-01-05 14:31:22.521 [info] > git show --textconv :app/Http/Controllers/AdministratorEnrollmentManagementController.php [7ms]
+2026-01-05 14:31:22.523 [info] > git ls-files --stage -- app/Http/Controllers/AdministratorEnrollmentManagementController.php [3ms]
+2026-01-05 14:31:22.529 [info] > git cat-file -s 6eb66faeea2a469df4132701e96f8349f8b90dc4 [1ms]
+2026-01-05 14:31:22.653 [info] > git blame --root --incremental 014d68d58ef32edccd257a15f5237e5f856cef71 -- app/Http/Controllers/AdministratorEnrollmentManagementController.php [20ms]
+2026-01-05 14:31:22.908 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [231ms]
+2026-01-05 14:31:23.032 [info] > git config --get commit.template [21ms]
+2026-01-05 14:31:23.056 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2026-01-05 14:31:23.083 [info] > git status -z -uall [18ms]
+2026-01-05 14:31:23.083 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-01-05 14:31:23.266 [info] > git check-ignore -v -z --stdin [2ms]
+2026-01-05 14:31:23.934 [info] > git merge-base main origin/main [1ms]
+2026-01-05 14:31:24.095 [info] > git diff -- app/Http/Controllers/AdministratorEnrollmentManagementController.php [2ms]
+2026-01-05 14:31:24.104 [info] > git diff -- app/Models/StudentEnrollment.php [3ms]
+2026-01-05 14:31:24.117 [info] > git diff -- public/build/manifest.json [8ms]
+2026-01-05 14:31:24.126 [info] > git diff -- resources/js/pages/administrators/enrollments/index.tsx [4ms]
+2026-01-05 14:31:24.135 [info] > git diff -- resources/js/pages/administrators/enrollments/show.tsx [4ms]
+2026-01-05 14:31:24.143 [info] > git diff -- routes/web/administrators.php [3ms]
+2026-01-05 14:31:24.153 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n5 [2ms]
+2026-01-05 14:31:24.159 [info] > git config --get --local user.name [1ms]
+2026-01-05 14:31:24.160 [warning] [Git][config] git config failed: Failed to execute git
+2026-01-05 14:31:24.167 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n5 [3ms]
+2026-01-05 14:31:28.827 [info] > git add -A -- . [91ms]
+2026-01-05 14:31:28.901 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [68ms]
+2026-01-05 14:31:28.908 [info] > git config --get commit.template [1ms]
+2026-01-05 14:31:28.921 [info] > git config --get commit.template [7ms]
+2026-01-05 14:31:28.921 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2026-01-05 14:31:28.935 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2026-01-05 14:31:28.936 [info] > git status -z -uall [9ms]
+2026-01-05 14:31:28.959 [info] > git merge-base refs/heads/main refs/remotes/origin/main [8ms]
+2026-01-05 14:31:28.965 [info] > git blame --root --incremental 2314654f7dc1849eba5a45b44f4f5d1f7c265fea -- app/Http/Controllers/AdministratorEnrollmentManagementController.php [20ms]
+2026-01-05 14:31:28.967 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 014d68d58ef32edccd257a15f5237e5f856cef71...refs/remotes/origin/main -- [3ms]
+2026-01-05 14:31:28.967 [info] > git show -s --decorate=full --shortstat --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 2314654f7dc1849eba5a45b44f4f5d1f7c265fea -- [10ms]
+2026-01-05 14:31:28.990 [info] > git config --get commit.template [6ms]
+2026-01-05 14:31:28.990 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2026-01-05 14:31:29.005 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2026-01-05 14:31:29.006 [info] > git status -z -uall [9ms]
+2026-01-05 14:31:29.090 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [115ms]
+2026-01-05 14:31:29.122 [info] > git merge-base main origin/main [2ms]
+2026-01-05 14:31:33.853 [info] > git log --oneline --cherry main...main@{upstream} -- [3ms]
+2026-01-05 14:31:35.532 [info] > git pull --tags origin main [1674ms]
+2026-01-05 14:31:35.532 [info] /.codespaces/bin/gitcredential_github.sh get: line 1: /.codespaces/bin/gitcredential_github.sh: No such file or directory
+/.codespaces/bin/gitcredential_github.sh store: line 1: /.codespaces/bin/gitcredential_github.sh: No such file or directory
+From https://github.com/dccp-developers/DccpAdminV3
+ * branch            main            -> FETCH_HEAD
+ * [new tag]         v1.49.0-dev.2.0 -> v1.49.0-dev.2.0
+   014d68d..9072b7a  main            -> origin/main
+2026-01-05 14:31:38.790 [info] > git push origin main:main [3253ms]
+2026-01-05 14:31:38.790 [info] /.codespaces/bin/gitcredential_github.sh get: line 1: /.codespaces/bin/gitcredential_github.sh: No such file or directory
+/.codespaces/bin/gitcredential_github.sh store: line 1: /.codespaces/bin/gitcredential_github.sh: No such file or directory
+/.codespaces/bin/gitcredential_github.sh get: line 1: /.codespaces/bin/gitcredential_github.sh: No such file or directory
+/.codespaces/bin/gitcredential_github.sh store: line 1: /.codespaces/bin/gitcredential_github.sh: No such file or directory
+remote: 
+remote: GitHub found 9 vulnerabilities on dccp-developers/DccpAdminV3's default branch (2 high, 1 moderate, 6 low). To find out more, visit:        
+remote:      https://github.com/dccp-developers/DccpAdminV3/security/dependabot        
+remote: 
+To https://github.com/dccp-developers/DccpAdminV3.git
+   9072b7a..b07276d  main -> main
+2026-01-05 14:31:38.796 [info] > git config --get commit.template [1ms]
+2026-01-05 14:31:38.803 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2026-01-05 14:31:38.816 [info] > git status -z -uall [7ms]
+2026-01-05 14:31:38.818 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2026-01-05 14:31:38.834 [info] > git blame --root --incremental b07276d6b3d745f0c72fe97573a4ed4b06243a17 -- app/Http/Controllers/AdministratorEnrollmentManagementController.php [8ms]
+2026-01-05 14:31:38.842 [info] > git merge-base refs/heads/main refs/remotes/origin/main [9ms]
+2026-01-05 14:31:38.851 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% b07276d6b3d745f0c72fe97573a4ed4b06243a17...refs/remotes/origin/main -- [2ms]
+2026-01-05 14:31:38.956 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [114ms]
+2026-01-05 14:31:38.985 [info] > git merge-base main origin/main [1ms]
+2026-01-05 14:36:55.026 [info] > git config --get commit.template [11ms]
+2026-01-05 14:36:55.040 [info] > git ls-files --stage -- app/Http/Controllers/AdministratorEnrollmentManagementController.php [15ms]
+2026-01-05 14:36:55.053 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2026-01-05 14:36:55.056 [info] > git cat-file -s 08459dd8ffc276aa4afa573ec41694b1b9e0b543 [7ms]
+2026-01-05 14:36:55.086 [info] > git status -z -uall [22ms]
+2026-01-05 14:36:55.086 [info] > git show --textconv :app/Http/Controllers/AdministratorEnrollmentManagementController.php [4ms]
+2026-01-05 14:36:55.096 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [24ms]
+2026-01-05 14:39:32.432 [info] > git config --get commit.template [3ms]
+2026-01-05 14:39:32.444 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2026-01-05 14:39:32.469 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2026-01-05 14:39:32.472 [info] > git status -z -uall [18ms]

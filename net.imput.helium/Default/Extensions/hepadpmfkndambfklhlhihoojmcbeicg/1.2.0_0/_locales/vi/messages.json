@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Thêm vào yêu thích"
+   },
+   "basic_font": {
+      "message": "Phông chữ này đã được cài đặt sẵn trên máy tính Windows và Mac. Không cần tải xuống cho trang web của bạn."
+   },
+   "chrome_limitations": {
+      "message": "Một số hạn chế kỹ thuật ngăn tiện ích hoạt động trên các trang Chrome Web Store hoặc trang cài đặt của Chrome."
+   },
+   "clear": {
+      "message": "Xóa danh sách"
+   },
+   "contact_us": {
+      "message": "Liên hệ với chúng tôi"
+   },
+   "copy": {
+      "message": "Sao chép"
+   },
+   "download": {
+      "message": "Tải xuống"
+   },
+   "extDescription": {
+      "message": "Font finder là một tiện ích nhẹ giúp bạn tìm phông chữ của văn bản trên màn hình."
+   },
+   "extName": {
+      "message": "Font finder - Tìm phông chữ của văn bản"
+   },
+   "favorites": {
+      "message": "Yêu thích"
+   },
+   "link": {
+      "message": "Liên kết"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Thêm.."
+   },
+   "pick_color_button": {
+      "message": "Tìm phông chữ trên trang"
+   },
+   "rating": {
+      "message": "Đánh giá tiện ích"
+   },
+   "recent": {
+      "message": "Gần đây"
+   },
+   "remove_from_favorites": {
+      "message": "Xóa khỏi yêu thích"
+   },
+   "report_bug": {
+      "message": "Báo cáo lỗi"
+   },
+   "settings": {
+      "message": "Cài đặt"
+   },
+   "settings_auto_copy": {
+      "message": "Tự động sao chép tên phông chữ"
+   },
+   "settings_keep_history": {
+      "message": "Lưu phông chữ gần đây"
+   },
+   "settings_shortcut": {
+      "message": "Đặt phím tắt"
+   }
+}

@@ -1,0 +1,701 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Android telefoni"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Apple telefoni"
+   },
+   "button_feedback": {
+      "message": "Dodajte ocenu"
+   },
+   "button_message": {
+      "message": "Pošaljite nam poruku"
+   },
+   "close": {
+      "message": "Zatvori"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Naziv uređaja"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, itd."
+   },
+   "contact_title": {
+      "message": "Uređaj koji tražite nije na popisu? Recite nam!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Aktiviraj mobilni prikaz na ovoj kartici"
+   },
+   "copied": {
+      "message": "Kopirano"
+   },
+   "dimensions": {
+      "message": "Dimenzije"
+   },
+   "error": {
+      "message": "Greška"
+   },
+   "error_contact": {
+      "message": "{Molimo kontaktirajte nas} ako problem potraje."
+   },
+   "extDescription": {
+      "message": "Simulacija pametnog telefona i tableta na računaru s više modela za testiranje mobilnog sajta i responzivnog sajta."
+   },
+   "extName": {
+      "message": "Simulacija mobilnog telefona - testiranje responzivnog sajta"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "Ne odgovaraj"
+   },
+   "feedback_company_type": {
+      "message": "Koji je vaš tip poduzeća?"
+   },
+   "feedback_company_type_agency": {
+      "message": "Malo poduzeće (10-49 zaposlenih)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Samostalni"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Vrlo veliko poduzeće / grupa (5000+ zaposlenih)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Mikro poduzeće (1-9 zaposlenih)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Veliko poduzeće (250-4999 zaposlenih)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Srednje poduzeće (50-249 zaposlenih)"
+   },
+   "feedback_error_required": {
+      "message": "Sva polja su prazna 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Koliko često koristite ovu ekstenziju?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Povremeno"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Nekoliko puta tjedno"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Dnevno"
+   },
+   "feedback_frequency_rare": {
+      "message": "Rijetko"
+   },
+   "feedback_improvements": {
+      "message": "Koja poboljšanja biste željeli vidjeti?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Ideja, prepreka, nedostatak..."
+   },
+   "feedback_profession": {
+      "message": "Koji je vaš profesionalni odjel?"
+   },
+   "feedback_profession_designer": {
+      "message": "Dizajn"
+   },
+   "feedback_profession_developer": {
+      "message": "Razvoj"
+   },
+   "feedback_profession_marketing": {
+      "message": "Marketing"
+   },
+   "feedback_profession_other": {
+      "message": "Ostalo"
+   },
+   "feedback_profession_product": {
+      "message": "Upravljanje proizvodom"
+   },
+   "feedback_profession_qa": {
+      "message": "Testiranje / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Prodaja"
+   },
+   "feedback_submit": {
+      "message": "Pošalji"
+   },
+   "feedback_submitted": {
+      "message": "Hvala vam puno na povratnim informacijama 🤗"
+   },
+   "feedback_title": {
+      "message": "Pomozite nam učiniti Mobile FIRST još korisnijim za vas 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Testiranje moje stranice, prezentacije klijentima..."
+   },
+   "feedback_use_cases": {
+      "message": "Zašto koristite Mobile FIRST?"
+   },
+   "get_pro": {
+      "message": "Nabavite PRO verziju"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "global_cancel": {
+      "message": "Odustani"
+   },
+   "link": {
+      "message": "Veza"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_add_window": {
+      "message": "Dodaj model simulacije"
+   },
+   "menu_change_device": {
+      "message": "Promeni model"
+   },
+   "menu_close_alone": {
+      "message": "Deaktiviraj simulaciju"
+   },
+   "menu_close_multi": {
+      "message": "Zatvori ovaj prozor"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> Uređaj koji tražite nije na popisu? Recite nam!"
+   },
+   "menu_extensions": {
+      "message": "Otkrijte naše druge Chrome ekstenzije"
+   },
+   "menu_faq_all": {
+      "message": "Pogledajte sva često postavljana pitanja"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Kako aktivirati simulaciju u privatnom pretraživanju?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Moji medijski upiti nisu uzeti u obzir"
+   },
+   "menu_faq_scroll": {
+      "message": "Nemoguće je skrolovati u simulatoru"
+   },
+   "menu_faq_shortcut": {
+      "message": "Kako postaviti prečice na tastaturi?"
+   },
+   "menu_faq_subscription": {
+      "message": "Zašto moja pretplata ne radi?"
+   },
+   "menu_faq_title": {
+      "message": "Često postavljana pitanja"
+   },
+   "menu_help_center": {
+      "message": "Centar za pomoć"
+   },
+   "menu_info_device": {
+      "message": "Karakteristike i mockup ovog uređaja"
+   },
+   "menu_info_device_features": {
+      "message": "Karakteristike (rezolucija prikaza, itd.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Besplatni mockup u transparentnom PNG formatu"
+   },
+   "menu_report": {
+      "message": "Prijavi grešku"
+   },
+   "menu_rotate": {
+      "message": "Promeni orijentaciju"
+   },
+   "menu_screencast": {
+      "message": "📹 Snimite video zaslona"
+   },
+   "menu_screenshot": {
+      "message": "📷 Napravite snimku zaslona"
+   },
+   "menu_send_improvement": {
+      "message": "Predloži poboljšanje"
+   },
+   "menu_send_message": {
+      "message": "Centar za pomoć"
+   },
+   "menu_settings": {
+      "message": "Postavke"
+   },
+   "menu_share": {
+      "message": "Podeli sa kolegom, prijateljem,..."
+   },
+   "menu_vote_feature": {
+      "message": "Glasajte za funkcije koje želite"
+   },
+   "menu_zoom": {
+      "message": "Zumiraj u uređaju"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Više postavki"
+   },
+   "new_ios26_h1": {
+      "message": "Otkrijte odmah novo sučelje \"Liquid Glass\" Safari iOS 26 za još realističnije testove!"
+   },
+   "new_ios26_h2": {
+      "message": "Dostupno na svim verzijama iPhone&nbsp;15 i iPhone&nbsp;16"
+   },
+   "new_iphone_14_h1": {
+      "message": "Budite prvi koji će (virtuelno) koristiti iPhone 14 PRO"
+   },
+   "new_iphone_17_h1": {
+      "message": "Novo!\u003Cbr>Testirajte odmah svoje stranice s iPhone&nbsp;17."
+   },
+   "new_iphone_17_h2": {
+      "message": "iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX dostupni su u simulatoru."
+   },
+   "new_video_feature_h1": {
+      "message": "Otkrijte novu značajku snimanja videozapisa odmah!"
+   },
+   "new_video_feature_h2": {
+      "message": "Snimajte s boljom kvalitetom, s novim opcijama i s prozirnom pozadinom"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Informacija\u003C/strong>Touch scroll nije dostupan, ali možete \u003Cstrong>prikazati traku za skrolovanje\u003C/strong> ako nemate miš sa točkićem ili trackpad za skrolovanje.\u003Cbr>\u003Cbr>To je opcija u postavkama u donjem desnom uglu \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_10_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ažuriranje v4.10.0\u003C/strong>iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX dostupni su u simulatoru \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_12_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ažuriranje v4.12.0\u003C/strong>Nova funkcionalnost u PRO verziji, \u003Cstrong>uređivanje snimaka zaslona\u003C/strong>. Gumbi za crtanje oblika, dodavanje teksta, itd. \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_14_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ažuriranje v4.14.0\u003C/strong>Otkrijte novu značajku \u003Cstrong>snimanja videozapisa\u003C/strong> odmah! \u003Ci class='mdi'>&#xe90e;\u003C/i>"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ažuriranje v4.14.5\u003C/strong>Značajno povećanje \u003Cstrong>rezolucije i kvalitete\u003C/strong> snimki zaslona \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_6_9": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ažuriranje v4.6.9\u003C/strong>\u003Cstrong>Tema\u003C/strong> Promena teme je sada moguća u postavkama \u003Ci class='mdi'>&#xe905;\u003C/i> u donjem desnom uglu"
+   },
+   "notification_update_title_v4_7_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.7.0\u003C/strong>Ispravak vezan uz \u003Cstrong>snimke cijele stranice\u003C/strong> i dodavanje \u003Cstrong>novog uređaja\u003C/strong>."
+   },
+   "notification_update_title_v4_8_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ažuriranje v4.8.0\u003C/strong>Mogućnost \u003Cstrong>zaustavljanja potpunog snimanja stranice prije kraja stranice\u003C/strong>.\u003Cbr/>Također dodano tekstualno polje u postavkama za \u003Cstrong>izmjenu URL-a prikazanog u terminalu.\u003C/strong>"
+   },
+   "notification_update_title_v4_9_1": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ažuriranje v4.9.0\u003C/strong>Otkrijte odmah \u003Cstrong>novo sučelje Safari iOS 26\u003C/strong> na iPhone 15 i 16 \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_9_3": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ažuriranje v4.9.3\u003C/strong>Ispravak za sučelje iOS 26 u prisutnosti fiksnih elemenata na dnu stranice. Adresna traka prelazila je preko elemenata.\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Dobrodošli na Mobile FIRST 👋\u003C/strong>Simulirajte jednim klikom telefone, tablete i računala kako biste jednostavno testirali i pregledali svoje stranice.\u003Cbr>\u003Cbr>\u003Cstrong>Izbornik se nalazi desno ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "Neobavezno"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "Instaliraj"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "Ova ekstenzija vam omogućava da uhvatite bilo koju boju na ekranu."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Color picker"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Identifikujte font korišćen na bilo kojem tekstu na web stranici jednim klikom."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Font finder"
+   },
+   "other_extensions_h1": {
+      "message": "Otkrijte naše potpuno nove besplatne ekstenzije"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Posebni"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Aktiviraj opciju"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Ova simulacija ne može biti aktivirana po defaultu na lokalnim fajlovima (file:///), ali možete ručno aktivirati opciju u Chrome postavkama."
+   },
+   "popup_site_incompatible": {
+      "message": "Simulator nije moguće aktivirati na ovoj izvornoj stranici vašeg preglednika. Pokušajte na drugoj kartici ili pregledajte neku stranicu pa ponovno pokrenite."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Sve video postavke"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Uklanjanje reklama"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Naplaćuje se godišnje"
+   },
+   "pro_modale_button": {
+      "message": "Pretplatite se"
+   },
+   "pro_modale_from": {
+      "message": "Počevši od"
+   },
+   "pro_modale_h1": {
+      "message": "Postanite PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Uklonite reklame"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Konvertujte vaše video snimke u GIF i MP4 formate"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simulirajte sve uređaje"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "Uredite svoje snimke"
+   },
+   "pro_modale_h1_limit": {
+      "message": "Dosegli ste limit od 5 video snimaka dnevno"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "Otključajte sve postavke video snimanja"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Otključajte sve postavke"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Izradite snimke zaslona bez ograničenja"
+   },
+   "pro_modale_h2": {
+      "message": "Postanite PRO i aktivno doprinesite razvoju ove ekstenzije podržavajući njenog programera."
+   },
+   "pro_modale_link_1": {
+      "message": "Ili"
+   },
+   "pro_modale_link_2": {
+      "message": "prijavite se"
+   },
+   "pro_modale_link_3": {
+      "message": "na svoj pretplatnički račun"
+   },
+   "pro_modale_recurring_month": {
+      "message": "mesečno"
+   },
+   "pro_modale_savings": {
+      "message": "Uštedite"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Kako biste ocenili ovu ekstenziju?"
+   },
+   "review_note_feedback": {
+      "message": "Hvala na vašem povratnom odgovoru, slobodno nam pošaljite poruku kako bismo mogli poboljšati ovu ekstenziju."
+   },
+   "review_note_store": {
+      "message": "Hvala na vašem povratnom odgovoru, slobodno dodajte ocenu na Google Store. Bio bih vam veoma zahvalan 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Dopuštenje za pristup kameri odbijeno."
+   },
+   "screencast_error": {
+      "message": "Došlo je do greške prilikom snimanja. {Kliknite ovde} za rešenje."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "Vaša verzija Chromea je previše zastarjela za ovu funkcionalnost. Molimo ažurirajte Chrome na verziju iznad 94.0"
+   },
+   "screencast_generation": {
+      "message": "Kreiranje GIF-a u toku"
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Dopuštenje za pristup mikrofonu odbijeno."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Video snimanja su ograničena na 5 minuta u besplatnoj verziji."
+   },
+   "screencast_modale_contact": {
+      "message": "Prijavi grešku, predloži poboljšanje"
+   },
+   "screencast_modale_copy": {
+      "message": "Kopiraj"
+   },
+   "screencast_modale_download": {
+      "message": "Preuzmi"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Kompatibilno svugdje, ali niža kvaliteta (s prozirnošću ako je opcija omogućena)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Najbolja kompatibilnost s PowerPointom, ali bez transparentnosti"
+   },
+   "screencast_modale_download_webm": {
+      "message": "Preuzmi u zadanoj WEBM formatu (s prozirnošću ako je opcija omogućena)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "Maksimalno trajanje GIF-a je 60 sekundi. Nakon toga datoteka bi bila prevelika."
+   },
+   "screencast_modale_texte": {
+      "message": "Možete preuzeti ovaj video u različitim formatima ili dobiti link za deljenje."
+   },
+   "screencast_modale_title": {
+      "message": "Video snimak"
+   },
+   "screencast_modale_upload": {
+      "message": "Dobijte link za deljenje"
+   },
+   "screencast_onboarding_close": {
+      "message": "Zatvori"
+   },
+   "screencast_onboarding_texte": {
+      "message": "Kreirajte video mobilnog uređaja u GIF formatu jednim klikom (maksimalno 20 sekundi)"
+   },
+   "screencast_onboarding_title": {
+      "message": "Video snimak"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "Kvaliteta videa utječe na bitrate, fps i rezoluciju snimanja. Što je kvaliteta viša, datoteka će biti veća."
+   },
+   "screencast_start_recording": {
+      "message": "Započni snimanje"
+   },
+   "screencast_tooltip_device": {
+      "message": "Snimanje videa samo uređaja"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Snimanje videa kartice s uređajem"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Générer une capture"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Nacrtaj strelicu"
+   },
+   "screenshot_editor_close": {
+      "message": "Zatvori uređivač"
+   },
+   "screenshot_editor_color": {
+      "message": "Boja crte"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Nacrtaj krug"
+   },
+   "screenshot_editor_line": {
+      "message": "Nacrtaj crtu"
+   },
+   "screenshot_editor_pen": {
+      "message": "Slobodno crtanje"
+   },
+   "screenshot_editor_rect": {
+      "message": "Nacrtaj pravokutnik"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Debljina crte"
+   },
+   "screenshot_editor_undo": {
+      "message": "Poništi posljednju radnju"
+   },
+   "screenshot_menu_1": {
+      "message": "Snimak sa uređajem"
+   },
+   "screenshot_menu_2": {
+      "message": "Snimak samo sajta"
+   },
+   "screenshot_menu_3": {
+      "message": "Snimak cele stranice"
+   },
+   "screenshot_menu_4": {
+      "message": "Snimka cijele kartice"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Zaustavi prije kraja stranice"
+   },
+   "screenshot_modale_copy": {
+      "message": "Kopiraj sliku u međuspremnik"
+   },
+   "screenshot_modale_download_png": {
+      "message": "Preuzmi u PNG formatu (bez kompresije)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "Preuzmi u WEBP formatu, kompatibilno gotovo svugdje i optimizirana kompresija (preporučeno)"
+   },
+   "screenshot_modale_edit": {
+      "message": "Uredi snimku"
+   },
+   "screenshot_modale_help": {
+      "message": "Za čuvanje slike u velikom formatu, kliknite desnim tasterom miša na nju, zatim \"Kopiraj sliku\" ili \"Sačuvaj\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Snimak"
+   },
+   "screenshot_workaround_context": {
+      "message": "Kontekst"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "Zbog određenih tehničkih ograničenja, moguće je da prilikom snimanja zaslona primite ovu poruku o pogrešci."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Zaobilazno rješenje"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "U ovom slučaju, za pokretanje snimke, jednostavno desnom tipkom miša kliknite bilo gdje na stranici, odaberite unos \"Mobilni simulator\", zatim \"📷 Napravi snimku zaslona\""
+   },
+   "screenshot_workaround_title": {
+      "message": "Zaobilazno rješenje za snimku zaslona"
+   },
+   "select": {
+      "message": "Odaberite..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_batterie_level": {
+      "message": "Nivo baterije u zaglavlju uređaja (%)"
+   },
+   "settings_camera": {
+      "message": "Kamera"
+   },
+   "settings_change_analytics": {
+      "message": "Pomažem razvojnim programerima ovog proširenja da poboljšaju svoj proizvod putem Posthoga. Svi podaci su anonimni."
+   },
+   "settings_change_background": {
+      "message": "Promeni boju pozadine"
+   },
+   "settings_change_cursor": {
+      "message": "Ne menjaj stil kursora u webview"
+   },
+   "settings_countdown": {
+      "message": "Odbrojavanje (sekunde)"
+   },
+   "settings_default_device": {
+      "message": "Podrazumevani uređaj pri svakoj aktivaciji"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Odaberite uređaj"
+   },
+   "settings_device_default_url": {
+      "message": "Promijeni URL prikazan u terminalu"
+   },
+   "settings_device_hide": {
+      "message": "Ne prikazuj uređaj"
+   },
+   "settings_fullscreen": {
+      "message": "Sajt u punom ekranu u uređaju"
+   },
+   "settings_h2_device": {
+      "message": "Uređaj"
+   },
+   "settings_h2_global": {
+      "message": "Opšte"
+   },
+   "settings_hide_header_footer": {
+      "message": "Sakrij gornje i donje elemente pretraživača u webview (PWA)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Ne prikazuj lažnu tastaturu pri fokusu na polje za unos"
+   },
+   "settings_microphone": {
+      "message": "Mikrofon"
+   },
+   "settings_presenter_mode": {
+      "message": "Prezentacijski mod (meni s desne strane vidljiv samo pri prelasku mišem)"
+   },
+   "settings_pro_account": {
+      "message": "Upravljaj mojom pretplatom"
+   },
+   "settings_scrollbar_show": {
+      "message": "Prikaži nativnu traku za skrolovanje u uređaju"
+   },
+   "settings_shortcuts": {
+      "message": "Postavi prečace na tipkovnici"
+   },
+   "settings_theme": {
+      "message": "Tema"
+   },
+   "settings_theme_auto": {
+      "message": "Auto"
+   },
+   "settings_theme_dark": {
+      "message": "Tamna"
+   },
+   "settings_theme_light": {
+      "message": "Svetla"
+   },
+   "settings_transparent_background": {
+      "message": "Prozirna pozadina"
+   },
+   "settings_transparent_background_info": {
+      "message": "Ova opcija uključuje više izračuna i stoga potencijalno usporavanje prikaza ovisno o vašem računalu (kompatibilno samo s formatima WEBM i GIF)"
+   },
+   "settings_video_quality": {
+      "message": "Kvaliteta videa"
+   },
+   "settings_video_quality_high": {
+      "message": "Izvrsna"
+   },
+   "settings_video_quality_low": {
+      "message": "Srednja"
+   },
+   "settings_video_quality_medium": {
+      "message": "Dobra"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Da li vam je ovaj mobilni simulator koristan?"
+   },
+   "sharing_h2": {
+      "message": "Podelite ga sa svojim kolegama ili prijateljima"
+   },
+   "sharing_review_1": {
+      "message": "Ako imate minut vremena za"
+   },
+   "sharing_review_2": {
+      "message": "dodavanje recenzije"
+   },
+   "sharing_review_3": {
+      "message": "to bi bila šlag na torti! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Dodajem recenziju"
+   },
+   "sharing_txt": {
+      "message": "Simulator za testiranje sajta na mobilnim uređajima i tabletima"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "Ovo je samo slika. Koristite svoju tastaturu."
+   },
+   "simulator_header_info": {
+      "message": "Ovo je samo slika. Za promenu URL-a koristite Chrome polje iznad."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Tableti"
+   }
+}

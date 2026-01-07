@@ -1,0 +1,15 @@
+2026/01/07-08:34:36.308 5 Reusing MANIFEST /home/admin/.config/net.imput.helium/Default/Session Storage/MANIFEST-000001
+2026/01/07-08:34:36.310 5 Recovering log #70
+2026/01/07-08:34:36.312 5 Reusing old log /home/admin/.config/net.imput.helium/Default/Session Storage/000070.log 
+2026/01/07-14:20:23.790 7 Level-0 table #74: started
+2026/01/07-14:20:23.799 7 Level-0 table #74: 14491 bytes OK
+2026/01/07-14:20:23.805 7 Delete type=0 #70
+2026/01/07-14:20:23.807 7 Compacting 4@0 + 1@1 files
+2026/01/07-14:20:23.816 7 Generated table #75@0: 2435 keys, 53824 bytes
+2026/01/07-14:20:23.816 7 Compacted 4@0 + 1@1 files => 53824 bytes
+2026/01/07-14:20:23.821 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/07-14:20:23.823 7 Delete type=2 #68
+2026/01/07-14:20:23.823 7 Delete type=2 #74
+2026/01/07-14:20:23.823 7 Delete type=2 #65
+2026/01/07-14:20:23.823 7 Delete type=2 #71
+2026/01/07-14:20:23.823 7 Delete type=2 #62

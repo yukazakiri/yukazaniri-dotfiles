@@ -1,0 +1,701 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Mga Android na Telepono"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Mga Apple na Telepono"
+   },
+   "button_feedback": {
+      "message": "Magdagdag ng rating"
+   },
+   "button_message": {
+      "message": "Magpadala sa amin ng mensahe"
+   },
+   "close": {
+      "message": "Isara"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Pangalan ng aparato"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, atbp."
+   },
+   "contact_title": {
+      "message": "Ang aparato na hinahanap mo ay wala sa listahan? Sabihin mo sa amin!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "I-activate ang mobile view sa tab na ito"
+   },
+   "copied": {
+      "message": "Nakopya"
+   },
+   "dimensions": {
+      "message": "Mga Dimensyon"
+   },
+   "error": {
+      "message": "Kamalian"
+   },
+   "error_contact": {
+      "message": "{Mangyaring makipag-ugnayan sa amin} kung magpapatuloy ang problema."
+   },
+   "extDescription": {
+      "message": "Simulateur ng smartphone at tablet sa computer na may iba't ibang modelo para subukan ang iyong mobile site at responsive site."
+   },
+   "extName": {
+      "message": "Simulateur ng telepono - pagsubok ng site na responsive"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "Wala magbaton"
+   },
+   "feedback_company_type": {
+      "message": "Ano ang tipo sang imo kompanya?"
+   },
+   "feedback_company_type_agency": {
+      "message": "Gamay nga negosyo (10-49 empleyado)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Independyente"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Dako kaayo nga negosyo / grupo (5000+ empleyado)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Micro-nga negosyo (1-9 empleyado)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Dako nga negosyo (250-4999 empleyado)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Tunga-tunga nga negosyo (50-249 empleyado)"
+   },
+   "feedback_error_required": {
+      "message": "Wala sang sulod ang tanan nga mga uma 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Gaano ka kadalas ginagamit ini nga extension?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Paminsan-minsan"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Pila ka beses sa isa ka semana"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Adlaw-adlaw"
+   },
+   "feedback_frequency_rare": {
+      "message": "Bihira"
+   },
+   "feedback_improvements": {
+      "message": "Ano nga mga pagpaayo ang gusto mo makita?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Isa ka ideya, isa ka problema, isa ka kulang..."
+   },
+   "feedback_profession": {
+      "message": "Ano ang imo departamento sa trabaho?"
+   },
+   "feedback_profession_designer": {
+      "message": "Pagdisenyo"
+   },
+   "feedback_profession_developer": {
+      "message": "Pag-develop"
+   },
+   "feedback_profession_marketing": {
+      "message": "Pagmerkado"
+   },
+   "feedback_profession_other": {
+      "message": "Iba pa"
+   },
+   "feedback_profession_product": {
+      "message": "Pagdumala sa produkto"
+   },
+   "feedback_profession_qa": {
+      "message": "Pagsulay / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Pagbaligya"
+   },
+   "feedback_submit": {
+      "message": "Ipadala"
+   },
+   "feedback_submitted": {
+      "message": "Damo gid nga salamat sa imo feedback 🤗"
+   },
+   "feedback_title": {
+      "message": "Tulung kami nga mas mapuslan pa ang Mobile FIRST para sa imo 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Pagsulay sa akon site, paghimo sang demo sa kliyente..."
+   },
+   "feedback_use_cases": {
+      "message": "Ngano ginagamit mo ang Mobile FIRST?"
+   },
+   "get_pro": {
+      "message": "Kunin ang bersyon ng PRO"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "global_cancel": {
+      "message": "Kanselahin"
+   },
+   "link": {
+      "message": "Link"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_add_window": {
+      "message": "Magdagdag ng simulation model"
+   },
+   "menu_change_device": {
+      "message": "Palitan ang modelo"
+   },
+   "menu_close_alone": {
+      "message": "I-deactivate ang simulateur"
+   },
+   "menu_close_multi": {
+      "message": "Isara ang window na ito"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> Wara sa listahan ang hinahanap mong device? Sabihin mo sa amin!"
+   },
+   "menu_extensions": {
+      "message": "Tuklasin ang iba pa naming mga extension sa Chrome"
+   },
+   "menu_faq_all": {
+      "message": "Tingnan ang lahat ng madalas na tanong"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Paano i-activate ang simulateur sa incognito mode?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Hindi kinikilala ang aking media queries"
+   },
+   "menu_faq_scroll": {
+      "message": "Hindi makapag-scroll sa simulateur"
+   },
+   "menu_faq_shortcut": {
+      "message": "Paano mag-set ng keyboard shortcuts?"
+   },
+   "menu_faq_subscription": {
+      "message": "Bakit hindi gumagana ang aking subscription?"
+   },
+   "menu_faq_title": {
+      "message": "Mga madalas na tanong"
+   },
+   "menu_help_center": {
+      "message": "Help center"
+   },
+   "menu_info_device": {
+      "message": "Mga katangian at mockup ng terminal na ito"
+   },
+   "menu_info_device_features": {
+      "message": "Mga katangian (viewport resolution, etc.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Libreng mockup sa transparent PNG"
+   },
+   "menu_report": {
+      "message": "I-report ang bug"
+   },
+   "menu_rotate": {
+      "message": "Palitan ang orientation"
+   },
+   "menu_screencast": {
+      "message": "📹 Mag-record ng video ng screen"
+   },
+   "menu_screenshot": {
+      "message": "📷 Kumuha ng screenshot"
+   },
+   "menu_send_improvement": {
+      "message": "Magmungkahi ng pagpapabuti"
+   },
+   "menu_send_message": {
+      "message": "Help center"
+   },
+   "menu_settings": {
+      "message": "Configuration"
+   },
+   "menu_share": {
+      "message": "Ibahagi sa isang kasamahan, kaibigan,..."
+   },
+   "menu_vote_feature": {
+      "message": "Bumoto para sa mga feature na gusto mo"
+   },
+   "menu_zoom": {
+      "message": "I-zoom sa device"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Mas marami pang mga setting"
+   },
+   "new_ios26_h1": {
+      "message": "Diskubri an subay la bagong interface \"Liquid Glass\" ng Safari iOS 26 para sa mas realistiko na mga pagsubok!"
+   },
+   "new_ios26_h2": {
+      "message": "Available sa tanan na mga bersyon ng iPhone 15 at iPhone 16"
+   },
+   "new_iphone_14_h1": {
+      "message": "Maging una na gumamit (virtually) ng iPhone 14 PRO"
+   },
+   "new_iphone_17_h1": {
+      "message": "Bago!\u003Cbr>Subukan na ang iyong mga site gamit ang iPhone&nbsp;17."
+   },
+   "new_iphone_17_h2": {
+      "message": "Ang iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX ay magagamit sa simulator."
+   },
+   "new_video_feature_h1": {
+      "message": "Tuklasin ngayon ang bagong tampok na pagkuha ng video!"
+   },
+   "new_video_feature_h2": {
+      "message": "Mag-record gamit ang mas magandang kalidad, may mga bagong opsyon at may transparent na background"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Impormasyon\u003C/strong>Ang touch scroll ay hindi available, pero maaari mong \u003Cstrong>ipakita ang scrollbar\u003C/strong> kung wala kang mouse wheel o trackpad para mag-scroll.\u003Cbr>\u003Cbr>Ito ay isang opsyon sa settings sa ibaba kanan \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_10_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.10.0\u003C/strong>Ang iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX ay magagamit sa simulator \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_12_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.12.0\u003C/strong>Bagong tampok sa PRO na bersyon, \u003Cstrong>ang pag-edit ng mga screenshot\u003C/strong>. Mga button para gumuhit ng mga hugis, magdagdag ng teksto, atbp. \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_14_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.14.0\u003C/strong>Tuklasin ngayon ang bagong tampok na \u003Cstrong>pagkuha ng video\u003C/strong>! \u003Ci class='mdi'>&#xe90e;\u003C/i>"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Pag-update v4.14.5\u003C/strong>Makabuluhang pagtaas sa \u003Cstrong>resolusyon at kalidad\u003C/strong> ng mga screenshot \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_6_9": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.6.9\u003C/strong>\u003Cstrong>Tema\u003C/strong> Ang pagbabago ng tema ay ngayon posible sa settings \u003Ci class='mdi'>&#xe905;\u003C/i> sa ibaba kanan"
+   },
+   "notification_update_title_v4_7_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.7.0\u003C/strong>Pag-ayo sa \u003Cstrong>buong pahina na screenshot\u003C/strong> at pagdaragdag ng \u003Cstrong>bagong terminal\u003C/strong>."
+   },
+   "notification_update_title_v4_8_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.8.0\u003C/strong>May posibilidad na \u003Cstrong>itigil ang kumpletong pagkuha ng pahina bago matapos ang pahina\u003C/strong>.\u003Cbr/>Nagdagdag din ng text field sa mga setting para \u003Cstrong>baguhin ang URL na ipinapakita sa terminal.\u003C/strong>"
+   },
+   "notification_update_title_v4_9_1": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.9.0\u003C/strong>Diskubri an subay la \u003Cstrong>bagong interface Safari iOS 26\u003C/strong> sa mga iPhone 15 at 16 \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_9_3": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.9.3\u003C/strong>Pag-ayos para sa interface ng iOS 26 kapag may mga nakapirming elemento sa ibaba ng pahina. Ang address bar ay lumalampas sa mga elemento.\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Mabuhay sa Mobile FIRST 👋\u003C/strong>I-simulate sa isang click ang mga telepono, tablet, at computer para madaling masubukan at makita ang iyong mga site.\u003Cbr>\u003Cbr>\u003Cstrong>Ang menu ay nasa kanan ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "Opsyonal"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "I-install"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "Ang extension na ito ay nagbibigay-daan sa iyo na kunin ang anumang kulay sa screen."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Color picker"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Tukuyin gamit ang isang click ang font na ginamit sa anumang teksto sa isang web page."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Font finder"
+   },
+   "other_extensions_h1": {
+      "message": "Tuklasin ang aming mga bagong libreng extension"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Espesyal"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "I-activate ang opsyon"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Ang simulateur na ito ay hindi ma-activate sa default sa mga lokal na file (file:///) pero maaari mong i-activate ang opsyon sa settings ng Chrome."
+   },
+   "popup_site_incompatible": {
+      "message": "Ang simulator ay hindi ma-activate sa native na pahina ng iyong browser. Subukan sa ibang tab o mag-navigate sa isang site at subukang muli."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Lahat ng mga setting ng video"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Pag-alis ng mga ads"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Sinisingil taun-taon"
+   },
+   "pro_modale_button": {
+      "message": "Mag-subscribe"
+   },
+   "pro_modale_from": {
+      "message": "Simula sa"
+   },
+   "pro_modale_h1": {
+      "message": "Maging isang PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Alisin ang mga ads"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "I-convert ang iyong video captures sa GIF at MP4 format"
+   },
+   "pro_modale_h1_devices": {
+      "message": "I-simulate ang lahat ng devices"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "I-edit ang iyong mga kuha"
+   },
+   "pro_modale_h1_limit": {
+      "message": "Naabot mo na ang limitasyon ng 5 video captures kada araw"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "I-unlock ang lahat ng mga setting ng pagre-record ng video"
+   },
+   "pro_modale_h1_settings": {
+      "message": "I-unlock ang lahat ng mga setting"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Gumawa ng walang limitasyong mga screenshot"
+   },
+   "pro_modale_h2": {
+      "message": "Maging isang PRO at aktibong mag-ambag sa pag-unlad ng extension na ito sa pamamagitan ng pagsuporta sa developer nito."
+   },
+   "pro_modale_link_1": {
+      "message": "O"
+   },
+   "pro_modale_link_2": {
+      "message": "mag-login"
+   },
+   "pro_modale_link_3": {
+      "message": "sa aking subscriber account"
+   },
+   "pro_modale_recurring_month": {
+      "message": "buwan"
+   },
+   "pro_modale_savings": {
+      "message": "Magtipid"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Paano mo irerate ang extension na ito?"
+   },
+   "review_note_feedback": {
+      "message": "Salamat sa iyong feedback, huwag mag-atubiling magpadala ng mensahe para mapabuti namin ang extension na ito."
+   },
+   "review_note_store": {
+      "message": "Salamat sa iyong feedback, huwag mag-atubiling magdagdag ng rating sa Google Store. Ako'y magiging lubos na nagpapasalamat 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Tinanggihan ang pahintulot sa pag-access sa kamera."
+   },
+   "screencast_error": {
+      "message": "Nagkaroon ng error sa pag-record. {I-click dito} para sa workaround."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "Ang iyong bersyon ng Chrome ay masyadong luma para sa tampok na ito. Mangyaring i-update ang Chrome sa bersyon na mas mataas sa 94.0"
+   },
+   "screencast_generation": {
+      "message": "Gumagawa ng GIF"
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Tinanggihan ang pahintulot sa pag-access sa mikropono."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Ang mga pagre-record ng video ay limitado sa 5 minuto sa libreng bersyon."
+   },
+   "screencast_modale_contact": {
+      "message": "I-report ang bug, magmungkahi ng pagpapabuti"
+   },
+   "screencast_modale_copy": {
+      "message": "Kopyahin"
+   },
+   "screencast_modale_download": {
+      "message": "I-download"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Compatible kahit saan, pero mas mababa ang kalidad (may transparency kung naka-enable ang option)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Mas maayung pagkakatugma sa PowerPoint, ngunit walang transparency"
+   },
+   "screencast_modale_download_webm": {
+      "message": "I-download sa default na format na WEBM (may transparency kung naka-enable ang option)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "An maximum nga kadugayon han GIF amo an 60 segundos. Ha unahan hito, an file mahimo nga sobra ka dako."
+   },
+   "screencast_modale_texte": {
+      "message": "Maaari mong i-download ang video na ito sa iba't ibang format o makakuha ng share link."
+   },
+   "screencast_modale_title": {
+      "message": "Video capture"
+   },
+   "screencast_modale_upload": {
+      "message": "Kumuha ng share link"
+   },
+   "screencast_onboarding_close": {
+      "message": "Isara"
+   },
+   "screencast_onboarding_texte": {
+      "message": "Gumawa ng video ng mobile sa GIF format sa 1 click (max 20 seconds)"
+   },
+   "screencast_onboarding_title": {
+      "message": "Video capture"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "Ang kalidad ng video ay nakakaapekto sa bitrate, fps & resolusyon ng pagre-record. Mas mataas ang kalidad, mas malaki ang file."
+   },
+   "screencast_start_recording": {
+      "message": "Simulan ang pagre-record"
+   },
+   "screencast_tooltip_device": {
+      "message": "Pagkuha ng video ng terminal lamang"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Pagkuha ng video ng tab kasama ang terminal"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Bumuo ng screenshot"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Gumuhit ng palaso"
+   },
+   "screenshot_editor_close": {
+      "message": "Isara ang editor"
+   },
+   "screenshot_editor_color": {
+      "message": "Kulay ng linya"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Gumuhit ng bilog"
+   },
+   "screenshot_editor_line": {
+      "message": "Gumuhit ng linya"
+   },
+   "screenshot_editor_pen": {
+      "message": "Libreng pagguhit"
+   },
+   "screenshot_editor_rect": {
+      "message": "Gumuhit ng parihaba"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Kapal ng linya"
+   },
+   "screenshot_editor_undo": {
+      "message": "I-undo ang huling aksyon"
+   },
+   "screenshot_menu_1": {
+      "message": "Capture kasama ang terminal"
+   },
+   "screenshot_menu_2": {
+      "message": "Capture ng site lamang"
+   },
+   "screenshot_menu_3": {
+      "message": "Capture ng buong page"
+   },
+   "screenshot_menu_4": {
+      "message": "Kuhain ang buong tab"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Ihundo antes matapos an pahina"
+   },
+   "screenshot_modale_copy": {
+      "message": "Kopyahin ang imahe sa clipboard"
+   },
+   "screenshot_modale_download_png": {
+      "message": "I-download sa format na PNG (walang compression)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "I-download sa format na WEBP, halos kahit saan ay compatible at optimized na compression (inirerekomenda)"
+   },
+   "screenshot_modale_edit": {
+      "message": "I-edit ang screenshot"
+   },
+   "screenshot_modale_help": {
+      "message": "Para i-save ang imahe sa malaking format, i-right click ito at piliin ang \"Kopyahin ang imahe\" o \"I-save\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Capture"
+   },
+   "screenshot_workaround_context": {
+      "message": "Konteksto"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "Dahil sa ilang teknikal na limitasyon, maaaring makatanggap ka ng mensahe ng error na ito kapag kumukuha ng screenshot."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Solusyon"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "Sa kasong ito para simulan ang pagkuha, kailangan lang mag-right click kahit saan sa pahina, piliin ang entry na « Simulateur mobile », pagkatapos ay « 📷 Gawin ang isang screenshot »"
+   },
+   "screenshot_workaround_title": {
+      "message": "Solusyon para sa screenshot"
+   },
+   "select": {
+      "message": "Pili-a..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_batterie_level": {
+      "message": "Antas ng baterya sa header ng terminal (%)"
+   },
+   "settings_camera": {
+      "message": "Kamera"
+   },
+   "settings_change_analytics": {
+      "message": "Tinutulungan ko ang developer ng extension na ito na mapabuti ang kanyang produkto sa pamamagitan ng Posthog. Lahat ng data ay hindi nagpapakilala."
+   },
+   "settings_change_background": {
+      "message": "Baguhin ang kulay ng background"
+   },
+   "settings_change_cursor": {
+      "message": "Huwag palitan ang style ng cursor sa webview"
+   },
+   "settings_countdown": {
+      "message": "Countdown (segundo)"
+   },
+   "settings_default_device": {
+      "message": "Default na terminal sa bawat activation"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Piliin ang isang aparato"
+   },
+   "settings_device_default_url": {
+      "message": "I-edit ang URL na ipinapakita sa terminal"
+   },
+   "settings_device_hide": {
+      "message": "Huwag ipakita ang terminal"
+   },
+   "settings_fullscreen": {
+      "message": "Site sa full screen sa terminal"
+   },
+   "settings_h2_device": {
+      "message": "Terminal"
+   },
+   "settings_h2_global": {
+      "message": "Pangkalahatan"
+   },
+   "settings_hide_header_footer": {
+      "message": "Itago ang mga elemento sa itaas at ibaba ng browser sa webview (PWA)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Huwag ipakita ang pekeng keyboard sa pag-focus ng input field"
+   },
+   "settings_microphone": {
+      "message": "Mikropono"
+   },
+   "settings_presenter_mode": {
+      "message": "Mode ng presentasyon (menu sa kanan ay makikita lamang sa pag-hover)"
+   },
+   "settings_pro_account": {
+      "message": "Pamamahala ng aking subscription"
+   },
+   "settings_scrollbar_show": {
+      "message": "Ipakita ang native scrollbar sa terminal"
+   },
+   "settings_shortcuts": {
+      "message": "I-set ang mga shortcut ng keyboard"
+   },
+   "settings_theme": {
+      "message": "Tema"
+   },
+   "settings_theme_auto": {
+      "message": "Auto"
+   },
+   "settings_theme_dark": {
+      "message": "Madilim"
+   },
+   "settings_theme_light": {
+      "message": "Maliwanag"
+   },
+   "settings_transparent_background": {
+      "message": "Transparent na Lataran"
+   },
+   "settings_transparent_background_info": {
+      "message": "Ang opsyon na ito ay nangangailangan ng mas maraming kalkulasyon at samakatuwid ay maaaring magdulot ng pagbagal ng display depende sa iyong computer (katugma lamang sa mga format na WEBM at GIF)"
+   },
+   "settings_video_quality": {
+      "message": "Kalidad ng video"
+   },
+   "settings_video_quality_high": {
+      "message": "Napakahusay"
+   },
+   "settings_video_quality_low": {
+      "message": "Katamtaman"
+   },
+   "settings_video_quality_medium": {
+      "message": "Maganda"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Kapaki-pakinabang ba sa iyo ang mobile simulator na ito?"
+   },
+   "sharing_h2": {
+      "message": "Kung oo, ibahagi ito sa iyong mga kasamahan o kaibigan"
+   },
+   "sharing_review_1": {
+      "message": "At kung may isang minuto ka para"
+   },
+   "sharing_review_2": {
+      "message": "magdagdag ng review"
+   },
+   "sharing_review_3": {
+      "message": "ito ay ang cherry on top! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Magdagdag ng review"
+   },
+   "sharing_txt": {
+      "message": "Simulateur para subukan ang iyong site sa mobile at tablet"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "Ito ay isang imahe lamang. Gamitin ang iyong sariling keyboard."
+   },
+   "simulator_header_info": {
+      "message": "Ito ay isang imahe lamang. Para palitan ang URL gamitin ang field ng Chrome sa itaas."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Mga Tablet"
+   }
+}

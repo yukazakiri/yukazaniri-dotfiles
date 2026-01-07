@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Idagdag sa mga Paborito"
+   },
+   "basic_font": {
+      "message": "Ang font na ito ay naka-install na sa mga Windows at Mac na computer. Hindi na kailangang i-download para sa iyong site."
+   },
+   "chrome_limitations": {
+      "message": "May ilang teknikal na limitasyon na pumipigil sa extension na gumana sa mga pahina ng Chrome Web Store o mga setting page ng Chrome."
+   },
+   "clear": {
+      "message": "I-clear ang listahan"
+   },
+   "contact_us": {
+      "message": "Makipag-ugnayan sa amin"
+   },
+   "copy": {
+      "message": "Kopyahin"
+   },
+   "download": {
+      "message": "I-download"
+   },
+   "extDescription": {
+      "message": "Ang Font finder ay isang magaan na extension na nagbibigay-daan sa iyo na makita ang font ng teksto sa screen."
+   },
+   "extName": {
+      "message": "Font finder - Makita an Font ng Teksto"
+   },
+   "favorites": {
+      "message": "Mga Paborito"
+   },
+   "link": {
+      "message": "Link"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Higit pa.."
+   },
+   "pick_color_button": {
+      "message": "Hanapin ang font sa pahina"
+   },
+   "rating": {
+      "message": "I-rate ang extension"
+   },
+   "recent": {
+      "message": "Kamakailan"
+   },
+   "remove_from_favorites": {
+      "message": "Alisin sa mga Paborito"
+   },
+   "report_bug": {
+      "message": "Iulat ang bug"
+   },
+   "settings": {
+      "message": "Mga Setting"
+   },
+   "settings_auto_copy": {
+      "message": "Awtomatikong kopyahin ang pangalan ng font"
+   },
+   "settings_keep_history": {
+      "message": "I-save ang kamakailang mga font"
+   },
+   "settings_shortcut": {
+      "message": "Itakda ang keyboard shortcut"
+   }
+}

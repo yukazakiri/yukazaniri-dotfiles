@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Přidat do oblíbených"
+   },
+   "basic_font": {
+      "message": "Toto písmo je již nainstalováno na počítačích Windows a Mac. Není třeba ho stahovat pro váš web."
+   },
+   "chrome_limitations": {
+      "message": "Některá technická omezení brání rozšíření fungovat na stránkách Chrome Web Store nebo na stránkách nastavení Chrome."
+   },
+   "clear": {
+      "message": "Vyprázdnit seznam"
+   },
+   "contact_us": {
+      "message": "Kontaktujte nás"
+   },
+   "copy": {
+      "message": "Kopírovat"
+   },
+   "download": {
+      "message": "Stáhnout"
+   },
+   "extDescription": {
+      "message": "Font finder je lehké rozšíření, které vám umožní najít písmo textu na obrazovce."
+   },
+   "extName": {
+      "message": "Font finder - Najít písmo textu"
+   },
+   "favorites": {
+      "message": "Oblíbené"
+   },
+   "link": {
+      "message": "Odkaz"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Více.."
+   },
+   "pick_color_button": {
+      "message": "Najít písmo na stránce"
+   },
+   "rating": {
+      "message": "Ohodnoťte rozšíření"
+   },
+   "recent": {
+      "message": "Nedávné"
+   },
+   "remove_from_favorites": {
+      "message": "Odebrat z oblíbených"
+   },
+   "report_bug": {
+      "message": "Nahlásit chybu"
+   },
+   "settings": {
+      "message": "Nastavení"
+   },
+   "settings_auto_copy": {
+      "message": "Automaticky kopírovat název písma"
+   },
+   "settings_keep_history": {
+      "message": "Uložit nedávná písma"
+   },
+   "settings_shortcut": {
+      "message": "Nastavit klávesovou zkratku"
+   }
+}

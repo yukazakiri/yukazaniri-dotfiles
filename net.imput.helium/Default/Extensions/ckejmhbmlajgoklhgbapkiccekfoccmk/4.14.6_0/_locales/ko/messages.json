@@ -1,0 +1,701 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> 안드로이드 전화"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> 애플 전화"
+   },
+   "button_feedback": {
+      "message": "리뷰 추가"
+   },
+   "button_message": {
+      "message": "메시지 보내기"
+   },
+   "close": {
+      "message": "닫기"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "기기 이름"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, 등."
+   },
+   "contact_title": {
+      "message": "찾고 있는 기기가 목록에 없습니까? 알려주세요!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "이 탭에서 모바일 보기 활성화"
+   },
+   "copied": {
+      "message": "복사됨"
+   },
+   "dimensions": {
+      "message": "치수"
+   },
+   "error": {
+      "message": "오류"
+   },
+   "error_contact": {
+      "message": "{문제가 계속되면 저희에게 연락해 주세요}."
+   },
+   "extDescription": {
+      "message": "여러 모델로 컴퓨터에서 스마트폰과 태블릿을 시뮬레이션하여 모바일 사이트와 반응형 사이트를 테스트하세요."
+   },
+   "extName": {
+      "message": "모바일 전화 시뮬레이터 - 반응형 사이트 테스트"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "응답하지 않기"
+   },
+   "feedback_company_type": {
+      "message": "귀하의 회사 유형은 무엇입니까?"
+   },
+   "feedback_company_type_agency": {
+      "message": "작은 기업 (10-49명)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "프리랜서"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "초대형 기업 / 그룹 (5000+명)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "소기업 (1-9명)"
+   },
+   "feedback_company_type_pme": {
+      "message": "대기업 (250-4999명)"
+   },
+   "feedback_company_type_startup": {
+      "message": "중간 기업 (50-249명)"
+   },
+   "feedback_error_required": {
+      "message": "모든 필드가 비어 있습니다 🤔"
+   },
+   "feedback_frequency": {
+      "message": "이 확장 프로그램을 얼마나 자주 사용하십니까?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "가끔"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "주 여러 번"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "매일"
+   },
+   "feedback_frequency_rare": {
+      "message": "드물게"
+   },
+   "feedback_improvements": {
+      "message": "어떤 개선을 원하십니까?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "아이디어, 불편함, 부족한 점..."
+   },
+   "feedback_profession": {
+      "message": "귀하의 직무 부서는 무엇입니까?"
+   },
+   "feedback_profession_designer": {
+      "message": "디자인"
+   },
+   "feedback_profession_developer": {
+      "message": "개발"
+   },
+   "feedback_profession_marketing": {
+      "message": "마케팅"
+   },
+   "feedback_profession_other": {
+      "message": "기타"
+   },
+   "feedback_profession_product": {
+      "message": "제품 관리"
+   },
+   "feedback_profession_qa": {
+      "message": "테스트 / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "영업"
+   },
+   "feedback_submit": {
+      "message": "보내기"
+   },
+   "feedback_submitted": {
+      "message": "소중한 의견 감사합니다 🤗"
+   },
+   "feedback_title": {
+      "message": "Mobile FIRST를 더욱 유용하게 만들어 주세요 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "내 사이트 테스트, 고객 데모..."
+   },
+   "feedback_use_cases": {
+      "message": "Mobile FIRST를 사용하는 이유는 무엇입니까?"
+   },
+   "get_pro": {
+      "message": "PRO 버전 얻기"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "global_cancel": {
+      "message": "취소"
+   },
+   "link": {
+      "message": "링크"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_add_window": {
+      "message": "시뮬레이션 모델 추가"
+   },
+   "menu_change_device": {
+      "message": "모델 변경"
+   },
+   "menu_close_alone": {
+      "message": "시뮬레이터 비활성화"
+   },
+   "menu_close_multi": {
+      "message": "이 창 닫기"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> 찾으시는 기기가 목록에 없나요? 알려주세요!"
+   },
+   "menu_extensions": {
+      "message": "다른 크롬 확장 프로그램 알아보기"
+   },
+   "menu_faq_all": {
+      "message": "모든 자주 묻는 질문 보기"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "비공개 탐색에서 시뮬레이터를 어떻게 활성화하나요?"
+   },
+   "menu_faq_media_queries": {
+      "message": "미디어 쿼리가 반영되지 않아요"
+   },
+   "menu_faq_scroll": {
+      "message": "시뮬레이터에서 스크롤이 안 돼요"
+   },
+   "menu_faq_shortcut": {
+      "message": "키보드 단축키를 어떻게 설정하나요?"
+   },
+   "menu_faq_subscription": {
+      "message": "내 구독이 왜 작동하지 않나요?"
+   },
+   "menu_faq_title": {
+      "message": "자주 묻는 질문"
+   },
+   "menu_help_center": {
+      "message": "도움말 센터"
+   },
+   "menu_info_device": {
+      "message": "이 기기의 특성과 목업"
+   },
+   "menu_info_device_features": {
+      "message": "특성 (뷰포트 해상도 등)"
+   },
+   "menu_info_device_mockup": {
+      "message": "투명 PNG 무료 목업"
+   },
+   "menu_report": {
+      "message": "버그 신고"
+   },
+   "menu_rotate": {
+      "message": "방향 변경"
+   },
+   "menu_screencast": {
+      "message": "📹 화면 비디오 녹화"
+   },
+   "menu_screenshot": {
+      "message": "📷 스크린샷 찍기"
+   },
+   "menu_send_improvement": {
+      "message": "개선 제안"
+   },
+   "menu_send_message": {
+      "message": "도움말 센터"
+   },
+   "menu_settings": {
+      "message": "설정"
+   },
+   "menu_share": {
+      "message": "동료나 친구와 공유"
+   },
+   "menu_vote_feature": {
+      "message": "원하는 기능에 투표하세요"
+   },
+   "menu_zoom": {
+      "message": "기기 확대"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "추가 설정"
+   },
+   "new_ios26_h1": {
+      "message": "지금 바로 Safari iOS 26의 새로운 \"Liquid Glass\" 인터페이스를 발견하여 더욱 현실적인 테스트를 경험하세요!"
+   },
+   "new_ios26_h2": {
+      "message": "iPhone&nbsp;15 및 iPhone&nbsp;16의 모든 변형에서 사용 가능"
+   },
+   "new_iphone_14_h1": {
+      "message": "가장 먼저 (가상으로) 아이폰 14 PRO 사용해보세요"
+   },
+   "new_iphone_17_h1": {
+      "message": "새로운 기능!\u003Cbr>지금 바로 iPhone&nbsp;17로 사이트를 테스트하세요."
+   },
+   "new_iphone_17_h2": {
+      "message": "iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX가 시뮬레이터에 추가되었습니다."
+   },
+   "new_video_feature_h1": {
+      "message": "지금 바로 새로운 비디오 캡처 기능을 확인하세요!"
+   },
+   "new_video_feature_h2": {
+      "message": "더 나은 품질로 녹화하고, 새로운 옵션과 투명 배경을 제공합니다"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>정보\u003C/strong>터치 스크롤은 사용할 수 없지만, 마우스 휠이나 트랙패드가 없는 경우 \u003Cstrong>스크롤바를 표시\u003C/strong>할 수 있습니다.\u003Cbr>\u003Cbr>이것은 오른쪽 하단 설정의 옵션입니다 \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_10_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>업데이트 v4.10.0\u003C/strong>iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX가 시뮬레이터에 추가되었습니다 \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_12_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>업데이트 v4.12.0\u003C/strong>PRO 버전의 새로운 기능, \u003Cstrong>스크린샷 편집\u003C/strong>. 도형 그리기, 텍스트 추가 등의 버튼. \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_14_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>업데이트 v4.14.0\u003C/strong>지금 바로 새로운 \u003Cstrong>비디오 캡처\u003C/strong> 기능을 확인하세요! \u003Ci class='mdi'>&#xe90e;\u003C/i>"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>v4.14.5 업데이트\u003C/strong>스크린샷의 \u003Cstrong>해상도 및 품질\u003C/strong>이 크게 향상되었습니다 \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_6_9": {
+      "message": "\u003Cstrong class='mb-2 is-block'>업데이트 v4.6.9\u003C/strong>\u003Cstrong>테마\u003C/strong> 테마 변경이 이제 오른쪽 하단의 설정 \u003Ci class='mdi'>&#xe905;\u003C/i>에서 가능합니다"
+   },
+   "notification_update_title_v4_7_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>업데이트 v4.7.0\u003C/strong>전체 페이지 \u003Cstrong>스크린샷\u003C/strong> 관련 수정 및 \u003Cstrong>새로운 기기\u003C/strong> 추가."
+   },
+   "notification_update_title_v4_8_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>업데이트 v4.8.0\u003C/strong>페이지 끝까지 가지 않고 \u003Cstrong>전체 페이지 캡처 중지 가능\u003C/strong>.\u003Cbr/>또한 터미널에 표시되는 URL을 \u003Cstrong>수정할 수 있는 텍스트 필드 추가\u003C/strong>."
+   },
+   "notification_update_title_v4_9_1": {
+      "message": "\u003Cstrong class='mb-2 is-block'>업데이트 v4.9.0\u003C/strong>지금 바로 \u003Cstrong>새로운 Safari iOS 26 인터페이스\u003C/strong>를 iPhone 15 및 16에서 확인하세요 \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_9_3": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.9.3\u003C/strong>iOS 26 인터페이스에서 페이지 하단의 고정 요소와 관련된 수정 사항입니다. 주소 표시줄이 요소 위로 지나갔습니다.\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Mobile FIRST에 오신 것을 환영합니다 👋\u003C/strong>클릭 한 번으로 휴대폰, 태블릿 및 컴퓨터를 시뮬레이션하여 사이트를 간편하게 테스트하고 시각화하세요.\u003Cbr>\u003Cbr>\u003Cstrong>메뉴는 오른쪽에 있습니다 ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "선택 사항"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "설치"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "이 확장 프로그램은 화면의 어떤 색상이든 캡처할 수 있게 해줍니다."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "색상 선택기"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "웹 페이지의 어떤 텍스트에서든 사용된 폰트를 클릭 한 번으로 식별하세요."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "폰트 찾기"
+   },
+   "other_extensions_h1": {
+      "message": "새로운 무료 확장 프로그램을 확인하세요"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> 특수"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "옵션 활성화"
+   },
+   "popup_activate_local_files_info": {
+      "message": "이 시뮬레이터는 기본적으로 로컬 파일(file:///)에서 활성화할 수 없지만, 크롬 설정에서 수동으로 옵션을 활성화할 수 있습니다."
+   },
+   "popup_site_incompatible": {
+      "message": "이 시뮬레이터는 브라우저의 이 네이티브 페이지에서 활성화할 수 없습니다. 다른 탭에서 시도하거나 사이트를 탐색한 후 다시 시도하세요."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "모든 비디오 설정"
+   },
+   "pro_modale_avantage_2": {
+      "message": "광고 제거"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "연간 청구"
+   },
+   "pro_modale_button": {
+      "message": "구독하기"
+   },
+   "pro_modale_from": {
+      "message": "부터"
+   },
+   "pro_modale_h1": {
+      "message": "PRO가 되세요"
+   },
+   "pro_modale_h1_ads": {
+      "message": "광고 제거"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "비디오 캡처를 GIF 및 MP4 형식으로 변환"
+   },
+   "pro_modale_h1_devices": {
+      "message": "모든 기기 시뮬레이션"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "캡처 편집"
+   },
+   "pro_modale_h1_limit": {
+      "message": "하루에 5개의 비디오 캡처 제한에 도달했습니다"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "모든 비디오 녹화 설정 잠금 해제"
+   },
+   "pro_modale_h1_settings": {
+      "message": "모든 설정 잠금 해제"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "무제한 스크린샷 찍기"
+   },
+   "pro_modale_h2": {
+      "message": "PRO가 되어 이 확장 프로그램의 개발을 적극적으로 지원하세요."
+   },
+   "pro_modale_link_1": {
+      "message": "또는"
+   },
+   "pro_modale_link_2": {
+      "message": "로그인"
+   },
+   "pro_modale_link_3": {
+      "message": "내 구독 계정으로"
+   },
+   "pro_modale_recurring_month": {
+      "message": "월"
+   },
+   "pro_modale_savings": {
+      "message": "절약"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "이 확장을 어떻게 평가하시겠습니까?"
+   },
+   "review_note_feedback": {
+      "message": "피드백에 감사드리며, 이 확장을 개선할 수 있도록 메시지를 보내주세요."
+   },
+   "review_note_store": {
+      "message": "피드백에 감사드리며, 구글 스토어에 리뷰를 추가해주시면 감사하겠습니다. 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "카메라 접근 권한이 거부되었습니다."
+   },
+   "screencast_error": {
+      "message": "녹화 중 오류가 발생했습니다. {여기를 클릭}하여 해결책을 확인하세요."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "이 기능을 사용하기에는 Chrome 버전이 너무 오래되었습니다. Chrome을 94.0 이상으로 업데이트하십시오."
+   },
+   "screencast_generation": {
+      "message": "GIF 생성 중"
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "마이크 접근 권한이 거부되었습니다."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "무료 버전에서는 비디오 녹화가 5분으로 제한됩니다."
+   },
+   "screencast_modale_contact": {
+      "message": "버그 신고, 개선 제안"
+   },
+   "screencast_modale_copy": {
+      "message": "복사"
+   },
+   "screencast_modale_download": {
+      "message": "다운로드"
+   },
+   "screencast_modale_download_gif": {
+      "message": "모든 곳에서 호환 가능하지만 품질이 낮음 (옵션 활성화 시 투명도 포함)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "PowerPoint와 최고의 호환성, 그러나 투명도 없음"
+   },
+   "screencast_modale_download_webm": {
+      "message": "기본 형식 WEBM으로 다운로드 (옵션 활성화 시 투명도 포함)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "GIF의 최대 지속 시간은 60초입니다. 그 이상이면 파일 크기가 너무 커집니다."
+   },
+   "screencast_modale_texte": {
+      "message": "이 비디오를 다양한 형식으로 다운로드하거나 공유 링크를 얻을 수 있습니다."
+   },
+   "screencast_modale_title": {
+      "message": "비디오 캡처"
+   },
+   "screencast_modale_upload": {
+      "message": "공유 링크 얻기"
+   },
+   "screencast_onboarding_close": {
+      "message": "닫기"
+   },
+   "screencast_onboarding_texte": {
+      "message": "1클릭으로 GIF 형식의 모바일 비디오를 생성하세요 (최대 20초)"
+   },
+   "screencast_onboarding_title": {
+      "message": "비디오 캡처"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "비디오 품질은 비트레이트, fps 및 녹화 해상도에 영향을 미칩니다. 품질이 높을수록 파일 크기가 커집니다."
+   },
+   "screencast_start_recording": {
+      "message": "녹화 시작"
+   },
+   "screencast_tooltip_device": {
+      "message": "단말기만 비디오 캡처"
+   },
+   "screencast_tooltip_tab": {
+      "message": "단말기와 탭 비디오 캡처"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "캡처 생성"
+   },
+   "screenshot_editor_arrow": {
+      "message": "화살표 그리기"
+   },
+   "screenshot_editor_close": {
+      "message": "편집기 닫기"
+   },
+   "screenshot_editor_color": {
+      "message": "선 색상"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "원 그리기"
+   },
+   "screenshot_editor_line": {
+      "message": "선 그리기"
+   },
+   "screenshot_editor_pen": {
+      "message": "자유 그리기"
+   },
+   "screenshot_editor_rect": {
+      "message": "사각형 그리기"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "선 두께"
+   },
+   "screenshot_editor_undo": {
+      "message": "마지막 작업 취소"
+   },
+   "screenshot_menu_1": {
+      "message": "기기와 함께 캡처"
+   },
+   "screenshot_menu_2": {
+      "message": "사이트만 캡처"
+   },
+   "screenshot_menu_3": {
+      "message": "전체 페이지 캡처"
+   },
+   "screenshot_menu_4": {
+      "message": "전체 탭 캡처"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "페이지 끝 전에 중지"
+   },
+   "screenshot_modale_copy": {
+      "message": "이미지를 클립보드에 복사"
+   },
+   "screenshot_modale_download_png": {
+      "message": "PNG 형식으로 다운로드 (압축 없음)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "거의 모든 곳에서 호환되는 WEBP 형식으로 다운로드, 최적화된 압축 (권장) "
+   },
+   "screenshot_modale_edit": {
+      "message": "캡처 편집"
+   },
+   "screenshot_modale_help": {
+      "message": "큰 형식으로 이미지를 저장하려면 이미지 위에서 오른쪽 클릭 후 \"이미지 복사\" 또는 \"저장\"을 선택하세요."
+   },
+   "screenshot_modale_title": {
+      "message": "캡처"
+   },
+   "screenshot_workaround_context": {
+      "message": "문맥"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "일부 기술적 제한으로 인해 스크린샷을 캡처할 때 이 오류 메시지를 받을 수 있습니다."
+   },
+   "screenshot_workaround_solution": {
+      "message": "해결 방법"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "이 경우 캡처를 시작하려면 페이지 아무 곳이나 마우스 오른쪽 버튼으로 클릭하고 '모바일 시뮬레이터' 항목을 선택한 다음 '📷 스크린샷 찍기'를 선택하면 됩니다."
+   },
+   "screenshot_workaround_title": {
+      "message": "스크린샷 해결 방법"
+   },
+   "select": {
+      "message": "선택..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_batterie_level": {
+      "message": "기기 헤더의 배터리 수준 (%)"
+   },
+   "settings_camera": {
+      "message": "카메라"
+   },
+   "settings_change_analytics": {
+      "message": "Posthog을 통해 이 확장 프로그램의 개발자가 제품을 개선하도록 돕습니다. 모든 데이터는 익명화됩니다."
+   },
+   "settings_change_background": {
+      "message": "배경색 변경"
+   },
+   "settings_change_cursor": {
+      "message": "웹뷰에서 커서 스타일 변경 안 함"
+   },
+   "settings_countdown": {
+      "message": "카운트다운 (초)"
+   },
+   "settings_default_device": {
+      "message": "매번 활성화 시 기본 기기"
+   },
+   "settings_default_device_placeholder": {
+      "message": "단말기 선택"
+   },
+   "settings_device_default_url": {
+      "message": "터미널에 표시되는 URL 수정"
+   },
+   "settings_device_hide": {
+      "message": "기기 표시 안 함"
+   },
+   "settings_fullscreen": {
+      "message": "기기에서 전체 화면 사이트"
+   },
+   "settings_h2_device": {
+      "message": "기기"
+   },
+   "settings_h2_global": {
+      "message": "일반"
+   },
+   "settings_hide_header_footer": {
+      "message": "웹뷰(PWA)에서 브라우저의 상단 및 하단 요소 숨기기"
+   },
+   "settings_hide_keyboard": {
+      "message": "입력 필드 포커스 시 가짜 키보드 표시 안 함"
+   },
+   "settings_microphone": {
+      "message": "마이크"
+   },
+   "settings_presenter_mode": {
+      "message": "프레젠테이션 모드 (오른쪽 메뉴는 마우스 오버 시에만 보임)"
+   },
+   "settings_pro_account": {
+      "message": "내 구독 관리"
+   },
+   "settings_scrollbar_show": {
+      "message": "기기에서 기본 스크롤바 표시"
+   },
+   "settings_shortcuts": {
+      "message": "키보드 단축키 설정"
+   },
+   "settings_theme": {
+      "message": "테마"
+   },
+   "settings_theme_auto": {
+      "message": "자동"
+   },
+   "settings_theme_dark": {
+      "message": "다크"
+   },
+   "settings_theme_light": {
+      "message": "라이트"
+   },
+   "settings_transparent_background": {
+      "message": "투명 배경"
+   },
+   "settings_transparent_background_info": {
+      "message": "이 옵션은 더 많은 계산을 필요로 하므로 컴퓨터에 따라 디스플레이가 느려질 수 있습니다 (WEBM 및 GIF 형식에서만 호환 가능)"
+   },
+   "settings_video_quality": {
+      "message": "비디오 품질"
+   },
+   "settings_video_quality_high": {
+      "message": "우수함"
+   },
+   "settings_video_quality_low": {
+      "message": "중간"
+   },
+   "settings_video_quality_medium": {
+      "message": "좋음"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "이 모바일 시뮬레이터가 유용한가요?"
+   },
+   "sharing_h2": {
+      "message": "그렇다면 동료나 친구와 공유하세요"
+   },
+   "sharing_review_1": {
+      "message": "그리고 시간이 있으시다면"
+   },
+   "sharing_review_2": {
+      "message": "리뷰 추가"
+   },
+   "sharing_review_3": {
+      "message": "해주시면 정말 감사하겠습니다! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "리뷰 추가"
+   },
+   "sharing_txt": {
+      "message": "모바일 및 태블릿 사이트 테스트 시뮬레이터"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "이것은 단지 이미지입니다. 자신의 키보드를 사용하세요."
+   },
+   "simulator_header_info": {
+      "message": "이것은 단지 이미지입니다. URL을 변경하려면 위의 크롬 필드를 사용하세요."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> 태블릿"
+   }
+}

@@ -1,0 +1,20 @@
+2025/12/25-01:11:38.221 1119 Creating DB /home/admin/.config/net.imput.helium/Default/IndexedDB/https_www.blackbox.ai_0.indexeddb.leveldb since it was missing.
+2025/12/25-01:11:38.231 1119 Reusing MANIFEST /home/admin/.config/net.imput.helium/Default/IndexedDB/https_www.blackbox.ai_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/25-01:11:38.245 1127 Level-0 table #5: started
+2025/12/25-01:11:38.249 1127 Level-0 table #5: 681 bytes OK
+2025/12/25-01:11:38.254 1127 Delete type=0 #3
+2025/12/25-01:11:38.255 1127 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/25-01:12:03.188 1117 Level-0 table #7: started
+2025/12/25-01:12:03.192 1117 Level-0 table #7: 1673 bytes OK
+2025/12/25-01:12:03.195 1117 Delete type=0 #4
+2025/12/25-01:12:03.196 1117 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/25-01:12:05.462 1126 Level-0 table #9: started
+2025/12/25-01:12:05.465 1126 Level-0 table #9: 669 bytes OK
+2025/12/25-01:12:05.468 1126 Delete type=0 #6
+2025/12/25-01:12:05.469 1117 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 97 : 1
+2025/12/25-01:12:05.469 1117 Compacting 1@0 + 1@1 files
+2025/12/25-01:12:05.472 1117 Generated table #10@0: 44 keys, 1267 bytes
+2025/12/25-01:12:05.472 1117 Compacted 1@0 + 1@1 files => 1267 bytes
+2025/12/25-01:12:05.476 1117 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/25-01:12:05.476 1117 Delete type=2 #9
+2025/12/25-01:12:05.476 1117 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 97 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

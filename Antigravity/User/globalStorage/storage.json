@@ -1,0 +1,91 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "c0afaef66cbfd2009b734baf0569c87c823e02b4b86b2f0b96ff186dea1313d4",
+    "telemetry.devDeviceId": "d3275ee9-f522-4ef2-82de-5b5779cb32f9",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/admin/Documents/GitHub/DccpAdminV3"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 30,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/admin/Documents/GitHub/DccpAdminV3": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "unifiedStateSync.hasTrajectorySummariesMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasPlanningModeMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasArtifactReviewPolicyMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasTerminalAutoExecutionPolicyMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasTerminalAllowedCommandsMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasTerminalDeniedCommandsMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasAgentFileAccessMigration": true,
+    "antigravityUnifiedStateSync.editorPreferences.hasShowSelectionPopupMigrated": true,
+    "antigravityUnifiedStateSync.editorPreferences.hasDemoModeEnabledMigrated": true,
+    "theme": "vs",
+    "themeBackground": "#e6e7ed",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs",
+        "colorInfo": {
+            "foreground": "#363c4d",
+            "background": "#e6e7ed",
+            "editorBackground": "#e6e7ed",
+            "titleBarBackground": "#d6d8df",
+            "titleBarBorder": "#c1c2c7",
+            "activityBarBackground": "#d6d8df",
+            "activityBarBorder": "#d6d8df",
+            "sideBarBackground": "#d6d8df",
+            "sideBarBorder": "#c1c2c7",
+            "statusBarBackground": "#d6d8df",
+            "statusBarBorder": "#c1c2c7",
+            "statusBarNoFolderBackground": "#e6e7ed",
+            "windowBorder": "#cdced1"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 42,
+            "sideBarWidth": 253,
+            "auxiliaryBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "antigravityUnifiedStateSync.tabPreferences.hasMigrated": true,
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/admin/Documents/GitHub/DccpAdminV3",
+            "backupPath": "/home/admin/.config/Antigravity/Backups/1a490caf8d7a1ee8ca971fc66e4ac05c",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 0,
+                "width": 1656,
+                "height": 869
+            }
+        },
+        "openedWindows": []
+    },
+    "antigravityUnifiedStateSync.browserPreferences.hasBrowserAllowlistMigrated": true,
+    "antigravityUnifiedStateSync.browserPreferences.hasBrowserLaunchPreferencesMigrated": true,
+    "antigravityUnifiedStateSync.browserPreferences.hasAddedLocalhostToAllowlist": true,
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 253,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "2c39dfd38ffe2b5cd849525e6e2706ef": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

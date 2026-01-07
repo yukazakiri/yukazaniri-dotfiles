@@ -1,0 +1,701 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> טלפונים אנדרואיד"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> טלפונים אפל"
+   },
+   "button_feedback": {
+      "message": "הוסף דירוג"
+   },
+   "button_message": {
+      "message": "שלח לנו הודעה"
+   },
+   "close": {
+      "message": "סגור"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "שם המכשיר"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, וכו'."
+   },
+   "contact_title": {
+      "message": "המכשיר שאתה מחפש לא נמצא ברשימה? ספר לנו!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "הפעל תצוגה ניידת בכרטיסייה זו"
+   },
+   "copied": {
+      "message": "הועתק"
+   },
+   "dimensions": {
+      "message": "ממדים"
+   },
+   "error": {
+      "message": "שגיאה"
+   },
+   "error_contact": {
+      "message": "{אנא צור איתנו קשר} אם הבעיה נמשכת."
+   },
+   "extDescription": {
+      "message": "סימולטור של סמארטפון וטאבלט על מחשב עם מספר דגמים לבדיקת האתר הנייד והאתר הרספונסיבי שלך."
+   },
+   "extName": {
+      "message": "סימולטור טלפון נייד - בדיקת אתר רספונסיבי"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "לא לענות"
+   },
+   "feedback_company_type": {
+      "message": "מהו סוג החברה שלכם?"
+   },
+   "feedback_company_type_agency": {
+      "message": "עסק קטן (10-49 עובדים)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "עצמאי"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "תאגיד / קבוצה גדולה מאוד (5000+ עובדים)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "עסק זעיר (1-9 עובדים)"
+   },
+   "feedback_company_type_pme": {
+      "message": "עסק גדול (250-4999 עובדים)"
+   },
+   "feedback_company_type_startup": {
+      "message": "עסק בינוני (50-249 עובדים)"
+   },
+   "feedback_error_required": {
+      "message": "כל השדות ריקים 🤔"
+   },
+   "feedback_frequency": {
+      "message": "באיזו תדירות אתם משתמשים בתוסף זה?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "מדי פעם"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "מספר פעמים בשבוע"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "יומי"
+   },
+   "feedback_frequency_rare": {
+      "message": "נדיר"
+   },
+   "feedback_improvements": {
+      "message": "אילו שיפורים הייתם רוצים לראות?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "רעיון, חיכוך, חוסר..."
+   },
+   "feedback_profession": {
+      "message": "מהו התחום המקצועי שלכם?"
+   },
+   "feedback_profession_designer": {
+      "message": "עיצוב"
+   },
+   "feedback_profession_developer": {
+      "message": "פיתוח"
+   },
+   "feedback_profession_marketing": {
+      "message": "שיווק"
+   },
+   "feedback_profession_other": {
+      "message": "אחר"
+   },
+   "feedback_profession_product": {
+      "message": "ניהול מוצר"
+   },
+   "feedback_profession_qa": {
+      "message": "בדיקות / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "מכירות"
+   },
+   "feedback_submit": {
+      "message": "שלח"
+   },
+   "feedback_submitted": {
+      "message": "תודה רבה על המשוב שלכם 🤗"
+   },
+   "feedback_title": {
+      "message": "עזרו לנו להפוך את Mobile FIRST לשימושי יותר עבורכם 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "לבדוק את האתר שלי, לעשות הדגמות ללקוחות..."
+   },
+   "feedback_use_cases": {
+      "message": "מדוע אתם משתמשים ב-Mobile FIRST?"
+   },
+   "get_pro": {
+      "message": "קבל את גרסת PRO"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "global_cancel": {
+      "message": "ביטול"
+   },
+   "link": {
+      "message": "קישור"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_add_window": {
+      "message": "הוסף דגם סימולציה"
+   },
+   "menu_change_device": {
+      "message": "שנה דגם"
+   },
+   "menu_close_alone": {
+      "message": "בטל את הסימולטור"
+   },
+   "menu_close_multi": {
+      "message": "סגור חלון זה"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> המכשיר שאתם מחפשים לא נמצא ברשימה? ספרו לנו!"
+   },
+   "menu_extensions": {
+      "message": "גלה את התוספים האחרים שלנו לכרום"
+   },
+   "menu_faq_all": {
+      "message": "ראה את כל השאלות הנפוצות"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "איך להפעיל את הסימולטור בגלישה פרטית?"
+   },
+   "menu_faq_media_queries": {
+      "message": "שאילתות המדיה שלי לא נלקחות בחשבון"
+   },
+   "menu_faq_scroll": {
+      "message": "לא ניתן לגלול בסימולטור"
+   },
+   "menu_faq_shortcut": {
+      "message": "איך להגדיר קיצורי מקלדת?"
+   },
+   "menu_faq_subscription": {
+      "message": "למה המנוי שלי לא עובד?"
+   },
+   "menu_faq_title": {
+      "message": "שאלות נפוצות"
+   },
+   "menu_help_center": {
+      "message": "מרכז עזרה"
+   },
+   "menu_info_device": {
+      "message": "מאפיינים ומוקאפ של מכשיר זה"
+   },
+   "menu_info_device_features": {
+      "message": "מאפיינים (רזולוציית תצוגה וכו')"
+   },
+   "menu_info_device_mockup": {
+      "message": "מוקאפ חינמי ב-PNG שקוף"
+   },
+   "menu_report": {
+      "message": "דווח על באג"
+   },
+   "menu_rotate": {
+      "message": "שנה כיוון"
+   },
+   "menu_screencast": {
+      "message": "📹 הקלט סרטון מסך"
+   },
+   "menu_screenshot": {
+      "message": "📷 צלם צילום מסך"
+   },
+   "menu_send_improvement": {
+      "message": "הצע שיפור"
+   },
+   "menu_send_message": {
+      "message": "מרכז עזרה"
+   },
+   "menu_settings": {
+      "message": "הגדרות"
+   },
+   "menu_share": {
+      "message": "שתף עם עמית, חבר/ה,..."
+   },
+   "menu_vote_feature": {
+      "message": "הצביעו עבור התכונות שאתם רוצים"
+   },
+   "menu_zoom": {
+      "message": "זום במכשיר"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "הגדרות נוספות"
+   },
+   "new_ios26_h1": {
+      "message": "גלה עכשיו את ממשק \"Liquid Glass\" החדש של Safari iOS 26 לבדיקות מציאותיות יותר!"
+   },
+   "new_ios26_h2": {
+      "message": "זמין בכל הגרסאות של iPhone&nbsp;15 ו-iPhone&nbsp;16"
+   },
+   "new_iphone_14_h1": {
+      "message": "היה הראשון להשתמש (וירטואלית) ב-iPhone 14 PRO"
+   },
+   "new_iphone_17_h1": {
+      "message": "חדש!\u003Cbr>בדקו עכשיו את האתרים שלכם עם ה-iPhone&nbsp;17."
+   },
+   "new_iphone_17_h2": {
+      "message": "ה-iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX זמינים בסימולטור."
+   },
+   "new_video_feature_h1": {
+      "message": "גלה עכשיו את תכונת לכידת הווידאו החדשה!"
+   },
+   "new_video_feature_h2": {
+      "message": "הקלט באיכות טובה יותר, עם אפשרויות חדשות ועם רקע שקוף"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>מידע\u003C/strong>גלילת מגע אינה זמינה, אך ניתן \u003Cstrong>להציג את סרגל הגלילה\u003C/strong> אם אין לך גלגלת עכבר או משטח מגע לגלילה.\u003Cbr>\u003Cbr>זו אפשרות בהגדרות בתחתית הימנית \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_10_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>עדכון v4.10.0\u003C/strong>ה-iPhone&nbsp;17, iPhone&nbsp; Air, iPhone&nbsp;17 PRO & iPhone&nbsp;17 PRO MAX זמינים בסימולטור \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_12_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>עדכון v4.12.0\u003C/strong>תכונה חדשה בגרסת PRO, \u003Cstrong>עריכת צילומי מסך\u003C/strong>. כפתורים לציור צורות, הוספת טקסט, וכו'. \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_14_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>עדכון v4.14.0\u003C/strong>גלה עכשיו את תכונת \u003Cstrong>לכידת הווידאו\u003C/strong> החדשה! \u003Ci class='mdi'>&#xe90e;\u003C/i>"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>עדכון גרסה v4.14.5\u003C/strong>הגדלה משמעותית של \u003Cstrong>הרזולוציה והאיכות\u003C/strong> של צילומי המסך \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_6_9": {
+      "message": "\u003Cstrong class='mb-2 is-block'>עדכון v4.6.9\u003C/strong>\u003Cstrong>ערכת נושא\u003C/strong> שינוי ערכת נושא אפשרי כעת בהגדרות \u003Ci class='mdi'>&#xe905;\u003C/i> בתחתית הימנית"
+   },
+   "notification_update_title_v4_7_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>עדכון v4.7.0\u003C/strong>תיקון בנוגע ל\u003Cstrong>צילומי מסך של כל העמוד\u003C/strong> והוספת \u003Cstrong>מכשיר חדש\u003C/strong>."
+   },
+   "notification_update_title_v4_8_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>עדכון v4.8.0\u003C/strong>אפשרות \u003Cstrong>לעצור לכידת עמוד מלאה לפני סוף העמוד\u003C/strong>.\u003Cbr/>כמו כן, הוספת שדה טקסט בהגדרות ל\u003Cstrong>שינוי ה-URL המוצג במסוף.\u003C/strong>"
+   },
+   "notification_update_title_v4_9_1": {
+      "message": "\u003Cstrong class='mb-2 is-block'>עדכון v4.9.0\u003C/strong>גלה עכשיו את \u003Cstrong>ממשק Safari iOS 26 החדש\u003C/strong> על iPhone 15 ו-16 \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_9_3": {
+      "message": "\u003Cstrong class='mb-2 is-block'>עדכון v4.9.3\u003C/strong>תיקון בנוגע לממשק iOS 26 בנוכחות אלמנטים קבועים בתחתית העמוד. סרגל הכתובות עבר מעל האלמנטים.\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>ברוכים הבאים ל-Mobile FIRST 👋\u003C/strong>הדמו בלחיצה אחת טלפונים, טאבלטים ומחשבים כדי לבדוק ולראות בקלות את האתרים שלכם.\u003Cbr>\u003Cbr>\u003Cstrong>התפריט נמצא בצד ימין ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "אופציונלי"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "התקן"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "תוסף זה מאפשר לך ללכוד כל צבע על המסך."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "בוחר צבעים"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "זהה בלחיצה אחת את הגופן המשמש בכל טקסט בדף אינטרנט."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "מאתר גופנים"
+   },
+   "other_extensions_h1": {
+      "message": "גלה את התוספים החינמיים החדשים שלנו"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> מיוחדים"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "הפעל את האפשרות"
+   },
+   "popup_activate_local_files_info": {
+      "message": "סימולטור זה אינו ניתן להפעלה כברירת מחדל על קבצים מקומיים (file:///) אך ניתן להפעיל את האפשרות ידנית בהגדרות כרום."
+   },
+   "popup_site_incompatible": {
+      "message": "הסימולטור אינו ניתן להפעלה בדף המקורי של הדפדפן שלך. נסה בכרטיסייה אחרת או גלוש לאתר ואז הפעל מחדש."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "כל הגדרות הווידאו"
+   },
+   "pro_modale_avantage_2": {
+      "message": "הסרת פרסומות"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "מחויב שנתי"
+   },
+   "pro_modale_button": {
+      "message": "אני נרשם"
+   },
+   "pro_modale_from": {
+      "message": "החל מ"
+   },
+   "pro_modale_h1": {
+      "message": "הפוך למקצוען"
+   },
+   "pro_modale_h1_ads": {
+      "message": "הסר פרסומות"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "המר את צילומי הווידאו שלך לפורמטים GIF ו-MP4"
+   },
+   "pro_modale_h1_devices": {
+      "message": "סמלץ את כל המכשירים"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "ערוך את הצילומים שלך"
+   },
+   "pro_modale_h1_limit": {
+      "message": "הגעת למגבלת 5 צילומי וידאו ליום"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "פתח את כל הגדרות הקלטת הווידאו"
+   },
+   "pro_modale_h1_settings": {
+      "message": "פתח את כל ההגדרות"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "צלמו צילומי מסך ללא הגבלה"
+   },
+   "pro_modale_h2": {
+      "message": "הפוך למקצוען ותרום באופן פעיל לפיתוח תוסף זה על ידי תמיכה במפתח שלו."
+   },
+   "pro_modale_link_1": {
+      "message": "או"
+   },
+   "pro_modale_link_2": {
+      "message": "אני מתחבר"
+   },
+   "pro_modale_link_3": {
+      "message": "לחשבון המנוי שלי"
+   },
+   "pro_modale_recurring_month": {
+      "message": "חודש"
+   },
+   "pro_modale_savings": {
+      "message": "חסוך"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "איך היית מדרג את התוסף הזה?"
+   },
+   "review_note_feedback": {
+      "message": "תודה על המשוב שלך, אל תהסס לשלוח לנו הודעה כדי שנוכל לשפר את התוסף הזה."
+   },
+   "review_note_store": {
+      "message": "תודה על המשוב שלך, אל תהסס להוסיף דירוג בחנות גוגל. אני אהיה מאוד אסיר תודה 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "ההרשאה לגשת למצלמה נדחתה."
+   },
+   "screencast_error": {
+      "message": "אירעה שגיאה במהלך ההקלטה. {לחץ כאן} לפתרון עוקף."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "הגרסה של Chrome שלך ישנה מדי עבור תכונה זו. אנא עדכן את Chrome לגרסה מעל 94.0"
+   },
+   "screencast_generation": {
+      "message": "יצירת GIF בעיצומה"
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "ההרשאה לגשת למיקרופון נדחתה."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "הקלטות וידאו מוגבלות ל-5 דקות בגרסה החינמית."
+   },
+   "screencast_modale_contact": {
+      "message": "דווח על באג, הצע שיפור"
+   },
+   "screencast_modale_copy": {
+      "message": "העתק"
+   },
+   "screencast_modale_download": {
+      "message": "הורד"
+   },
+   "screencast_modale_download_gif": {
+      "message": "תואם בכל מקום, אך איכות נמוכה יותר (עם שקיפות אם האפשרות מופעלת)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "התאמה מיטבית עם PowerPoint, אך ללא שקיפות"
+   },
+   "screencast_modale_download_webm": {
+      "message": "הורד בפורמט ברירת מחדל WEBM (עם שקיפות אם האפשרות מופעלת)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "משך הזמן המרבי של GIF הוא 60 שניות. מעבר לכך הקובץ יהיה גדול מדי."
+   },
+   "screencast_modale_texte": {
+      "message": "ניתן להוריד וידאו זה בפורמטים שונים או לקבל קישור לשיתוף."
+   },
+   "screencast_modale_title": {
+      "message": "הקלטת וידאו"
+   },
+   "screencast_modale_upload": {
+      "message": "קבל קישור לשיתוף"
+   },
+   "screencast_onboarding_close": {
+      "message": "סגור"
+   },
+   "screencast_onboarding_texte": {
+      "message": "צור וידאו של המובייל בפורמט GIF בלחיצה אחת (מקסימום 20 שניות)"
+   },
+   "screencast_onboarding_title": {
+      "message": "הקלטת וידאו"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "איכות הווידאו משפיעה על קצב הסיביות, ה-fps והרזולוציה של ההקלטה. ככל שהאיכות גבוהה יותר, כך הקובץ יהיה גדול יותר."
+   },
+   "screencast_start_recording": {
+      "message": "התחל הקלטה"
+   },
+   "screencast_tooltip_device": {
+      "message": "לכידת וידאו של המכשיר בלבד"
+   },
+   "screencast_tooltip_tab": {
+      "message": "לכידת וידאו של הכרטיסייה עם המכשיר"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "צור צילום מסך"
+   },
+   "screenshot_editor_arrow": {
+      "message": "צייר חץ"
+   },
+   "screenshot_editor_close": {
+      "message": "סגור את העורך"
+   },
+   "screenshot_editor_color": {
+      "message": "צבע הקו"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "צייר עיגול"
+   },
+   "screenshot_editor_line": {
+      "message": "צייר קו"
+   },
+   "screenshot_editor_pen": {
+      "message": "ציור חופשי"
+   },
+   "screenshot_editor_rect": {
+      "message": "צייר מלבן"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "עובי הקו"
+   },
+   "screenshot_editor_undo": {
+      "message": "בטל את הפעולה האחרונה"
+   },
+   "screenshot_menu_1": {
+      "message": "צילום עם המכשיר"
+   },
+   "screenshot_menu_2": {
+      "message": "צילום האתר בלבד"
+   },
+   "screenshot_menu_3": {
+      "message": "צילום כל הדף"
+   },
+   "screenshot_menu_4": {
+      "message": "Capture de tout l'onglet"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "עצור לפני סוף הדף"
+   },
+   "screenshot_modale_copy": {
+      "message": "העתק את התמונה ללוח"
+   },
+   "screenshot_modale_download_png": {
+      "message": "הורד בפורמט PNG (ללא דחיסה)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "הורד בפורמט WEBP, תואם כמעט בכל מקום ודחיסה מיטבית (מומלץ)"
+   },
+   "screenshot_modale_edit": {
+      "message": "ערוך את הצילום"
+   },
+   "screenshot_modale_help": {
+      "message": "כדי לשמור את התמונה בפורמט גדול פשוט לחץ לחיצה ימנית עליה ואז \"העתק תמונה\" או \"שמור\"."
+   },
+   "screenshot_modale_title": {
+      "message": "צילום"
+   },
+   "screenshot_workaround_context": {
+      "message": "הֶקשֵׁר"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "בשל מגבלות טכניות מסוימות, ייתכן שבעת צילום המסך תקבל הודעת שגיאה זו."
+   },
+   "screenshot_workaround_solution": {
+      "message": "פתרון לעקיפת הבעיה"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "במקרה זה, כדי להפעיל את הצילום, פשוט לחץ לחיצה ימנית בכל מקום בדף, בחר את הערך \"סימולטור נייד\", ואז \"📷 צלם צילום מסך\""
+   },
+   "screenshot_workaround_title": {
+      "message": "פתרון לעקיפת הבעיה לצילום מסך"
+   },
+   "select": {
+      "message": "בחר..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_batterie_level": {
+      "message": "רמת סוללה בכותרת המכשיר (%)"
+   },
+   "settings_camera": {
+      "message": "מצלמה"
+   },
+   "settings_change_analytics": {
+      "message": "אני עוזר למפתח של תוסף זה לשפר את המוצר שלו באמצעות Posthog. כל הנתונים הם אנונימיים."
+   },
+   "settings_change_background": {
+      "message": "שנה את צבע הרקע"
+   },
+   "settings_change_cursor": {
+      "message": "אל תשנה את סגנון הסמן בתצוגת האינטרנט"
+   },
+   "settings_countdown": {
+      "message": "ספירה לאחור (שניות)"
+   },
+   "settings_default_device": {
+      "message": "מכשיר ברירת מחדל בכל הפעלה"
+   },
+   "settings_default_device_placeholder": {
+      "message": "בחר מכשיר"
+   },
+   "settings_device_default_url": {
+      "message": "שנה את כתובת ה-URL המוצגת במסוף"
+   },
+   "settings_device_hide": {
+      "message": "אל תציג את המכשיר"
+   },
+   "settings_fullscreen": {
+      "message": "אתר במסך מלא במכשיר"
+   },
+   "settings_h2_device": {
+      "message": "מכשיר"
+   },
+   "settings_h2_global": {
+      "message": "כללי"
+   },
+   "settings_hide_header_footer": {
+      "message": "הסתר את האלמנטים העליונים והתחתונים של הדפדפן בתצוגת האינטרנט (PWA)"
+   },
+   "settings_hide_keyboard": {
+      "message": "אל תציג את המקלדת המזויפת בעת מיקוד בשדה קלט"
+   },
+   "settings_microphone": {
+      "message": "מיקרופון"
+   },
+   "settings_presenter_mode": {
+      "message": "מצב מצגת (תפריט ימני נראה רק בעת ריחוף)"
+   },
+   "settings_pro_account": {
+      "message": "נהל את המנוי שלי"
+   },
+   "settings_scrollbar_show": {
+      "message": "הצג את סרגל הגלילה המקורי במכשיר"
+   },
+   "settings_shortcuts": {
+      "message": "הגדרת קיצורי מקלדת"
+   },
+   "settings_theme": {
+      "message": "ערכת נושא"
+   },
+   "settings_theme_auto": {
+      "message": "אוטומטי"
+   },
+   "settings_theme_dark": {
+      "message": "כהה"
+   },
+   "settings_theme_light": {
+      "message": "בהיר"
+   },
+   "settings_transparent_background": {
+      "message": "רקע שקוף"
+   },
+   "settings_transparent_background_info": {
+      "message": "אפשרות זו כוללת יותר חישובים ולכן עלולה להאט את התצוגה בהתאם למחשב שלך (תואם רק לפורמטים WEBM ו-GIF)"
+   },
+   "settings_video_quality": {
+      "message": "איכות וידאו"
+   },
+   "settings_video_quality_high": {
+      "message": "מצוינת"
+   },
+   "settings_video_quality_low": {
+      "message": "בינונית"
+   },
+   "settings_video_quality_medium": {
+      "message": "טובה"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "האם הסימולטור הנייד הזה מועיל לך?"
+   },
+   "sharing_h2": {
+      "message": "אז שתף אותו עם עמיתיך או חבריך"
+   },
+   "sharing_review_1": {
+      "message": "ואם יש לך דקה ל"
+   },
+   "sharing_review_2": {
+      "message": "להוסיף ביקורת"
+   },
+   "sharing_review_3": {
+      "message": "אז זה הדובדבן שבקצפת! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "אני מוסיף ביקורת"
+   },
+   "sharing_txt": {
+      "message": "סימולטור לבדיקת האתר שלך על מובייל וטאבלט"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "זהו רק תמונה. השתמש במקלדת שלך."
+   },
+   "simulator_header_info": {
+      "message": "זהו רק תמונה. כדי לשנות את ה-URL השתמש בשדה של כרום למעלה."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> טאבלטים"
+   }
+}

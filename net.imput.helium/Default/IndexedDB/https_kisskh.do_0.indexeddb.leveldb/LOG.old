@@ -1,0 +1,8 @@
+2025/12/23-13:43:46.601 49d0 Creating DB /home/admin/.config/net.imput.helium/Default/IndexedDB/https_kisskh.do_0.indexeddb.leveldb since it was missing.
+2025/12/23-13:43:46.609 49d0 Reusing MANIFEST /home/admin/.config/net.imput.helium/Default/IndexedDB/https_kisskh.do_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/23-13:43:46.622 49df Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/23-13:43:46.848 49df Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/23-13:44:53.605 49df Level-0 table #5: started
+2025/12/23-13:44:53.608 49df Level-0 table #5: 12701 bytes OK
+2025/12/23-13:44:53.612 49df Delete type=0 #3
+2025/12/23-13:44:53.612 49d0 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

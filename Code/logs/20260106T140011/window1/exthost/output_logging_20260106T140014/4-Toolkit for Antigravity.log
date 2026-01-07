@@ -1,0 +1,73 @@
+[14:00:23] ℹ️ Toolkit: Activating (MVVM Refactored)...
+[14:00:23] ℹ️ State restored from cache
+[14:00:23] ℹ️ Toolkit: Activation Complete
+[14:00:26] ❌ ProcessFinder: tryDetect unexpected error
+  Command failed: ps -A -ww -o pid,ppid,args | grep "[l]anguage_server_linux_x64"
+
+  Error: Command failed: ps -A -ww -o pid,ppid,args | grep "[l]anguage_server_linux_x64"
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+[14:00:26] ⚠️ ProcessFinder: Attempt 1 failed, retrying in 1500ms...
+[14:00:28] ❌ ProcessFinder: tryDetect unexpected error
+  Command failed: ps -A -ww -o pid,ppid,args | grep "[l]anguage_server_linux_x64"
+
+  Error: Command failed: ps -A -ww -o pid,ppid,args | grep "[l]anguage_server_linux_x64"
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+[14:00:28] ⚠️ ProcessFinder: Attempt 2 failed, retrying in 3000ms...
+[14:00:31] ❌ ProcessFinder: tryDetect unexpected error
+  Command failed: ps -A -ww -o pid,ppid,args | grep "[l]anguage_server_linux_x64"
+
+  Error: Command failed: ps -A -ww -o pid,ppid,args | grep "[l]anguage_server_linux_x64"
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+[14:00:31] ⚠️ ProcessFinder: Attempt 3 failed, retrying in 6000ms...
+[14:00:37] ❌ ProcessFinder: tryDetect unexpected error
+  Command failed: ps -A -ww -o pid,ppid,args | grep "[l]anguage_server_linux_x64"
+
+  Error: Command failed: ps -A -ww -o pid,ppid,args | grep "[l]anguage_server_linux_x64"
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+[14:00:37] ⚠️ ProcessFinder: Attempt 4 failed, retrying in 10000ms...
+[14:00:47] ❌ ProcessFinder: tryDetect unexpected error
+  Command failed: ps -A -ww -o pid,ppid,args | grep "[l]anguage_server_linux_x64"
+
+  Error: Command failed: ps -A -ww -o pid,ppid,args | grep "[l]anguage_server_linux_x64"
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+[14:00:47] ❌ ProcessFinder: Detection failed after 5 attempts. Reason: unknown

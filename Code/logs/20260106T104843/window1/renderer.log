@@ -1,0 +1,49 @@
+2026-01-06 10:48:46.291 [info] Started local extension host with pid 207947.
+2026-01-06 10:48:46.562 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 10:48:46.562 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 10:48:46.563 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 10:48:46.563 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 10:48:46.564 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 10:48:46.564 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 10:48:46.565 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 10:48:48.902 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-06 10:48:49.106 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-06 10:48:49.600 [error] [Extension Host] (node:207947) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-01-06 10:48:49.634 [error] [Extension Host] (node:207947) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-01-06 10:48:49.734 [error] [Extension Host] /bin/sh: line 1: herd: command not found
+2026-01-06 10:48:49.735 [error] [Extension Host] /bin/sh: line 1: valet: command not found
+2026-01-06 10:48:49.742 [info] Auto updating outdated extensions. n2ns.antigravity-panel
+2026-01-06 10:48:50.165 [info] [perf] Render performance baseline is 35ms
+2026-01-06 10:48:52.610 [error] Failed to fetch MCP registry providers Server returned 404
+2026-01-06 10:48:53.985 [error] chatParticipant must be declared in package.json: claude-code
+2026-01-06 10:48:54.655 [error] [Extension Host] [ProcessDetector] Attempt 1 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-06 10:48:55.222 [error] [Extension Host] [ProcessDetector] Attempt 2 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-06 10:48:56.219 [error] [Extension Host] [ProcessDetector] Attempt 3 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)

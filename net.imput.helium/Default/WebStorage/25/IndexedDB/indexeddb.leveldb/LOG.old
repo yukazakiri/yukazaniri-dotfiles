@@ -1,0 +1,15 @@
+2025/12/25-01:05:33.641 1126 Reusing MANIFEST /home/admin/.config/net.imput.helium/Default/WebStorage/25/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/12/25-01:05:33.641 1126 Recovering log #4
+2025/12/25-01:05:33.643 1126 Reusing old log /home/admin/.config/net.imput.helium/Default/WebStorage/25/IndexedDB/indexeddb.leveldb/000004.log 
+2025/12/25-01:05:43.642 1126 Level-0 table #8: started
+2025/12/25-01:05:43.650 1126 Level-0 table #8: 442804 bytes OK
+2025/12/25-01:05:43.654 1126 Delete type=0 #4
+2025/12/25-01:05:43.655 1126 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/12/25-01:05:43.655 1126 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00@\x0a,\x15\xb5yB\x00\x03\x00\x00\x00\x00\x00\x007@' @ 2732 : 1
+2025/12/25-01:05:43.655 1126 Compacting 1@1 + 1@2 files
+2025/12/25-01:05:43.660 1126 Generated table #9@1: 83 keys, 6484 bytes
+2025/12/25-01:05:43.660 1126 Compacted 1@1 + 1@2 files => 6484 bytes
+2025/12/25-01:05:43.664 1126 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/25-01:05:43.665 1126 Delete type=2 #8
+2025/12/25-01:05:43.665 1126 Delete type=2 #5
+2025/12/25-01:05:43.665 1126 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00@\x0a,\x15\xb5yB\x00\x03\x00\x00\x00\x00\x00\x007@' @ 2732 : 1 .. (end); will stop at (end)

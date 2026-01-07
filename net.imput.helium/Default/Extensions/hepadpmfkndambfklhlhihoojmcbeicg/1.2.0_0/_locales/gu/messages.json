@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "મનપસંદમાં ઉમેરો"
+   },
+   "basic_font": {
+      "message": "આ ફૉન્ટ પહેલેથી જ Windows અને Mac કમ્પ્યુટર્સ પર ઇન્સ્ટોલ છે. તમારી સાઇટ માટે તેને ડાઉનલોડ કરવાની જરૂર નથી."
+   },
+   "chrome_limitations": {
+      "message": "કેટલીક ટેકનિકલ મર્યાદાઓ Chrome વેબ સ્ટોર પેજ અથવા Chrome સેટિંગ પેજ પર એક્સ્ટેન્શનને કાર્યરત થવામાં અવરોધે છે."
+   },
+   "clear": {
+      "message": "યાદી ખાલી કરો"
+   },
+   "contact_us": {
+      "message": "અમારો સંપર્ક કરો"
+   },
+   "copy": {
+      "message": "કૉપિ કરો"
+   },
+   "download": {
+      "message": "ડાઉનલોડ કરો"
+   },
+   "extDescription": {
+      "message": "ફૉન્ટ ફાઇન્ડર એક હલકી એક્સ્ટેન્શન છે જે તમને સ્ક્રીન પરના ટેક્સ્ટની ફૉન્ટ શોધવામાં મદદ કરે છે."
+   },
+   "extName": {
+      "message": "Font finder - ટેક્સ્ટની ફૉન્ટ શોધો"
+   },
+   "favorites": {
+      "message": "મનપસંદ"
+   },
+   "link": {
+      "message": "લિંક"
+   },
+   "logo": {
+      "message": "ફૉન્ટ ફાઇન્ડર"
+   },
+   "more": {
+      "message": "વધુ.."
+   },
+   "pick_color_button": {
+      "message": "પેજ પર ફૉન્ટ શોધો"
+   },
+   "rating": {
+      "message": "એક્સ્ટેન્શનને રેટ કરો"
+   },
+   "recent": {
+      "message": "તાજા"
+   },
+   "remove_from_favorites": {
+      "message": "મનપસંદમાંથી દૂર કરો"
+   },
+   "report_bug": {
+      "message": "બગની જાણ કરો"
+   },
+   "settings": {
+      "message": "સેટિંગ્સ"
+   },
+   "settings_auto_copy": {
+      "message": "ફૉન્ટનું નામ આપમેળે કૉપિ કરો"
+   },
+   "settings_keep_history": {
+      "message": "તાજેતરના ફૉન્ટ્સ સાચવો"
+   },
+   "settings_shortcut": {
+      "message": "કીબોર્ડ શૉર્ટકટ સેટ કરો"
+   }
+}

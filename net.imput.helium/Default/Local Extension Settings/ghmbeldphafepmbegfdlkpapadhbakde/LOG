@@ -1,0 +1,121 @@
+2026/01/07-08:34:30.415 1ca4 Reusing MANIFEST /home/admin/.config/net.imput.helium/Default/Local Extension Settings/ghmbeldphafepmbegfdlkpapadhbakde/MANIFEST-000001
+2026/01/07-08:34:30.415 1ca4 Recovering log #492
+2026/01/07-08:34:30.428 1ca4 Reusing old log /home/admin/.config/net.imput.helium/Default/Local Extension Settings/ghmbeldphafepmbegfdlkpapadhbakde/000492.log 
+2026/01/07-08:34:36.550 1ca6 Level-0 table #496: started
+2026/01/07-08:34:36.581 1ca6 Level-0 table #496: 4083141 bytes OK
+2026/01/07-08:34:36.585 1ca6 Delete type=0 #492
+2026/01/07-08:34:36.749 1ca6 Level-0 table #498: started
+2026/01/07-08:34:36.775 1ca6 Level-0 table #498: 3970720 bytes OK
+2026/01/07-08:34:36.779 1ca6 Delete type=0 #495
+2026/01/07-08:49:28.851 1ca6 Level-0 table #500: started
+2026/01/07-08:49:28.959 1ca6 Level-0 table #500: 2920470 bytes OK
+2026/01/07-08:49:28.964 1ca6 Delete type=0 #497
+2026/01/07-08:49:28.966 1ca6 Compacting 4@0 + 1@1 files
+2026/01/07-08:49:29.048 1ca6 Generated table #501@0: 9 keys, 1352844 bytes
+2026/01/07-08:49:29.048 1ca6 Compacted 4@0 + 1@1 files => 1352844 bytes
+2026/01/07-08:49:29.052 1ca6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/07-08:49:29.052 1ca6 Delete type=2 #491
+2026/01/07-08:49:29.052 1ca6 Delete type=2 #496
+2026/01/07-08:49:29.052 1ca6 Delete type=2 #493
+2026/01/07-08:49:29.052 1ca6 Delete type=2 #500
+2026/01/07-08:49:29.052 1ca6 Delete type=2 #498
+2026/01/07-09:04:38.092 1ca6 Level-0 table #503: started
+2026/01/07-09:04:38.142 1ca6 Level-0 table #503: 3029873 bytes OK
+2026/01/07-09:04:38.146 1ca6 Delete type=0 #499
+2026/01/07-09:32:26.130 1ca6 Level-0 table #505: started
+2026/01/07-09:32:26.190 1ca6 Level-0 table #505: 1759615 bytes OK
+2026/01/07-09:32:26.195 1ca6 Delete type=0 #502
+2026/01/07-09:37:17.982 1ca6 Level-0 table #507: started
+2026/01/07-09:37:18.014 1ca6 Level-0 table #507: 2840970 bytes OK
+2026/01/07-09:37:18.019 1ca6 Delete type=0 #504
+2026/01/07-10:04:40.045 1ca6 Level-0 table #509: started
+2026/01/07-10:04:40.101 1ca6 Level-0 table #509: 1787612 bytes OK
+2026/01/07-10:04:40.106 1ca6 Delete type=0 #506
+2026/01/07-10:04:40.107 1ca6 Compacting 4@0 + 1@1 files
+2026/01/07-10:04:40.187 1ca6 Generated table #510@0: 9 keys, 1353522 bytes
+2026/01/07-10:04:40.187 1ca6 Compacted 4@0 + 1@1 files => 1353522 bytes
+2026/01/07-10:04:40.191 1ca6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/07-10:04:40.191 1ca6 Delete type=2 #501
+2026/01/07-10:04:40.192 1ca6 Delete type=2 #503
+2026/01/07-10:04:40.192 1ca6 Delete type=2 #507
+2026/01/07-10:04:40.192 1ca6 Delete type=2 #509
+2026/01/07-10:04:40.192 1ca6 Delete type=2 #505
+2026/01/07-10:22:53.811 1ca6 Level-0 table #512: started
+2026/01/07-10:22:53.848 1ca6 Level-0 table #512: 1761879 bytes OK
+2026/01/07-10:22:53.855 1ca6 Delete type=0 #508
+2026/01/07-10:34:41.524 1ca6 Level-0 table #514: started
+2026/01/07-10:34:41.569 1ca6 Level-0 table #514: 2838592 bytes OK
+2026/01/07-10:34:41.575 1ca6 Delete type=0 #511
+2026/01/07-11:03:04.243 1ca6 Level-0 table #516: started
+2026/01/07-11:03:04.290 1ca6 Level-0 table #516: 2976629 bytes OK
+2026/01/07-11:03:04.295 1ca6 Delete type=0 #513
+2026/01/07-11:04:47.409 1ca6 Level-0 table #518: started
+2026/01/07-11:04:47.559 1ca6 Level-0 table #518: 4081914 bytes OK
+2026/01/07-11:04:47.564 1ca6 Delete type=0 #515
+2026/01/07-11:04:47.565 1ca6 Compacting 4@0 + 1@1 files
+2026/01/07-11:04:47.621 1ca6 Generated table #519@0: 9 keys, 1352987 bytes
+2026/01/07-11:04:47.621 1ca6 Compacted 4@0 + 1@1 files => 1352987 bytes
+2026/01/07-11:04:47.624 1ca6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/07-11:04:47.625 1ca6 Delete type=2 #518
+2026/01/07-11:04:47.625 1ca6 Delete type=2 #514
+2026/01/07-11:04:47.625 1ca6 Delete type=2 #516
+2026/01/07-11:04:47.625 1ca6 Delete type=2 #512
+2026/01/07-11:04:47.625 1ca6 Delete type=2 #510
+2026/01/07-11:40:19.291 1ca6 Level-0 table #521: started
+2026/01/07-11:40:19.363 1ca6 Level-0 table #521: 2838857 bytes OK
+2026/01/07-11:40:19.369 1ca6 Delete type=0 #517
+2026/01/07-11:59:01.357 1ca6 Level-0 table #523: started
+2026/01/07-11:59:01.369 1ca6 Level-0 table #523: 686421 bytes OK
+2026/01/07-11:59:01.374 1ca6 Delete type=0 #520
+2026/01/07-12:04:49.996 1ca6 Level-0 table #525: started
+2026/01/07-12:04:50.047 1ca6 Level-0 table #525: 2922142 bytes OK
+2026/01/07-12:04:50.052 1ca6 Delete type=0 #522
+2026/01/07-12:24:21.884 1ca6 Level-0 table #527: started
+2026/01/07-12:24:21.902 1ca6 Level-0 table #527: 653885 bytes OK
+2026/01/07-12:24:21.908 1ca6 Delete type=0 #524
+2026/01/07-12:24:21.909 1ca6 Compacting 4@0 + 1@1 files
+2026/01/07-12:24:21.996 1ca6 Generated table #528@0: 9 keys, 1353128 bytes
+2026/01/07-12:24:21.996 1ca6 Compacted 4@0 + 1@1 files => 1353128 bytes
+2026/01/07-12:24:21.999 1ca6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/07-12:24:21.999 1ca6 Delete type=2 #523
+2026/01/07-12:24:22.000 1ca6 Delete type=2 #521
+2026/01/07-12:24:22.000 1ca6 Delete type=2 #527
+2026/01/07-12:24:22.000 1ca6 Delete type=2 #525
+2026/01/07-12:24:22.000 1ca6 Delete type=2 #519
+2026/01/07-12:34:50.775 1ca6 Level-0 table #530: started
+2026/01/07-12:34:50.857 1ca6 Level-0 table #530: 4134083 bytes OK
+2026/01/07-12:34:50.861 1ca6 Delete type=0 #526
+2026/01/07-13:00:23.501 1ca6 Level-0 table #532: started
+2026/01/07-13:00:23.523 1ca6 Level-0 table #532: 4136305 bytes OK
+2026/01/07-13:00:23.526 1ca6 Delete type=0 #529
+2026/01/07-13:24:11.465 1ca6 Level-0 table #534: started
+2026/01/07-13:24:11.486 1ca6 Level-0 table #534: 656331 bytes OK
+2026/01/07-13:24:11.491 1ca6 Delete type=0 #531
+2026/01/07-14:00:21.160 1ca6 Level-0 table #536: started
+2026/01/07-14:00:21.195 1ca6 Level-0 table #536: 4083605 bytes OK
+2026/01/07-14:00:21.198 1ca6 Delete type=0 #533
+2026/01/07-14:00:21.199 1ca6 Compacting 4@0 + 1@1 files
+2026/01/07-14:00:21.265 1ca6 Generated table #537@0: 9 keys, 1353095 bytes
+2026/01/07-14:00:21.265 1ca6 Compacted 4@0 + 1@1 files => 1353095 bytes
+2026/01/07-14:00:21.269 1ca6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/07-14:00:21.269 1ca6 Delete type=2 #530
+2026/01/07-14:00:21.269 1ca6 Delete type=2 #536
+2026/01/07-14:00:21.270 1ca6 Delete type=2 #534
+2026/01/07-14:00:21.270 1ca6 Delete type=2 #528
+2026/01/07-14:00:21.270 1ca6 Delete type=2 #532
+2026/01/07-14:30:21.953 1ca6 Level-0 table #539: started
+2026/01/07-14:30:21.992 1ca6 Level-0 table #539: 2866327 bytes OK
+2026/01/07-14:30:21.997 1ca6 Delete type=0 #535
+2026/01/07-15:00:22.962 1ca4 Level-0 table #541: started
+2026/01/07-15:00:23.031 1ca4 Level-0 table #541: 4080686 bytes OK
+2026/01/07-15:00:23.035 1ca4 Delete type=0 #538
+2026/01/07-15:14:32.138 1ca6 Level-0 table #543: started
+2026/01/07-15:14:32.185 1ca6 Level-0 table #543: 2841635 bytes OK
+2026/01/07-15:14:32.189 1ca6 Delete type=0 #540
+2026/01/07-15:30:23.827 1ca6 Level-0 table #545: started
+2026/01/07-15:30:23.861 1ca6 Level-0 table #545: 1789277 bytes OK
+2026/01/07-15:30:23.865 1ca6 Delete type=0 #542
+2026/01/07-15:30:23.866 1ca6 Compacting 4@0 + 1@1 files
+2026/01/07-15:30:23.921 1ca6 Generated table #546@0: 9 keys, 1352076 bytes
+2026/01/07-15:30:23.921 1ca6 Compacted 4@0 + 1@1 files => 1352076 bytes
+2026/01/07-15:30:23.923 1ca6 compacted to: files[ 0 1 1 0 0 0 0 ]

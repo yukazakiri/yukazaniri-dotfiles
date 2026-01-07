@@ -1,0 +1,181 @@
+2026-01-05 14:31:21.173 [info] Activating Laravel Extension...
+2026-01-05 14:31:21.173 [info] Started
+2026-01-05 14:31:21.173 [info] Checking herd PHP installation: herd which-php
+2026-01-05 14:31:21.173 [info] Checking valet PHP installation: valet which-php
+2026-01-05 14:31:21.173 [info] Checking sail PHP installation: ./vendor/bin/sail ps
+2026-01-05 14:31:21.173 [info] Using sail PHP installation: NAME      IMAGE     COMMAND   SERVICE   CREATED   STATUS    PORTS
+2026-01-05 14:31:21.173 [error] Error:
+ App Bindings
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] ./vendor/bin/sail php "vendor/_laravel_ide/discover-31b934f114eabc246b541addb8b458e3.php"
+2026-01-05 14:31:21.173 [error] App Bindings
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] Error:
+ Auth Data
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] ./vendor/bin/sail php "vendor/_laravel_ide/discover-f613d6a3d267805582334742522e87f1.php"
+2026-01-05 14:31:21.173 [error] Auth Data
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] Error:
+ HTTP Routes
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] ./vendor/bin/sail php "vendor/_laravel_ide/discover-af6a300c8cbdb761fde4dbad46137744.php"
+2026-01-05 14:31:21.173 [error] HTTP Routes
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] Error:
+ Configs
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] ./vendor/bin/sail php "vendor/_laravel_ide/discover-6d96201ad95cad12367117063c707ebf.php"
+2026-01-05 14:31:21.173 [error] Configs
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] Error:
+ 
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] ./vendor/bin/sail php "vendor/_laravel_ide/discover-b2238725d3a9b1f49ec262da9e63ff86.php"
+2026-01-05 14:31:21.173 [error] Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] Error:
+ 
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] ./vendor/bin/sail php "vendor/_laravel_ide/discover-6fd83ab5fb3f0a7e73c08ddae18f9934.php"
+2026-01-05 14:31:21.173 [error] Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] Error:
+ Middlewares
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] ./vendor/bin/sail php "vendor/_laravel_ide/discover-f5442aeac73a6a9021bd7ce113d6a606.php"
+2026-01-05 14:31:21.173 [error] Middlewares
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] Error:
+ Translations
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] ./vendor/bin/sail php "vendor/_laravel_ide/discover-d7e0bf33adda1a48ff4c9bdab757e083.php"
+2026-01-05 14:31:21.173 [error] Translations
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] Error:
+ Eloquent Attributes and Relations
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] ./vendor/bin/sail php "vendor/_laravel_ide/discover-b1616d15ee4cfadba2124f72622cf216.php"
+2026-01-05 14:31:21.173 [error] Eloquent Attributes and Relations
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] Error:
+ 
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] ./vendor/bin/sail php "vendor/_laravel_ide/discover-f6c2bb05e77ee582c501379f6998f2c4.php"
+2026-01-05 14:31:21.173 [error] Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] Error:
+ Paths
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] ./vendor/bin/sail php "vendor/_laravel_ide/discover-5802e590a92e23606bb54d2909564178.php"
+2026-01-05 14:31:21.173 [error] Paths
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] Error:
+ Custom Blade Directives
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] ./vendor/bin/sail php "vendor/_laravel_ide/discover-7563160ca998bde672640aa1e68dfd08.php"
+2026-01-05 14:31:21.173 [error] Custom Blade Directives
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] Error:
+ 
+
+Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:31:21.173 [error] ./vendor/bin/sail php "vendor/_laravel_ide/discover-476fe65492650d7ce55de1f8f96024c5.php"
+2026-01-05 14:31:21.173 [error] Sail is not running.
+
+You may Sail using the following commands: './vendor/bin/sail up' or './vendor/bin/sail up -d'
+
+2026-01-05 14:39:35.450 [info] Stopped

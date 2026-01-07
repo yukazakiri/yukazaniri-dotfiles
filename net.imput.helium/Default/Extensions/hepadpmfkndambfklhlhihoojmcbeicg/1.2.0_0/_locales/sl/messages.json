@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Dodaj med priljubljene"
+   },
+   "basic_font": {
+      "message": "Ta pisava je že nameščena na računalnikih Windows in Mac. Prenos za vašo spletno stran ni potreben."
+   },
+   "chrome_limitations": {
+      "message": "Nekatere tehnične omejitve preprečujejo delovanje razširitve na straneh Chrome Web Store ali nastavitvenih straneh Chroma."
+   },
+   "clear": {
+      "message": "Izprazni seznam"
+   },
+   "contact_us": {
+      "message": "Kontaktirajte nas"
+   },
+   "copy": {
+      "message": "Kopiraj"
+   },
+   "download": {
+      "message": "Prenesi"
+   },
+   "extDescription": {
+      "message": "Font finder je lahka razširitev, ki vam omogoča iskanje pisave besedila na zaslonu."
+   },
+   "extName": {
+      "message": "Font finder - Poišči pisavo besedila"
+   },
+   "favorites": {
+      "message": "Priljubljeni"
+   },
+   "link": {
+      "message": "Povezava"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Več.."
+   },
+   "pick_color_button": {
+      "message": "Poišči pisavo na strani"
+   },
+   "rating": {
+      "message": "Ocenite razširitev"
+   },
+   "recent": {
+      "message": "Nedavni"
+   },
+   "remove_from_favorites": {
+      "message": "Odstrani iz priljubljenih"
+   },
+   "report_bug": {
+      "message": "Prijavi napako"
+   },
+   "settings": {
+      "message": "Nastavitve"
+   },
+   "settings_auto_copy": {
+      "message": "Samodejno kopiraj ime pisave"
+   },
+   "settings_keep_history": {
+      "message": "Shrani nedavne pisave"
+   },
+   "settings_shortcut": {
+      "message": "Nastavi bližnjico na tipkovnici"
+   }
+}

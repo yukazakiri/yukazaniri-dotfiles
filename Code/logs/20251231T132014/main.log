@@ -1,0 +1,34 @@
+2025-12-31 13:20:14.879 [info] update#setState idle
+2025-12-31 13:20:33.479 [error] #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/994fd12f8d3a5aa16f17d42c041e5809167e845a - error undefined net::ERR_NETWORK_CHANGED
+2025-12-31 13:20:33.481 [error] update#isLatestVersion(): failed to check for updates
+2025-12-31 13:20:33.482 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:124722)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2025-12-31 13:20:44.886 [info] update#setState checking for updates
+2025-12-31 13:20:45.585 [info] update#setState idle
+2025-12-31 14:20:44.895 [info] update#setState checking for updates
+2025-12-31 14:20:45.746 [info] update#setState idle
+2025-12-31 15:20:44.916 [info] update#setState checking for updates
+2025-12-31 15:20:45.625 [info] update#setState idle
+2025-12-31 16:20:44.925 [info] update#setState checking for updates
+2025-12-31 16:20:44.940 [error] #6: https://update.code.visualstudio.com/api/update/linux-x64/stable/994fd12f8d3a5aa16f17d42c041e5809167e845a?bg=true - error undefined net::ERR_NAME_NOT_RESOLVED
+2025-12-31 16:20:44.943 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:124722)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2025-12-31 16:20:44.944 [info] update#setState idle
+2025-12-31 17:20:46.950 [info] update#setState checking for updates
+2025-12-31 17:20:46.963 [error] #7: https://update.code.visualstudio.com/api/update/linux-x64/stable/994fd12f8d3a5aa16f17d42c041e5809167e845a?bg=true - error undefined net::ERR_NAME_NOT_RESOLVED
+2025-12-31 17:20:46.964 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:124722)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2025-12-31 17:20:46.964 [info] update#setState idle
+2025-12-31 18:20:45.715 [info] update#setState checking for updates
+2025-12-31 18:20:45.729 [error] #8: https://update.code.visualstudio.com/api/update/linux-x64/stable/994fd12f8d3a5aa16f17d42c041e5809167e845a?bg=true - error undefined net::ERR_NAME_NOT_RESOLVED
+2025-12-31 18:20:45.730 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:124722)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2025-12-31 18:20:45.730 [info] update#setState idle
+2025-12-31 19:20:44.899 [info] update#setState checking for updates
+2025-12-31 19:20:45.327 [info] update#setState idle
+2025-12-31 20:20:44.903 [info] update#setState checking for updates
+2025-12-31 20:20:46.176 [info] update#setState idle

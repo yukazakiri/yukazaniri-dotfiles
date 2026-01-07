@@ -1,0 +1,55 @@
+2026-01-07 09:24:30.755 [info] Started local extension host with pid 73019.
+2026-01-07 09:24:30.898 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-07 09:24:30.899 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-07 09:24:30.900 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-07 09:24:30.901 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-07 09:24:30.901 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-07 09:24:30.902 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-07 09:24:30.902 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-07 09:24:31.358 [warning] No search provider registered for scheme: file, waiting
+2026-01-07 09:24:33.194 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-07 09:24:33.564 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-07 09:24:33.824 [error] [Extension Host] (node:73019) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-01-07 09:24:33.836 [error] [Extension Host] (node:73019) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-01-07 09:24:33.908 [error] [Extension Host] /bin/sh: line 1: herd: command not found
+2026-01-07 09:24:33.911 [error] [Extension Host] /bin/sh: line 1: valet: command not found
+2026-01-07 09:24:36.252 [info] Auto updating outdated extensions. github.copilot-chat
+2026-01-07 09:24:38.336 [error] chatParticipant must be declared in package.json: claude-code
+2026-01-07 09:24:38.393 [error] Failed to fetch MCP registry providers Server returned 404
+2026-01-07 09:24:38.478 [error] [Extension Host] [ProcessDetector] Attempt 1 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-07 09:24:39.051 [error] [Extension Host] [ProcessDetector] Attempt 2 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-07 09:24:40.166 [error] [Extension Host] [ProcessDetector] Attempt 3 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-07 09:24:41.069 [info] [perf] Render performance baseline is 28ms
+2026-01-07 11:26:47.178 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2026-01-07 11:26:47.183 [error] [File Watcher (universal)] restarting watcher after unexpected error: terminated by itself unexpectedly with code 15, signal: unknown (ETERM)
+2026-01-07 11:26:47.245 [error] Extension host (LocalProcess pid: 73019) terminated unexpectedly. The following extensions were running: MehediDracula.php-namespace-resolver, vscode.github-authentication, vscode.git-base, vscode.emmet, vscode.php-language-features, bmewburn.vscode-intelephense-client, laravel.vscode-laravel, GitHub.copilot-chat, vscode.git, vscode.github, vscode.terminal-suggest, vscode.npm, ms-vscode-remote.remote-containers, vscode.microsoft-authentication, vscode.debug-auto-launch, vscode.merge-conflict, alexdauenhauer.catppuccin-noctis-icons, asierdev.antigravity-quota-viewer, n2ns.antigravity-panel, vscode.configuration-editing, vscode.json-language-features, vscode.typescript-language-features, vscode.extension-editing, vscode.css-language-features, christian-kohler.npm-intellisense
+2026-01-07 11:26:47.247 [info] Automatically restarting the extension host.
+2026-01-07 11:26:47.425 [info] Started local extension host with pid 279763.

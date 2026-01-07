@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Agregar a favoritos"
+   },
+   "basic_font": {
+      "message": "Esta fuente ya está instalada en computadoras Windows y Mac. No es necesario descargarla para tu sitio."
+   },
+   "chrome_limitations": {
+      "message": "Algunas limitaciones técnicas impiden que la extensión funcione en las páginas de Chrome Web Store o en las páginas de configuración de Chrome."
+   },
+   "clear": {
+      "message": "Vaciar la lista"
+   },
+   "contact_us": {
+      "message": "Contáctanos"
+   },
+   "copy": {
+      "message": "Copiar"
+   },
+   "download": {
+      "message": "Descargar"
+   },
+   "extDescription": {
+      "message": "Font finder es una extensión ligera que te permite encontrar la fuente de un texto en pantalla."
+   },
+   "extName": {
+      "message": "Font finder - Encontrar la fuente de un texto"
+   },
+   "favorites": {
+      "message": "Favoritos"
+   },
+   "link": {
+      "message": "Enlace"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Más.."
+   },
+   "pick_color_button": {
+      "message": "Encontrar una fuente en la página"
+   },
+   "rating": {
+      "message": "Calificar la extensión"
+   },
+   "recent": {
+      "message": "Recientes"
+   },
+   "remove_from_favorites": {
+      "message": "Quitar de favoritos"
+   },
+   "report_bug": {
+      "message": "Reportar un error"
+   },
+   "settings": {
+      "message": "Configuración"
+   },
+   "settings_auto_copy": {
+      "message": "Copiar automáticamente el nombre de la fuente"
+   },
+   "settings_keep_history": {
+      "message": "Guardar fuentes recientes"
+   },
+   "settings_shortcut": {
+      "message": "Definir un atajo de teclado"
+   }
+}

@@ -1,0 +1,132 @@
+/**
+ * @name ii-niri Material
+ * @description Material Design Discord theme with Material You colors.
+ * @author refact0r (system24 base), ii-niri (Material adaptation)
+ * @version 2.2.0
+ * @source https://github.com/end-4/ii-niri
+ */
+
+/*
+ * Base theme import:
+ * - Prefer a local copy if present (more reliable on flaky networks / CSP).
+ * - Keep the remote import as fallback.
+ */
+@import url('system24.local.css');
+@import url('https://refact0r.github.io/system24/build/system24.css');
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700&display=swap');
+
+body {
+    --font: 'Oxanium';
+    --code-font: 'Oxanium';
+    font-weight: 400;
+    letter-spacing: -0.02ch;
+    --gap: 12px;
+    --divider-thickness: 4px;
+    --border-thickness: 2px;
+    --border-hover-transition: 0.2s ease;
+    --animations: on;
+    --list-item-transition: 0.2s ease;
+    --dms-icon-svg-transition: 0.4s ease;
+    --top-bar-height: 36px;
+    --top-bar-button-position: off;
+    --top-bar-title-position: off;
+    --subtle-top-bar-title: off;
+    --custom-window-controls: off;
+    --window-control-size: 14px;
+    --custom-dms-icon: off;
+    --dms-icon-svg-size: 90%;
+    --dms-icon-color-before: var(--text-0);
+    --dms-icon-color-after: var(--text-0);
+    --custom-dms-background: color;
+    --dms-background-color: var(--accent-2);
+    --background-image: off;
+    --transparency-tweaks: off;
+    --remove-bg-layer: off;
+    --panel-blur: off;
+    --blur-amount: 0px;
+    --bg-floating: var(--bg-1);
+    --small-user-panel: on;
+    --unrounding: off;
+    --custom-spotify-bar: on;
+    --ascii-titles: off;
+    --ascii-loader: off;
+    --panel-labels: off;
+    --label-color: var(--text-4);
+    --label-font-weight: 500;
+}
+
+/* Material You Palette - Auto-generated */
+:root, :root:root, body, #app-mount {
+    --accent-1: #d9e8ff;
+    --accent-2: #a6c8ff;
+    --accent-3: #8cb8ff;
+    --accent-4: #73a8ff;
+    --accent-5: #5a99ff;
+    --accent-new: #a6c8ff;
+    --active: rgba(166, 200, 255, 0.20);
+    --active-2: rgba(166, 200, 255, 0.30);
+    --bg-1: #2a2a2a;
+    --bg-2: #1f1f1f;
+    --bg-3: #1b1b1b;
+    --bg-4: #131313;
+    --bg-floating: #353535;
+    --blue-1: #eef1f6;
+    --blue-2: #d7ddea;
+    --blue-3: #bcc7dc;
+    --blue-4: #a1b1ce;
+    --blue-5: #8a9dc2;
+    --border: rgba(145, 145, 145, 0.30);
+    --border-hover: #a6c8ff;
+    --border-light: rgba(145, 145, 145, 0.15);
+    --brand-360: #cfe1ff;
+    --brand-400: #bad5ff;
+    --brand-500: #a6c8ff;
+    --brand-560: #87b5ff;
+    --brand-600: #69a2ff;
+    --button-border: rgba(145, 145, 145, 0.12);
+    --colors: on;
+    --dnd: #ffb4ab;
+    --green-1: #f8f2f9;
+    --green-2: #ead9ee;
+    --green-3: #dabde2;
+    --green-4: #caa1d6;
+    --green-5: #bc88cb;
+    --hover: rgba(166, 200, 255, 0.10);
+    --idle: #bcc7dc;
+    --mention: linear-gradient(to right, color-mix(in hsl, #a6c8ff, transparent 70%) 40%, transparent);
+    --mention-hover: linear-gradient(to right, color-mix(in hsl, #a6c8ff, transparent 85%) 40%, transparent);
+    --message-hover: rgba(166, 200, 255, 0.08);
+    --offline: #c6c6c6;
+    --online: #dabde2;
+    --orange-1: #f8f8fc;
+    --orange-2: #dedff2;
+    --orange-3: #c1c2e6;
+    --orange-4: #a4a5da;
+    --orange-5: #8a8cd0;
+    --purple-1: #f0f4fc;
+    --purple-2: #d2e0f5;
+    --purple-3: #b1c8ee;
+    --purple-4: #90b0e7;
+    --purple-5: #729ce0;
+    --red-1: #fff8f7;
+    --red-2: #ffd8d4;
+    --red-3: #ffb4ab;
+    --red-4: #ff9082;
+    --red-5: #ff705e;
+    --reply: linear-gradient(to right, color-mix(in hsl, #c6c6c6, transparent 85%) 40%, transparent);
+    --reply-hover: linear-gradient(to right, color-mix(in hsl, #c6c6c6, transparent 92%) 40%, transparent);
+    --streaming: #eee0f2;
+    --text-0: #00315f;
+    --text-1: #e2e2e2;
+    --text-2: #dcdcdc;
+    --text-3: #d7d7d7;
+    --text-4: #c6c6c6;
+    --text-5: #919191;
+    --yellow-1: #ffffff;
+    --yellow-2: #f1f4fd;
+    --yellow-3: #cdd7f9;
+    --yellow-4: #a9baf5;
+    --yellow-5: #89a0f1;
+}
+
+/* Material Design System */

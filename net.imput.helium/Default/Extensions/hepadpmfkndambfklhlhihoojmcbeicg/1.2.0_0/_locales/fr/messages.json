@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Ajouter aux favoris"
+   },
+   "basic_font": {
+      "message": "Cette police est déjà installée sur les ordinateurs Windows et Mac. Pas besoin de la télécharger pour votre site."
+   },
+   "chrome_limitations": {
+      "message": "Certaines limitations techniques empèchent l'extension de fonctionner sur les pages Chrome Web Store ou les pages de configuration de Chrome."
+   },
+   "clear": {
+      "message": "Vider la liste"
+   },
+   "contact_us": {
+      "message": "Contactez-nous"
+   },
+   "copy": {
+      "message": "Copier"
+   },
+   "download": {
+      "message": "Télécharger"
+   },
+   "extDescription": {
+      "message": "Font finder est une extension légère qui vous permet de trouver la police d'un texte à l'écran."
+   },
+   "extName": {
+      "message": "Trouver la police d'un texte"
+   },
+   "favorites": {
+      "message": "Favoris"
+   },
+   "link": {
+      "message": "Lien"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Plus.."
+   },
+   "pick_color_button": {
+      "message": "Trouver une police sur la page"
+   },
+   "rating": {
+      "message": "Notez l'extension"
+   },
+   "recent": {
+      "message": "Récents"
+   },
+   "remove_from_favorites": {
+      "message": "Retirer des favoris"
+   },
+   "report_bug": {
+      "message": "Signaler un bug"
+   },
+   "settings": {
+      "message": "Paramètres"
+   },
+   "settings_auto_copy": {
+      "message": "Copier automatiquement le nom de la police"
+   },
+   "settings_keep_history": {
+      "message": "Sauvegarder les polices récentes"
+   },
+   "settings_shortcut": {
+      "message": "Définir un raccourci clavier"
+   }
+}

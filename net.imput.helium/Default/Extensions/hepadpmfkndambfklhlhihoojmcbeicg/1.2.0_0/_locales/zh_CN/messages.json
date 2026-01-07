@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "添加到收藏夹"
+   },
+   "basic_font": {
+      "message": "此字体已安装在 Windows 和 Mac 电脑上。无需为您的网站下载。"
+   },
+   "chrome_limitations": {
+      "message": "某些技术限制导致扩展无法在 Chrome 网上应用店或 Chrome 设置页面上运行。"
+   },
+   "clear": {
+      "message": "清空列表"
+   },
+   "contact_us": {
+      "message": "联系我们"
+   },
+   "copy": {
+      "message": "复制"
+   },
+   "download": {
+      "message": "下载"
+   },
+   "extDescription": {
+      "message": "Font finder 是一款轻量级扩展，帮助您识别屏幕上的文本字体。"
+   },
+   "extName": {
+      "message": "Font finder - 查找文本字体"
+   },
+   "favorites": {
+      "message": "收藏夹"
+   },
+   "link": {
+      "message": "链接"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "更多.."
+   },
+   "pick_color_button": {
+      "message": "查找页面字体"
+   },
+   "rating": {
+      "message": "评价扩展"
+   },
+   "recent": {
+      "message": "最近"
+   },
+   "remove_from_favorites": {
+      "message": "从收藏夹中移除"
+   },
+   "report_bug": {
+      "message": "报告错误"
+   },
+   "settings": {
+      "message": "设置"
+   },
+   "settings_auto_copy": {
+      "message": "自动复制字体名称"
+   },
+   "settings_keep_history": {
+      "message": "保存最近使用的字体"
+   },
+   "settings_shortcut": {
+      "message": "设置快捷键"
+   }
+}

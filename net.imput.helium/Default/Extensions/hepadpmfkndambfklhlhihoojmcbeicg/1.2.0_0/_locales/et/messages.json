@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Lisa lemmikutesse"
+   },
+   "basic_font": {
+      "message": "See font on juba Windowsi ja Maci arvutites olemas. Pole vaja oma saidile alla laadida."
+   },
+   "chrome_limitations": {
+      "message": "Teatud tehnilised piirangud takistavad laienduse töötamist Chrome'i veebipoe või Chrome'i seadete lehtedel."
+   },
+   "clear": {
+      "message": "Tühjenda nimekiri"
+   },
+   "contact_us": {
+      "message": "Võta meiega ühendust"
+   },
+   "copy": {
+      "message": "Kopeeri"
+   },
+   "download": {
+      "message": "Laadi alla"
+   },
+   "extDescription": {
+      "message": "Font finder on kerge laiendus, mis võimaldab leida ekraanil oleva teksti fondi."
+   },
+   "extName": {
+      "message": "Font finder - Leidke teksti font"
+   },
+   "favorites": {
+      "message": "Lemmikud"
+   },
+   "link": {
+      "message": "Link"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Rohkem.."
+   },
+   "pick_color_button": {
+      "message": "Leia lehelt font"
+   },
+   "rating": {
+      "message": "Hinda laiendust"
+   },
+   "recent": {
+      "message": "Hiljutised"
+   },
+   "remove_from_favorites": {
+      "message": "Eemalda lemmikutest"
+   },
+   "report_bug": {
+      "message": "Teata veast"
+   },
+   "settings": {
+      "message": "Seaded"
+   },
+   "settings_auto_copy": {
+      "message": "Kopeeri automaatselt fondi nimi"
+   },
+   "settings_keep_history": {
+      "message": "Salvesta hiljutised fondid"
+   },
+   "settings_shortcut": {
+      "message": "Määra kiirklahv"
+   }
+}

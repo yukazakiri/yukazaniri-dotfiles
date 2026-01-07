@@ -1,0 +1,21 @@
+2026/01/06-16:01:58.769 54db8 Reusing MANIFEST /home/admin/.config/net.imput.helium/Default/Local Extension Settings/ghmbeldphafepmbegfdlkpapadhbakde/MANIFEST-000001
+2026/01/06-16:01:58.769 54db8 Recovering log #484
+2026/01/06-16:01:58.778 54db8 Reusing old log /home/admin/.config/net.imput.helium/Default/Local Extension Settings/ghmbeldphafepmbegfdlkpapadhbakde/000484.log 
+2026/01/06-16:02:02.204 54db8 Level-0 table #488: started
+2026/01/06-16:02:02.245 54db8 Level-0 table #488: 3998594 bytes OK
+2026/01/06-16:02:02.248 54db8 Delete type=0 #484
+2026/01/06-16:02:09.471 54db8 Level-0 table #490: started
+2026/01/06-16:02:09.561 54db8 Level-0 table #490: 3971843 bytes OK
+2026/01/06-16:02:09.564 54db8 Delete type=0 #487
+2026/01/06-16:02:09.565 54db8 Compacting 4@0 + 1@1 files
+2026/01/06-16:02:09.649 54db8 Generated table #491@0: 9 keys, 1353597 bytes
+2026/01/06-16:02:09.649 54db8 Compacted 4@0 + 1@1 files => 1353597 bytes
+2026/01/06-16:02:09.652 54db8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/06-16:02:09.652 54db8 Delete type=2 #490
+2026/01/06-16:02:09.652 54db8 Delete type=2 #481
+2026/01/06-16:02:09.652 54db8 Delete type=2 #483
+2026/01/06-16:02:09.652 54db8 Delete type=2 #488
+2026/01/06-16:02:09.652 54db8 Delete type=2 #485
+2026/01/06-16:32:08.316 54db8 Level-0 table #493: started
+2026/01/06-16:32:08.356 54db8 Level-0 table #493: 3006441 bytes OK
+2026/01/06-16:32:08.360 54db8 Delete type=0 #489

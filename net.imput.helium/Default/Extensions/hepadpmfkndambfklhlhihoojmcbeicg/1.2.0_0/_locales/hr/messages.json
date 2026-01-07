@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Dodaj u favorite"
+   },
+   "basic_font": {
+      "message": "Ovaj font je već instaliran na Windows i Mac računalima. Nema potrebe za preuzimanjem za vašu stranicu."
+   },
+   "chrome_limitations": {
+      "message": "Neka tehnička ograničenja sprječavaju rad ekstenzije na stranicama Chrome Web Store ili postavkama Chromea."
+   },
+   "clear": {
+      "message": "Isprazni popis"
+   },
+   "contact_us": {
+      "message": "Kontaktirajte nas"
+   },
+   "copy": {
+      "message": "Kopiraj"
+   },
+   "download": {
+      "message": "Preuzmi"
+   },
+   "extDescription": {
+      "message": "Font finder je lagana ekstenzija koja vam omogućuje pronalaženje fonta teksta na ekranu."
+   },
+   "extName": {
+      "message": "Font finder - Pronađi font teksta"
+   },
+   "favorites": {
+      "message": "Favoriti"
+   },
+   "link": {
+      "message": "Veza"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Više.."
+   },
+   "pick_color_button": {
+      "message": "Pronađi font na stranici"
+   },
+   "rating": {
+      "message": "Ocijenite ekstenziju"
+   },
+   "recent": {
+      "message": "Nedavno"
+   },
+   "remove_from_favorites": {
+      "message": "Ukloni iz favorita"
+   },
+   "report_bug": {
+      "message": "Prijavi bug"
+   },
+   "settings": {
+      "message": "Postavke"
+   },
+   "settings_auto_copy": {
+      "message": "Automatski kopiraj naziv fonta"
+   },
+   "settings_keep_history": {
+      "message": "Spremi nedavne fontove"
+   },
+   "settings_shortcut": {
+      "message": "Postavi tipkovnički prečac"
+   }
+}

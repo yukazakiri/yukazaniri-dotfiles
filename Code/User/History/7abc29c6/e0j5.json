@@ -1,0 +1,14 @@
+{
+    "containers.containerClient": "com.microsoft.visualstudio.containers.docker",
+    "containers.orchestratorClient": "com.microsoft.visualstudio.orchestrators.dockercompose",
+    "window.menuBarVisibility": "compact",
+    "workbench.navigationControl.enabled": false,
+    "window.commandCenter": false,
+    "chat.commandCenter.enabled": false
+,
+  "material-code.primaryColor": "#2569BA",
+  "workbench.colorTheme": "Catppuccin Noctis Latte",
+  "catppuccin-noctis-icons.hidesExplorerArrows": false,
+  "git.enableSmartCommit": true,
+  "git.autofetch": true
+}

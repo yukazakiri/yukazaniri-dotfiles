@@ -1,0 +1,259 @@
+[2025-12-25 07:28:16] [INFO] Antigravity Cockpit v1.5.34 - Systems Online
+[2025-12-25 07:28:16] [INFO] Scanning environment, max attempts: 3
+[2025-12-25 07:28:16] [INFO] Found 1 candidate process(es)
+[2025-12-25 07:28:16] [INFO] 🔍 Checking Process: PID=193925, ExtPort=35851
+[2025-12-25 07:28:16] [INFO] [UnixStrategy] Port command available: lsof
+[2025-12-25 07:28:16] [INFO] ✅ Connection Logic Verified: 34557
+[2025-12-25 07:28:16] [INFO] Reactor Engaged: :34557
+[2025-12-25 07:28:16] [INFO] Reactor Pulse: 120000ms
+[2025-12-25 07:28:16] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-25 07:28:16] [INFO] System boot successful
+[2025-12-25 07:28:16] [INFO] Antigravity Cockpit Fully Operational
+[2025-12-25 07:28:16] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6964
+}
+[2025-12-25 07:28:16] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 74.69%
+    Gemini 3 Pro (Low)           : 74.69%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 89.20%
+    Claude Sonnet 4.5 (Thinking) : 89.20%
+    Claude Opus 4.5 (Thinking)   : 89.20%
+    GPT-OSS 120B (Medium)        : 89.20%
+[2025-12-25 07:28:21] [INFO] Dashboard initialized (reprocessing cached data)
+[2025-12-25 07:28:21] [INFO] Reprocessing cached telemetry data with latest config
+[2025-12-25 07:30:16] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-25 07:30:16] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6964
+}
+[2025-12-25 07:30:16] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 74.69%
+    Gemini 3 Pro (Low)           : 74.69%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 89.20%
+    Claude Sonnet 4.5 (Thinking) : 89.20%
+    Claude Opus 4.5 (Thinking)   : 89.20%
+    GPT-OSS 120B (Medium)        : 89.20%
+[2025-12-25 07:32:16] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-25 07:32:16] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6964
+}
+[2025-12-25 07:32:16] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 74.69%
+    Gemini 3 Pro (Low)           : 74.69%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 89.20%
+    Claude Sonnet 4.5 (Thinking) : 89.20%
+    Claude Opus 4.5 (Thinking)   : 89.20%
+    GPT-OSS 120B (Medium)        : 89.20%
+[2025-12-25 07:34:16] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-25 07:34:16] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6964
+}
+[2025-12-25 07:34:16] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 74.69%
+    Gemini 3 Pro (Low)           : 74.69%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 79.20%
+    Claude Sonnet 4.5 (Thinking) : 79.20%
+    Claude Opus 4.5 (Thinking)   : 79.20%
+    GPT-OSS 120B (Medium)        : 79.20%
+[2025-12-25 07:36:16] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-25 07:36:16] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6964
+}
+[2025-12-25 07:36:16] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 74.69%
+    Gemini 3 Pro (Low)           : 74.69%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 79.20%
+    Claude Sonnet 4.5 (Thinking) : 79.20%
+    Claude Opus 4.5 (Thinking)   : 79.20%
+    GPT-OSS 120B (Medium)        : 79.20%
+[2025-12-25 07:38:16] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-25 07:38:16] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6964
+}
+[2025-12-25 07:38:16] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 74.69%
+    Gemini 3 Pro (Low)           : 74.69%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 79.20%
+    Claude Sonnet 4.5 (Thinking) : 79.20%
+    Claude Opus 4.5 (Thinking)   : 79.20%
+    GPT-OSS 120B (Medium)        : 79.20%
+[2025-12-25 07:40:16] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-25 07:40:16] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6960
+}
+[2025-12-25 07:40:16] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 74.69%
+    Gemini 3 Pro (Low)           : 74.69%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 78.00%
+    Claude Sonnet 4.5 (Thinking) : 78.00%
+    Claude Opus 4.5 (Thinking)   : 78.00%
+    GPT-OSS 120B (Medium)        : 78.00%
+[2025-12-25 07:42:16] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-25 07:42:16] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6960
+}
+[2025-12-25 07:42:16] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 74.69%
+    Gemini 3 Pro (Low)           : 74.69%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 78.00%
+    Claude Sonnet 4.5 (Thinking) : 78.00%
+    Claude Opus 4.5 (Thinking)   : 78.00%
+    GPT-OSS 120B (Medium)        : 78.00%
+[2025-12-25 07:44:16] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-25 07:44:16] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6960
+}
+[2025-12-25 07:44:16] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 74.69%
+    Gemini 3 Pro (Low)           : 74.69%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 78.00%
+    Claude Sonnet 4.5 (Thinking) : 78.00%
+    Claude Opus 4.5 (Thinking)   : 78.00%
+    GPT-OSS 120B (Medium)        : 78.00%
+[2025-12-25 07:46:16] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-25 07:46:16] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6960
+}
+[2025-12-25 07:46:16] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 72.19%
+    Gemini 3 Pro (Low)           : 72.19%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 78.00%
+    Claude Sonnet 4.5 (Thinking) : 78.00%
+    Claude Opus 4.5 (Thinking)   : 78.00%
+    GPT-OSS 120B (Medium)        : 78.00%
+[2025-12-25 07:48:16] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-25 07:48:16] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6960
+}
+[2025-12-25 07:48:16] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 72.19%
+    Gemini 3 Pro (Low)           : 72.19%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 78.00%
+    Claude Sonnet 4.5 (Thinking) : 78.00%
+    Claude Opus 4.5 (Thinking)   : 78.00%
+    GPT-OSS 120B (Medium)        : 78.00%
+[2025-12-25 07:50:16] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-25 07:50:16] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6960
+}
+[2025-12-25 07:50:16] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 72.19%
+    Gemini 3 Pro (Low)           : 72.19%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 78.00%
+    Claude Sonnet 4.5 (Thinking) : 78.00%
+    Claude Opus 4.5 (Thinking)   : 78.00%
+    GPT-OSS 120B (Medium)        : 78.00%
+[2025-12-25 07:52:16] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2025-12-25 07:52:16] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6958
+}
+[2025-12-25 07:52:16] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 68.13%
+    Gemini 3 Pro (Low)           : 68.13%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 78.00%
+    Claude Sonnet 4.5 (Thinking) : 78.00%
+    Claude Opus 4.5 (Thinking)   : 78.00%
+    GPT-OSS 120B (Medium)        : 78.00%

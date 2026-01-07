@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "பிடித்தவற்றில் சேர்க்கவும்"
+   },
+   "basic_font": {
+      "message": "இந்த எழுத்துரு Windows மற்றும் Mac கணினிகளில் ஏற்கனவே நிறுவப்பட்டுள்ளது. உங்கள் தளத்திற்காக இதைப் பதிவிறக்க தேவையில்லை."
+   },
+   "chrome_limitations": {
+      "message": "சில தொழில்நுட்ப வரம்புகள் Chrome Web Store பக்கங்கள் அல்லது Chrome அமைப்புப் பக்கங்களில் நீட்சியை செயல்படுவதில் தடையாக உள்ளன."
+   },
+   "clear": {
+      "message": "பட்டியலை காலி செய்யவும்"
+   },
+   "contact_us": {
+      "message": "எங்களை தொடர்பு கொள்ளவும்"
+   },
+   "copy": {
+      "message": "நகலெடுக்கவும்"
+   },
+   "download": {
+      "message": "பதிவிறக்கவும்"
+   },
+   "extDescription": {
+      "message": "Font finder என்பது உங்களுக்கு திரையில் உள்ள உரையின் எழுத்துருவை கண்டறிய உதவும் எளிய நீட்சியாகும்."
+   },
+   "extName": {
+      "message": "Font finder - உரை எழுத்துருவை கண்டறியவும்"
+   },
+   "favorites": {
+      "message": "பிடித்தவை"
+   },
+   "link": {
+      "message": "இணைப்பு"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "மேலும்.."
+   },
+   "pick_color_button": {
+      "message": "பக்கத்தில் எழுத்துருவை கண்டறியவும்"
+   },
+   "rating": {
+      "message": "நீட்சியை மதிப்பீடு செய்யவும்"
+   },
+   "recent": {
+      "message": "சமீபத்தியவை"
+   },
+   "remove_from_favorites": {
+      "message": "பிடித்தவற்றிலிருந்து நீக்கவும்"
+   },
+   "report_bug": {
+      "message": "பிழையை அறிவிக்கவும்"
+   },
+   "settings": {
+      "message": "அமைப்புகள்"
+   },
+   "settings_auto_copy": {
+      "message": "எழுத்துரு பெயரை தானாக நகலெடுக்கவும்"
+   },
+   "settings_keep_history": {
+      "message": "சமீபத்திய எழுத்துருக்களை சேமிக்கவும்"
+   },
+   "settings_shortcut": {
+      "message": "விரைவுக்குறியை அமைக்கவும்"
+   }
+}

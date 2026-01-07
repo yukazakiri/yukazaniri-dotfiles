@@ -1,0 +1,101 @@
+2025-12-22T01:15:24.246Z - info: [ui] [AppStore] loading 1 repositories from store
+2025-12-22T01:15:24.249Z - info: [ui] [AppStore] found account: yukazakiri (Yuka)
+2025-12-22T01:15:24.271Z - info: [ui] [BranchPruner] Last prune took place 10 hours ago - skipping
+2025-12-22T01:15:24.535Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.18.2-arch2-1)
+2025-12-22T01:15:24.536Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-12-22T01:15:25.504Z - info: [ui] Subscribed 'yukazakiri' to Alive channel
+2025-12-22T01:15:26.364Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at Op.repositoryWithRefreshedGitHubRepository (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4247:5)
+2025-12-22T01:15:26.781Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at Op.repositoryWithRefreshedGitHubRepository (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4247:5)
+2025-12-22T01:15:35.654Z - info: [ui] Executing clone: git -c init.defaultBranch=master clone --recursive --progress -- https://github.com/yukazakiri/sql-bac-manager.git /home/admin/Documents/GitHub/sql-bac-manager (took 1.793s)
+2025-12-22T01:15:35.668Z - info: [ui] [AppStore] adding repository at /home/admin/Documents/GitHub/sql-bac-manager to store
+2025-12-22T01:15:35.861Z - info: [ui] [BranchPruner] Last prune took place 10 hours ago - skipping
+2025-12-22T01:15:36.110Z - info: [ui] [BranchPruner] No branches to prune.
+2025-12-22T01:15:36.164Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-22T01:15:36.265Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at Op.repositoryWithRefreshedGitHubRepository (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4247:5)
+2025-12-22T01:15:36.660Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at Op.repositoryWithRefreshedGitHubRepository (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4247:5)
+2025-12-22T01:15:37.256Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 1.479s)
+2025-12-22T01:15:37.641Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-22T01:15:38.499Z - info: [ui] Executing updateRemoteHEAD: git remote set-head -a origin (took 1.241s)
+2025-12-22T01:15:38.968Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:5216:32
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+    at Op.performFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:5173:5)
+    at Cw.performAndScheduleFetch (/home/admin/webpack:/app/src/lib/stores/helpers/background-fetcher.ts:92:7)
+2025-12-22T01:15:39.378Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:5216:32
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+    at Op.performFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:5173:5)
+    at Cw.performAndScheduleFetch (/home/admin/webpack:/app/src/lib/stores/helpers/background-fetcher.ts:92:7)
+2025-12-22T01:20:13.596Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 3.0s of which 106.6s paused, total 109.6s
+2025-12-22T12:09:06.568Z - info: [ui] [AppStore] loading 2 repositories from store
+2025-12-22T12:09:06.575Z - info: [ui] [AppStore] found account: yukazakiri (Yuka)
+2025-12-22T12:09:06.623Z - info: [ui] [BranchPruner] Last prune took place 11 hours ago - skipping
+2025-12-22T12:09:07.174Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.18.2-arch2-1)
+2025-12-22T12:09:07.174Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-12-22T12:09:07.660Z - info: [ui] Subscribed 'yukazakiri' to Alive channel
+2025-12-22T12:09:10.518Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.6s of which 0.0s paused, total 0.6s
+2025-12-22T12:09:38.322Z - info: [ui] Executing clone: git -c init.defaultBranch=main clone --recursive --progress -- https://github.com/IT-CS-NC-Philex-Scholars/PhilexScholarV2.git /home/admin/Documents/GitHub/PhilexScholarV2 (took 9.048s)
+2025-12-22T12:09:38.333Z - info: [ui] [AppStore] adding repository at /home/admin/Documents/GitHub/PhilexScholarV2 to store
+2025-12-22T12:09:38.370Z - info: [ui] [BranchPruner] Last prune took place 11 hours ago - skipping
+2025-12-22T12:09:38.683Z - info: [ui] [BranchPruner] No branches to prune.
+2025-12-22T12:09:43.063Z - info: [ui] [BranchPruner] Last prune took place 5 seconds ago - skipping
+2025-12-22T12:14:49.722Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 1.728s)
+2025-12-22T12:14:51.848Z - info: [ui] Executing updateRemoteHEAD: git remote set-head -a origin (took 2.115s)
+2025-12-22T12:19:24.135Z - warn: [ui] failed fetching open PRs for repository IT-CS-NC-Philex-Scholars/PhilexScholarV2
+TypeError: Failed to fetch
+    at Ot (/home/admin/webpack:/app/src/lib/http.ts:152:10)
+    at Yn.request (/home/admin/webpack:/app/src/lib/api.ts:1749:28)
+    at Yn.fetchAll (/home/admin/webpack:/app/src/lib/api.ts:1719:45)
+    at Yn.fetchAllOpenPullRequests (/home/admin/webpack:/app/src/lib/api.ts:1142:25)
+    at sZ.constructor.fetchAndStoreOpenPullRequests (/home/admin/webpack:/app/src/lib/stores/pull-request-store.ts:110:28)
+    at sZ.constructor.fetchAndStorePullRequests (/home/admin/webpack:/app/src/lib/stores/pull-request-store.ts:99:19)
+    at Object.refreshPullRequests (/home/admin/webpack:/app/src/lib/stores/pull-request-coordinator.ts:158:45)
+2025-12-22T12:19:24.137Z - error: [ui] Error refreshing pull requests for 'IT-CS-NC-Philex-Scholars/PhilexScholarV2'
+TypeError: Failed to fetch
+    at Ot (/home/admin/webpack:/app/src/lib/http.ts:152:10)
+    at Yn.request (/home/admin/webpack:/app/src/lib/api.ts:1749:28)
+    at Yn.fetchAll (/home/admin/webpack:/app/src/lib/api.ts:1719:45)
+    at Yn.fetchAllOpenPullRequests (/home/admin/webpack:/app/src/lib/api.ts:1142:25)
+    at sZ.constructor.fetchAndStoreOpenPullRequests (/home/admin/webpack:/app/src/lib/stores/pull-request-store.ts:110:28)
+    at sZ.constructor.fetchAndStorePullRequests (/home/admin/webpack:/app/src/lib/stores/pull-request-store.ts:99:19)
+    at Object.refreshPullRequests (/home/admin/webpack:/app/src/lib/stores/pull-request-coordinator.ts:158:45)
+2025-12-22T12:24:12.958Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 1.9s of which 0.0s paused, total 1.9s
+2025-12-22T12:45:32.645Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 3.816s)
+2025-12-22T12:45:33.667Z - info: [ui] Executing updateRemoteHEAD: git remote set-head -a origin (took 1.017s)
+2025-12-22T12:45:34.798Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand upstream (took 1.129s)
+2025-12-22T13:16:23.012Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 1.161s)
+2025-12-22T13:28:26.502Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 2.1s of which 1484.4s paused, total 1486.5s
+2025-12-22T13:28:28.727Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 1.2s of which 0.0s paused, total 1.2s
+2025-12-22T13:47:00.734Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 1.643s)
+2025-12-22T13:47:03.372Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand upstream (took 1.633s)
+2025-12-22T14:17:39.894Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 1.228s)
+2025-12-22T14:17:42.025Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand upstream (took 1.127s)
+2025-12-22T14:17:43.148Z - info: [ui] Executing updateRemoteHEAD: git remote set-head -a upstream (took 1.121s)

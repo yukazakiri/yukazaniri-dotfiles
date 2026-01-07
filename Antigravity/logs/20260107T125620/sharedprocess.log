@@ -1,0 +1,71 @@
+2026-01-07 12:56:22.438 [info] Deleted marked for removal extension from disk fedaykindev.openchamber /home/admin/.antigravity/extensions/fedaykindev.openchamber-1.3.2-universal
+2026-01-07 12:56:29.147 [info] Getting Manifest... devsense.composer-php-vscode
+2026-01-07 12:56:29.147 [info] Getting Manifest... devsense.phptools-vscode
+2026-01-07 12:56:29.148 [info] Getting Manifest... devsense.profiler-php-vscode
+2026-01-07 12:56:29.149 [info] Getting Manifest... fedaykindev.openchamber
+2026-01-07 12:56:29.149 [info] Getting Manifest... sst-dev.opencode
+2026-01-07 12:56:30.046 [info] Installing extension: devsense.phptools-vscode {"productVersion":{"version":"1.104.0","date":"2025-12-19T21:03:14.401Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.antigravity/extensions/extensions.json","path":"/home/admin/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-07 12:56:30.056 [info] Installing extension: devsense.composer-php-vscode {"productVersion":{"version":"1.104.0","date":"2025-12-19T21:03:14.401Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.antigravity/extensions/extensions.json","path":"/home/admin/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-07 12:56:30.056 [info] Installing extension: devsense.profiler-php-vscode {"productVersion":{"version":"1.104.0","date":"2025-12-19T21:03:14.401Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.antigravity/extensions/extensions.json","path":"/home/admin/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-07 12:56:30.076 [info] Installing extension: sst-dev.opencode {"productVersion":{"version":"1.104.0","date":"2025-12-19T21:03:14.401Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.antigravity/extensions/extensions.json","path":"/home/admin/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-07 12:56:30.685 [info] Extracted extension to file:///home/admin/.antigravity/extensions/sst-dev.opencode-0.0.13-universal: sst-dev.opencode
+2026-01-07 12:56:30.688 [info] Renamed to /home/admin/.antigravity/extensions/sst-dev.opencode-0.0.13-universal
+2026-01-07 12:56:30.694 [info] Extracted extension to file:///home/admin/.antigravity/extensions/devsense.composer-php-vscode-1.64.18270-universal: devsense.composer-php-vscode
+2026-01-07 12:56:30.708 [info] Renamed to /home/admin/.antigravity/extensions/devsense.composer-php-vscode-1.64.18270-universal
+2026-01-07 12:56:30.709 [info] Extracted extension to file:///home/admin/.antigravity/extensions/devsense.profiler-php-vscode-1.64.18270-universal: devsense.profiler-php-vscode
+2026-01-07 12:56:30.724 [info] Marked extension as removed sst-dev.opencode-0.0.12-universal
+2026-01-07 12:56:30.732 [info] Extension installed successfully: sst-dev.opencode vscode-userdata:/home/admin/.antigravity/extensions/extensions.json
+2026-01-07 12:56:30.733 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at ea.value (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62540)
+    at D.C (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2373)
+    at D (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2443)
+    at D.fire (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2660)
+    at Nu.L (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10718)
+    at async Nu.installGalleryExtensions (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2499)
+    at async Nu.installFromGallery (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1748)
+2026-01-07 12:56:30.733 [info] Renamed to /home/admin/.antigravity/extensions/devsense.profiler-php-vscode-1.64.18270-universal
+2026-01-07 12:56:30.759 [info] Marked extension as removed devsense.composer-php-vscode-1.63.18172-universal
+2026-01-07 12:56:30.773 [info] Extension installed successfully: devsense.composer-php-vscode vscode-userdata:/home/admin/.antigravity/extensions/extensions.json
+2026-01-07 12:56:30.773 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at ea.value (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62540)
+    at D.C (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2373)
+    at D (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2443)
+    at D.fire (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2660)
+    at Nu.L (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10718)
+    at async Nu.installGalleryExtensions (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2499)
+    at async Nu.installFromGallery (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1748)
+2026-01-07 12:56:30.777 [info] Installing extension: fedaykindev.openchamber {"productVersion":{"version":"1.104.0","date":"2025-12-19T21:03:14.401Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.antigravity/extensions/extensions.json","path":"/home/admin/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-07 12:56:30.781 [info] Marked extension as removed devsense.profiler-php-vscode-1.63.18172-universal
+2026-01-07 12:56:30.818 [info] Extension installed successfully: devsense.profiler-php-vscode vscode-userdata:/home/admin/.antigravity/extensions/extensions.json
+2026-01-07 12:56:30.819 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at ea.value (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62540)
+    at D.C (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2373)
+    at D (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2443)
+    at D.fire (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2660)
+    at Nu.L (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10718)
+    at async Nu.installGalleryExtensions (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2499)
+    at async Nu.installFromGallery (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1748)
+2026-01-07 12:56:31.850 [info] Extracted extension to file:///home/admin/.antigravity/extensions/devsense.phptools-vscode-1.64.18270-linux-x64: devsense.phptools-vscode
+2026-01-07 12:56:31.854 [info] Renamed to /home/admin/.antigravity/extensions/devsense.phptools-vscode-1.64.18270-linux-x64
+2026-01-07 12:56:31.893 [info] Marked extension as removed devsense.phptools-vscode-1.63.18172-linux-x64
+2026-01-07 12:56:31.896 [info] Extension installed successfully: devsense.phptools-vscode vscode-userdata:/home/admin/.antigravity/extensions/extensions.json
+2026-01-07 12:56:31.896 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at ea.value (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62540)
+    at D.C (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2373)
+    at D (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2443)
+    at D.fire (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2660)
+    at Nu.L (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10718)
+    at async Nu.installGalleryExtensions (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2499)
+    at async Nu.installFromGallery (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1748)
+2026-01-07 12:56:33.251 [info] Extracted extension to file:///home/admin/.antigravity/extensions/fedaykindev.openchamber-1.4.3-universal: fedaykindev.openchamber
+2026-01-07 12:56:33.267 [info] Renamed to /home/admin/.antigravity/extensions/fedaykindev.openchamber-1.4.3-universal
+2026-01-07 12:56:33.279 [info] Marked extension as removed fedaykindev.openchamber-1.3.3-universal
+2026-01-07 12:56:33.288 [info] Extension installed successfully: fedaykindev.openchamber vscode-userdata:/home/admin/.antigravity/extensions/extensions.json
+2026-01-07 12:56:33.288 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at ea.value (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62540)
+    at D.C (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2373)
+    at D (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2443)
+    at D.fire (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2660)
+    at Nu.L (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10718)
+    at async Nu.installGalleryExtensions (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2499)
+    at async Nu.installFromGallery (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1748)

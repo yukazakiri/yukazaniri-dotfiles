@@ -1,0 +1,10 @@
+{
+  "applied": [
+    "001-gamemode-animation-toggle",
+    "002-backdrop-layer-rules",
+    "003-qt-theming-kde",
+    "004-audio-keybinds-ipc",
+    "006-close-confirm"
+  ],
+  "skipped": []
+}

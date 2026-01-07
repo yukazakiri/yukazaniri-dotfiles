@@ -1,0 +1,58 @@
+2026-01-06 14:00:21.487 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-01-06 14:00:21.487 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-01-06 14:00:21.487 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-01-06 14:00:21.487 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-01-06 14:00:22.374 [error] Copilot extension not found
+2026-01-06 14:00:22.469 [info] Using the Electron fetcher.
+2026-01-06 14:00:23.378 [info] Creating node-pty shim: source=/opt/visual-studio-code/resources/app/node_modules/node-pty/build/Release, dest=/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/node_modules/@github/copilot/prebuilds/linux-x64
+2026-01-06 14:00:23.378 [info] Creating ripgrep shim: source=/opt/visual-studio-code/resources/app/node_modules/@vscode/ripgrep/bin, dest=/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64
+2026-01-06 14:00:23.494 [info] Found 1 entries to copy: pty.node
+2026-01-06 14:00:23.495 [info] Found 1 entries to copy: rg
+2026-01-06 14:00:23.911 [info] Logged in as yukazakiri
+2026-01-06 14:00:25.220 [info] Got Copilot token for yukazakiri
+2026-01-06 14:00:25.220 [info] Copilot Chat: 0.35.2, VS Code: 1.107.1
+2026-01-06 14:00:25.237 [info] activationBlocker from 'languageModelAccess' took for 3045ms
+2026-01-06 14:00:25.610 [info] Logged in as yukazakiri
+2026-01-06 14:00:25.671 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-06 14:00:25.671 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-01-06 14:00:25.684 [info] Registering default platform agent...
+2026-01-06 14:00:25.686 [info] [code-referencing] Public code references are enabled.
+2026-01-06 14:00:25.686 [info] activationBlocker from 'conversationFeature' took for 3540ms
+2026-01-06 14:00:25.701 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-01-06 14:00:25.706 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-01-06 14:00:25.743 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-01-06 14:00:26.074 [info] Fetched model metadata in 3768ms 0aba5494-dedc-4acd-9ebb-46a657b3d002
+2026-01-06 14:00:26.166 [info] Got Copilot token for yukazakiri
+2026-01-06 14:00:26.166 [info] Copilot Chat: 0.35.2, VS Code: 1.107.1
+2026-01-06 14:00:26.177 [error] AbortError: This operation was aborted
+	at new DOMException (node:internal/per_context/domexception:76:18)
+	at AbortController.abort (node:internal/abort_controller:504:18)
+	at e7.value (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:2514:13579)
+	at Nt._deliver (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:920:2936)
+	at Nt.fire (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:920:3254)
+	at t7.cancel (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:920:4821)
+	at _i.cancel (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:920:5361)
+	at _i.dispose (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:920:5417)
+	at Object.dispose (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:2514:13181)
+	at Nb (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:918:695)
+	at n.clear (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:918:1527)
+	at n.dispose (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:918:1437)
+	at dC._run (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:937:4226)
+	at dC.endUpdate (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:937:4797)
+	at HM.finish (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:936:8797)
+	at $f (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:936:8185)
+	at l0e (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:936:8222)
+	at e7.handleEvent [as value] (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:937:14604)
+	at Nt._deliver (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:920:2936)
+	at Nt._deliverQueue (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:920:3025)
+	at Nt.fire (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:920:3359)
+	at set copilotToken (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:1054:1071)
+	at YX.getCopilotToken (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:1054:2482)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async YX._handleAuthChangeEvent (/home/admin/.vscode/extensions/github.copilot-chat-0.35.2/dist/extension.js:1054:3450): Failed to fetch model list
+2026-01-06 14:00:26.195 [info] Latest entry: ccreq:latest.copilotmd
+2026-01-06 14:00:26.196 [info] ccreq:97805fce.copilotmd | markdown
+2026-01-06 14:00:26.272 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2026-01-06 14:00:26.272 [info] [code-referencing] Public code references are enabled.
+2026-01-06 14:00:26.509 [info] Fetched model metadata in 238ms 2b05f0c1-97fe-4006-af3a-0bb78a2a13c5
+2026-01-06 14:00:26.512 [info] ccreq:03f72f72.copilotmd | markdown

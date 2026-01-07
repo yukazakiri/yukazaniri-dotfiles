@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "お気に入りに追加"
+   },
+   "basic_font": {
+      "message": "このフォントはWindowsとMacに既にインストールされています。サイト用にダウンロードする必要はありません。"
+   },
+   "chrome_limitations": {
+      "message": "技術的な制限により、ChromeウェブストアやChromeの設定ページでは拡張機能が動作しません。"
+   },
+   "clear": {
+      "message": "リストをクリア"
+   },
+   "contact_us": {
+      "message": "お問い合わせ"
+   },
+   "copy": {
+      "message": "コピー"
+   },
+   "download": {
+      "message": "ダウンロード"
+   },
+   "extDescription": {
+      "message": "Font finderは、画面上のテキストのフォントを見つけることができる軽量な拡張機能です。"
+   },
+   "extName": {
+      "message": "Font finder - テキストのフォントを見つける"
+   },
+   "favorites": {
+      "message": "お気に入り"
+   },
+   "link": {
+      "message": "リンク"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "もっと.."
+   },
+   "pick_color_button": {
+      "message": "ページ上のフォントを見つける"
+   },
+   "rating": {
+      "message": "拡張機能を評価"
+   },
+   "recent": {
+      "message": "最近"
+   },
+   "remove_from_favorites": {
+      "message": "お気に入りから削除"
+   },
+   "report_bug": {
+      "message": "バグを報告"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "settings_auto_copy": {
+      "message": "フォント名を自動コピー"
+   },
+   "settings_keep_history": {
+      "message": "最近のフォントを保存"
+   },
+   "settings_shortcut": {
+      "message": "キーボードショートカットを設定"
+   }
+}

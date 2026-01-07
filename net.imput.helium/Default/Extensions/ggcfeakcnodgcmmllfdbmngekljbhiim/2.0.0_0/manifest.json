@@ -1,0 +1,20 @@
+{
+   "action": {
+      "default_icon": "icons/icon19.png",
+      "default_popup": "browser_action.html",
+      "default_title": "oGraph Previewer"
+   },
+   "author": "Parthipan Natkunam",
+   "description": "A light-weight extension to preview the open graph tags ( og tags) of the page in your current tab",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkS+dXHSCC9w7GNLMV0eM2lnld/AR0WEW/GMGXIACosXZn/VZ5h7d62MfwUKSiO7g3adch5HOT30xpo36+aWax1aMZiDuxRiAM/eax4gV0XTKDpIuVyy1M2P4rykVNiBEZAvmwUR7f4E9AOgTc96CmnnrXVzL5CrY2UcNnWLfOrIkI+WXU48dYA9nnEI8I2n6w72f8PQvuuVP5dlYlBgPJLo2OFbE69gLz6SLZK0CJQ8d0AvMNvw5g1ePFnCyPeMJ+K3MfXDzZiXoYjNuTvul99aXlFAEhxgo1804ZeU3ddNA0aDfFxSzFMLqBu+SHtiVtajA+QUqZ8bUVSRMNYQxGwIDAQAB",
+   "manifest_version": 3,
+   "name": "OGraph Previewer",
+   "permissions": [ "scripting", "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.0"
+}

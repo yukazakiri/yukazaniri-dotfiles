@@ -1,0 +1,7 @@
+2026-01-06 10:48:51.088 [info] Getting Manifest... n2ns.antigravity-panel
+2026-01-06 10:48:51.207 [info] Installing extension: n2ns.antigravity-panel {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.vscode/extensions/extensions.json","path":"/home/admin/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-06 10:48:55.495 [info] Extension signature verification result for n2ns.antigravity-panel: Success. Internal Code: 0. Executed: true. Duration: 2377ms.
+2026-01-06 10:48:55.574 [info] Extracted extension to file:///home/admin/.vscode/extensions/n2ns.antigravity-panel-2.4.4: n2ns.antigravity-panel
+2026-01-06 10:48:55.584 [info] Renamed to /home/admin/.vscode/extensions/n2ns.antigravity-panel-2.4.4
+2026-01-06 10:48:55.610 [info] Marked extension as removed n2ns.antigravity-panel-2.4.2
+2026-01-06 10:48:55.628 [info] Extension installed successfully: n2ns.antigravity-panel vscode-userdata:/home/admin/.vscode/extensions/extensions.json

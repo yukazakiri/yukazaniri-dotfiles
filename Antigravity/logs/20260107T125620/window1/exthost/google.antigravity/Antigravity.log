@@ -1,0 +1,17 @@
+2026-01-07 12:56:24.135 [info] 2026/01/07 12:56:24 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2026-01-07 12:56:24.254 [info] I0107 12:56:24.253948 399118 server.go:1167] Starting language server process with pid 399118
+2026-01-07 12:56:24.254 [info] I0107 12:56:24.254721 399118 server.go:284] Setting GOMAXPROCS to 4
+2026-01-07 12:56:24.261 [info] I0107 12:56:24.261528 399118 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2026-01-07 12:56:24.263 [info] I0107 12:56:24.262062 399118 server.go:506] Language server listening on random port at 39097 for HTTPS
+2026-01-07 12:56:24.263 [info] I0107 12:56:24.262094 399118 server.go:513] Language server listening on random port at 45829 for HTTP
+2026-01-07 12:56:24.765 [info] I0107 12:56:24.765555 399118 server.go:484] Created extension server client at port 35751
+2026-01-07 12:56:24.788 [info] W0107 12:56:24.788605 399118 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2026-01-07 12:56:24.803 [info] W0107 12:56:24.803096 399118 client.go:135] failed to set auth token
+2026-01-07 12:56:24.803 [info] W0107 12:56:24.803582 399118 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2026-01-07 12:56:24.817 [info] (Antigravity) 2026-01-07 12:56:24.816 [INFO]: Language server started
+2026-01-07 12:56:24.822 [info] I0107 12:56:24.822228 399118 server.go:1496] initialized server successfully
+2026-01-07 12:56:24.865 [info] 2026/01/07 12:56:24 http: TLS handshake error from 127.0.0.1:46854: EOF
+2026-01-07 12:56:24.868 [info] (Antigravity) 2026-01-07 12:56:24.868 [INFO]: LS lspClient started successfully
+2026-01-07 12:56:26.677 [info] E0107 12:56:26.677431 399118 log.go:354] Memory truncated from 32360 characters to 24008 characters
+2026-01-07 12:59:47.964 [info] I0107 12:59:47.964212 399118 server.go:1612] Exit requested on language server process 399118
+2026-01-07 12:59:47.965 [info] I0107 12:59:47.964386 399118 server.go:1577] Language server shutting down

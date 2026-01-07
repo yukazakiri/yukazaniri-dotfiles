@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "पसंदीदा में जोड़ें"
+   },
+   "basic_font": {
+      "message": "यह फ़ॉन्ट पहले से ही Windows और Mac कंप्यूटरों पर स्थापित है। आपके साइट के लिए इसे डाउनलोड करने की ज़रूरत नहीं है।"
+   },
+   "chrome_limitations": {
+      "message": "कुछ तकनीकी सीमाएँ इस एक्सटेंशन को Chrome वेब स्टोर या Chrome सेटिंग्स पेज पर काम करने से रोकती हैं।"
+   },
+   "clear": {
+      "message": "सूची साफ़ करें"
+   },
+   "contact_us": {
+      "message": "हमसे संपर्क करें"
+   },
+   "copy": {
+      "message": "कॉपी करें"
+   },
+   "download": {
+      "message": "डाउनलोड करें"
+   },
+   "extDescription": {
+      "message": "फ़ॉन्ट फ़ाइंडर एक हल्का एक्सटेंशन है जो आपको स्क्रीन पर टेक्स्ट की फ़ॉन्ट खोजने की अनुमति देता है।"
+   },
+   "extName": {
+      "message": "Font finder - किसी टेक्स्ट की फ़ॉन्ट खोजें"
+   },
+   "favorites": {
+      "message": "पसंदीदा"
+   },
+   "link": {
+      "message": "लिंक"
+   },
+   "logo": {
+      "message": "फ़ॉन्ट फ़ाइंडर"
+   },
+   "more": {
+      "message": "अधिक.."
+   },
+   "pick_color_button": {
+      "message": "पृष्ठ पर फ़ॉन्ट खोजें"
+   },
+   "rating": {
+      "message": "एक्सटेंशन को रेट करें"
+   },
+   "recent": {
+      "message": "हाल ही में"
+   },
+   "remove_from_favorites": {
+      "message": "पसंदीदा से हटाएं"
+   },
+   "report_bug": {
+      "message": "बग रिपोर्ट करें"
+   },
+   "settings": {
+      "message": "सेटिंग्स"
+   },
+   "settings_auto_copy": {
+      "message": "फ़ॉन्ट का नाम स्वचालित रूप से कॉपी करें"
+   },
+   "settings_keep_history": {
+      "message": "हाल की फ़ॉन्ट्स को सहेजें"
+   },
+   "settings_shortcut": {
+      "message": "कीबोर्ड शॉर्टकट सेट करें"
+   }
+}

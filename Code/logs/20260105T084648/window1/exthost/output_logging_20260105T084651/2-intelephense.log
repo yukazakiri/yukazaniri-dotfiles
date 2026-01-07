@@ -1,0 +1,28 @@
+[Info  - 8:46:57 AM] Initialising intelephense 1.16.3
+[Info  - 8:46:58 AM] Reading state from /home/admin/.config/Code/User/workspaceStorage/2c39dfd38ffe2b5cd849525e6e2706ef/bmewburn.vscode-intelephense-client/3293e334.
+[Info  - 8:47:00 AM] Initialised in 2440 ms
+[Info  - 8:47:01 AM] Searching file:///home/admin/.vscode/extensions/bmewburn.vscode-intelephense-client-1.16.3/node_modules/intelephense/lib/stub for files to index.
+[Info  - 8:47:01 AM] Searching file:///home/admin/Documents/GitHub/DccpAdminV3 for files to index.
+[Warn  - 8:47:02 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/.phpstorm.meta.php is over the maximum file size of 1000000 bytes.
+[Warn  - 8:47:02 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/_ide_helper.php is over the maximum file size of 1000000 bytes.
+[Warn  - 8:47:02 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/_laravel_ide/_model_helpers.php is over the maximum file size of 1000000 bytes.
+[Warn  - 8:47:02 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/composer/autoload_classmap.php is over the maximum file size of 1000000 bytes.
+[Warn  - 8:47:02 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/composer/autoload_static.php is over the maximum file size of 1000000 bytes.
+[Warn  - 8:47:02 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/aws/aws-sdk-php/src/data/ec2/2016-11-15/api-2.json.php is over the maximum file size of 1000000 bytes.
+[Warn  - 8:47:02 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 8:47:02 AM] Indexing started.
+[Info  - 8:47:08 AM] Indexing ended. 3669 files indexed in 6s.
+[Info  - 8:47:08 AM] Writing state to /home/admin/.config/Code/User/workspaceStorage/2c39dfd38ffe2b5cd849525e6e2706ef/bmewburn.vscode-intelephense-client/3293e334.
+[Info  - 8:47:09 AM] Wrote state in 1.2s.
+[Info  - 8:54:45 AM] Indexing started.
+[Info  - 8:54:46 AM] Indexing ended. 2 files indexed in 0s.
+[Info  - 9:14:51 AM] Indexing started.
+[Info  - 9:14:52 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 9:15:26 AM] Indexing started.
+[Info  - 9:15:26 AM] Indexing ended. 2 files indexed in 0s.
+[Info  - 9:17:55 AM] Searching file:///home/admin/Documents/GitHub/DccpAdminV3/public/build/assets for files to index.
+[Warn  - 9:18:02 AM] Error: ENOENT: no such file or directory, stat '/home/admin/Documents/GitHub/DccpAdminV3/node_modules/.vite-temp/vite.config.js.timestamp-1767575881755-2c7383ebbd6ec.mjs'
+[Info  - 9:18:04 AM] Searching file:///home/admin/Documents/GitHub/DccpAdminV3/bootstrap/ssr/assets for files to index.
+[Info  - 9:21:08 AM] Indexing started.
+[Info  - 9:21:08 AM] Indexing ended. 1 files indexed in 0s.
+[Warn  - 9:21:43 AM] Error: ENOENT: no such file or directory, stat '/home/admin/Documents/GitHub/DccpAdminV3/node_modules/.vite-temp/vite.config.js.timestamp-1767576102699-f76a89f61943b8.mjs'

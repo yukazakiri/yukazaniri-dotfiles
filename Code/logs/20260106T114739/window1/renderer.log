@@ -1,0 +1,15 @@
+2026-01-06 11:47:41.499 [info] Started local extension host with pid 295789.
+2026-01-06 11:47:42.165 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:47:42.166 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:47:42.167 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:47:42.169 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:47:42.169 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:47:42.170 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:47:42.171 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 11:47:44.899 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-06 11:47:45.057 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-06 11:47:45.192 [error] [Extension Host] (node:295789) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-01-06 11:47:45.193 [error] [Extension Host] (node:295789) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-01-06 11:47:45.274 [error] [Extension Host] /bin/sh: line 1: herd: command not found
+2026-01-06 11:47:45.275 [error] [Extension Host] /bin/sh: line 1: valet: command not found

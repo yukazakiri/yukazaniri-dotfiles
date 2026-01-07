@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Ongeza kwenye vipendwa"
+   },
+   "basic_font": {
+      "message": "Fonti hii tayari imewekwa kwenye kompyuta za Windows na Mac. Hakuna haja ya kuipakua kwa tovuti yako."
+   },
+   "chrome_limitations": {
+      "message": "Baadhi ya vizuizi vya kiufundi vinazuia kiendelezi kufanya kazi kwenye kurasa za Duka la Chrome au kurasa za mipangilio ya Chrome."
+   },
+   "clear": {
+      "message": "Futa orodha"
+   },
+   "contact_us": {
+      "message": "Wasiliana nasi"
+   },
+   "copy": {
+      "message": "Nakili"
+   },
+   "download": {
+      "message": "Pakua"
+   },
+   "extDescription": {
+      "message": "Font finder ni kiendelezi chepesi kinachokuwezesha kutambua fonti ya maandishi kwenye skrini."
+   },
+   "extName": {
+      "message": "Font finder - Tafuta Fonti ya Maandishi"
+   },
+   "favorites": {
+      "message": "Vipendwa"
+   },
+   "link": {
+      "message": "Kiungo"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Zaidi.."
+   },
+   "pick_color_button": {
+      "message": "Tafuta fonti kwenye ukurasa"
+   },
+   "rating": {
+      "message": "Pima kiendelezi"
+   },
+   "recent": {
+      "message": "Hivi Karibuni"
+   },
+   "remove_from_favorites": {
+      "message": "Ondoa kutoka vipendwa"
+   },
+   "report_bug": {
+      "message": "Ripoti hitilafu"
+   },
+   "settings": {
+      "message": "Mipangilio"
+   },
+   "settings_auto_copy": {
+      "message": "Nakili jina la fonti kiotomatiki"
+   },
+   "settings_keep_history": {
+      "message": "Hifadhi fonti za hivi karibuni"
+   },
+   "settings_shortcut": {
+      "message": "Weka njia ya mkato ya kibodi"
+   }
+}

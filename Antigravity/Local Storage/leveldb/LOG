@@ -1,0 +1,26 @@
+2026/01/07-12:56:20.107 6154b Reusing MANIFEST /home/admin/.config/Antigravity/Local Storage/leveldb/MANIFEST-000001
+2026/01/07-12:56:20.119 6154b Recovering log #91
+2026/01/07-12:56:20.121 6154b Level-0 table #94: started
+2026/01/07-12:56:20.125 6154b Level-0 table #94: 32716 bytes OK
+2026/01/07-12:56:20.128 6154b Delete type=0 #91
+2026/01/07-12:57:20.137 6154a Level-0 table #97: started
+2026/01/07-12:57:20.141 6154a Level-0 table #97: 32395 bytes OK
+2026/01/07-12:57:20.145 6154a Delete type=0 #95
+2026/01/07-12:58:21.493 6154b Level-0 table #99: started
+2026/01/07-12:58:21.498 6154b Level-0 table #99: 32693 bytes OK
+2026/01/07-12:58:21.502 6154b Delete type=0 #96
+2026/01/07-12:58:21.502 6154b Compacting 4@0 + 1@1 files
+2026/01/07-12:58:21.508 6154b Generated table #100@0: 4 keys, 32780 bytes
+2026/01/07-12:58:21.508 6154b Compacted 4@0 + 1@1 files => 32780 bytes
+2026/01/07-12:58:21.511 6154b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/07-12:58:21.511 6154b Delete type=2 #94
+2026/01/07-12:58:21.511 6154b Delete type=2 #90
+2026/01/07-12:58:21.511 6154b Delete type=2 #97
+2026/01/07-12:58:21.511 6154b Delete type=2 #92
+2026/01/07-12:58:21.512 6154b Delete type=2 #99
+2026/01/07-12:59:21.495 6154b Level-0 table #102: started
+2026/01/07-12:59:21.501 6154b Level-0 table #102: 32575 bytes OK
+2026/01/07-12:59:21.505 6154b Delete type=0 #98
+2026/01/07-12:59:48.024 6154b Level-0 table #104: started
+2026/01/07-12:59:48.028 6154b Level-0 table #104: 32354 bytes OK
+2026/01/07-12:59:48.031 6154b Delete type=0 #101

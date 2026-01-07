@@ -1,0 +1,92 @@
+2025-12-25 13:59:46.023 [info] Started local extension host with pid 23278.
+2025-12-25 13:59:46.372 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:46.373 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:46.373 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:46.373 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:46.373 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:46.374 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:46.374 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:47.191 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-25 13:59:47.229 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-25 13:59:47.558 [error] [Extension Host] (node:23278) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-25 13:59:47.558 [error] [Extension Host] (node:23278) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2025-12-25 13:59:48.169 [error] [Extension Host] [ProcessDetector] Attempt 1 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2025-12-25 13:59:48.686 [error] [Extension Host] [ProcessDetector] Attempt 2 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+2025-12-25 13:59:48.824 [info] [perf] Render performance baseline is 16ms
+2025-12-25 13:59:49.112 [error] chatParticipant must be declared in package.json: claude-code
+2025-12-25 13:59:49.482 [error] [Extension Host] [ProcessDetector] Attempt 3 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2025-12-25 13:59:50.310 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-25 13:59:53.065 [info] Started local extension host with pid 23689.
+2025-12-25 13:59:53.909 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:53.910 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:53.911 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:53.911 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:53.912 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:53.912 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:53.912 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2025-12-25 13:59:54.495 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-25 13:59:54.528 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-25 13:59:54.969 [error] [Extension Host] (node:23689) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-25 13:59:54.969 [error] [Extension Host] (node:23689) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2025-12-25 13:59:55.005 [error] [Extension Host] /bin/sh: line 1: herd: command not found
+2025-12-25 13:59:55.010 [error] [Extension Host] /bin/sh: line 1: valet: command not found
+2025-12-25 13:59:55.893 [info] [perf] Render performance baseline is 33ms
+2025-12-25 13:59:57.333 [error] [Extension Host] [ProcessDetector] Attempt 1 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2025-12-25 13:59:57.340 [error] chatParticipant must be declared in package.json: claude-code
+2025-12-25 13:59:57.942 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-25 13:59:58.192 [error] [Extension Host] [ProcessDetector] Attempt 2 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2025-12-25 13:59:58.821 [error] [Extension Host] [ProcessDetector] Attempt 3 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)

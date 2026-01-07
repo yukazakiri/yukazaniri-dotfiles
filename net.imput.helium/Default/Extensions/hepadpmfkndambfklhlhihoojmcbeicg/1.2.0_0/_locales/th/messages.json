@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "เพิ่มในรายการโปรด"
+   },
+   "basic_font": {
+      "message": "ฟอนต์นี้ติดตั้งอยู่แล้วบนคอมพิวเตอร์ Windows และ Mac ไม่จำเป็นต้องดาวน์โหลดสำหรับเว็บไซต์ของคุณ"
+   },
+   "chrome_limitations": {
+      "message": "ข้อจำกัดทางเทคนิคบางประการทำให้ส่วนขยายไม่สามารถทำงานบนหน้า Chrome Web Store หรือหน้าการตั้งค่า Chrome ได้"
+   },
+   "clear": {
+      "message": "ล้างรายการ"
+   },
+   "contact_us": {
+      "message": "ติดต่อเรา"
+   },
+   "copy": {
+      "message": "คัดลอก"
+   },
+   "download": {
+      "message": "ดาวน์โหลด"
+   },
+   "extDescription": {
+      "message": "Font finder เป็นส่วนขยายที่เบา ช่วยให้คุณค้นหาฟอนต์ของข้อความบนหน้าจอได้"
+   },
+   "extName": {
+      "message": "Font finder - ค้นหาฟอนต์ของข้อความ"
+   },
+   "favorites": {
+      "message": "รายการโปรด"
+   },
+   "link": {
+      "message": "ลิงก์"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "เพิ่มเติม.."
+   },
+   "pick_color_button": {
+      "message": "ค้นหาฟอนต์บนหน้า"
+   },
+   "rating": {
+      "message": "ให้คะแนนส่วนขยาย"
+   },
+   "recent": {
+      "message": "ล่าสุด"
+   },
+   "remove_from_favorites": {
+      "message": "ลบจากรายการโปรด"
+   },
+   "report_bug": {
+      "message": "รายงานข้อผิดพลาด"
+   },
+   "settings": {
+      "message": "การตั้งค่า"
+   },
+   "settings_auto_copy": {
+      "message": "คัดลอกชื่อฟอนต์อัตโนมัติ"
+   },
+   "settings_keep_history": {
+      "message": "บันทึกฟอนต์ล่าสุด"
+   },
+   "settings_shortcut": {
+      "message": "กำหนดคีย์ลัด"
+   }
+}

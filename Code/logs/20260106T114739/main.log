@@ -1,0 +1,14 @@
+2026-01-06 11:47:39.475 [info] update#setState idle
+2026-01-06 11:48:21.310 [warning] No ptyHost heartbeat after 6 seconds
+2026-01-06 11:48:21.317 [info] update#setState checking for updates
+2026-01-06 11:48:21.474 [error] CodeWindow: detected unresponsive
+2026-01-06 11:48:22.418 [error] CodeWindow: renderer process gone (reason: killed, code: 9)
+2026-01-06 11:48:22.447 [info] Extension host with pid 295789 exited with code: 0, signal: unknown.
+2026-01-06 11:48:22.478 [error] [uncaught exception in main]: Error: Render frame was disposed before WebFrameMain could be accessed
+2026-01-06 11:48:22.479 [error] Error: Render frame was disposed before WebFrameMain could be accessed
+    at yc.$b (file:///opt/visual-studio-code/resources/app/out/main.js:87:2243)
+    at file:///opt/visual-studio-code/resources/app/out/main.js:86:60879
+    at file:///opt/visual-studio-code/resources/app/out/main.js:30:80738
+2026-01-06 11:48:23.502 [info] update#setState idle
+2026-01-06 11:49:05.892 [info] Extension host with pid 298877 exited with code: 0, signal: unknown.
+2026-01-06 11:49:05.978 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 298972]: crashed with code 15 and reason 'killed'

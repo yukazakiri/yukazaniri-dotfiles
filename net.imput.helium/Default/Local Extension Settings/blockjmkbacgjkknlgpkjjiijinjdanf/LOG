@@ -1,0 +1,35 @@
+2026/01/07-08:34:30.566 1ca4 Reusing MANIFEST /home/admin/.config/net.imput.helium/Default/Local Extension Settings/blockjmkbacgjkknlgpkjjiijinjdanf/MANIFEST-000001
+2026/01/07-08:34:30.567 1ca4 Recovering log #86
+2026/01/07-08:34:30.568 1ca4 Reusing old log /home/admin/.config/net.imput.helium/Default/Local Extension Settings/blockjmkbacgjkknlgpkjjiijinjdanf/000086.log 
+2026/01/07-08:36:18.080 1ca4 Level-0 table #90: started
+2026/01/07-08:36:18.149 1ca4 Level-0 table #90: 7634922 bytes OK
+2026/01/07-08:36:18.156 1ca4 Delete type=0 #86
+2026/01/07-08:36:18.157 1ca4 Compacting 4@0 + 3@1 files
+2026/01/07-08:36:18.175 1ca4 Generated table #91@0: 5 keys, 2707354 bytes
+2026/01/07-08:36:18.201 1ca4 Generated table #92@0: 8 keys, 3268141 bytes
+2026/01/07-08:36:18.317 1ca4 Generated table #93@0: 3 keys, 7137801 bytes
+2026/01/07-08:36:18.328 1ca4 Generated table #94@0: 8 keys, 1402987 bytes
+2026/01/07-08:36:18.328 1ca4 Compacted 4@0 + 3@1 files => 14516283 bytes
+2026/01/07-08:36:18.332 1ca4 compacted to: files[ 0 4 5 0 0 0 0 ]
+2026/01/07-08:36:18.333 1ca4 Delete type=2 #72
+2026/01/07-08:36:18.333 1ca4 Delete type=2 #73
+2026/01/07-08:36:18.333 1ca4 Delete type=2 #84
+2026/01/07-08:36:18.333 1ca4 Delete type=2 #76
+2026/01/07-08:36:18.333 1ca4 Delete type=2 #90
+2026/01/07-08:36:18.333 1ca4 Delete type=2 #81
+2026/01/07-08:36:18.333 1ca4 Delete type=2 #87
+2026/01/07-08:36:18.335 1ca4 Compacting 1@1 + 1@2 files
+2026/01/07-08:36:18.346 1ca4 Generated table #95@1: 15 keys, 1405302 bytes
+2026/01/07-08:36:18.346 1ca4 Compacted 1@1 + 1@2 files => 1405302 bytes
+2026/01/07-08:36:18.349 1ca4 compacted to: files[ 0 3 5 0 0 0 0 ]
+2026/01/07-08:36:18.350 1ca4 Delete type=2 #94
+2026/01/07-08:36:18.350 1ca4 Delete type=2 #27
+2026/01/07-08:36:18.350 1ca4 Compacting 1@1 + 1@2 files
+2026/01/07-08:36:18.369 1ca4 Generated table #96@1: 6 keys, 2715721 bytes
+2026/01/07-08:36:18.370 1ca4 Compacted 1@1 + 1@2 files => 2715721 bytes
+2026/01/07-08:36:18.374 1ca4 compacted to: files[ 0 2 5 0 0 0 0 ]
+2026/01/07-08:36:18.374 1ca4 Delete type=2 #60
+2026/01/07-08:36:18.374 1ca4 Delete type=2 #91
+2026/01/07-13:36:34.130 1ca6 Level-0 table #98: started
+2026/01/07-13:36:34.230 1ca6 Level-0 table #98: 7241725 bytes OK
+2026/01/07-13:36:34.235 1ca6 Delete type=0 #89

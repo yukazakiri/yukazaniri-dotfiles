@@ -1,0 +1,80 @@
+2025-12-24 12:13:14.181 [info] Getting Manifest... devsense.phptools-vscode
+2025-12-24 12:13:15.578 [info] Installing extension: devsense.phptools-vscode {"context":{"skipPublisherTrust":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.antigravity/extensions/extensions.json","path":"/home/admin/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-19T21:03:14.401Z"}}
+2025-12-24 12:13:17.182 [info] Getting Manifest... devsense.intelli-php-vscode
+2025-12-24 12:13:17.477 [info] Getting Manifest... devsense.composer-php-vscode
+2025-12-24 12:13:17.746 [info] Getting Manifest... devsense.profiler-php-vscode
+2025-12-24 12:13:18.227 [info] Installing extension: devsense.intelli-php-vscode {"context":{"skipPublisherTrust":true,"dependecyOrPackExtensionInstall":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.antigravity/extensions/extensions.json","path":"/home/admin/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-19T21:03:14.401Z"},"pinned":false,"installGivenVersion":false}
+2025-12-24 12:13:18.227 [info] Installing extension: devsense.composer-php-vscode {"context":{"skipPublisherTrust":true,"dependecyOrPackExtensionInstall":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.antigravity/extensions/extensions.json","path":"/home/admin/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-19T21:03:14.401Z"},"pinned":false,"installGivenVersion":false}
+2025-12-24 12:13:18.227 [info] Installing extension: devsense.profiler-php-vscode {"context":{"skipPublisherTrust":true,"dependecyOrPackExtensionInstall":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.antigravity/extensions/extensions.json","path":"/home/admin/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-19T21:03:14.401Z"},"pinned":false,"installGivenVersion":false}
+2025-12-24 12:13:18.781 [info] Extracted extension to file:///home/admin/.antigravity/extensions/devsense.composer-php-vscode-1.63.18172-universal: devsense.composer-php-vscode
+2025-12-24 12:13:18.789 [info] Renamed to /home/admin/.antigravity/extensions/devsense.composer-php-vscode-1.63.18172-universal
+2025-12-24 12:13:18.802 [info] Extracted extension to file:///home/admin/.antigravity/extensions/devsense.profiler-php-vscode-1.63.18172-universal: devsense.profiler-php-vscode
+2025-12-24 12:13:18.808 [info] Renamed to /home/admin/.antigravity/extensions/devsense.profiler-php-vscode-1.63.18172-universal
+2025-12-24 12:13:52.186 [info] Extracted extension to file:///home/admin/.antigravity/extensions/devsense.phptools-vscode-1.63.18172-linux-x64: devsense.phptools-vscode
+2025-12-24 12:13:52.199 [info] Renamed to /home/admin/.antigravity/extensions/devsense.phptools-vscode-1.63.18172-linux-x64
+2025-12-24 12:14:10.253 [info] Extracted extension to file:///home/admin/.antigravity/extensions/devsense.intelli-php-vscode-0.12.17700-linux-x64: devsense.intelli-php-vscode
+2025-12-24 12:14:10.261 [info] Renamed to /home/admin/.antigravity/extensions/devsense.intelli-php-vscode-0.12.17700-linux-x64
+2025-12-24 12:14:10.292 [info] Extension installed successfully: devsense.composer-php-vscode vscode-userdata:/home/admin/.antigravity/extensions/extensions.json
+2025-12-24 12:14:10.292 [info] Extension installed successfully: devsense.profiler-php-vscode vscode-userdata:/home/admin/.antigravity/extensions/extensions.json
+2025-12-24 12:14:10.293 [info] Extension installed successfully: devsense.phptools-vscode vscode-userdata:/home/admin/.antigravity/extensions/extensions.json
+2025-12-24 12:14:10.293 [info] Extension installed successfully: devsense.intelli-php-vscode vscode-userdata:/home/admin/.antigravity/extensions/extensions.json
+2025-12-24 12:14:10.293 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at ea.value (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62540)
+    at D.C (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2373)
+    at D (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2443)
+    at D.fire (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2660)
+    at Nu.L (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10718)
+    at async Nu.installGalleryExtensions (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2499)
+    at async Nu.installFromGallery (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1748)
+2025-12-24 12:14:37.899 [info] Getting Manifest... jlcodes.antigravity-cockpit
+2025-12-24 12:14:38.708 [info] Installing extension: jlcodes.antigravity-cockpit {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.antigravity/extensions/extensions.json","path":"/home/admin/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-19T21:03:14.401Z"}}
+2025-12-24 12:14:39.449 [info] Extracted extension to file:///home/admin/.antigravity/extensions/jlcodes.antigravity-cockpit-1.5.34-universal: jlcodes.antigravity-cockpit
+2025-12-24 12:14:39.453 [info] Renamed to /home/admin/.antigravity/extensions/jlcodes.antigravity-cockpit-1.5.34-universal
+2025-12-24 12:14:39.467 [info] Extension installed successfully: jlcodes.antigravity-cockpit vscode-userdata:/home/admin/.antigravity/extensions/extensions.json
+2025-12-24 12:14:39.467 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at ea.value (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62540)
+    at D.C (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2373)
+    at D (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2443)
+    at D.fire (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2660)
+    at Nu.L (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10718)
+    at async Nu.installGalleryExtensions (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2499)
+    at async Nu.installFromGallery (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1748)
+2025-12-24 12:15:56.278 [info] Getting Manifest... asierdev.antigravity-quota-viewer
+2025-12-24 12:15:57.556 [info] Installing extension: asierdev.antigravity-quota-viewer {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.antigravity/extensions/extensions.json","path":"/home/admin/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-19T21:03:14.401Z"}}
+2025-12-24 12:15:59.300 [info] Extracted extension to file:///home/admin/.antigravity/extensions/asierdev.antigravity-quota-viewer-1.0.4-universal: asierdev.antigravity-quota-viewer
+2025-12-24 12:15:59.324 [info] Renamed to /home/admin/.antigravity/extensions/asierdev.antigravity-quota-viewer-1.0.4-universal
+2025-12-24 12:15:59.359 [info] Extension installed successfully: asierdev.antigravity-quota-viewer vscode-userdata:/home/admin/.antigravity/extensions/extensions.json
+2025-12-24 12:15:59.359 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at ea.value (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62540)
+    at D.C (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2373)
+    at D (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2443)
+    at D.fire (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2660)
+    at Nu.L (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10718)
+    at async Nu.installGalleryExtensions (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2499)
+    at async Nu.installFromGallery (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1748)
+2025-12-24 12:19:16.087 [info] Getting Manifest... sst-dev.opencode
+2025-12-24 12:19:16.956 [info] Installing extension: sst-dev.opencode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.antigravity/extensions/extensions.json","path":"/home/admin/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-19T21:03:14.401Z"}}
+2025-12-24 12:19:17.987 [info] Extracted extension to file:///home/admin/.antigravity/extensions/sst-dev.opencode-0.0.12-universal: sst-dev.opencode
+2025-12-24 12:19:17.993 [info] Renamed to /home/admin/.antigravity/extensions/sst-dev.opencode-0.0.12-universal
+2025-12-24 12:19:18.061 [info] Extension installed successfully: sst-dev.opencode vscode-userdata:/home/admin/.antigravity/extensions/extensions.json
+2025-12-24 12:19:18.061 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at ea.value (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62540)
+    at D.C (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2373)
+    at D (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2443)
+    at D.fire (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2660)
+    at Nu.L (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10718)
+    at async Nu.installGalleryExtensions (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2499)
+    at async Nu.installFromGallery (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1748)
+2025-12-24 12:20:08.573 [info] Getting Manifest... fedaykindev.openchamber
+2025-12-24 12:20:09.476 [info] Installing extension: fedaykindev.openchamber {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/admin/.antigravity/extensions/extensions.json","path":"/home/admin/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-19T21:03:14.401Z"}}
+2025-12-24 12:20:42.184 [info] Extracted extension to file:///home/admin/.antigravity/extensions/fedaykindev.openchamber-1.3.2-universal: fedaykindev.openchamber
+2025-12-24 12:20:42.195 [info] Renamed to /home/admin/.antigravity/extensions/fedaykindev.openchamber-1.3.2-universal
+2025-12-24 12:20:42.211 [info] Extension installed successfully: fedaykindev.openchamber vscode-userdata:/home/admin/.antigravity/extensions/extensions.json
+2025-12-24 12:20:42.211 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at ea.value (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62540)
+    at D.C (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2373)
+    at D (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2443)
+    at D.fire (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2660)
+    at Nu.L (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10718)
+    at async Nu.installGalleryExtensions (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2499)
+    at async Nu.installFromGallery (file:///opt/Antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1748)

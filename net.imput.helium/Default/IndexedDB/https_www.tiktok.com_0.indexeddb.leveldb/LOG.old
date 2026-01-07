@@ -1,0 +1,15 @@
+2025/12/21-22:09:57.909 7dca Reusing MANIFEST /home/admin/.config/net.imput.helium/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/21-22:09:57.909 7dca Recovering log #4
+2025/12/21-22:09:57.911 7dca Reusing old log /home/admin/.config/net.imput.helium/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/000004.log 
+2025/12/21-22:42:45.107 7dcb Level-0 table #8: started
+2025/12/21-22:42:45.115 7dcb Level-0 table #8: 89134 bytes OK
+2025/12/21-22:42:45.120 7dcb Delete type=0 #4
+2025/12/21-22:42:45.121 7dcb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/12/21-22:42:45.121 7dcb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x01\x03\x01Y\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00f\x001\x006\x00-\x00s\x00g\x00.\x00t\x00i\x00k\x00t\x00o\x00k\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00o\x00b\x00j\x00/\x00e\x00d\x00e\x00n\x00-\x00s\x00g\x00/\x00a\x00z\x00b\x00o\x00e\x00h\x007\x00u\x00h\x00b\x00f\x00n\x00u\x00p\x00t\x00b\x00v\x00g\x00/\x00v\x00i\x00d\x00e\x00o\x00_\x00p\x00r\x00e\x00l\x00o\x00a\x00d\x00_\x00p\x00r\x00e\x00d\x00i\x00c\x00t\x00.\x00b\x00y\x00t\x00e\x00n\x00n' @ 3452 : 1
+2025/12/21-22:42:45.122 7dcb Compacting 1@1 + 1@2 files
+2025/12/21-22:42:45.129 7dcb Generated table #9@1: 700 keys, 14219 bytes
+2025/12/21-22:42:45.129 7dcb Compacted 1@1 + 1@2 files => 14219 bytes
+2025/12/21-22:42:45.134 7dcb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/21-22:42:45.134 7dcb Delete type=2 #8
+2025/12/21-22:42:45.134 7dcb Delete type=2 #5
+2025/12/21-22:42:45.135 7dcb Manual compaction at level-1 from '\x00\x07\x01\x03\x01Y\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00f\x001\x006\x00-\x00s\x00g\x00.\x00t\x00i\x00k\x00t\x00o\x00k\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00o\x00b\x00j\x00/\x00e\x00d\x00e\x00n\x00-\x00s\x00g\x00/\x00a\x00z\x00b\x00o\x00e\x00h\x007\x00u\x00h\x00b\x00f\x00n\x00u\x00p\x00t\x00b\x00v\x00g\x00/\x00v\x00i\x00d\x00e\x00o\x00_\x00p\x00r\x00e\x00l\x00o\x00a\x00d\x00_\x00p\x00r\x00e\x00d\x00i\x00c\x00t\x00.\x00b\x00y\x00t\x00e\x00n\x00n' @ 3452 : 1 .. (end); will stop at (end)

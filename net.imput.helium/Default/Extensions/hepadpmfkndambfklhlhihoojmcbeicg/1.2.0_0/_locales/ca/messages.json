@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Afegir als preferits"
+   },
+   "basic_font": {
+      "message": "Aquesta font ja està instal·lada als ordinadors Windows i Mac. No cal descarregar-la per al teu lloc."
+   },
+   "chrome_limitations": {
+      "message": "Algunes limitacions tècniques impedeixen que l'extensió funcioni a les pàgines del Chrome Web Store o a les pàgines de configuració de Chrome."
+   },
+   "clear": {
+      "message": "Buidar la llista"
+   },
+   "contact_us": {
+      "message": "Contacta'ns"
+   },
+   "copy": {
+      "message": "Copiar"
+   },
+   "download": {
+      "message": "Descarregar"
+   },
+   "extDescription": {
+      "message": "Font finder és una extensió lleugera que et permet trobar la font d'un text a la pantalla."
+   },
+   "extName": {
+      "message": "Font finder - Trobar la font d'un text"
+   },
+   "favorites": {
+      "message": "Preferits"
+   },
+   "link": {
+      "message": "Enllaç"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Més.."
+   },
+   "pick_color_button": {
+      "message": "Trobar una font a la pàgina"
+   },
+   "rating": {
+      "message": "Valora l'extensió"
+   },
+   "recent": {
+      "message": "Recents"
+   },
+   "remove_from_favorites": {
+      "message": "Eliminar dels preferits"
+   },
+   "report_bug": {
+      "message": "Informar d'un error"
+   },
+   "settings": {
+      "message": "Configuració"
+   },
+   "settings_auto_copy": {
+      "message": "Copiar automàticament el nom de la font"
+   },
+   "settings_keep_history": {
+      "message": "Desar les fonts recents"
+   },
+   "settings_shortcut": {
+      "message": "Definir una drecera de teclat"
+   }
+}

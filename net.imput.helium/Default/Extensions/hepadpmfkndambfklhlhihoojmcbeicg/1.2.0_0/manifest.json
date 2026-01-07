@@ -1,0 +1,33 @@
+{
+   "action": {
+      "default_popup": "popup.html"
+   },
+   "author": "François Duprat",
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "commands": {
+      "find-font": {
+         "description": "__MSG_pick_color_button__"
+      }
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; connect-src ws://localhost:9090/"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "256": "icons/logo-256.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuqU8R7tJyUgJYbNc+lXjzzCPLqq4MIG2cK/eos534qWyjkmhI4Yl5jphL8P7yf434MdUGxeTpJsr8A92sRD5aulXoiEHGvIuHf2QZkAkfpJOqgrjLL/0FbirdKS9WFiA6EPku9z0n6ntC1dYpi0iHBclLBh0b1Q33dYAOlhAQ/mWJZhle0PFCZNzanMxLHipkhHusJnpqer6tz/74XncKrR/xt0Pk+7i+rTenRATCzD8HXWCmk8wIXjEte7RNnQRKNs1QKYSg6UEq8PhRvtYyPDupZYjMV9vm5QYi0tRbJPx0Oba7hMXhXTDEsXEjzs2EsfD1p0WR/Up7901bP7iJQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "storage", "contextMenus", "activeTab", "unlimitedStorage", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "assets/**/*", "css/**/*", "icons/**/*" ]
+   } ]
+}

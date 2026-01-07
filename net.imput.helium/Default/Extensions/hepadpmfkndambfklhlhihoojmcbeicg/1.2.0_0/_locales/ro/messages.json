@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Adaugă la favorite"
+   },
+   "basic_font": {
+      "message": "Acest font este deja instalat pe computerele Windows și Mac. Nu este nevoie să-l descarci pentru site-ul tău."
+   },
+   "chrome_limitations": {
+      "message": "Unele limitări tehnice împiedică extensia să funcționeze pe paginile Chrome Web Store sau paginile de configurare Chrome."
+   },
+   "clear": {
+      "message": "Golește lista"
+   },
+   "contact_us": {
+      "message": "Contactează-ne"
+   },
+   "copy": {
+      "message": "Copiază"
+   },
+   "download": {
+      "message": "Descarcă"
+   },
+   "extDescription": {
+      "message": "Font finder este o extensie ușoară care îți permite să găsești fontul unui text pe ecran."
+   },
+   "extName": {
+      "message": "Font finder - Găsește fontul unui text"
+   },
+   "favorites": {
+      "message": "Favorite"
+   },
+   "link": {
+      "message": "Link"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Mai multe.."
+   },
+   "pick_color_button": {
+      "message": "Găsește un font pe pagină"
+   },
+   "rating": {
+      "message": "Evaluează extensia"
+   },
+   "recent": {
+      "message": "Recente"
+   },
+   "remove_from_favorites": {
+      "message": "Elimină din favorite"
+   },
+   "report_bug": {
+      "message": "Raportează un bug"
+   },
+   "settings": {
+      "message": "Setări"
+   },
+   "settings_auto_copy": {
+      "message": "Copiază automat numele fontului"
+   },
+   "settings_keep_history": {
+      "message": "Salvează fonturile recente"
+   },
+   "settings_shortcut": {
+      "message": "Setează o comandă rapidă de la tastatură"
+   }
+}

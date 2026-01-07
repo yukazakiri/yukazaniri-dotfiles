@@ -1,0 +1,18 @@
+[Info  - 11:48:32 AM] Initialising intelephense 1.16.3
+[Info  - 11:48:32 AM] Reading state from /home/admin/.config/Code/User/workspaceStorage/2c39dfd38ffe2b5cd849525e6e2706ef/bmewburn.vscode-intelephense-client/3293e334.
+[Info  - 11:48:33 AM] Initialised in 1533 ms
+[Info  - 11:48:33 AM] Searching file:///home/admin/.vscode/extensions/bmewburn.vscode-intelephense-client-1.16.3/node_modules/intelephense/lib/stub for files to index.
+[Info  - 11:48:33 AM] Searching file:///home/admin/Documents/GitHub/DccpAdminV3 for files to index.
+[Warn  - 11:48:34 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/.phpstorm.meta.php is over the maximum file size of 1000000 bytes.
+[Warn  - 11:48:34 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/_ide_helper.php is over the maximum file size of 1000000 bytes.
+[Warn  - 11:48:34 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/_laravel_ide/_model_helpers.php is over the maximum file size of 1000000 bytes.
+[Warn  - 11:48:34 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/composer/autoload_classmap.php is over the maximum file size of 1000000 bytes.
+[Warn  - 11:48:34 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/composer/autoload_static.php is over the maximum file size of 1000000 bytes.
+[Warn  - 11:48:34 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/aws/aws-sdk-php/src/data/ec2/2016-11-15/api-2.json.php is over the maximum file size of 1000000 bytes.
+[Warn  - 11:48:34 AM] file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 11:48:34 AM] Indexing started.
+[Info  - 11:48:34 AM] Indexing ended. 21 files indexed in 0s.
+[Info  - 11:48:34 AM] Writing state to /home/admin/.config/Code/User/workspaceStorage/2c39dfd38ffe2b5cd849525e6e2706ef/bmewburn.vscode-intelephense-client/3293e334.
+[Info  - 11:48:35 AM] Wrote state in 0.8s.
+[Info  - 11:48:50 AM] Indexing started.
+[Info  - 11:48:51 AM] Indexing ended. 1 files indexed in 0s.

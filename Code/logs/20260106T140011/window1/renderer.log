@@ -1,0 +1,60 @@
+2026-01-06 14:00:13.732 [info] Started local extension host with pid 177862.
+2026-01-06 14:00:13.983 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 14:00:13.984 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 14:00:13.985 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 14:00:13.986 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 14:00:13.987 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 14:00:13.987 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 14:00:13.991 [info] [MehediDracula.php-namespace-resolver]: Menu item references the same command as default and alt-command
+2026-01-06 14:00:17.554 [error] [Extension Host] (node:177862) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-01-06 14:00:17.556 [error] [Extension Host] (node:177862) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-01-06 14:00:17.625 [error] [Extension Host] /bin/sh: line 1: herd: command not found
+2026-01-06 14:00:17.632 [error] [Extension Host] /bin/sh: line 1: valet: command not found
+2026-01-06 14:00:17.709 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-06 14:00:17.850 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-01-06 14:00:21.711 [error] Failed to fetch MCP registry providers Server returned 404
+2026-01-06 14:00:23.517 [error] chatParticipant must be declared in package.json: claude-code
+2026-01-06 14:00:23.743 [error] [Extension Host] [ProcessDetector] Attempt 1 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-06 14:00:24.771 [error] [Extension Host] [ProcessDetector] Attempt 2 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-06 14:00:25.533 [error] [Extension Host] [ProcessDetector] Attempt 3 failed: Error: Command failed: pgrep -fl language_server_linux
+
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at ChildProcess.exithandler (node:child_process:418:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1101:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:346:12)
+2026-01-06 14:00:27.084 [info] [perf] Render performance baseline is 24ms
+2026-01-06 14:01:03.502 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/.devcontainer/devcontainer.json 
+2026-01-06 14:01:03.503 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/Modules/LibrarySystem/package.json 
+2026-01-06 14:01:03.504 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/Modules/Cashier/package.json 
+2026-01-06 14:01:03.504 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/spatie/shiki-php/package.json 
+2026-01-06 14:01:03.504 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/tightenco/ziggy/package.json 
+2026-01-06 14:01:03.504 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/guava/filament-icon-select-column/package.json 
+2026-01-06 14:01:03.505 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/wire-elements/spotlight/package.json 
+2026-01-06 14:01:03.505 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/ysfkaya/filament-phone-input/package.json 
+2026-01-06 14:01:03.505 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/ueberdosis/tiptap-php/package.json 
+2026-01-06 14:01:03.505 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/laravel/framework/src/Illuminate/Foundation/resources/exceptions/renderer/package.json 
+2026-01-06 14:01:03.505 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/laravel/horizon/package.json 
+2026-01-06 14:01:03.506 [warning] [backup tracker] suspended, ignoring unregister event file:///home/admin/Documents/GitHub/DccpAdminV3/vendor/bezhansalleh/filament-shield/package.json 

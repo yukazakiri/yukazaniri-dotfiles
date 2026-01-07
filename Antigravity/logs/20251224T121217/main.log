@@ -1,0 +1,35 @@
+2025-12-24 12:12:17.609 [info] Using Cloud Code URL: https://daily-cloudcode-pa.googleapis.com
+2025-12-24 12:12:17.615 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-12-24 12:12:17.668 [info] update#setState idle
+2025-12-24 12:12:17.672 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:32977
+2025-12-24 12:12:17.673 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9101/antigravity
+2025-12-24 12:12:17.738 [error] Error refreshing user status No OAuth token available. User is not logged in, or token needs to be refreshed.
+2025-12-24 12:12:17.739 [info] AntigravityAuthMainService initialized
+2025-12-24 12:12:17.793 [info] Started initializing default profile extensions in extensions installation folder. file:///home/admin/.antigravity/extensions
+2025-12-24 12:12:17.796 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/admin/.antigravity/extensions
+2025-12-24 12:12:22.366 [info] [AgentClientServer] Cascade initializing for worksapce 
+2025-12-24 12:12:22.366 [info] [AgentClientServer] Starting server
+2025-12-24 12:12:22.372 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-24 12:12:22.373 [info] [AgentClientServer] Cascade server started on http://localhost:9092
+2025-12-24 12:12:22.373 [info] [AgentClientServer] Cascade server started on port 9092
+2025-12-24 12:12:23.582 [warning] [perf] profiling STARTED eeb97866-d984-47d0-8101-5e57e2a8afd7
+2025-12-24 12:12:28.632 [warning] [perf] profiling DONE eeb97866-d984-47d0-8101-5e57e2a8afd7
+2025-12-24 12:12:44.067 [warning] [perf] profiling STARTED eeb97866-d984-47d0-8101-5e57e2a8afd7
+2025-12-24 12:12:47.669 [info] update#setState checking for updates
+2025-12-24 12:12:48.592 [info] update#setState idle
+2025-12-24 12:12:49.099 [warning] [perf] profiling DONE eeb97866-d984-47d0-8101-5e57e2a8afd7
+2025-12-24 12:13:04.487 [warning] [perf] profiling STARTED eeb97866-d984-47d0-8101-5e57e2a8afd7
+2025-12-24 12:13:09.206 [info] [BrowserPreferencesLifecycle] Migrated browser tools setting: 0
+2025-12-24 12:13:09.206 [info] [BrowserPreferencesLifecycle] Migrated browser JS execution policy: 0
+2025-12-24 12:13:09.547 [warning] [perf] profiling DONE eeb97866-d984-47d0-8101-5e57e2a8afd7
+2025-12-24 12:18:54.949 [info] Extension host with pid 2717 exited with code: 0, signal: unknown.
+2025-12-24 12:18:55.950 [error] Extension host with pid 2717 still exists, forcefully killing it...
+2025-12-24 12:18:58.828 [info] Extension host with pid 11803 exited with code: 0, signal: unknown.
+2025-12-24 12:18:59.829 [error] Extension host with pid 11803 still exists, forcefully killing it...
+2025-12-24 12:19:05.669 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/admin/Documents/GitHub/DccpAdminV3
+2025-12-24 12:19:05.671 [info] [AgentClientServer] Starting server
+2025-12-24 12:19:05.683 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-24 12:19:05.690 [info] [AgentClientServer] Cascade server started on http://localhost:9090
+2025-12-24 12:19:05.690 [info] [AgentClientServer] Cascade server started on port 9090
+2025-12-24 12:21:37.572 [info] Extension host with pid 11999 exited with code: 0, signal: unknown.
+2025-12-24 12:21:38.573 [error] Extension host with pid 11999 still exists, forcefully killing it...

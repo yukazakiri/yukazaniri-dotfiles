@@ -1,0 +1,223 @@
+2025-12-23T11:18:20.634Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-12-23T11:18:20.637Z - info: [ui] [AppStore] found account: yukazakiri (Yuka)
+2025-12-23T11:18:20.667Z - info: [ui] [BranchPruner] Last prune took place 23 hours ago - skipping
+2025-12-23T11:18:21.143Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.18.2-arch2-1)
+2025-12-23T11:18:21.143Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-12-23T11:18:21.864Z - info: [ui] Stats reported.
+2025-12-23T11:18:21.982Z - info: [ui] Subscribed 'yukazakiri' to Alive channel
+2025-12-23T11:18:25.564Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at Op.repositoryWithRefreshedGitHubRepository (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4247:5)
+2025-12-23T11:18:25.575Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T11:18:26.506Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at Op.repositoryWithRefreshedGitHubRepository (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4247:5)
+2025-12-23T11:18:26.895Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T11:18:27.217Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.6s of which 0.0s paused, total 0.6s
+2025-12-23T11:18:27.702Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T11:18:28.442Z - info: [ui] Executing push: git push origin main:main --progress (took 3.497s)
+2025-12-23T11:18:28.444Z - error: [ui] `git push origin main:main --progress` exited with an unexpected code: 1.
+To https://github.com/dccp-developers/DccpAdminV3.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/dccp-developers/DccpAdminV3.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 11: The repository has been updated since you last pulled. Try pulling before pushing.)
+2025-12-23T11:18:31.621Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T11:18:32.937Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 1.733s)
+2025-12-23T11:18:33.431Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T11:18:34.290Z - info: [ui] Executing updateRemoteHEAD: git remote set-head -a origin (took 1.352s)
+2025-12-23T11:18:34.760Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:5216:32
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+    at Op.performFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:5173:5)
+    at Object.onFetch [as onSubmit] (/home/admin/webpack:/app/src/ui/push-needs-pull/push-needs-pull-warning.tsx:62:32)
+2025-12-23T11:18:35.134Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:5216:32
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+    at Op.performFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:5173:5)
+    at Object.onFetch [as onSubmit] (/home/admin/webpack:/app/src/ui/push-needs-pull/push-needs-pull-warning.tsx:62:32)
+2025-12-23T11:18:36.809Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T11:18:37.714Z - info: [ui] Executing pull: git -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.306s)
+2025-12-23T11:18:38.653Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T11:18:39.511Z - info: [ui] Executing updateRemoteHEAD: git remote set-head -a origin (took 1.795s)
+2025-12-23T11:18:39.982Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:4845:45
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+2025-12-23T11:18:40.494Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:4845:45
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+2025-12-23T11:19:00.976Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T11:19:01.785Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T11:19:02.721Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T11:19:04.462Z - info: [ui] Executing push: git push origin main:main --progress (took 3.901s)
+2025-12-23T11:19:04.848Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T11:19:06.132Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 1.669s)
+2025-12-23T11:19:06.916Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T11:19:07.689Z - info: [ui] Executing updateRemoteHEAD: git remote set-head -a origin (took 1.555s)
+2025-12-23T11:19:08.100Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at h.performFailableOperation.retryAction (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4640:43)
+    at Gw.performFailableOperation (/home/admin/webpack:/app/src/lib/stores/git-store.ts:908:7)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:4596:47
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+2025-12-23T11:19:08.962Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at h.performFailableOperation.retryAction (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4640:43)
+    at Gw.performFailableOperation (/home/admin/webpack:/app/src/lib/stores/git-store.ts:908:7)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:4596:47
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+2025-12-23T14:57:47.544Z - info: [ui] [AppStore] loading 3 repositories from store
+2025-12-23T14:57:47.548Z - info: [ui] [AppStore] found account: yukazakiri (Yuka)
+2025-12-23T14:57:47.571Z - info: [ui] [BranchPruner] Last prune took place 4 hours ago - skipping
+2025-12-23T14:57:47.803Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.18.2-arch2-1)
+2025-12-23T14:57:47.803Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-12-23T14:57:48.764Z - info: [ui] Subscribed 'yukazakiri' to Alive channel
+2025-12-23T14:57:49.718Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at Op.repositoryWithRefreshedGitHubRepository (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4247:5)
+2025-12-23T14:57:50.310Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at Op.repositoryWithRefreshedGitHubRepository (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4247:5)
+2025-12-23T14:57:50.692Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T14:57:52.265Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T14:57:53.581Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T14:57:54.617Z - info: [ui] Executing push: git push origin main:main --progress (took 4.339s)
+2025-12-23T14:57:54.619Z - error: [ui] `git push origin main:main --progress` exited with an unexpected code: 1.
+To https://github.com/dccp-developers/DccpAdminV3.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/dccp-developers/DccpAdminV3.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 11: The repository has been updated since you last pulled. Try pulling before pushing.)
+2025-12-23T14:57:58.703Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T14:57:59.947Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 1.747s)
+2025-12-23T14:58:00.343Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T14:58:01.212Z - info: [ui] Executing updateRemoteHEAD: git remote set-head -a origin (took 1.263s)
+2025-12-23T14:58:01.673Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:5216:32
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+    at Op.performFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:5173:5)
+    at Cw.performAndScheduleFetch (/home/admin/webpack:/app/src/lib/stores/helpers/background-fetcher.ts:92:7)
+2025-12-23T14:58:02.087Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:5216:32
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+    at Op.performFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:5173:5)
+    at Cw.performAndScheduleFetch (/home/admin/webpack:/app/src/lib/stores/helpers/background-fetcher.ts:92:7)
+2025-12-23T14:59:58.337Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 1.5s of which 0.0s paused, total 1.5s
+2025-12-23T15:04:21.383Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T15:04:22.206Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 1.418s)
+2025-12-23T15:04:22.596Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T15:04:23.659Z - info: [ui] Executing updateRemoteHEAD: git remote set-head -a origin (took 1.452s)
+2025-12-23T15:04:24.878Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:5216:32
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+    at Op.performFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:5173:5)
+    at Object.onFetch [as onSubmit] (/home/admin/webpack:/app/src/ui/push-needs-pull/push-needs-pull-warning.tsx:62:32)
+2025-12-23T15:04:25.295Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:5216:32
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+    at Op.performFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:5173:5)
+    at Object.onFetch [as onSubmit] (/home/admin/webpack:/app/src/ui/push-needs-pull/push-needs-pull-warning.tsx:62:32)
+2025-12-23T15:04:26.811Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T15:04:28.806Z - info: [ui] Executing pull: git -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 2.549s)
+2025-12-23T15:04:29.681Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T15:04:30.863Z - info: [ui] Executing updateRemoteHEAD: git remote set-head -a origin (took 2.055s)
+2025-12-23T15:04:31.309Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:4845:45
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+2025-12-23T15:04:31.926Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:4845:45
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+2025-12-23T15:04:34.288Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T15:04:35.205Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T15:04:36.025Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T15:04:38.145Z - info: [ui] Executing push: git push origin main:main --progress (took 4.319s)
+2025-12-23T15:04:38.671Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T15:04:45.620Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 7.473s)
+2025-12-23T15:04:46.056Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-12-23T15:04:46.935Z - info: [ui] Executing updateRemoteHEAD: git remote set-head -a origin (took 1.308s)
+2025-12-23T15:04:47.818Z - info: [ui] [fetchAllRepoRulesets] unable to fetch all repo rulesets | repos/dccp-developers/DccpAdminV3/rulesets
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchAllRepoRulesets (/home/admin/webpack:/app/src/lib/api.ts:1672:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1248:15)
+    at h.performFailableOperation.retryAction (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4640:43)
+    at Gw.performFailableOperation (/home/admin/webpack:/app/src/lib/stores/git-store.ts:908:7)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:4596:47
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)
+2025-12-23T15:04:48.241Z - info: [ui] [fetchRepoRulesForBranch] unable to fetch repo rules for branch: main | repos/dccp-developers/DccpAdminV3/rules/branches/main
+Error: Upgrade to GitHub Pro or make this repository public to enable this feature.
+    at Nt (/home/admin/webpack:/app/src/lib/http.ts:178:11)
+    at Yn.fetchRepoRulesForBranch (/home/admin/webpack:/app/src/lib/api.ts:1651:7)
+    at Op.refreshBranchProtectionState (/home/admin/webpack:/app/src/lib/stores/app-store.ts:1269:15)
+    at h.performFailableOperation.retryAction (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4640:43)
+    at Gw.performFailableOperation (/home/admin/webpack:/app/src/lib/stores/git-store.ts:908:7)
+    at /home/admin/webpack:/app/src/lib/stores/app-store.ts:4596:47
+    at Op.withPushPullFetch (/home/admin/webpack:/app/src/lib/stores/app-store.ts:4707:5)

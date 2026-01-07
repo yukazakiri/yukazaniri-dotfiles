@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Toevoegen aan favorieten"
+   },
+   "basic_font": {
+      "message": "Dit lettertype is al geïnstalleerd op Windows- en Mac-computers. Geen download nodig voor je site."
+   },
+   "chrome_limitations": {
+      "message": "Technische beperkingen voorkomen dat de extensie werkt op Chrome Web Store-pagina's of Chrome-instellingenpagina's."
+   },
+   "clear": {
+      "message": "Lijst wissen"
+   },
+   "contact_us": {
+      "message": "Neem contact op"
+   },
+   "copy": {
+      "message": "Kopiëren"
+   },
+   "download": {
+      "message": "Downloaden"
+   },
+   "extDescription": {
+      "message": "Font finder is een lichte extensie waarmee je het lettertype van tekst op het scherm kunt vinden."
+   },
+   "extName": {
+      "message": "Font finder - Lettertype van tekst vinden"
+   },
+   "favorites": {
+      "message": "Favorieten"
+   },
+   "link": {
+      "message": "Link"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Meer.."
+   },
+   "pick_color_button": {
+      "message": "Lettertype op de pagina vinden"
+   },
+   "rating": {
+      "message": "Beoordeel de extensie"
+   },
+   "recent": {
+      "message": "Recent"
+   },
+   "remove_from_favorites": {
+      "message": "Verwijderen uit favorieten"
+   },
+   "report_bug": {
+      "message": "Bug melden"
+   },
+   "settings": {
+      "message": "Instellingen"
+   },
+   "settings_auto_copy": {
+      "message": "Lettertype naam automatisch kopiëren"
+   },
+   "settings_keep_history": {
+      "message": "Recente lettertypen opslaan"
+   },
+   "settings_shortcut": {
+      "message": "Sneltoets instellen"
+   }
+}

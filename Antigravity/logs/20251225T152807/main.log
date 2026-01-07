@@ -1,0 +1,16 @@
+2025-12-25 15:28:07.387 [info] Using Cloud Code URL: https://daily-cloudcode-pa.googleapis.com
+2025-12-25 15:28:07.387 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-12-25 15:28:07.387 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:35617
+2025-12-25 15:28:07.387 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9101/antigravity
+2025-12-25 15:28:07.387 [info] update#setState idle
+2025-12-25 15:28:09.183 [info] AntigravityAuthMainService initialized
+2025-12-25 15:28:16.176 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/admin/Documents/GitHub/DccpAdminV3
+2025-12-25 15:28:16.176 [info] [AgentClientServer] Starting server
+2025-12-25 15:28:16.187 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-25 15:28:16.188 [info] [AgentClientServer] Cascade server started on http://localhost:9092
+2025-12-25 15:28:16.189 [info] [AgentClientServer] Cascade server started on port 9092
+2025-12-25 15:28:37.388 [info] update#setState checking for updates
+2025-12-25 15:28:37.694 [info] update#setState idle
+2025-12-25 15:53:29.297 [info] Extension host with pid 193617 exited with code: 0, signal: unknown.
+2025-12-25 15:53:30.299 [error] Extension host with pid 193617 still exists, forcefully killing it...
+2025-12-25 16:12:23.681 [error] [UtilityProcess type: ptyHost, pid: 193655]: crashed with code 15 and reason 'killed'

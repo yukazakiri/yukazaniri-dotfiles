@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Tambah ke kegemaran"
+   },
+   "basic_font": {
+      "message": "Fon ini sudah dipasang pada komputer Windows dan Mac. Tidak perlu memuat turunnya untuk laman anda."
+   },
+   "chrome_limitations": {
+      "message": "Beberapa batasan teknikal menghalang sambungan ini berfungsi pada halaman Chrome Web Store atau halaman tetapan Chrome."
+   },
+   "clear": {
+      "message": "Kosongkan senarai"
+   },
+   "contact_us": {
+      "message": "Hubungi kami"
+   },
+   "copy": {
+      "message": "Salin"
+   },
+   "download": {
+      "message": "Muat turun"
+   },
+   "extDescription": {
+      "message": "Font finder adalah sambungan ringan yang membolehkan anda mencari fon teks di skrin."
+   },
+   "extName": {
+      "message": "Font finder - Cari fon teks"
+   },
+   "favorites": {
+      "message": "Kegemaran"
+   },
+   "link": {
+      "message": "Pautan"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Lagi.."
+   },
+   "pick_color_button": {
+      "message": "Cari fon di halaman"
+   },
+   "rating": {
+      "message": "Beri penilaian pada sambungan"
+   },
+   "recent": {
+      "message": "Terkini"
+   },
+   "remove_from_favorites": {
+      "message": "Keluarkan dari kegemaran"
+   },
+   "report_bug": {
+      "message": "Laporkan pepijat"
+   },
+   "settings": {
+      "message": "Tetapan"
+   },
+   "settings_auto_copy": {
+      "message": "Salin nama fon secara automatik"
+   },
+   "settings_keep_history": {
+      "message": "Simpan fon terkini"
+   },
+   "settings_shortcut": {
+      "message": "Tetapkan pintasan papan kekunci"
+   }
+}

@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "즐겨찾기에 추가"
+   },
+   "basic_font": {
+      "message": "이 글꼴은 Windows와 Mac에 이미 설치되어 있습니다. 사이트에 다운로드할 필요가 없습니다."
+   },
+   "chrome_limitations": {
+      "message": "일부 기술적 제한으로 인해 Chrome 웹 스토어 페이지나 Chrome 설정 페이지에서는 확장 프로그램이 작동하지 않습니다."
+   },
+   "clear": {
+      "message": "목록 지우기"
+   },
+   "contact_us": {
+      "message": "문의하기"
+   },
+   "copy": {
+      "message": "복사"
+   },
+   "download": {
+      "message": "다운로드"
+   },
+   "extDescription": {
+      "message": "Font finder는 화면의 텍스트 글꼴을 찾을 수 있는 가벼운 확장 프로그램입니다."
+   },
+   "extName": {
+      "message": "Font finder - 텍스트의 글꼴 찾기"
+   },
+   "favorites": {
+      "message": "즐겨찾기"
+   },
+   "link": {
+      "message": "링크"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "더보기.."
+   },
+   "pick_color_button": {
+      "message": "페이지에서 글꼴 찾기"
+   },
+   "rating": {
+      "message": "확장 프로그램 평가하기"
+   },
+   "recent": {
+      "message": "최근"
+   },
+   "remove_from_favorites": {
+      "message": "즐겨찾기에서 제거"
+   },
+   "report_bug": {
+      "message": "버그 신고"
+   },
+   "settings": {
+      "message": "설정"
+   },
+   "settings_auto_copy": {
+      "message": "글꼴 이름 자동 복사"
+   },
+   "settings_keep_history": {
+      "message": "최근 글꼴 저장"
+   },
+   "settings_shortcut": {
+      "message": "단축키 설정"
+   }
+}

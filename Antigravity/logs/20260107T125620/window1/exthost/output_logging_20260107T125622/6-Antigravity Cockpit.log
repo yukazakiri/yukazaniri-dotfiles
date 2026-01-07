@@ -1,0 +1,70 @@
+[2026-01-07 04:56:26] [INFO] Antigravity Cockpit v1.5.34 - Systems Online
+[2026-01-07 04:56:26] [INFO] Scanning environment, max attempts: 3
+[2026-01-07 04:56:26] [INFO] Found 1 candidate process(es)
+[2026-01-07 04:56:26] [INFO] 🔍 Checking Process: PID=399118, ExtPort=35751
+[2026-01-07 04:56:26] [INFO] [UnixStrategy] Port command available: lsof
+[2026-01-07 04:56:26] [INFO] ✅ Connection Logic Verified: 39097
+[2026-01-07 04:56:26] [INFO] Reactor Engaged: :39097
+[2026-01-07 04:56:26] [INFO] Reactor Pulse: 120000ms
+[2026-01-07 04:56:26] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2026-01-07 04:56:26] [INFO] System boot successful
+[2026-01-07 04:56:26] [INFO] Antigravity Cockpit Fully Operational
+[2026-01-07 04:56:26] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6946
+}
+[2026-01-07 04:56:26] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 99.38%
+    Gemini 3 Pro (Low)           : 99.38%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 100.00%
+    Claude Sonnet 4.5 (Thinking) : 100.00%
+    Claude Opus 4.5 (Thinking)   : 100.00%
+    GPT-OSS 120B (Medium)        : 100.00%
+[2026-01-07 04:56:49] [INFO] Dashboard initialized (reprocessing cached data)
+[2026-01-07 04:56:49] [INFO] Reprocessing cached telemetry data with latest config
+[2026-01-07 04:58:26] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2026-01-07 04:58:26] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6946
+}
+[2026-01-07 04:58:26] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 99.38%
+    Gemini 3 Pro (Low)           : 99.38%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 100.00%
+    Claude Sonnet 4.5 (Thinking) : 100.00%
+    Claude Opus 4.5 (Thinking)   : 100.00%
+    GPT-OSS 120B (Medium)        : 100.00%
+[2026-01-07 04:59:40] [INFO] User triggered manual refresh
+[2026-01-07 04:59:40] [INFO] Transmitting signal to /exa.language_server_pb.LanguageServerService/GetUserStatus {
+  "metadata": {
+    "ideName": "antigravity",
+    "extensionName": "antigravity",
+    "locale": "en"
+  }
+}
+[2026-01-07 04:59:40] [INFO] Signal Received (200): {
+  "statusCode": 200,
+  "bodyLength": 6946
+}
+[2026-01-07 04:59:40] [INFO] Quota Update:
+    Gemini 3 Pro (High)          : 99.38%
+    Gemini 3 Pro (Low)           : 99.38%
+    Gemini 3 Flash               : 100.00%
+    Claude Sonnet 4.5            : 100.00%
+    Claude Sonnet 4.5 (Thinking) : 100.00%
+    Claude Opus 4.5 (Thinking)   : 100.00%
+    GPT-OSS 120B (Medium)        : 100.00%

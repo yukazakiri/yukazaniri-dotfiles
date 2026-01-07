@@ -1,0 +1,68 @@
+{
+   "add_to_favorites": {
+      "message": "Добави към любими"
+   },
+   "basic_font": {
+      "message": "Този шрифт вече е инсталиран на компютри с Windows и Mac. Няма нужда да го изтегляте за вашия сайт."
+   },
+   "chrome_limitations": {
+      "message": "Някои технически ограничения пречат на разширението да работи на страниците на Chrome Web Store или страниците за настройки на Chrome."
+   },
+   "clear": {
+      "message": "Изчисти списъка"
+   },
+   "contact_us": {
+      "message": "Свържете се с нас"
+   },
+   "copy": {
+      "message": "Копирай"
+   },
+   "download": {
+      "message": "Изтегли"
+   },
+   "extDescription": {
+      "message": "Font finder е леко разширение, което ви позволява да намерите шрифта на текст на екрана."
+   },
+   "extName": {
+      "message": "Font finder - Намиране на шрифт на текст"
+   },
+   "favorites": {
+      "message": "Любими"
+   },
+   "link": {
+      "message": "Връзка"
+   },
+   "logo": {
+      "message": "Font finder"
+   },
+   "more": {
+      "message": "Още.."
+   },
+   "pick_color_button": {
+      "message": "Намери шрифт на страницата"
+   },
+   "rating": {
+      "message": "Оценете разширението"
+   },
+   "recent": {
+      "message": "Скорошни"
+   },
+   "remove_from_favorites": {
+      "message": "Премахни от любими"
+   },
+   "report_bug": {
+      "message": "Докладвай за грешка"
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "settings_auto_copy": {
+      "message": "Автоматично копиране на името на шрифта"
+   },
+   "settings_keep_history": {
+      "message": "Запазване на скорошни шрифтове"
+   },
+   "settings_shortcut": {
+      "message": "Задайте клавишна комбинация"
+   }
+}
