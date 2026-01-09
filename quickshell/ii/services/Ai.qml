@@ -42,6 +42,7 @@ Singleton {
     // property var messages: []
     property var messageIDs: []
     property var messageByID: ({})
+    property bool _pendingRequest: false
     readonly property var apiKeys: KeyringStorage.keyringData?.apiKeys ?? {}
     readonly property var apiKeysLoaded: KeyringStorage.loaded
     readonly property bool currentModelHasApiKey: {
@@ -257,19 +258,6 @@ Singleton {
     // - api_format: The API format of the model. Can be "openai" or "gemini". Default is "openai".
     // - extraParams: Extra parameters to be passed to the model. This is a JSON object.
     property var models: (Config.options?.policies?.ai ?? 0) === 2 ? {} : {
-        "gemini-2.0-flash": aiModelComponent.createObject(this, {
-            "name": "Gemini 2.0 Flash",
-            "icon": "google-gemini-symbolic",
-            "description": Translation.tr("Online | Google's model\nFast, can perform searches for up-to-date information"),
-            "homepage": "https://aistudio.google.com",
-            "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:streamGenerateContent",
-            "model": "gemini-2.0-flash",
-            "requires_key": true,
-            "key_id": "gemini",
-            "key_get_link": "https://aistudio.google.com/app/apikey",
-            "key_get_description": Translation.tr("**Pricing**: free. Data used for training.\n\n**Instructions**: Log into Google account, allow AI Studio to create Google Cloud project or whatever it asks, go back and click Get API key"),
-            "api_format": "gemini",
-        }),
         "gemini-2.5-flash": aiModelComponent.createObject(this, {
             "name": "Gemini 2.5 Flash",
             "icon": "google-gemini-symbolic",
@@ -283,26 +271,13 @@ Singleton {
             "key_get_description": Translation.tr("**Pricing**: free. Data used for training.\n\n**Instructions**: Log into Google account, allow AI Studio to create Google Cloud project or whatever it asks, go back and click Get API key"),
             "api_format": "gemini",
         }),
-        "gemini-2.5-flash-pro": aiModelComponent.createObject(this, {
-            "name": "Gemini 2.5 Pro",
+        "gemini-3-flash": aiModelComponent.createObject(this, {
+            "name": "Gemini 3 Flash",
             "icon": "google-gemini-symbolic",
-            "description": Translation.tr("Online | Google's model\nGoogle's state-of-the-art multipurpose model that excels at coding and complex reasoning tasks."),
+            "description": Translation.tr("Online | Google's model\nPro-level intelligence at the speed and pricing of Flash."),
             "homepage": "https://aistudio.google.com",
-            "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:streamGenerateContent",
-            "model": "gemini-2.5-pro",
-            "requires_key": true,
-            "key_id": "gemini",
-            "key_get_link": "https://aistudio.google.com/app/apikey",
-            "key_get_description": Translation.tr("**Pricing**: free. Data used for training.\n\n**Instructions**: Log into Google account, allow AI Studio to create Google Cloud project or whatever it asks, go back and click Get API key"),
-            "api_format": "gemini",
-        }),
-        "gemini-2.5-flash-lite": aiModelComponent.createObject(this, {
-            "name": "Gemini 2.5 Flash-Lite",
-            "icon": "google-gemini-symbolic",
-            "description": Translation.tr("Online | Google's model\nA Gemini 2.5 Flash model optimized for cost-efficiency and high throughput."),
-            "homepage": "https://aistudio.google.com",
-            "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:streamGenerateContent",
-            "model": "gemini-2.5-flash-lite",
+            "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:streamGenerateContent",
+            "model": "gemini-3-flash-preview",
             "requires_key": true,
             "key_id": "gemini",
             "key_get_link": "https://aistudio.google.com/app/apikey",
@@ -322,34 +297,14 @@ Singleton {
             "key_get_description": Translation.tr("**Instructions**: Log into Mistral account, go to Keys on the sidebar, click Create new key"),
             "api_format": "mistral",
         }),
-        "github-gpt-5-nano": aiModelComponent.createObject(this, {
-            "name": "GPT-5 Nano (GH Models)",
-            "icon": "github-symbolic",
-            "api_format": "openai",
-            "description": Translation.tr("Online via %1 | %2's model").arg("GitHub Models").arg("OpenAI"),
-            "homepage": "https://github.com/marketplace/models",
-            "endpoint": "https://models.inference.ai.azure.com/chat/completions",
-            "model": "gpt-5-nano",
-            "requires_key": true,
-            "key_id": "github",
-            "key_get_link": "https://github.com/settings/tokens",
-            "key_get_description": Translation.tr("**Pricing**: Free tier available with limited rates. See https://docs.github.com/en/billing/concepts/product-billing/github-models\n\n**Instructions**: Generate a GitHub personal access token with Models permission, then set as API key here\n\n**Note**: To use this you will have to set the temperature parameter to 1"),
-        }),
-        "openrouter-deepseek-r1": aiModelComponent.createObject(this, {
-            "name": "DeepSeek R1",
-            "icon": "deepseek-symbolic",
-            "description": Translation.tr("Online via %1 | %2's model").arg("OpenRouter").arg("DeepSeek"),
-            "homepage": "https://openrouter.ai/deepseek/deepseek-r1:free",
-            "endpoint": "https://openrouter.ai/api/v1/chat/completions",
-            "model": "deepseek/deepseek-r1:free",
-            "requires_key": true,
-            "key_id": "openrouter",
-            "key_get_link": "https://openrouter.ai/settings/keys",
-            "key_get_description": Translation.tr("**Pricing**: free. Data use policy varies depending on your OpenRouter account settings.\n\n**Instructions**: Log into OpenRouter account, go to Keys on the topright menu, click Create API Key"),
-        }),
+        // OpenRouter free models are loaded dynamically via getOpenRouterModels
     }
     property var modelList: Object.keys(root.models)
-    property var currentModelId: Persistent.states?.ai?.model || modelList[0]
+    property var currentModelId: {
+        const saved = Persistent.states?.ai?.model
+        // Validate saved model still exists, fallback to first available
+        return (saved && root.models[saved]) ? saved : modelList[0]
+    }
 
     property var apiStrategies: {
         "openai": openaiApiStrategy.createObject(this),
@@ -378,12 +333,24 @@ Singleton {
         root._initialized = true;
 
         getOllamaModels.running = true
+        getOpenRouterModels.running = true
         getDefaultPrompts.running = true
         getUserPrompts.running = true
         getSavedChats.running = true
 
         // Do necessary setup for model
         setModel(currentModelId, false, false);
+    }
+
+    // Retry pending request when API keys finish loading
+    Connections {
+        target: KeyringStorage
+        function onLoadedChanged() {
+            if (KeyringStorage.loaded && root._pendingRequest) {
+                root._pendingRequest = false;
+                requester.makeRequest();
+            }
+        }
     }
 
     Component.onCompleted: {
@@ -418,7 +385,7 @@ Singleton {
     Process {
         id: getOllamaModels
         running: false
-        command: ["bash", "-c", `${Directories.scriptPath}/ai/show-installed-ollama-models.sh`.replace(/file:\/\//, "")]
+        command: ["/usr/bin/bash", "-c", `${Directories.scriptPath}/ai/show-installed-ollama-models.sh`.replace(/file:\/\//, "")]
         stdout: SplitParser {
             onRead: data => {
                 try {
@@ -448,9 +415,48 @@ Singleton {
     }
 
     Process {
+        id: getOpenRouterModels
+        running: false
+        command: ["/usr/bin/curl", "-s", "https://openrouter.ai/api/v1/models"]
+        stdout: StdioCollector {
+            onStreamFinished: {
+                try {
+                    if (text.length === 0) return;
+                    const response = JSON.parse(text);
+                    const freeModels = (response.data || []).filter(m => 
+                        m.pricing?.prompt === "0" && m.pricing?.completion === "0"
+                    );
+                    
+                    freeModels.forEach(model => {
+                        const safeModelName = "openrouter-" + root.safeModelName(model.id);
+                        const provider = model.id.split("/")[0] || "Unknown";
+                        root.addModel(safeModelName, {
+                            "name": model.name || model.id,
+                            "icon": root.guessModelLogo(model.id),
+                            "description": Translation.tr("Free via OpenRouter | %1").arg(provider),
+                            "homepage": `https://openrouter.ai/${model.id}`,
+                            "endpoint": "https://openrouter.ai/api/v1/chat/completions",
+                            "model": model.id,
+                            "requires_key": true,
+                            "key_id": "openrouter",
+                            "key_get_link": "https://openrouter.ai/settings/keys",
+                            "key_get_description": Translation.tr("**Pricing**: free tier model.\n\n**Instructions**: Log into OpenRouter, go to Keys, click Create API Key"),
+                        });
+                    });
+                    
+                    root.modelList = Object.keys(root.models);
+                    console.log("[Ai] Loaded", freeModels.length, "free OpenRouter models");
+                } catch (e) {
+                    console.log("[Ai] Could not fetch OpenRouter models:", e);
+                }
+            }
+        }
+    }
+
+    Process {
         id: getDefaultPrompts
         running: false
-        command: ["ls", "-1", Directories.defaultAiPrompts]
+        command: ["/usr/bin/ls", "-1", Directories.defaultAiPrompts]
         stdout: StdioCollector {
             onStreamFinished: {
                 if (text.length === 0) return;
@@ -464,7 +470,7 @@ Singleton {
     Process {
         id: getUserPrompts
         running: false
-        command: ["ls", "-1", Directories.userAiPrompts]
+        command: ["/usr/bin/ls", "-1", Directories.userAiPrompts]
         stdout: StdioCollector {
             onStreamFinished: {
                 if (text.length === 0) return;
@@ -478,7 +484,7 @@ Singleton {
     Process {
         id: getSavedChats
         running: false
-        command: ["ls", "-1", Directories.aiChats]
+        command: ["/usr/bin/ls", "-1", Directories.aiChats]
         stdout: StdioCollector {
             onStreamFinished: {
                 if (text.length === 0) return;
@@ -556,7 +562,10 @@ Singleton {
                 )
                 return
             }
-            if (setPersistentState) Config.setNestedValue(["ai", "model"], modelId);
+            root.currentModelId = modelId;
+            if (setPersistentState && Persistent.states?.ai) {
+                Persistent.states.ai.model = modelId;
+            }
             if (feedback) root.addMessage(Translation.tr("Model set to %1").arg(model.name), root.interfaceRole);
             if (model.requires_key) {
                 // If key not there show advice
@@ -639,7 +648,7 @@ Singleton {
 
     Process {
         id: requester
-        property list<string> baseCommand: ["bash"]
+        property list<string> baseCommand: ["/usr/bin/bash"]
         property AiMessageData message
         property ApiStrategy currentStrategy
 
@@ -656,8 +665,13 @@ Singleton {
         function makeRequest() {
             const model = models[currentModelId];
 
-            // Fetch API keys if needed
-            if (model?.requires_key && !KeyringStorage.loaded) KeyringStorage.fetchKeyringData();
+            // Ensure API keys are loaded before making request
+            if (model?.requires_key && !KeyringStorage.loaded) {
+                KeyringStorage.fetchKeyringData();
+                // Wait for keys to load, then retry
+                _pendingRequest = true;
+                return;
+            }
             
             requester.currentStrategy = root.currentApiStrategy;
             requester.currentStrategy.reset(); // Reset strategy state
@@ -714,7 +728,7 @@ Singleton {
 
             /* Create command string */
             let scriptRequestContent = ""
-            scriptRequestContent += `curl --no-buffer "${endpoint}"`
+            scriptRequestContent += `curl -sS --no-buffer "${endpoint}"`
                 + ` ${headerString}`
                 + (authHeader ? ` ${authHeader}` : "")
                 + ` --data '${CF.StringUtils.shellSingleQuoteEscape(JSON.stringify(data))}'`
@@ -733,7 +747,7 @@ Singleton {
             onRead: data => {
                 if (data.length === 0) return;
                 if (requester.message.thinking) requester.message.thinking = false;
-                // console.log("[Ai] Raw response line: ", data);
+                console.log("[Ai] Raw response line: ", data.substring(0, 100));
 
                 // Handle response line
                 try {
@@ -845,13 +859,11 @@ Singleton {
         property string shellCommand: ""
         property AiMessageData message
         property string baseMessageContent: ""
-        command: ["bash", "-c", shellCommand]
+        command: ["/usr/bin/bash", "-c", shellCommand]
         stdout: SplitParser {
             onRead: (output) => {
                 commandExecutionProc.message.functionResponse += output + "\n\n";
-                const updatedContent = commandExecutionProc.baseMessageContent + `\n\n<think>\n<tt>${commandExecutionProc.message.functionResponse}</tt>\n</think>`;
-                commandExecutionProc.message.rawContent = updatedContent;
-                commandExecutionProc.message.content = updatedContent;
+                root._log("[Ai] commandExecutionProc output:", output)
             }
         }
         onExited: (exitCode, exitStatus) => {

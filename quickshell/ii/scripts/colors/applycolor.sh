@@ -50,8 +50,6 @@ apply_term() {
       } & disown || true
     fi
   done
-
-  "$SCRIPT_DIR"/terminal/update-terminals.sh &
 }
 
 apply_qt() {

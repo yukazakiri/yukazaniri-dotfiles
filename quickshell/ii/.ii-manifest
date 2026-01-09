@@ -288,6 +288,7 @@ modules/bar/ActiveWindow.qml
 modules/bar/BarContent.qml
 modules/bar/BarGroup.qml
 modules/bar/Bar.qml
+modules/bar/BarVignette.qml
 modules/bar/BatteryIndicator.qml
 modules/bar/BatteryPopup.qml
 modules/bar/CircleUtilButton.qml
@@ -341,6 +342,7 @@ modules/common/functions/Levendist.qml
 modules/common/functions/NotificationUtils.qml
 modules/common/functions/ObjectUtils.qml
 modules/common/functions/Session.qml
+modules/common/functions/ShellExec.qml
 modules/common/functions/StringUtils.qml
 modules/common/Icons.qml
 modules/common/Images.qml
@@ -367,6 +369,7 @@ modules/common/models/quickToggles/PowerProfilesToggle.qml
 modules/common/models/quickToggles/qmldir
 modules/common/models/quickToggles/QuickToggleModel.qml
 modules/common/models/quickToggles/ScreenSnipToggle.qml
+modules/common/NerdIconMap.qml
 modules/common/Persistent.qml
 modules/common/StylePresets.qml
 modules/common/ThemePresets.qml
@@ -405,6 +408,7 @@ modules/common/widgets/FlowButtonGroup.qml
 modules/common/widgets/FocusedScrollMouseArea.qml
 modules/common/widgets/FontSelector.qml
 modules/common/widgets/FullscreenPolkitWindow.qml
+modules/common/widgets/GlassBackground.qml
 modules/common/widgets/Graph.qml
 modules/common/widgets/GroupButton.qml
 modules/common/widgets/IconThemeSelector.qml
@@ -444,7 +448,12 @@ modules/common/widgets/SecondaryTabBar.qml
 modules/common/widgets/SecondaryTabButton.qml
 modules/common/widgets/SelectionDialog.qml
 modules/common/widgets/SelectionGroupButton.qml
+modules/common/widgets/SettingsCardSection.qml
+modules/common/widgets/SettingsDivider.qml
+modules/common/widgets/SettingsGroup.qml
+modules/common/widgets/SettingsMaterialPreset.qml
 modules/common/widgets/SettingsSearchRegistry.qml
+modules/common/widgets/SettingsSwitch.qml
 modules/common/widgets/shapes/example.qml
 modules/common/widgets/shapes/geometry/offset.js
 modules/common/widgets/shapes/.gitignore
@@ -547,6 +556,7 @@ modules/mediaControls/PlayerControl.qml
 modules/notificationPopup/NotificationPopup.qml
 modules/onScreenDisplay/indicators/BrightnessIndicator.qml
 modules/onScreenDisplay/indicators/MediaIndicator.qml
+modules/onScreenDisplay/indicators/VoiceSearchIndicator.qml
 modules/onScreenDisplay/indicators/VolumeIndicator.qml
 modules/onScreenDisplay/OnScreenDisplay.qml
 modules/onScreenDisplay/OsdValueIndicator.qml
@@ -604,9 +614,15 @@ modules/sidebarLeft/anime/BooruImage.qml
 modules/sidebarLeft/anime/BooruResponse.qml
 modules/sidebarLeft/Anime.qml
 modules/sidebarLeft/anime/qmldir
+modules/sidebarLeft/animeSchedule/AnimeCard.qml
+modules/sidebarLeft/animeSchedule/AnimeScheduleView.qml
+modules/sidebarLeft/animeSchedule/qmldir
 modules/sidebarLeft/ApiCommandButton.qml
 modules/sidebarLeft/ApiInputBoxIndicator.qml
 modules/sidebarLeft/DescriptionBox.qml
+modules/sidebarLeft/reddit/qmldir
+modules/sidebarLeft/reddit/RedditCard.qml
+modules/sidebarLeft/reddit/RedditView.qml
 modules/sidebarLeft/ScrollToBottomButton.qml
 modules/sidebarLeft/SidebarLeftContent.qml
 modules/sidebarLeft/SidebarLeft.qml
@@ -615,6 +631,19 @@ modules/sidebarLeft/Translator.qml
 modules/sidebarLeft/translator/TextCanvas.qml
 modules/sidebarLeft/Wallhaven.qml
 modules/sidebarLeft/WallhavenView.qml
+modules/sidebarLeft/widgets/ContextCard.qml
+modules/sidebarLeft/widgets/ControlsCard.qml
+modules/sidebarLeft/widgets/CryptoWidget.qml
+modules/sidebarLeft/widgets/DraggableWidgetContainer.qml
+modules/sidebarLeft/widgets/GlanceHeader.qml
+modules/sidebarLeft/widgets/MediaPlayerWidget.qml
+modules/sidebarLeft/widgets/qmldir
+modules/sidebarLeft/widgets/QuickLaunch.qml
+modules/sidebarLeft/widgets/QuickNote.qml
+modules/sidebarLeft/widgets/QuickWallpaper.qml
+modules/sidebarLeft/widgets/StatusRings.qml
+modules/sidebarLeft/WidgetsView.qml
+modules/sidebarLeft/widgets/WeekStrip.qml
 modules/sidebarRight/bluetoothDevices/BluetoothDeviceItem.qml
 modules/sidebarRight/bluetoothDevices/BluetoothDialog.qml
 modules/sidebarRight/BottomWidgetGroup.qml
@@ -654,8 +683,10 @@ modules/sidebarRight/quickToggles/androidStyle/AndroidPowerProfileToggle.qml
 modules/sidebarRight/quickToggles/androidStyle/AndroidQuickToggleButton.qml
 modules/sidebarRight/quickToggles/androidStyle/AndroidScreenSnipToggle.qml
 modules/sidebarRight/quickToggles/androidStyle/AndroidToggleDelegateChooser.qml
+modules/sidebarRight/quickToggles/androidStyle/AndroidVoiceSearch.qml
 modules/sidebarRight/quickToggles/ClassicQuickPanel.qml
 modules/sidebarRight/quickToggles/classicStyle/BluetoothToggle.qml
+modules/sidebarRight/quickToggles/classicStyle/ClassicToggleDelegateChooser.qml
 modules/sidebarRight/quickToggles/classicStyle/CloudflareWarp.qml
 modules/sidebarRight/quickToggles/classicStyle/EasyEffectsToggle.qml
 modules/sidebarRight/quickToggles/classicStyle/GameMode.qml
@@ -811,6 +842,7 @@ modules/waffle/notificationCenter/SmallBorderedIconAndTextButton.qml
 modules/waffle/notificationCenter/SmallBorderedIconButton.qml
 modules/waffle/notificationCenter/WaffleNotificationCenter.qml
 modules/waffle/notificationCenter/WNotificationAppIcon.qml
+modules/waffle/notificationCenter/WNotificationDismissAnim.qml
 modules/waffle/notificationCenter/WNotificationGroup.qml
 modules/waffle/notificationCenter/WSingleNotification.qml
 modules/waffle/notificationPopup/qmldir
@@ -881,11 +913,11 @@ modules/waffle/widgets/WidgetsContent.qml
 modules/wallpaperSelector/WallpaperDirectoryItem.qml
 modules/wallpaperSelector/WallpaperSelectorContent.qml
 modules/wallpaperSelector/WallpaperSelector.qml
-requirements.txt
 scripts/ai/gemini-categorize-wallpaper.sh
 scripts/ai/gemini-translate.sh
 scripts/ai/show-installed-ollama-models.sh
 scripts/capture-windows.fish
+scripts/capture-windows.sh
 scripts/cava/raw_output_config.txt
 scripts/close-window.sh
 scripts/colors/applycolor.sh
@@ -921,6 +953,7 @@ scripts/thumbnails/generate-thumbnails-magick.sh
 scripts/thumbnails/thumbgen.py
 scripts/thumbnails/thumbgen-venv.sh
 scripts/videos/record.sh
+scripts/voiceSearch/record-voice.sh
 services/ai/AiMessageData.qml
 services/ai/AiModel.qml
 services/ai/ApiStrategy.qml
@@ -929,6 +962,7 @@ services/ai/MistralApiStrategy.qml
 services/ai/OpenAiApiStrategy.qml
 services/Ai.qml
 services/ai/qmldir
+services/AnimeService.qml
 services/AppSearch.qml
 services/Audio.qml
 services/Autostart.qml
@@ -967,8 +1001,10 @@ services/Notepad.qml
 services/Notifications.qml
 services/PolkitServiceImpl.qml
 services/PolkitService.qml
+services/PowerProfilePersistence.qml
 services/Privacy.qml
 services/RecorderStatus.qml
+services/RedditService.qml
 services/ResourceUsage.qml
 services/SessionWarnings.qml
 services/SongRec.qml
@@ -980,6 +1016,7 @@ services/Todo.qml
 services/Translation.qml
 services/TrayService.qml
 services/Updates.qml
+services/VoiceSearch.qml
 services/Wallhaven.qml
 services/Wallpapers.qml
 services/Weather.qml

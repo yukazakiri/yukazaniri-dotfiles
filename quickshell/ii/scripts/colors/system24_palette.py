@@ -66,11 +66,11 @@ def _resolve_output_files(env_var: str, default_path: Path) -> list[Path]:
 
 # Template for the full theme file
 THEME_TEMPLATE = '''/**
- * @name ii-niri Material
+ * @name iNiR Material
  * @description Material Design Discord theme with Material You colors.
- * @author refact0r (system24 base), ii-niri (Material adaptation)
+ * @author refact0r (system24 base), iNiR (Material adaptation)
  * @version 2.2.0
- * @source https://github.com/end-4/ii-niri
+ * @source https://github.com/end-4/iNiR
  */
 
 /*
@@ -130,10 +130,10 @@ body {{
 
 MIDNIGHT_THEME_TEMPLATE = '''/**
  * @name ii-midnight
- * @description dank-discord / midnight style theme using ii-niri Material You colors.
- * @author ii-niri (Material palette injection)
+ * @description dank-discord / midnight style theme using iNiR Material You colors.
+ * @author iNiR (Material palette injection)
  * @version 2.2.0
- * @source https://github.com/end-4/ii-niri
+ * @source https://github.com/end-4/iNiR
  */
 
 /*

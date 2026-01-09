@@ -78,8 +78,11 @@
             "m3tertiaryFixed": "#8ec07c",
             "m3tertiaryFixedDim": "#689d6a"
         },
+        "dockIconTheme": "",
         "extraBackgroundTint": true,
         "fakeScreenRounding": 1,
+        "globalStyle": "material",
+        "iconTheme": "",
         "palette": {
             "type": "scheme-rainbow"
         },
@@ -133,12 +136,14 @@
     },
     "background": {
         "backdrop": {
+            "auroraOverlayOpacity": 0.38,
             "blurRadius": 40,
             "contrast": 0,
             "dim": 40,
             "enable": false,
             "hideWallpaper": false,
             "saturation": 0,
+            "useAuroraStyle": false,
             "useMainWallpaper": false,
             "vignetteEnabled": false,
             "vignetteIntensity": 1,
@@ -153,6 +158,7 @@
             "enableBlur": false,
             "videoBlurStrength": 70
         },
+        "fillMode": "fill",
         "hideWhenFullscreen": true,
         "parallax": {
             "autoVertical": false,
@@ -163,7 +169,7 @@
             "workspaceZoom": 1
         },
         "thumbnailPath": "",
-        "wallpaperPath": "/home/admin/Pictures/homework/wallhaven-k8z3q1.jpg",
+        "wallpaperPath": "/home/library/Pictures/homework/wallhaven-vpp688.jpg",
         "widgets": {
             "clock": {
                 "cookie": {
@@ -217,6 +223,10 @@
                 "delay": 140,
                 "enable": true
             }
+        },
+        "blurBackground": {
+            "enabled": false,
+            "overlayOpacity": 0.3
         },
         "borderless": false,
         "bottom": false,
@@ -300,10 +310,13 @@
         },
         "verbose": true,
         "vertical": false,
+        "vignette": {
+            "enabled": false,
+            "intensity": 0.6,
+            "radius": 0.5
+        },
         "weather": {
-            "city": "",
             "enable": true,
-            "enableGPS": false,
             "fetchInterval": 10,
             "useUSCS": false
         },
@@ -350,6 +363,7 @@
         "code": "0;P;d;1;0l;10;0o;2;1b;0"
     },
     "dock": {
+        "cardStyle": false,
         "enable": false,
         "enableBlurGlass": false,
         "height": 60,
@@ -366,36 +380,15 @@
             "firefox"
         ],
         "pinnedOnStartup": true,
+        "position": "bottom",
         "showAllWindowDots": true,
         "showBackground": false,
+        "showOnDesktop": true,
         "smartIndicator": true
     },
     "enabledPanels": [
-        "iiBar",
-        "iiBackground",
-        "iiBackdrop",
-        "iiCheatsheet",
-        "iiDock",
-        "iiLock",
-        "iiMediaControls",
-        "iiNotificationPopup",
-        "iiOnScreenDisplay",
-        "iiOnScreenKeyboard",
-        "iiOverlay",
-        "iiOverview",
-        "iiPolkit",
-        "iiRegionSelector",
-        "iiScreenCorners",
-        "iiSessionScreen",
-        "iiSidebarLeft",
-        "iiSidebarRight",
-        "iiVerticalBar",
-        "iiWallpaperSelector",
-        "iiAltSwitcher",
-        "iiClipboard",
         "wBar",
         "wBackground",
-        "wBackdrop",
         "wStartMenu",
         "wActionCenter",
         "wNotificationCenter",
@@ -404,16 +397,32 @@
         "wWidgets",
         "wLock",
         "wPolkit",
-        "wSessionScreen"
+        "wSessionScreen",
+        "iiBackdrop",
+        "iiCheatsheet",
+        "iiLock",
+        "iiOnScreenKeyboard",
+        "iiOverlay",
+        "iiOverview",
+        "iiPolkit",
+        "iiRegionSelector",
+        "iiSessionScreen",
+        "iiWallpaperSelector",
+        "iiAltSwitcher",
+        "iiClipboard"
     ],
     "familyTransitionAnimation": true,
     "gameMode": {
         "autoDetect": true,
         "checkInterval": 2000,
         "disableAnimations": true,
+        "disableDiscoverOverlay": true,
         "disableEffects": true,
         "disableNiriAnimations": true,
-        "disableReloadToasts": true
+        "disableReloadToasts": true,
+        "minimalMode": true,
+        "niriWindowListUpdateIntervalMs": 100,
+        "niriWindowListUpdateIntervalMsGameMode": 500
     },
     "hacks": {
         "arbitraryRaceConditionDelay": 20
@@ -508,6 +517,7 @@
     "notifications": {
         "edgeMargin": 4,
         "position": "topRight",
+        "silent": false,
         "timeout": 3000,
         "timeoutCritical": 0,
         "timeoutLow": 5000,
@@ -560,7 +570,7 @@
         "windowTileMargin": 6,
         "workspaceSpacing": 5
     },
-    "panelFamily": "ii",
+    "panelFamily": "waffle",
     "performance": {
         "lowPower": false
     },
@@ -568,7 +578,14 @@
         "ai": 0,
         "weeb": 1
     },
+    "powerProfiles": {
+        "preferredProfile": "performance",
+        "restoreOnStart": true
+    },
     "regionSelector": {
+        "annotation": {
+            "useSatty": false
+        },
         "circle": {
             "padding": 10,
             "strokeWidth": 6
@@ -621,6 +638,10 @@
         "ai": {
             "textFadeIn": true
         },
+        "animeSchedule": {
+            "enable": false,
+            "showNsfw": false
+        },
         "booru": {
             "allowNsfw": false,
             "defaultProvider": "yandere",
@@ -629,6 +650,7 @@
                 "username": "[unset]"
             }
         },
+        "cardStyle": false,
         "cornerOpen": {
             "bottom": false,
             "clickless": false,
@@ -640,7 +662,9 @@
             "valueScroll": true,
             "visualize": true
         },
+        "keepLeftSidebarLoaded": true,
         "keepRightSidebarLoaded": true,
+        "openFolderOnDownload": false,
         "quickSliders": {
             "enable": true,
             "showBrightness": true,
@@ -687,6 +711,17 @@
             },
             "style": "android"
         },
+        "reddit": {
+            "enable": false,
+            "limit": 25,
+            "subreddits": [
+                "unixporn",
+                "linux",
+                "archlinux",
+                "kde",
+                "gnome"
+            ]
+        },
         "translator": {
             "delay": 300,
             "enable": true
@@ -695,6 +730,86 @@
             "apiKey": "",
             "enable": true,
             "limit": 24
+        },
+        "widgets": {
+            "context": true,
+            "contextShowWeather": true,
+            "controls": true,
+            "controlsCard": {
+                "showBluetooth": true,
+                "showDarkMode": true,
+                "showDnd": true,
+                "showGameMode": true,
+                "showLock": true,
+                "showNetwork": true,
+                "showNightLight": true,
+                "showSettings": true
+            },
+            "crypto": false,
+            "crypto_settings": {
+                "coins": [
+                    "bitcoin",
+                    "ethereum"
+                ],
+                "refreshInterval": 60
+            },
+            "enable": true,
+            "glance": {
+                "showDnd": true,
+                "showGameMode": true,
+                "showVolume": true
+            },
+            "launch": true,
+            "media": true,
+            "note": true,
+            "quickLaunch": [
+                {
+                    "cmd": "/usr/bin/nautilus",
+                    "icon": "folder",
+                    "name": "Files"
+                },
+                {
+                    "cmd": "/usr/bin/kitty",
+                    "icon": "terminal",
+                    "name": "Terminal"
+                },
+                {
+                    "cmd": "/usr/bin/firefox",
+                    "icon": "web",
+                    "name": "Browser"
+                },
+                {
+                    "cmd": "/usr/bin/code",
+                    "icon": "code",
+                    "name": "Code"
+                }
+            ],
+            "quickWallpaper": {
+                "itemSize": 72,
+                "showHeader": true
+            },
+            "spacing": 8,
+            "status": true,
+            "statusRings": {
+                "showBattery": true,
+                "showCpu": true,
+                "showDisk": true,
+                "showRam": true,
+                "showTemp": true
+            },
+            "wallpaper": false,
+            "week": true,
+            "widgetOrder": [
+                "media",
+                "week",
+                "context",
+                "note",
+                "launch",
+                "controls",
+                "status",
+                "crypto",
+                "wallpaper"
+            ]
         }
     },
     "sounds": {
@@ -728,6 +843,9 @@
         "adviseUpdateThreshold": 75,
         "checkInterval": 120,
         "stronglyAdviseUpdateThreshold": 200
+    },
+    "voiceSearch": {
+        "duration": 5
     },
     "waffles": {
         "actionCenter": {

@@ -2,6 +2,7 @@ import qs
 import qs.services
 import qs.modules.common
 import qs.modules.common.widgets
+import qs.modules.common.functions
 import QtQuick
 import QtQuick.Controls
 import QtQuick.Layouts
@@ -17,12 +18,16 @@ Rectangle {
 
     implicitWidth: contentItem.implicitWidth + root.horizontalPadding * 2
     implicitHeight: contentItem.implicitHeight + root.verticalPadding * 2
-    radius: Appearance.rounding.normal
-    color: Appearance.colors.colLayer1
+    radius: Appearance.inirEverywhere ? Appearance.inir.roundingNormal : Appearance.rounding.normal
+    color: Appearance.inirEverywhere ? Appearance.inir.colLayer1
+         : Appearance.auroraEverywhere ? "transparent" 
+         : Appearance.colors.colLayer1
+    border.width: Appearance.inirEverywhere ? 1 : 0
+    border.color: Appearance.inirEverywhere ? Appearance.inir.colBorder : "transparent"
     property real verticalPadding: 4
     property real horizontalPadding: 12
 
-    Column {
+    RowLayout {
         id: contentItem
         anchors {
             fill: parent
@@ -31,12 +36,11 @@ Rectangle {
             topMargin: root.verticalPadding
             bottomMargin: root.verticalPadding
         }
+        spacing: 10
 
         Loader {
-            anchors {
-                left: parent.left
-                right: parent.right
-            }
+            Layout.fillWidth: true
+            Layout.fillHeight: true
             visible: active
             active: (Config.options?.sidebar?.quickSliders?.showBrightness ?? true) && !!root.brightnessMonitor
             sourceComponent: QuickSlider {
@@ -47,10 +51,8 @@ Rectangle {
         }
 
         Loader {
-            anchors {
-                left: parent.left
-                right: parent.right
-            }
+            Layout.fillWidth: true
+            Layout.fillHeight: true
             visible: active
             active: Config.options?.sidebar?.quickSliders?.showVolume ?? true
             sourceComponent: QuickSlider {
@@ -62,10 +64,8 @@ Rectangle {
         }
 
         Loader {
-            anchors {
-                left: parent.left
-                right: parent.right
-            }
+            Layout.fillWidth: true
+            Layout.fillHeight: true
             visible: active
             active: Config.options?.sidebar?.quickSliders?.showMic ?? false
             sourceComponent: QuickSlider {

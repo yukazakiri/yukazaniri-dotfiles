@@ -6,6 +6,7 @@ import qs.modules.common.functions
 import QtQuick
 import QtQuick.Controls
 import QtQuick.Layouts
+import Qt5Compat.GraphicalEffects
 import Quickshell
 import Quickshell.Io
 import Quickshell.Wayland
@@ -91,13 +92,34 @@ Scope {
                 right: true
             }
 
-            // Background blur for Niri
+            // Background wallpaper with blur (like lock screen)
+            Image {
+                id: backgroundWallpaper
+                anchors.fill: parent
+                source: Config.options?.background?.wallpaperPath ?? ""
+                fillMode: Image.PreserveAspectCrop
+                asynchronous: true
+                
+                readonly property real blurRadius: 64
+                readonly property real blurZoom: 1.1
+                
+                layer.enabled: true
+                layer.effect: FastBlur {
+                    radius: backgroundWallpaper.blurRadius
+                }
+                
+                transform: Scale {
+                    origin.x: backgroundWallpaper.width / 2
+                    origin.y: backgroundWallpaper.height / 2
+                    xScale: backgroundWallpaper.blurZoom
+                    yScale: backgroundWallpaper.blurZoom
+                }
+            }
+            
+            // Dim overlay for better readability
             Rectangle {
                 anchors.fill: parent
-                color: ColorUtils.transparentize(Appearance.m3colors.m3background, 0.5)
-                // If Quickshell supports recursive blur or if we can use a shader, put it here.
-                // For now, relying on compositor blur if rule exists, or just semi-transparent dark background.
-                // Niri specific: layer-rule { blur; } for this namespace "quickshell:session" is needed in config.kdl
+                color: Qt.rgba(0, 0, 0, 0.4)
             }
 
             implicitWidth: root.focusedScreen?.width ?? 0
@@ -281,6 +303,7 @@ Scope {
 
     IpcHandler {
         target: "session"
+        enabled: Config.options?.panelFamily !== "waffle"
 
         function toggle(): void {
             GlobalStates.sessionOpen = !GlobalStates.sessionOpen;

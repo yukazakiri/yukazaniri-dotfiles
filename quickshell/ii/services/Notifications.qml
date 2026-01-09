@@ -18,6 +18,11 @@ import qs.services
  */
 Singleton {
 	id: root
+
+    function _log(...args): void {
+        if (Quickshell.env("QS_DEBUG") === "1") console.log(...args);
+    }
+
     property bool _initialized: false
     component Notif: QtObject {
         id: wrapper
@@ -74,7 +79,7 @@ Singleton {
                 return
             }
             const notifObject = root.list[index];
-            console.log("[Notifications] Timer triggered for ID: " + notificationId + ", transient: " + notifObject.isTransient);
+            root._log("[Notifications] Timer triggered for ID: " + notificationId + ", transient: " + notifObject.isTransient);
             if (notifObject.isTransient) root.discardNotification(notificationId);
             else root.timeoutNotification(notificationId);
             destroy()
@@ -84,21 +89,26 @@ Singleton {
     // Estado de silencio / "No molestar" - synced with config
     property bool silent: false
     
+    function toggleSilent(): void {
+        silent = !silent
+    }
+    
     Connections {
         target: Config
-        function onReadyChanged() {
-            if (Config.ready) {
-                root.silent = Config.options?.notifications?.silent ?? false
-            }
-        }
         function onOptionsChanged() {
-            root.silent = Config.options?.notifications?.silent ?? false
+            const configSilent = Config.options?.notifications?.silent ?? false
+            if (root.silent !== configSilent) {
+                root.silent = configSilent
+            }
         }
     }
     
     onSilentChanged: {
-        if (Config.ready && Config.options?.notifications?.silent !== silent) {
-            Config.setNestedValue("notifications.silent", silent)
+        if (Config.ready) {
+            const configSilent = Config.options?.notifications?.silent ?? false
+            if (configSilent !== silent) {
+                Config.setNestedValue("notifications.silent", silent)
+            }
         }
     }
     property int unread: 0
@@ -115,10 +125,10 @@ Singleton {
     property bool popupInhibited: (GlobalStates?.sidebarRightOpen ?? false) || (GlobalStates?.waffleNotificationCenterOpen ?? false) || silent
     property var latestTimeForApp: ({})
     
-    // Debounce timer for group updates (16ms = 1 frame at 60fps)
+    // Debounce timer for group updates - 100ms is sufficient for responsive UI
     Timer {
         id: groupUpdateTimer
-        interval: 16
+        interval: 100
         onTriggered: root._updateGroups()
     }
     Component {
@@ -423,8 +433,8 @@ Singleton {
         }
 
         if (appIcon && appIcon.length > 0) {
-            const cmd = "gtk-launch \"" + appIcon + "\" || \"" + appIcon + "\"";
-            Quickshell.execDetached(["bash", "-lc", cmd]);
+            const cmd = "/usr/bin/gtk-launch \"" + appIcon + "\" || \"" + appIcon + "\"";
+            Quickshell.execDetached(["/usr/bin/bash", "-lc", cmd]);
         }
     }
 
@@ -487,7 +497,7 @@ Singleton {
         for (let i = 0; i < tests.length; ++i) {
             const t = tests[i];
             Quickshell.execDetached([
-                "notify-send",
+                "/usr/bin/notify-send",
                 "-h", "int:transient:1",
                 "-a", "Quickshell ii",
                 "-i", t.icon,
@@ -515,6 +525,8 @@ Singleton {
 
     Component.onCompleted: {
         // Lazy: load persistent notifications only when a UI needs them.
+        // Initialize silent from config
+        silent = Config.options?.notifications?.silent ?? false
     }
 
     FileView {

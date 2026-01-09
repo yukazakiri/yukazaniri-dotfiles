@@ -1,5 +1,0 @@
-2026-01-05 08:46:49.171 [info] update#setState idle
-2026-01-05 08:47:19.157 [info] update#setState checking for updates
-2026-01-05 08:47:19.242 [info] update#setState idle
-2026-01-05 09:22:48.488 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
-2026-01-05 09:22:49.019 [warning] No ptyHost heartbeat after 6 seconds

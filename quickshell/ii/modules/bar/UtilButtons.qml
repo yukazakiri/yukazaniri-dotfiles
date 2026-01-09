@@ -33,13 +33,13 @@ Item {
             visible: Config.options.bar.utilButtons.showScreenSnip
             sourceComponent: CircleUtilButton {
                 Layout.alignment: Qt.AlignVCenter
-                onClicked: Quickshell.execDetached(["qs", "-c", "ii", "ipc", "call", "region", "screenshot"])
+                onClicked: Quickshell.execDetached(["/usr/bin/qs", "-c", "ii", "ipc", "call", "region", "screenshot"])
                 MaterialSymbol {
                     horizontalAlignment: Qt.AlignHCenter
                     fill: 1
                     text: "screenshot_region"
                     iconSize: Appearance.font.pixelSize.large
-                    color: Appearance.colors.colOnLayer2
+                    color: Appearance.inirEverywhere ? Appearance.inir.colText : Appearance.colors.colOnLayer2
                 }
             }
         }
@@ -55,7 +55,7 @@ Item {
                     fill: 1
                     text: "videocam"
                     iconSize: Appearance.font.pixelSize.large
-                    color: Appearance.colors.colOnLayer2
+                    color: Appearance.inirEverywhere ? Appearance.inir.colText : Appearance.colors.colOnLayer2
                 }
             }
         }
@@ -65,13 +65,13 @@ Item {
             visible: Config.options.bar.utilButtons.showColorPicker
             sourceComponent: CircleUtilButton {
                 Layout.alignment: Qt.AlignVCenter
-                onClicked: Quickshell.execDetached(["hyprpicker", "-a"])
+                onClicked: Quickshell.execDetached(["/usr/bin/hyprpicker", "-a"])
                 MaterialSymbol {
                     horizontalAlignment: Qt.AlignHCenter
                     fill: 1
                     text: "colorize"
                     iconSize: Appearance.font.pixelSize.large
-                    color: Appearance.colors.colOnLayer2
+                    color: Appearance.inirEverywhere ? Appearance.inir.colText : Appearance.colors.colOnLayer2
                 }
             }
         }
@@ -92,7 +92,7 @@ Item {
                     fill: 0
                     text: "edit_note"
                     iconSize: Appearance.font.pixelSize.large
-                    color: Appearance.colors.colOnLayer2
+                    color: Appearance.inirEverywhere ? Appearance.inir.colText : Appearance.colors.colOnLayer2
                 }
             }
         }
@@ -108,7 +108,7 @@ Item {
                     fill: 0
                     text: "keyboard"
                     iconSize: Appearance.font.pixelSize.large
-                    color: Appearance.colors.colOnLayer2
+                    color: Appearance.inirEverywhere ? Appearance.inir.colText : Appearance.colors.colOnLayer2
                 }
             }
         }
@@ -124,7 +124,7 @@ Item {
                 readonly property bool isMuted: Pipewire.defaultAudioSource?.audio?.muted ?? false
                 readonly property bool isInUse: (Privacy.micActive || (Audio?.micBeingAccessed ?? false))
                 
-                onClicked: Quickshell.execDetached(["wpctl", "set-mute", "@DEFAULT_SOURCE@", "toggle"])
+                onClicked: Quickshell.execDetached(["/usr/bin/wpctl", "set-mute", "@DEFAULT_SOURCE@", "toggle"])
                 
                 Item {
                     anchors.fill: parent
@@ -145,7 +145,7 @@ Item {
                         width: 6
                         height: 6
                         radius: 3
-                        color: Appearance.colors.colError
+                        color: Appearance.inirEverywhere ? Appearance.inir.colError : Appearance.colors.colError
                         anchors { top: parent.top; right: parent.right }
                         
                         SequentialAnimation on opacity {
@@ -170,7 +170,7 @@ Item {
                     fill: 1
                     text: "visibility"
                     iconSize: Appearance.font.pixelSize.large
-                    color: Appearance.colors.colError
+                    color: Appearance.inirEverywhere ? Appearance.inir.colError : Appearance.colors.colError
                 }
             }
         }
@@ -192,7 +192,7 @@ Item {
                     fill: 0
                     text: Appearance.m3colors.darkmode ? "light_mode" : "dark_mode"
                     iconSize: Appearance.font.pixelSize.large
-                    color: Appearance.colors.colOnLayer2
+                    color: Appearance.inirEverywhere ? Appearance.inir.colText : Appearance.colors.colOnLayer2
                 }
             }
         }
@@ -225,7 +225,7 @@ Item {
                         case PowerProfile.Performance: return "local_fire_department"
                     }
                     iconSize: Appearance.font.pixelSize.large
-                    color: Appearance.colors.colOnLayer2
+                    color: Appearance.inirEverywhere ? Appearance.inir.colText : Appearance.colors.colOnLayer2
                 }
             }
         }

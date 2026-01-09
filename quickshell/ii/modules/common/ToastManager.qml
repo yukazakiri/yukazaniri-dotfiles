@@ -27,8 +27,7 @@ Scope {
     function shouldShowReloadToast(): bool {
         if (!(Config.options?.reloadToasts?.enable ?? true)) return false
         
-        const disableInGameMode = Config.options?.gameMode?.disableReloadToasts ?? true
-        if (disableInGameMode && (GameMode.active || GameMode.hasAnyFullscreenWindow || GameMode.suppressNiriToast)) {
+        if (GameMode.disableReloadToasts && (GameMode.active || GameMode.hasAnyFullscreenWindow || GameMode.suppressNiriToast)) {
             return false
         }
         

@@ -13,14 +13,14 @@ import qs.modules.common.functions
  * 
  * Strategy:
  * - Capture previews ONLY when TaskView opens
- * - Cache in ~/.cache/ii-niri/window-previews/
+ * - Cache in ~/.cache/inir/window-previews/
  * - Only capture windows that don't have a recent preview
  * - Clean up on window close
  */
 Singleton {
     id: root
 
-    readonly property string previewDir: FileUtils.trimFileProtocol(Directories.genericCache) + "/ii-niri/window-previews"
+    readonly property string previewDir: FileUtils.trimFileProtocol(Directories.genericCache) + "/inir/window-previews"
     
     // Map of windowId -> { path, timestamp }
     property var previewCache: ({})
@@ -135,7 +135,9 @@ Singleton {
         initialCapturesDone = true
         
         // Build command with IDs
-        const cmd = ["/usr/bin/fish", Quickshell.shellPath("scripts/capture-windows.fish")]
+        const cmd = ShellExec.supportsFish()
+            ? ["/usr/bin/fish", Quickshell.shellPath("scripts/capture-windows.fish")]
+            : ["/usr/bin/bash", Quickshell.shellPath("scripts/capture-windows.sh")]
         for (const id of idsToCapture) {
             cmd.push(id.toString())
         }
@@ -159,11 +161,9 @@ Singleton {
         
         const ids = windows.map(w => w.id)
         captureProcess.idsToCapture = ids
-        captureProcess.command = [
-            "/usr/bin/fish",
-            Quickshell.shellPath("scripts/capture-windows.fish"),
-            "--all"
-        ]
+        captureProcess.command = ShellExec.supportsFish()
+            ? ["/usr/bin/fish", Quickshell.shellPath("scripts/capture-windows.fish"), "--all"]
+            : ["/usr/bin/bash", Quickshell.shellPath("scripts/capture-windows.sh"), "--all"]
         captureProcess.running = true
     }
     
@@ -204,9 +204,9 @@ Singleton {
     // Clean up when window closes
     Connections {
         target: NiriService
+        enabled: root.initialized  // Skip event processing until initialized
         
         function onWindowsChanged(): void {
-            if (!root.initialized) return
             cleanupTimer.restart()
         }
     }

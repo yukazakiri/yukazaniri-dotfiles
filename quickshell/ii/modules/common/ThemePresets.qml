@@ -119,7 +119,7 @@ Singleton {
         }
     ]
 
-    // Angel - Signature theme for ii on Niri
+    // Angel - Signature theme for iNiR
     // Celestial twilight aesthetic: warm golden halos against deep cosmic void
     // Inspired by the image: amber eyes, ethereal glow, dark silhouette
     readonly property var angelColors: ({

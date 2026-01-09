@@ -2,7 +2,7 @@
 # Capture screenshots of windows for TaskView
 # Handles cliphist cleanup to prevent screenshot spam
 
-set -l preview_dir ~/.cache/ii-niri/window-previews
+set -l preview_dir ~/.cache/inir/window-previews
 set -l ids_to_capture
 set -l capture_all false
 

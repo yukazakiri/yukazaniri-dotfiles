@@ -396,9 +396,9 @@ Item {
                     delegate: ApiCommandButton {
                         required property var modelData
                         buttonText: modelData.label
-                        colBackground: Appearance.colors.colLayer2
+                        colBackground: Appearance.auroraEverywhere ? "transparent" : Appearance.colors.colLayer2
 
-                        downAction: () => {
+                        onClicked: {
                             Wallhaven.sortingMode = modelData.sorting
                             if (modelData.topRange !== undefined) {
                                 Wallhaven.topRange = modelData.topRange
@@ -460,7 +460,9 @@ Item {
                 }
                 delegate: ApiCommandButton {
                     id: cmdButton
-                    colBackground: commandSuggestions.selectedIndex === index ? Appearance.colors.colSecondaryContainerHover : Appearance.colors.colSecondaryContainer
+                    colBackground: Appearance.auroraEverywhere 
+                        ? (commandSuggestions.selectedIndex === index ? Appearance.aurora.colSubSurface : "transparent")
+                        : (commandSuggestions.selectedIndex === index ? Appearance.colors.colSecondaryContainerHover : Appearance.colors.colSecondaryContainer)
                     bounce: false
                     contentItem: StyledText {
                         font.pixelSize: Appearance.font.pixelSize.small
@@ -514,7 +516,9 @@ Item {
                 }
                 delegate: ApiCommandButton {
                     id: tagButton
-                    colBackground: tagSuggestions.selectedIndex === index ? Appearance.colors.colSecondaryContainerHover : Appearance.colors.colSecondaryContainer
+                    colBackground: Appearance.auroraEverywhere 
+                        ? (tagSuggestions.selectedIndex === index ? Appearance.aurora.colSubSurface : "transparent")
+                        : (tagSuggestions.selectedIndex === index ? Appearance.colors.colSecondaryContainerHover : Appearance.colors.colSecondaryContainer)
                     bounce: false
                     contentItem: RowLayout {
                         anchors.centerIn: parent
@@ -592,7 +596,7 @@ Item {
             property real columnSpacing: 5
             Layout.fillWidth: true
             radius: Appearance.rounding.normal - root.padding
-            color: Appearance.colors.colLayer2
+            color: Appearance.inirEverywhere ? Appearance.inir.colLayer2 : Appearance.auroraEverywhere ? Appearance.aurora.colElevatedSurface : Appearance.colors.colLayer2
             implicitWidth: tagInputField.implicitWidth
             implicitHeight: Math.max(inputFieldRowLayout.implicitHeight + inputFieldRowLayout.anchors.topMargin
                 + commandButtonsRow.implicitHeight + commandButtonsRow.anchors.bottomMargin + columnSpacing, 45)
@@ -819,7 +823,7 @@ Item {
                         delegate: ApiCommandButton {
                             property string commandRepresentation: `${root.commandPrefix}${modelData.name}`
                             buttonText: commandRepresentation
-                            colBackground: Appearance.colors.colLayer2
+                            colBackground: Appearance.auroraEverywhere ? "transparent" : Appearance.colors.colLayer2
 
                             downAction: () => {
                                 if (modelData.sendDirectly) {

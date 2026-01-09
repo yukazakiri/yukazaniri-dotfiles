@@ -27,16 +27,16 @@ WindowDialog {
         Layout.fillWidth: true
         Layout.topMargin: -8
         Layout.bottomMargin: -8
-        Layout.leftMargin: -Appearance.rounding.large
-        Layout.rightMargin: -Appearance.rounding.large
+        Layout.leftMargin: -(Appearance.inirEverywhere ? Appearance.inir.roundingNormal : Appearance.rounding.large)
+        Layout.rightMargin: -(Appearance.inirEverywhere ? Appearance.inir.roundingNormal : Appearance.rounding.large)
     }
     StyledListView {
         Layout.fillHeight: true
         Layout.fillWidth: true
         Layout.topMargin: -15
         Layout.bottomMargin: -16
-        Layout.leftMargin: -Appearance.rounding.large
-        Layout.rightMargin: -Appearance.rounding.large
+        Layout.leftMargin: -(Appearance.inirEverywhere ? Appearance.inir.roundingNormal : Appearance.rounding.large)
+        Layout.rightMargin: -(Appearance.inirEverywhere ? Appearance.inir.roundingNormal : Appearance.rounding.large)
         leftMargin: 8
         rightMargin: 8
         topMargin: 8
@@ -79,7 +79,7 @@ WindowDialog {
             buttonText: Translation.tr("Details")
             onClicked: {
                 const cmd = Config.options?.apps?.bluetooth ?? "blueman-manager"
-                Quickshell.execDetached(["/usr/bin/fish", "-c", cmd]);
+                ShellExec.execCmd(cmd);
                 GlobalStates.sidebarRightOpen = false;
             }
         }

@@ -11,39 +11,127 @@ Singleton {
 
     property var availableThemes: []
     property string currentTheme: ""
+    property string dockTheme: ""  // Separate theme for dock icons
 
     property bool _initialized: false
+    property bool _restartQueued: false
+
+    // Get icon path from dock theme, fallback to system
+    function dockIconPath(iconName: string, fallback: string): string {
+        if (!iconName) return Quickshell.iconPath(fallback || "application-x-executable")
+        if (!root.dockTheme) return Quickshell.iconPath(iconName, fallback || "application-x-executable")
+        
+        const home = Quickshell.env("HOME")
+        const theme = root.dockTheme
+        
+        // Return first candidate path - Image will handle fallback via onStatusChanged
+        // Structure: theme/apps/scalable (YAMIS, etc)
+        return `file://${home}/.local/share/icons/${theme}/apps/scalable/${iconName}.svg`
+    }
+    
+    // Get all candidate paths for dock icon
+    function dockIconCandidates(iconName: string): list<string> {
+        if (!iconName || !root.dockTheme) return []
+        
+        const home = Quickshell.env("HOME")
+        const theme = root.dockTheme
+        
+        return [
+            `file://${home}/.local/share/icons/${theme}/apps/scalable/${iconName}.svg`,
+            `file:///usr/share/icons/${theme}/apps/scalable/${iconName}.svg`,
+            `file://${home}/.local/share/icons/${theme}/scalable/apps/${iconName}.svg`,
+            `file:///usr/share/icons/${theme}/scalable/apps/${iconName}.svg`,
+            `file://${home}/.local/share/icons/${theme}/apps/256x256/${iconName}.png`,
+            `file:///usr/share/icons/${theme}/apps/256x256/${iconName}.png`,
+            `file://${home}/.local/share/icons/${theme}/256x256/apps/${iconName}.png`,
+            `file:///usr/share/icons/${theme}/256x256/apps/${iconName}.png`,
+        ]
+    }
 
     function ensureInitialized(): void {
         if (root._initialized)
             return;
         root._initialized = true;
-        currentThemeProc.running = true
+        
+        listThemesProc.running = false
         listThemesProc.running = true
+        
+        // Load system theme
+        const savedTheme = Config.ready ? (Config.options?.appearance?.iconTheme ?? "") : ""
+        if (savedTheme && String(savedTheme).trim().length > 0) {
+            root.currentTheme = String(savedTheme).trim()
+            console.log("[IconThemeService] Restoring saved icon theme:", root.currentTheme)
+            gsettingsSetProc.themeName = root.currentTheme
+            gsettingsSetProc.skipRestart = true
+            gsettingsSetProc.running = false
+            gsettingsSetProc.running = true
+        } else {
+            currentThemeProc.running = false
+            currentThemeProc.running = true
+        }
+        
+        // Load dock theme
+        root.dockTheme = Config.options?.appearance?.dockIconTheme ?? ""
     }
 
     function setTheme(themeName) {
         if (!themeName || String(themeName).trim().length === 0)
             return;
 
-        gsettingsSetProc.themeName = String(themeName).trim()
+        const themeStr = String(themeName).trim()
+        console.log("[IconThemeService] Setting icon theme:", themeStr)
+
+        // Update UI immediately; actual system change follows via gsettings.
+        root.currentTheme = themeStr
+
+        gsettingsSetProc.themeName = themeStr
+        gsettingsSetProc.skipRestart = false
+        gsettingsSetProc.running = false
         gsettingsSetProc.running = true
+        
+        // Persist to config.json
+        Config.setNestedValue('appearance.iconTheme', themeStr)
+
+        // Ensure config is written before we do any restart.
+        Config.flushWrites()
+    }
+
+    function setDockTheme(themeName: string): void {
+        root.dockTheme = themeName ?? ""
+        Config.setNestedValue('appearance.dockIconTheme', themeName ?? "")
+        Config.flushWrites()
+        root.queueRestart()
     }
 
     Timer {
         id: restartDelay
-        interval: 300
+        interval: 250
         repeat: false
-        onTriggered: Quickshell.execDetached(["qs", "-c", "ii"])
+        onTriggered: {
+            root._restartQueued = false
+            console.log("[IconThemeService] Restarting shell now...")
+            Quickshell.execDetached(["/usr/bin/setsid", "/usr/bin/fish", "-c", "qs kill -c ii; sleep 0.3; qs -c ii"])
+        }
+    }
+
+    function queueRestart(): void {
+        if (root._restartQueued)
+            return;
+        root._restartQueued = true
+        restartDelay.restart()
     }
 
     Process {
         id: gsettingsSetProc
         property string themeName: ""
-        command: ["gsettings", "set", "org.gnome.desktop.interface", "icon-theme", gsettingsSetProc.themeName]
+        property bool skipRestart: false
+        command: ["/usr/bin/gsettings", "set", "org.gnome.desktop.interface", "icon-theme", gsettingsSetProc.themeName]
         onExited: (exitCode, exitStatus) => {
+            console.log("[IconThemeService] gsettings set exited:", exitCode, "theme:", gsettingsSetProc.themeName)
             // Sync to KDE/Qt apps via kdeglobals
             kdeGlobalsUpdateProc.themeName = gsettingsSetProc.themeName
+            kdeGlobalsUpdateProc.skipRestart = gsettingsSetProc.skipRestart
+            kdeGlobalsUpdateProc.running = false
             kdeGlobalsUpdateProc.running = true
         }
     }
@@ -52,6 +140,7 @@ Singleton {
     Process {
         id: kdeGlobalsUpdateProc
         property string themeName: ""
+        property bool skipRestart: false
         command: [
             "/usr/bin/python3",
             "-c",
@@ -80,7 +169,16 @@ with open(config_path, "w") as f:
         onExited: (exitCode, exitStatus) => {
             // Also update plasma icon theme via kwriteconfig if available
             kwriteconfigProc.themeName = kdeGlobalsUpdateProc.themeName
+            kwriteconfigProc.skipRestart = kdeGlobalsUpdateProc.skipRestart
+
+            kwriteconfigProc.running = false
             kwriteconfigProc.running = true
+
+            // Restart shell if user actively changed theme.
+            // Do not depend on kwriteconfig6 succeeding.
+            if (!kdeGlobalsUpdateProc.skipRestart) {
+                root.queueRestart()
+            }
         }
     }
 
@@ -88,6 +186,7 @@ with open(config_path, "w") as f:
     Process {
         id: kwriteconfigProc
         property string themeName: ""
+        property bool skipRestart: false
         command: [
             "/usr/bin/kwriteconfig6",
             "--file", "kdeglobals",
@@ -96,15 +195,13 @@ with open(config_path, "w") as f:
             kwriteconfigProc.themeName
         ]
         onExited: (exitCode, exitStatus) => {
-            // Restart shell
-            Quickshell.execDetached(["qs", "kill", "-c", "ii"])
-            restartDelay.start()
+            console.log("[IconThemeService] kwriteconfig exited:", exitCode, "theme:", kwriteconfigProc.themeName)
         }
     }
 
     Process {
         id: currentThemeProc
-        command: ["gsettings", "get", "org.gnome.desktop.interface", "icon-theme"]
+        command: ["/usr/bin/gsettings", "get", "org.gnome.desktop.interface", "icon-theme"]
         stdout: SplitParser {
             onRead: line => {
                 root.currentTheme = line.trim().replace(/'/g, "")
@@ -115,7 +212,7 @@ with open(config_path, "w") as f:
     Process {
         id: listThemesProc
         command: [
-            "find",
+            "/usr/bin/find",
             "/usr/share/icons",
             `${FileUtils.trimFileProtocol(Directories.home)}/.local/share/icons`,
             "-maxdepth",

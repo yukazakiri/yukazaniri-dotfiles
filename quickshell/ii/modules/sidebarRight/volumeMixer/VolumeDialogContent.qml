@@ -24,9 +24,9 @@ ColumnLayout {
         Layout.topMargin: 8
         implicitHeight: 48
         
-        colBackground: Appearance.colors.colLayer2
-        colBackgroundHover: Appearance.colors.colLayer2Hover
-        colRipple: Appearance.colors.colLayer2Active
+        colBackground: Appearance.auroraEverywhere ? "transparent" : Appearance.colors.colLayer2
+        colBackgroundHover: Appearance.auroraEverywhere ? Appearance.aurora.colSubSurface : Appearance.colors.colLayer2Hover
+        colRipple: Appearance.auroraEverywhere ? Appearance.aurora.colSubSurfaceActive : Appearance.colors.colLayer2Active
         buttonRadius: Appearance.rounding.normal
 
         contentItem: RowLayout {
@@ -69,10 +69,10 @@ ColumnLayout {
         padding: 8
 
         background: Rectangle {
-            color: Appearance.colors.colLayer2
+            color: Appearance.auroraEverywhere ? Appearance.aurora.colPopupSurface : Appearance.colors.colLayer2
             radius: Appearance.rounding.normal
             border.width: 1
-            border.color: Appearance.colors.colOutlineVariant
+            border.color: Appearance.auroraEverywhere ? Appearance.aurora.colTooltipBorder : Appearance.colors.colOutlineVariant
         }
 
         ListView {

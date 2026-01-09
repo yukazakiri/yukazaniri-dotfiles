@@ -1,0 +1,15 @@
+/Antigravity
+/chromium
+/Code
+/Github Desktop
+/ModrinthApp
+/Spotify
+/cache
+/Cache
+/.cache
+/.local
+/node_modules
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

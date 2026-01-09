@@ -4,7 +4,11 @@
     "002-backdrop-layer-rules",
     "003-qt-theming-kde",
     "004-audio-keybinds-ipc",
-    "006-close-confirm"
+    "005-dolphin-xdg-menu",
+    "006-close-confirm",
+    "007-brightness-keybinds",
+    "008-media-keybinds",
+    "009-quickshell-dbus-properties-logspam"
   ],
   "skipped": []
 }

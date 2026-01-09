@@ -6,8 +6,7 @@
     "window.commandCenter": false,
     "chat.commandCenter.enabled": false
 ,
-  "material-code.primaryColor": "#2569BA",
-  "workbench.colorTheme": "Catppuccin Noctis Latte",
+  "material-code.primaryColor": "#8A4D54",
   "catppuccin-noctis-icons.hidesExplorerArrows": false,
   "git.enableSmartCommit": true,
   "git.autofetch": true

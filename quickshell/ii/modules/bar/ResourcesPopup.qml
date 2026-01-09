@@ -5,21 +5,11 @@ import QtQuick
 import QtQuick.Layouts
 
 StyledPopup {
-    id: root
+    id: popup
 
     onActiveChanged: {
-        if (root.active)
+        if (popup.active)
             ResourceUsage.ensureRunning()
-    }
-
-    // Helper function to format KB to GB
-    function formatKB(kb) {
-        return (kb / (1024 * 1024)).toFixed(1) + " GB";
-    }
-
-    // Helper function to format temperature
-    function formatTemp(temp) {
-        return temp + "°C"
     }
 
     component ResourceItem: RowLayout {
@@ -77,6 +67,14 @@ StyledPopup {
         anchors.centerIn: parent
         spacing: 12
 
+        // Helper functions inline
+        function formatKB(kb) {
+            return (kb / (1024 * 1024)).toFixed(1) + " GB";
+        }
+        function formatTemp(temp) {
+            return temp + "°C"
+        }
+
         Column {
             anchors.top: parent.top
             spacing: 8
@@ -90,17 +88,17 @@ StyledPopup {
                 ResourceItem {
                     icon: "clock_loader_60"
                     label: Translation.tr("Used:")
-                    value: root.formatKB(ResourceUsage.memoryUsed)
+                    value: (ResourceUsage.memoryUsed / (1024 * 1024)).toFixed(1) + " GB"
                 }
                 ResourceItem {
                     icon: "check_circle"
                     label: Translation.tr("Free:")
-                    value: root.formatKB(ResourceUsage.memoryFree)
+                    value: (ResourceUsage.memoryFree / (1024 * 1024)).toFixed(1) + " GB"
                 }
                 ResourceItem {
                     icon: "empty_dashboard"
                     label: Translation.tr("Total:")
-                    value: root.formatKB(ResourceUsage.memoryTotal)
+                    value: (ResourceUsage.memoryTotal / (1024 * 1024)).toFixed(1) + " GB"
                 }
             }
         }
@@ -118,12 +116,12 @@ StyledPopup {
                 ResourceItem {
                     icon: "memory"
                     label: "CPU:"
-                    value: root.formatTemp(ResourceUsage.cpuTemp)
+                    value: ResourceUsage.cpuTemp + "°C"
                 }
                 ResourceItem {
                     icon: "videocam"
                     label: "GPU:"
-                    value: root.formatTemp(ResourceUsage.gpuTemp)
+                    value: ResourceUsage.gpuTemp + "°C"
                 }
             }
         }

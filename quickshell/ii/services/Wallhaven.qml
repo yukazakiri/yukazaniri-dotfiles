@@ -28,16 +28,18 @@ QtObject {
 
     // Wallhaven rate limiting (HTTP 429) can trigger easily when paging quickly.
     // Keep a simple cooldown to prevent request spam and make UI behavior predictable.
-    property int nowMs: 0
-    property int rateLimitedUntilMs: 0
+    property real nowMs: Date.now()
+    property real rateLimitedUntilMs: 0
     readonly property bool isRateLimited: nowMs < rateLimitedUntilMs
 
     readonly property bool _active: (Config.options?.sidebar?.wallhaven?.enable ?? true) && (GlobalStates?.sidebarLeftOpen ?? false)
 
+    // Clock timer only runs when the service is active (sidebar open)
+    // This prevents unnecessary CPU cycles when Wallhaven is not visible
     property Timer wallhavenClock: Timer {
         interval: 500
         repeat: true
-        running: true
+        running: root._active
         onTriggered: root.nowMs = Date.now()
     }
 
@@ -48,8 +50,8 @@ QtObject {
     // Throttling
     property int minSearchIntervalMs: 1200
     property int minTagIntervalMs: 1200
-    property int _nextSearchAllowedMs: 0
-    property int _nextTagAllowedMs: 0
+    property real _nextSearchAllowedMs: 0
+    property real _nextTagAllowedMs: 0
 
     // Pending search request (coalesced)
     property var pendingSearch: null
